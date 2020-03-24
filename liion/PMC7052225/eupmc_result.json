@@ -1,0 +1,310 @@
+{
+  "id": [
+    "32123203"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32123203"
+  ],
+  "pmcid": [
+    "PMC7052225"
+  ],
+  "doi": [
+    "10.1038/s41598-020-60633-y"
+  ],
+  "title": [
+    "Toward Low-Cost All-Organic and Biodegradable Li-Ion Batteries."
+  ],
+  "authorString": [
+    "Delaporte N, Lajoie G, Collin-Martin S, Zaghib K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Delaporte N"
+          ],
+          "firstName": [
+            "N"
+          ],
+          "lastName": [
+            "Delaporte"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Hydro-Québec, Center of Excellence in Transportation Electrification and Energy Storage, Varennes, Québec, J0L 1N0, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Lajoie G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Lajoie"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Hydro-Québec, Center of Excellence in Transportation Electrification and Energy Storage, Varennes, Québec, J0L 1N0, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Collin-Martin S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Collin-Martin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Hydro-Québec, Center of Excellence in Transportation Electrification and Energy Storage, Varennes, Québec, J0L 1N0, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Zaghib K"
+          ],
+          "firstName": [
+            "K"
+          ],
+          "lastName": [
+            "Zaghib"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Hydro-Québec, Center of Excellence in Transportation Electrification and Energy Storage, Varennes, Québec, J0L 1N0, Canada. zaghib.karim@hydro.qc.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2917977"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "3812"
+  ],
+  "abstractText": [
+    "This work presents an alternative method for fabricating Li-ion electrodes in which the use of aluminum/copper current collectors and expensive binders is avoided. Low-cost natural cellulose fibers with a 2-mm length are employed as binder and support for the electrode. The objective of this method is to eliminate the use of heavy and inactive current collector foils as substrates and to replace conventional costly binders with cellulose fibers. Moreover, no harmful solvents, such as N-methylpyrrolidone, are employed for film fabrication. Water-soluble carbons are also utilized to reduce the preparation time and to achieve a better repartition of carbon in the electrode, thus improving the electrochemical performance. Flexible and resistant LiFePO4 (LFP), Li4Ti5O12 (LTO), organic 3,4,9,10-perylenetetracarboxylic dianhydride (PTCDA), and graphite electrodes are obtained with active mass loadings similar to those obtained by the current casting method. The initial discharge capacity of approximately 130 mAh·g-1 at 2 C is obtained for an LFP/LTO paper battery with an approximately 91.6% capacity retention after 1000 cycles. An all-organic prelithiated PTCDA/graphite cell without a transition metal is prepared and electrochemically tested. It is one of the first self-standing batteries that is composed of organic redox active molecules and biodegradable components reported in literature."
+  ],
+  "affiliation": [
+    "Hydro-Québec, Center of Excellence in Transportation Electrification and Energy Storage, Varennes, Québec, J0L 1N0, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-60633-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7052225"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7052225?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-04"
+  ],
+  "firstIndexDate": [
+    "2020-03-04"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-09"
+  ],
+  "dateOfRevision": [
+    "2020-03-08"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-02"
+  ],
+  "firstPublicationDate": [
+    "2020-03-02"
+  ]
+}

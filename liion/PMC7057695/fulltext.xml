@@ -1,0 +1,406 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7057695</article-id><article-id pub-id-type="doi">10.1021/acsomega.9b03794</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Entropy Change Characteristics of the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> Cathode Material for Lithium-Ion Batteries</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><name><surname>Mao</surname><given-names>Jing</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Zhang</surname><given-names>Peng</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Liu</surname><given-names>Xin</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Liu</surname><given-names>Yanxia</given-names></name><xref rid="aff3" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Shao</surname><given-names>Guosheng</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><name><surname>Dai</surname><given-names>Kehua</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x000a7;</xref></contrib><aff id="aff1"><label>&#x02020;</label>School
+of Materials Science and Engineering, <institution>Zhengzhou
+University</institution>, Zhengzhou 450001, <country>China</country></aff><aff id="aff3"><label>&#x02021;</label><institution>Zhengzhou
+Institute of Emerging Industrial Technology</institution>, Zhengzhou 450001, <country>China</country></aff><aff id="aff2"><label>&#x000a7;</label>College
+of Chemistry, <institution>Tianjin Normal University</institution>, Tianjin 300387, <country>China</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>maojing@zzu.edu.cn</email> (J.M.).</corresp><corresp id="cor2"><label>*</label>E-mail: <email>daikehua@gmail.com</email> (K.D.).</corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>02</month><year>2020</year></pub-date><pub-date pub-type="collection"><day>03</day><month>03</month><year>2020</year></pub-date><volume>5</volume><issue>8</issue><fpage>4109</fpage><lpage>4114</lpage><history><date date-type="received"><day>07</day><month>11</month><year>2019</year></date><date date-type="accepted"><day>31</day><month>01</month><year>2020</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2020 American Chemical
+Society</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03794_0007" id="ab-tgr1"/></p><p>Lithium-ion batteries are widely
+used in the field of new energy
+vehicles and energy storage. Understanding the electrode reaction
+of lithium-ion batteries is the key to improve their cycle life and
+safety. Direct measurement of thermodynamic data of the electrode
+reaction is a practical, economical, and nondestructive method for
+electrode characterization. In this paper, the open-circuit voltage
+of the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li half-cell
+is measured at different discharge states and different temperatures.
+The d<italic>E</italic>/d<italic>T</italic>&#x02013;SOD (state of discharge)
+relation curves are fitted linearly by the least square method, and
+the entropy change values of different SODs are calculated. Finally,
+the Gibbs free energy and enthalpy change of different SODs are obtained.
+The electrode reaction of LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> in different SODs was discussed by the entropy change in
+different SODs. According to the evolution trend of &#x00394;<italic>S</italic>, the lithium intercalation reaction of LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> may be a single-phase solid solution
+reaction rather than a two-phase reaction. Finally, the reversible
+heat generation at different current values and SODs are calculated.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao9b03794</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao9b03794</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Lithium-ion batteries are widely used in
+the field of new energy
+vehicles and energy storage.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> The cycle life and safety
+of lithium-ion batteries are the most concerned issues.<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref5">5</xref></sup> In order to improve the cycle life, it is necessary to understand
+the mechanism of the electrode reaction and decay.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> For
+safety concerns, one of the important issues is improving the battery
+design.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> The design improvement requires
+better understanding of the heat generation behavior of batteries
+in charging and discharging, which is determined by the characteristics
+of the electrode material itself.<sup><xref ref-type="bibr" rid="ref9">9</xref>&#x02212;<xref ref-type="bibr" rid="ref11">11</xref></sup></p><p>Currently, many
+in situ characterization methods are used to understand
+the electrode reaction and decay mechanism of lithium-ion batteries.<sup><xref ref-type="bibr" rid="ref12">12</xref>&#x02212;<xref ref-type="bibr" rid="ref16">16</xref></sup> However, these characterization methods often need to be combined
+with specially designed cell models and electrode materials with special
+morphology, which is not convenient in many cases. Therefore, direct
+measurement of the thermodynamic data of the electrode reaction is
+a practical and economic means of electrode characterization, which
+is often ignored by material researchers.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> The measurement of electrode reaction and thermodynamic parameters
+is carried out in the half-cell or the full-cell. The whole measurement
+process has a little disturbance to the battery, so it can be considered
+to be a nondestructive in situ battery detection method. In other
+words, commercial lithium-ion batteries can be detected in situ without
+damage. In addition, thermodynamic characterization can be used not
+only to characterize the thermal properties of various electrode materials
+but also to characterize the structural changes and electrode reactions
+in the process of charging and discharging.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> It is a powerful method to study the cycle life and safety of batteries.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup></p><p>The three most important thermodynamic parameters of the electrode
+reaction are Gibbs free energy <italic>G</italic>, entropy <italic>S</italic>, and enthalpy <italic>H</italic>. The change in Gibbs
+free energy &#x00394;<italic>G</italic> is the maximum work of the battery.
+The change in lattice order is characterized by the change in entropy
+&#x00394;<italic>S</italic>. The enthalpy change &#x00394;<italic>H</italic> is the reaction heat of the electrochemical reaction. These three
+parameters can be measured by electrochemical tests and <xref rid="eq1" ref-type="disp-formula">eqs <xref rid="eq1" ref-type="disp-formula">1</xref></xref>&#x02013;<xref rid="eq3" ref-type="disp-formula">3</xref><sup><xref ref-type="bibr" rid="ref20">20</xref></sup><disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03794_m001" position="anchor"/><label>1</label></disp-formula><disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03794_m002" position="anchor"/><label>2</label></disp-formula><disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03794_m003" position="anchor"/><label>3</label></disp-formula>where <italic>n</italic> is the number of
+electrons transfer per formula, <italic>F</italic> is the Faraday
+constant, <italic>E</italic> is the standard electromotive force [also
+known as open-circuit potential (OCV)] of the battery reaction, <italic>T</italic> is the temperature, and <italic>P</italic> is the pressure.</p><p>Item (&#x02202;<italic>E</italic>/&#x02202;<italic>T</italic>)<sub><italic>P</italic></sub>, here referred to d<italic>E</italic>/d<italic>T</italic>, is determined by measuring the OCV of the electrochemical
+cell at different temperatures. Ideally, the cell needs to be relaxed
+for a period of time before the open-circuit voltage is measured to
+reach equilibrium. The entropy change in the electrochemical reaction
+can be obtained by measuring the change in open-circuit voltage at
+different temperatures and calculated using <xref rid="eq2" ref-type="disp-formula">eq <xref rid="eq2" ref-type="disp-formula">2</xref></xref>.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> The increase
+or decrease in entropy means the decrease or increase in the degree
+of order of the lithium ion in the lattice, respectively. More importantly,
+the entropy change can also affect the thermal behavior of electrochemical
+reaction and then change the temperature of the battery, which greatly
+affects the performance of lithium-ion batteries.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup></p><p>The total heat generation of the Li-ion battery can
+be calculated
+using <xref rid="eq4" ref-type="disp-formula">eq <xref rid="eq4" ref-type="disp-formula">4</xref></xref>(<xref ref-type="bibr" rid="ref22">22</xref>)<disp-formula id="eq4"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03794_m004" position="anchor"/><label>4</label></disp-formula>where <italic>I</italic> is the current value
+(the discharge current is determined to be negative here), <italic>R</italic><sub>i</sub> is the internal resistance of the battery,
+and &#x00394;<italic>S</italic> is the entropy change. Negative <italic>Q</italic> means exothermic reaction in which heat is transferred
+from the battery. On the contrary, positive <italic>Q</italic> indicates
+an endothermic reaction. <italic>Q</italic><sub>irreversible</sub> is always negative and only related to current and internal resistance.
+The positivity and negativity of <italic>Q</italic><sub>reversible</sub> depend on the symbol of &#x00394;<italic>S</italic> and current.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> The sum of <italic>Q</italic><sub>irreversible</sub> and <italic>Q</italic><sub>reversible</sub> determines the symbol
+and size of <italic>Q</italic><sub>total</sub>, that is, the total
+amount of heat generated by the battery. For example, when &#x00394;<italic>S</italic> is negative and <italic>I</italic> is negative in the
+discharge process, &#x02212;<italic>I</italic><sup>2</sup><italic>R</italic><sub>i</sub> and &#x02212;<italic>T</italic>&#x00394;<italic>SI</italic>/<italic>nF</italic> are both negative values and <italic>Q</italic><sub>total</sub> is negative. In the charging process, <italic>I</italic> is positive, so &#x02212;<italic>T</italic>&#x00394;<italic>SI</italic>/<italic>nF</italic> is positive and &#x02212;<italic>I</italic><sup>2</sup><italic>R</italic><sub>i</sub> is negative; thus, the positive
+and negative symbols of <italic>Q</italic><sub>total</sub> are determined
+by the larger absolute values of the two items.</p><p>In the process
+of charging and discharging, the concentration of
+the lithium ion in the solid phase of the electrode material is dynamic.
+According to <xref rid="eq2" ref-type="disp-formula">eq <xref rid="eq2" ref-type="disp-formula">2</xref></xref>, &#x00394;<italic>S</italic> is a state function independent of the process, that is
+to say, it is not affected by the charging and discharging process
+and only changes with the concentration of the lithium ion. The relationship
+between them can be expressed by the entropy change curve. Currently,
+the entropy curves of many electrode materials and full-cells have
+been reported, including Li<sub><italic>x</italic></sub>TiS<sub>2</sub>,<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> LiMn<sub>2</sub>O<sub>4</sub>,<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> LiCoO<sub>2</sub>,<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> Li<sub><italic>x</italic></sub>V<sub>2</sub>O<sub>5</sub>,<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> graphite,<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> and so
+forth. With these basic physical chemistry parameters, people can
+build a more accurate thermoelectric-coupled modeling,<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> so as to realize the accurate prediction and
+simulation of the electrochemical performance and thermal behavior
+of lithium-ion batteries.<sup><xref ref-type="bibr" rid="ref29">29</xref>&#x02212;<xref ref-type="bibr" rid="ref32">32</xref></sup></p><p>LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> is a typical high-voltage
+cathode material with a voltage plateau as high as 4.7 V.<sup><xref ref-type="bibr" rid="ref33">33</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> This material has a three-dimensional lithium-ion diffusion path
+and an excellent intrinsic rate performance.<sup><xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup> In addition, it has been found that there may be a two-phase coexistence
+region and phase transition region in the voltage plateau, which can
+be attributed to the change in the degree of order caused by the rearrangement
+of Ni and Mn transition metals in the sublattice.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> However, in full-cell applications, it has been found that
+the battery capacity decays faster than the commercial standard.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> The capacity fading may be due to (1) the increase
+in interface impedance caused by the oxidation and decomposition of
+an electrolyte; (2) the loss of the active material caused by the
+dissolution of the transition metal. In addition, the stress caused
+by the crystal phase transformation during the lithium removal from
+the positive electrode may also cause capacity decay.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> The electrochemical thermodynamic parameters are very sensitive
+to the phase transition, which is helpful to analyze the crystal phase
+transition when the cathode is deintercalated with lithium and to
+clarify the mechanism of smooth phase transition by doping element
+modification. As of now, there is no report available on the entropy
+change in LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>. In this
+paper, we study the entropy change characteristics of LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li half-cell in different states of
+discharge (SODs).</p></sec><sec id="sec2"><label>2</label><title>Results and Discussion</title><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a shows
+the voltage profile of the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li half-cell from the third to tenth cycle in the precycle
+stage at 0.1 C. It can be seen that after 10 cycles of precycling,
+the interface of the electrode is gradually stable. In particular,
+the discharge curve of the 4.7 V plateau is highly coincident, which
+indicates that the battery is stable, and the next step of thermodynamic
+parameter measurements can be carried out. It can be seen from the
+figure that the discharge capacity of the 4.7 V high-voltage plateau
+is about 115 mA h g<sup>&#x02013;1</sup>, accounting for 80% of the
+total discharge capacity, which is also the focus of this paper (compared
+with a 4 V slope stage).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Precycling voltage profiles from the third
+to tenth cycle;
+(b) voltage profiles before and after the OCV test for the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li half-cell at 0.1 C, 20
+&#x000b0;C.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03794_0001" id="gr1" position="float"/></fig><p>The SOD may change slightly after
+the OCV test. Thus, if the cell
+is discharged to the next specific capacity point directly, the actual
+SOD may be different with the targeted point. In addition, the SOD
+cannot be adjusted by potential because of the very flat plateau before
+80% SOD, which leads to a big capacity change with a small potential
+change, and an unacceptable SOD error. To obtain accurate SODs, the
+cell is fully charged and discharged to target SOD after every OCV
+tests. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b shows
+the charge&#x02013;discharge curve of LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li half-cell before and after the OCV test. The curve
+basically coincides with each other, indicating that the battery and
+the electrode material structure are both stable in the whole test
+process. This suggests that the above test procedure is meaningful.
+The open-circuit voltage and temperature curves measured at steady
+state reflect the intrinsic thermodynamic characteristics of LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>.</p><p><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a&#x02013;c
+shows the open-circuit voltage versus time curves measured at 60,
+50, and 20% SOD, respectively. Although the open-circuit voltage fluctuates
+slightly at the same temperature, the change in trend can be seen.
+As the temperature increases along 0, 10, 20, and 30 &#x000b0;C, the
+open-circuit voltage decreases in turn. The open-circuit voltage at
+the same temperature is taken as the middle value of the stable stage,
+and the obtained temperature versus open-circuit voltage curve (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d) meets the linear
+fitting condition, so (&#x02202;<italic>E</italic>/&#x02202;<italic>T</italic>)<sub><italic>P</italic></sub> can be obtained, and then,
+&#x00394;<italic>S</italic> can be obtained according to <xref rid="eq2" ref-type="disp-formula">eq <xref rid="eq2" ref-type="disp-formula">2</xref></xref>.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Potentiometric measurement (OCV vs time)
+for the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li half-cell.
+(a) 60% SOD; (b) 50%
+SOD; and (c) 20% SOD. (d) Corresponding linear fitting (OCV vs temperature)
+at 50% SOD.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03794_0002" id="gr2" position="float"/></fig><p><xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref> summarizes
+the open-circuit voltage, d<italic>E</italic>/d<italic>T</italic>,
+&#x00394;<italic>S</italic>, &#x00394;<italic>G</italic>, and &#x00394;<italic>H</italic> values of the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li half-cell for different SODs at 20 &#x000b0;C. <xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref> and <xref rid="fig4" ref-type="fig">4</xref> show the open-circuit voltage curve and &#x00394;<italic>S</italic> curve of the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li
+half-cell for different SODs at 20 &#x000b0;C. It can be seen from <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref> and <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> that the &#x00394;<italic>S</italic> value for 0&#x02013;10% SOD (high-voltage lithium-deficient phase)
+is almost the same. It can be inferred that it conforms to the characteristics
+of first-order two-phase transformation, which is often accompanied
+by large volume change, resulting in large internal stress, particle
+fracture, and deterioration of cycle performance. In the range of
+10&#x02013;40% SOD, &#x00394;<italic>S</italic> shows a slope change,
+which indicates that the reaction in this region is closer to the
+single-phase reaction of a solid solution rather than the two-phase
+reaction. The 40&#x02013;60% SOD region is a transition region, indicating
+that there are new phases in the region, which is a multiphase coexistence
+region. In the 60&#x02013;80% SOD range, &#x00394;<italic>S</italic> also
+shows a slope change, indicating that the region is closer to the
+reaction mechanism of a single-phase solid solution. The OCV in the
+80&#x02013;100% SOD range is always unstable during measurement, and
+the calculation error of the mean value is large. However, it can
+also be seen qualitatively that the absolute value of &#x00394;<italic>S</italic> in this area is large, and the volume changes greatly
+along with a huge amount of change in heat; therefore, this area corresponds
+to the Mn<sup>4+</sup> &#x02192; Mn<sup>3+</sup> redox couple, rather
+than Ni<sup>2+</sup> &#x02192; Ni<sup>3+</sup> &#x02192; Ni<sup>4+</sup> redox. It has been reported that the lithium intercalation reaction
+is a two-phase reaction in LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>, corresponding to the two-half plateau high-voltage regions.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> In this paper, the intercalation is more like
+a single-phase solid solution reaction based on the evolution trend
+of &#x00394;<italic>S</italic>.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> The reason
+of the discrete conclusion with the previous report needs to be studied
+more in the future. One possible reason may be the content of Mn<sup>3+</sup> in the samples, as it is reported that the increase in the
+degree of disorder by doping can make the &#x00394;<italic>S</italic> get inclined to the slope.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup></p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Open-circuit
+voltage vs SOD for the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li half-cell at 20 &#x000b0;C.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03794_0003" id="gr3" position="float"/></fig><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Entropy-SOD
+curve of the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li half-cell.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03794_0004" id="gr4" position="float"/></fig><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Summary of Data for the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li Half-Cell at Different SODs at 20
+&#x000b0;C</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">SOD (%)</th><th style="border:none;" align="center" char=".">OCV/20&#x000a0;&#x000b0;C</th><th style="border:none;" align="center" char=".">d<italic>E</italic>/d<italic>T</italic>/mV&#x000a0;K<sup>&#x02013;1</sup></th><th style="border:none;" align="center" char=".">&#x00394;<italic>S</italic>/J&#x000a0;K<sup>&#x02013;1</sup>&#x000a0;mol<sup>&#x02013;1</sup></th><th style="border:none;" align="center" char=".">&#x00394;<italic>G</italic>/kJ&#x000a0;mol<sup>&#x02013;1</sup></th><th style="border:none;" align="center" char=".">&#x00394;<italic>H</italic>/kJ&#x000a0;mol<sup>&#x02013;1</sup></th></tr></thead><tbody><tr><td style="border:none;" align="left">0</td><td style="border:none;" align="char" char=".">4.7336</td><td style="border:none;" align="char" char=".">&#x02013;0.06</td><td style="border:none;" align="char" char=".">&#x02013;6</td><td style="border:none;" align="char" char=".">&#x02013;456.79</td><td style="border:none;" align="char" char=".">&#x02013;458.548</td></tr><tr><td style="border:none;" align="left">10</td><td style="border:none;" align="char" char=".">4.7309</td><td style="border:none;" align="char" char=".">&#x02013;0.061</td><td style="border:none;" align="char" char=".">&#x02013;5.9</td><td style="border:none;" align="char" char=".">&#x02013;456.53</td><td style="border:none;" align="char" char=".">&#x02013;458.258</td></tr><tr><td style="border:none;" align="left">20</td><td style="border:none;" align="char" char=".">4.7251</td><td style="border:none;" align="char" char=".">&#x02013;0.095</td><td style="border:none;" align="char" char=".">&#x02013;9.2</td><td style="border:none;" align="char" char=".">&#x02013;455.97</td><td style="border:none;" align="char" char=".">&#x02013;458.665</td></tr><tr><td style="border:none;" align="left">30</td><td style="border:none;" align="char" char=".">4.7248</td><td style="border:none;" align="char" char=".">&#x02013;0.123</td><td style="border:none;" align="char" char=".">&#x02013;11.8</td><td style="border:none;" align="char" char=".">&#x02013;455.94</td><td style="border:none;" align="char" char=".">&#x02013;459.397</td></tr><tr><td style="border:none;" align="left">40</td><td style="border:none;" align="char" char=".">4.7184</td><td style="border:none;" align="char" char=".">&#x02013;0.324</td><td style="border:none;" align="char" char=".">&#x02013;31.2</td><td style="border:none;" align="char" char=".">&#x02013;455.32</td><td style="border:none;" align="char" char=".">&#x02013;464.461</td></tr><tr><td style="border:none;" align="left">50</td><td style="border:none;" align="char" char=".">4.6806</td><td style="border:none;" align="char" char=".">&#x02013;0.178</td><td style="border:none;" align="char" char=".">&#x02013;17.2</td><td style="border:none;" align="char" char=".">&#x02013;451.67</td><td style="border:none;" align="char" char=".">&#x02013;456.709</td></tr><tr><td style="border:none;" align="left">60</td><td style="border:none;" align="char" char=".">4.6742</td><td style="border:none;" align="char" char=".">&#x02013;0.168</td><td style="border:none;" align="char" char=".">&#x02013;16.2</td><td style="border:none;" align="char" char=".">&#x02013;451.06</td><td style="border:none;" align="char" char=".">&#x02013;455.806</td></tr><tr><td style="border:none;" align="left">70</td><td style="border:none;" align="char" char=".">4.6681</td><td style="border:none;" align="char" char=".">&#x02013;0.191</td><td style="border:none;" align="char" char=".">&#x02013;18.4</td><td style="border:none;" align="char" char=".">&#x02013;450.47</td><td style="border:none;" align="char" char=".">&#x02013;455.861</td></tr><tr><td style="border:none;" align="left">80</td><td style="border:none;" align="char" char=".">4.6589</td><td style="border:none;" align="char" char=".">&#x02013;0.249</td><td style="border:none;" align="char" char=".">&#x02013;24</td><td style="border:none;" align="char" char=".">&#x02013;449.58</td><td style="border:none;" align="char" char=".">&#x02013;456.612</td></tr><tr><td style="border:none;" align="left">85</td><td style="border:none;" align="char" char=".">4.4763</td><td style="border:none;" align="char" char=".">&#x02013;2.788</td><td style="border:none;" align="char" char=".">&#x02013;269</td><td style="border:none;" align="char" char=".">&#x02013;431.96</td><td style="border:none;" align="char" char=".">&#x02013;510.777</td></tr><tr><td style="border:none;" align="left">90</td><td style="border:none;" align="char" char=".">4.1264</td><td style="border:none;" align="char" char=".">&#x02013;1.297</td><td style="border:none;" align="char" char=".">&#x02013;125</td><td style="border:none;" align="char" char=".">&#x02013;398.19</td><td style="border:none;" align="char" char=".">&#x02013;434.815</td></tr><tr><td style="border:none;" align="left">100</td><td style="border:none;" align="char" char=".">3.7273</td><td style="border:none;" align="char" char=".">&#x02013;0.954</td><td style="border:none;" align="char" char=".">&#x02013;92</td><td style="border:none;" align="char" char=".">&#x02013;359.68</td><td style="border:none;" align="char" char=".">&#x02013;386.636</td></tr></tbody></table></table-wrap><p>Using open-circuit
+voltage data and <xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref>, the value of &#x00394;<italic>G</italic> under
+different SODs can be calculated, and then through <xref rid="eq3" ref-type="disp-formula">eq <xref rid="eq3" ref-type="disp-formula">3</xref></xref>, the value of &#x00394;<italic>H</italic> can be obtained. <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref> shows &#x00394;<italic>G</italic> (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a) and &#x00394;<italic>H</italic> (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b) versus SOD curves
+of the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li half-cell.
+The value of &#x00394;<italic>H</italic> corresponds to the heat released
+by the electrochemical reaction of the battery. It is of great significance
+to study the heat generation and temperature change in the process
+of battery charging and discharging and then to carry out thermoelectric-coupled
+simulation and predictive management of the battery system.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup></p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>(a) &#x00394;<italic>G</italic> and (b) &#x00394;<italic>H</italic> vs SOD curves of the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li half-cell.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03794_0005" id="gr5" position="float"/></fig><p>The reversible heat generation
+is calculated using <xref rid="eq4" ref-type="disp-formula">eq <xref rid="eq4" ref-type="disp-formula">4</xref></xref>, as shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>. Because &#x00394;<italic>S</italic> is always
+negative at all SODs, and <italic>I</italic> is negative in the discharge
+process, &#x02212;<italic>T</italic>&#x00394;<italic>S</italic><italic>I</italic>/<italic>nF</italic> is negative, exhibiting the heating
+effect. In the charging process, <italic>I</italic> is positive, so
+&#x02212;<italic>T</italic>&#x00394;<italic>S</italic><italic>I</italic>/<italic>nF</italic> is positive, exhibiting the cooling effect.
+The heating or cooling effect is rather strong from 80 to 90% SOD,
+for the absolute value of &#x00394;<italic>S</italic> is large, and
+the structure changes severely in this range.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Reversible heat generation
+at different current values and SODs.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03794_0006" id="gr6" position="float"/></fig></sec><sec id="sec3"><label>3</label><title>Conclusions</title><p>In this paper, the open-circuit voltage
+of the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>/Li half-cell
+at different discharge
+states and different temperatures is measured. As temperature increases,
+the open-circuit voltage decreases linearly in turn. The d<italic>E</italic>/d<italic>T</italic>&#x02013;SOD relation curves are fitted
+by the least square method, and the entropy change values of different
+SODs are calculated based on the fitted values. The &#x00394;<italic>S</italic> values do not change much in 0% to 80% SOD but change
+dramatically when the SOD is over 80%. Further, the Gibbs free energy
+and enthalpy change in different SODs are obtained. The electrode
+reaction of LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> was discussed
+by the entropy change in different SODs. According to the evolution
+trend of &#x00394;<italic>S</italic>, the lithium intercalation reaction
+of LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> may be a single-phase
+solid solution reaction rather than a two-phase reaction. In this
+system, the reversible heat generation shows cooling and heating effect
+in the charging and discharging process, respectively.</p></sec><sec id="sec4"><label>4</label><title>Methods</title><sec id="sec4.1"><label>4.1</label><title>Material Preparation</title><p>A LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> material was prepared by a PVP gel
+combustion method. The detailed procedure can be found in our previous
+report.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup></p></sec><sec id="sec4.2"><label>4.2</label><title>Electrode
+Preparation and Battery Assembly</title><p>The LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>, an NMP solution
+in polyvinylidene fluoride, and conductive carbon black (super C)
+were mixed evenly according to a mass ratio of 8:1:1, doctor-bladed
+on aluminum foil, predried at 60 &#x000b0;C, transferred to a vacuum
+drying oven, and then dried overnight at 120 &#x000b0;C. The dry electrode
+pieces are punched into a circular electrode with a diameter of 12
+mm, and the thickness is 15 &#x003bc;m. The CR2025 half-cells were fabricated
+with the LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> cathode,
+lithium foil anode, 1 mol L<sup>&#x02013;1</sup> LiPF<sub>6</sub> in
+1:1 EC/DEC as the electrolyte, and Celgard 2400 as the separator in
+an argon-filled glovebox.</p></sec><sec id="sec4.3"><label>4.3</label><title>Electrochemical Test</title><p>The charge and
+discharge performance and open-circuit voltage of different SODs were
+examined by a LANHE CT2001A battery tester. The temperature is controlled
+by a programmable temperature-controlled incubator. Because the volume
+of the battery is very small compared with the incubator, we use the
+incubator temperature to represent the battery temperature. The SOD
+was adjusted by discharging at 0.1 C.</p><p>The test process consists
+of the following steps:<list id="list1" list-type="simple"><list-item><label>a</label><p>Precycle: cycle at 20 &#x000b0;C, 0.03
+C rate, voltage range 3.5&#x02013;4.95 V for 10 cycles, and read battery
+capacity information after battery charging and discharging cycle
+curve is stable.</p></list-item><list-item><label>b</label><p>Full
+charging: charge to 4.95 V at a
+constant current of 0.1 C, set as 100% state of charge, that is, 0%
+SOD.</p></list-item><list-item><label>c</label><p>OCV test: first,
+balance the battery
+at 20 &#x000b0;C for 20 h and record the open-circuit voltage. Then,
+repeat the process at 0, 10, 20, 30, and 20 &#x000b0;C for 2 h at each
+step.</p></list-item><list-item><label>d</label><p>Adjusting SOD:
+charge the cell fully
+and then discharge at 0.1 C to the target SOD in one step.</p></list-item></list></p></sec></sec></body><back><notes notes-type="COI-statement" id="NOTES-d7e1497-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work was financially supported by the National
+Natural Science Foundation of China (51604244), Postdoctoral research
+grant in Henan province (001802003), and Science and Technology on
+Reliability Physics and Application of Electronic Component Laboratory
+open fund (ZHD201605).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Whittingham</surname><given-names>M. S.</given-names></name>
+<article-title>Lithium
+batteries and cathode materials</article-title>. <source>Chem. Rev.</source>
+<year>2004</year>, <volume>104</volume>, <fpage>4271</fpage>&#x02013;<lpage>4302</lpage>. <pub-id pub-id-type="doi">10.1021/cr020731c</pub-id>.<pub-id pub-id-type="pmid">15669156</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Lu</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Amine</surname><given-names>K.</given-names></name>
+<article-title>30 years of lithium-ion batteries</article-title>. <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <fpage>1800561</fpage><pub-id pub-id-type="doi">10.1002/adma.201800561</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Goodenough</surname><given-names>J. B.</given-names></name>; <name><surname>Kim</surname><given-names>Y.</given-names></name>
+<article-title>Challenges for rechargeable
+li batteries</article-title>. <source>Chem.
+Mater.</source>
+<year>2010</year>, <volume>22</volume>, <fpage>587</fpage>&#x02013;<lpage>603</lpage>. <pub-id pub-id-type="doi">10.1021/cm901452z</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Tarascon</surname><given-names>J.-M.</given-names></name>; <name><surname>Armand</surname><given-names>M.</given-names></name>
+<article-title>Issues and challenges
+facing rechargeable lithium batteries</article-title>. <source>Nature</source>
+<year>2001</year>, <volume>414</volume>, <fpage>359</fpage>&#x02013;<lpage>367</lpage>. <pub-id pub-id-type="doi">10.1038/35104644</pub-id>.<pub-id pub-id-type="pmid">11713543</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Kong</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Jiang</surname><given-names>J.</given-names></name>; <name><surname>Pecht</surname><given-names>M.</given-names></name>
+<article-title>Li-ion battery fire hazards and safety
+strategies</article-title>. <source>Energies</source>
+<year>2018</year>, <volume>11</volume>, <fpage>2191</fpage><pub-id pub-id-type="doi">10.3390/en11092191</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Wu</surname><given-names>Q.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Johnson</surname><given-names>C. S.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Dees</surname><given-names>D. W.</given-names></name>; <name><surname>Lu</surname><given-names>W.</given-names></name>
+<article-title>Insight into
+the structural evolution of a high-voltage spinel for lithium-ion
+batteries</article-title>. <source>Chem. Mater.</source>
+<year>2014</year>, <volume>26</volume>, <fpage>4750</fpage>&#x02013;<lpage>4756</lpage>. <pub-id pub-id-type="doi">10.1021/cm5015288</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Ruan</surname><given-names>Y.</given-names></name>; <name><surname>Song</surname><given-names>X.</given-names></name>; <name><surname>Fu</surname><given-names>Y.</given-names></name>; <name><surname>Song</surname><given-names>C.</given-names></name>; <name><surname>Battaglia</surname><given-names>V.</given-names></name>
+<article-title>Structural
+evolution and capacity degradation mechanism of LiNi<sub>0.&#x000a0;6</sub>Mn<sub>0.&#x000a0;2</sub>Co<sub>0.&#x000a0;2</sub>O<sub>2</sub> cathode
+materials</article-title>. <source>J. Power Sources</source>
+<year>2018</year>, <volume>400</volume>, <fpage>539</fpage>&#x02013;<lpage>548</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2018.08.056</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Shui</surname><given-names>L.</given-names></name>; <name><surname>Chen</surname><given-names>F.</given-names></name>; <name><surname>Garg</surname><given-names>A.</given-names></name>; <name><surname>Peng</surname><given-names>X.</given-names></name>; <name><surname>Bao</surname><given-names>N.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>
+<article-title>Design optimization
+of battery pack enclosure for electric vehicle</article-title>. <source>Struct. Multidiscip. Optim.</source>
+<year>2018</year>, <volume>58</volume>, <fpage>331</fpage>&#x02013;<lpage>347</lpage>. <pub-id pub-id-type="doi">10.1007/s00158-018-1901-y</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Wang</surname><given-names>S.</given-names></name>
+<article-title>Entropy and
+heat generation of lithium cells/batteries</article-title>. <source>Chin. Phys. B</source>
+<year>2016</year>, <volume>25</volume>, <fpage>010509</fpage><pub-id pub-id-type="doi">10.1088/1674-1056/25/1/010509</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Assat</surname><given-names>G.</given-names></name>; <name><surname>Glazier</surname><given-names>S. L.</given-names></name>; <name><surname>Delacourt</surname><given-names>C.</given-names></name>; <name><surname>Tarascon</surname><given-names>J.-M.</given-names></name>
+<article-title>Probing the thermal
+effects of voltage hysteresis in anionic redox-based lithium-rich
+cathodes using isothermal calorimetry</article-title>. <source>Nat.
+Energy</source>
+<year>2019</year>, <volume>4</volume>, <fpage>647</fpage>&#x02013;<lpage>656</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-019-0410-6</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Liu</surname><given-names>K.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Lin</surname><given-names>D.</given-names></name>; <name><surname>Pei</surname><given-names>A.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Materials for lithium-ion
+battery safety</article-title>. <source>Sci. Adv.</source>
+<year>2018</year>, <volume>4</volume>, <elocation-id>eaas9820</elocation-id><pub-id pub-id-type="doi">10.1126/sciadv.aas9820</pub-id>.<pub-id pub-id-type="pmid">29942858</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Bauer</surname><given-names>S.</given-names></name>; <name><surname>Biasi</surname><given-names>L. d.</given-names></name>; <name><surname>Glatthaar</surname><given-names>S.</given-names></name>; <name><surname>Toukam</surname><given-names>L.</given-names></name>; <name><surname>Gesswein</surname><given-names>H.</given-names></name>; <name><surname>Baumbach</surname><given-names>T.</given-names></name>
+<article-title>In operando study of the high voltage spinel cathode
+material LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> using two
+dimensional full-field spectroscopic imaging of ni and mn</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2015</year>, <volume>17</volume>, <fpage>16388</fpage>&#x02013;<lpage>16397</lpage>. <pub-id pub-id-type="doi">10.1039/c5cp02075a</pub-id>.<pub-id pub-id-type="pmid">26051380</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Qiao</surname><given-names>R.</given-names></name>; <name><surname>Wray</surname><given-names>L. A.</given-names></name>; <name><surname>Kim</surname><given-names>J.-H.</given-names></name>; <name><surname>Pieczonka</surname><given-names>N. P. W.</given-names></name>; <name><surname>Harris</surname><given-names>S. J.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>
+<article-title>Direct experimental
+probe of the
+Ni(II)/Ni(III)/Ni(IV) redox evolution in LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> electrodes</article-title>. <source>J. Phys.
+Chem. C</source>
+<year>2015</year>, <volume>119</volume>, <fpage>27228</fpage>&#x02013;<lpage>27233</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.5b07479</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Ramdon</surname><given-names>S.</given-names></name>; <name><surname>Bhushan</surname><given-names>B.</given-names></name>; <name><surname>Nagpure</surname><given-names>S. C.</given-names></name>
+<article-title>In situ
+electrochemical studies of
+lithium-ion battery cathodes using atomic force microscopy</article-title>. <source>J. Power Sources</source>
+<year>2014</year>, <volume>249</volume>, <fpage>373</fpage>&#x02013;<lpage>384</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2013.10.099</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Dai</surname><given-names>K.</given-names></name>; <name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Zhuo</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>Q.</given-names></name>; <name><surname>Sallis</surname><given-names>S.</given-names></name>; <name><surname>Mao</surname><given-names>J.</given-names></name>; <name><surname>Ai</surname><given-names>G.</given-names></name>; <name><surname>Sun</surname><given-names>C.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Gent</surname><given-names>W. E.</given-names></name>; <name><surname>Chueh</surname><given-names>W. C.</given-names></name>; <name><surname>Chuang</surname><given-names>Y.-d.</given-names></name>; <name><surname>Zeng</surname><given-names>R.</given-names></name>; <name><surname>Shen</surname><given-names>Z.-x.</given-names></name>; <name><surname>Pan</surname><given-names>F.</given-names></name>; <name><surname>Yan</surname><given-names>S.</given-names></name>; <name><surname>Piper</surname><given-names>L. F. J.</given-names></name>; <name><surname>Hussain</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>
+<article-title>High reversibility
+of lattice oxygen redox quantified by direct bulk probes of both anionic
+and cationic redox reactions</article-title>. <source>Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>518</fpage>&#x02013;<lpage>541</lpage>. <pub-id pub-id-type="doi">10.1016/j.joule.2018.11.014</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Qiao</surname><given-names>R.</given-names></name>; <name><surname>Dai</surname><given-names>K.</given-names></name>; <name><surname>Mao</surname><given-names>J.</given-names></name>; <name><surname>Weng</surname><given-names>T.-C.</given-names></name>; <name><surname>Sokaras</surname><given-names>D.</given-names></name>; <name><surname>Nordlund</surname><given-names>D.</given-names></name>; <name><surname>Song</surname><given-names>X.</given-names></name>; <name><surname>Battaglia</surname><given-names>V. S.</given-names></name>; <name><surname>Hussain</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>
+<article-title>Revealing and suppressing
+surface Mn(II) formation of Na<sub>0.44</sub>MnO<sub>2</sub> electrodes
+for na-ion batteries</article-title>. <source>Nano Energy</source>
+<year>2015</year>, <volume>16</volume>, <fpage>186</fpage>&#x02013;<lpage>195</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2015.06.024</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Thomas</surname><given-names>K. E.</given-names></name>; <name><surname>Bogatu</surname><given-names>C.</given-names></name>; <name><surname>Newman</surname><given-names>J.</given-names></name>
+<article-title>Measurement of the
+entropy of reaction
+as a function of state of charge in doped and undoped lithium manganese
+oxide</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2001</year>, <volume>148</volume>, <fpage>A570</fpage>&#x02013;<lpage>A575</lpage>. <pub-id pub-id-type="doi">10.1149/1.1369365</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Yazami</surname><given-names>R.</given-names></name>; <name><surname>Reynier</surname><given-names>Y.</given-names></name>; <name><surname>Fultz</surname><given-names>B.</given-names></name>
+<article-title>Entropymetry of lithium intercalation
+in spinel manganese oxide: Effect of lithium stoichiometry</article-title>. <source>ECS Trans.</source>
+<year>2006</year>, <volume>1</volume>, <fpage>87</fpage>&#x02013;<lpage>96</lpage>. <pub-id pub-id-type="doi">10.1149/1.2209361</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Deng</surname><given-names>J.</given-names></name>; <name><surname>Bae</surname><given-names>C.</given-names></name>; <name><surname>Marcicki</surname><given-names>J.</given-names></name>; <name><surname>Masias</surname><given-names>A.</given-names></name>; <name><surname>Miller</surname><given-names>T.</given-names></name>
+<article-title>Safety modelling and
+testing of lithium-ion batteries in electrified vehicles</article-title>. <source>Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>261</fpage>&#x02013;<lpage>266</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-018-0122-3</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Jalkanen</surname><given-names>K.</given-names></name>; <name><surname>Vuorilehto</surname><given-names>K.</given-names></name>
+<article-title>Entropy change
+characteristics of LiMn<sub>0.67</sub>Fe<sub>0.33</sub>PO<sub>4</sub> and Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> electrode materials</article-title>. <source>J. Power Sources</source>
+<year>2015</year>, <volume>273</volume>, <fpage>351</fpage>&#x02013;<lpage>359</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.09.091</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Doh</surname><given-names>C.-H.</given-names></name>; <name><surname>Ha</surname><given-names>Y.-C.</given-names></name>; <name><surname>Eom</surname><given-names>S.-w.</given-names></name>
+<article-title>Entropy
+measurement of a large format
+lithium ion battery and its application to calculate heat generation</article-title>. <source>Electrochim. Acta</source>
+<year>2019</year>, <volume>309</volume>, <fpage>382</fpage>&#x02013;<lpage>391</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2019.04.026</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Shi</surname><given-names>W.</given-names></name>; <name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Xiao</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Polzin</surname><given-names>B. J.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>
+<article-title>The effect of entropy
+and enthalpy changes on the thermal
+behavior of li-mn-rich layered composite cathode materials</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2016</year>, <volume>163</volume>, <fpage>A571</fpage>&#x02013;<lpage>A577</lpage>. <pub-id pub-id-type="doi">10.1149/2.0031605jes</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Xie</surname><given-names>Y.</given-names></name>; <name><surname>Shi</surname><given-names>S.</given-names></name>; <name><surname>Tang</surname><given-names>J.</given-names></name>; <name><surname>Wu</surname><given-names>H.</given-names></name>; <name><surname>Yu</surname><given-names>J.</given-names></name>
+<article-title>Experimental and analytical
+study on heat generation characteristics of a lithium-ion power battery</article-title>. <source>Int. J. Heat Mass Tran.</source>
+<year>2018</year>, <volume>122</volume>, <fpage>884</fpage>&#x02013;<lpage>894</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijheatmasstransfer.2018.02.038</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Honders</surname><given-names>A.</given-names></name>; <name><surname>Derkinderen</surname><given-names>J.</given-names></name>; <name><surname>Vanheeren</surname><given-names>A.</given-names></name>; <name><surname>Dewit</surname><given-names>J.</given-names></name>; <name><surname>Broers</surname><given-names>G.</given-names></name>
+<article-title>The thermodynamic
+and thermoelectric properties of Li<sub>x</sub>TiS<sub>2</sub> and
+Li<sub>x</sub>CoO<sub>2</sub></article-title>. <source>Solid State Ionics</source>
+<year>1984</year>, <volume>14</volume>, <fpage>205</fpage>&#x02013;<lpage>216</lpage>. <pub-id pub-id-type="doi">10.1016/0167-2738(84)90100-0</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Kobayashi</surname><given-names>Y.</given-names></name>; <name><surname>Mita</surname><given-names>Y.</given-names></name>; <name><surname>Seki</surname><given-names>S.</given-names></name>; <name><surname>Ohno</surname><given-names>Y.</given-names></name>; <name><surname>Miyashiro</surname><given-names>H.</given-names></name>; <name><surname>Nakayama</surname><given-names>M.</given-names></name>; <name><surname>Wakihara</surname><given-names>M.</given-names></name>
+<article-title>Configurational
+entropy of lithium
+manganese oxide and related materials, LiCr<sub>y</sub>Mn<sub>2-y</sub>O<sub>4</sub> (y=0, 0.3)</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2008</year>, <volume>155</volume>, <fpage>A14</fpage>&#x02013;<lpage>A19</lpage>. <pub-id pub-id-type="doi">10.1149/1.2799069</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Baddour</surname><given-names>R.</given-names></name>; <name><surname>Pereira-Ramos</surname><given-names>J. P.</given-names></name>; <name><surname>Messina</surname><given-names>R.</given-names></name>; <name><surname>Perichon</surname><given-names>J.</given-names></name>
+<article-title>A thermodynamic, structural
+and kinetic study of the electrochemical lithium intercalation into
+the xerogel V<sub>2</sub>O<sub>5</sub>&#x000b7;1.6H<sub>2</sub>O in a
+propylene</article-title>. <source>J. Electroanal. Chem.</source>
+<year>1991</year>, <volume>314</volume>, <fpage>81</fpage>&#x02013;<lpage>101</lpage>. <pub-id pub-id-type="doi">10.1016/0022-0728(91)85430-w</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Jalkanen</surname><given-names>K.</given-names></name>; <name><surname>Aho</surname><given-names>T.</given-names></name>; <name><surname>Vuorilehto</surname><given-names>K.</given-names></name>
+<article-title>Entropy change
+effects on the thermal behavior of a
+LiFePO<sub>4</sub>/graphite lithium-ion cell at different states of
+charge</article-title>. <source>J. Power Sources</source>
+<year>2013</year>, <volume>243</volume>, <fpage>354</fpage>&#x02013;<lpage>360</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2013.05.199</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Tang</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>L.</given-names></name>; <name><surname>Wei</surname><given-names>W.</given-names></name>; <name><surname>Wen</surname><given-names>D.</given-names></name>; <name><surname>Guo</surname><given-names>Q.</given-names></name>; <name><surname>Liang</surname><given-names>W.</given-names></name>; <name><surname>Xiao</surname><given-names>L.</given-names></name>
+<article-title>Study of the thermal
+properties during the cyclic process of lithium
+ion power batteries using the electrochemical-thermal coupling model</article-title>. <source>Appl. Therm. Eng.</source>
+<year>2018</year>, <volume>137</volume>, <fpage>11</fpage>&#x02013;<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1016/j.applthermaleng.2018.03.067</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Mao</surname><given-names>J.</given-names></name>; <name><surname>Tiedemann</surname><given-names>W.</given-names></name>; <name><surname>Newman</surname><given-names>J.</given-names></name>
+<article-title>Simulation of temperature rise in
+li-ion cells at very high currents</article-title>. <source>J. Power
+Sources</source>
+<year>2014</year>, <volume>271</volume>, <fpage>444</fpage>&#x02013;<lpage>454</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.08.033</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Pals</surname><given-names>C. R.</given-names></name>; <name><surname>Newman</surname><given-names>J.</given-names></name>
+<article-title>Thermal modeling of
+the lithium/polymer battery i.
+Discharge behavior of a single cell</article-title>. <source>J. Electrochem.
+Soc.</source>
+<year>1995</year>, <volume>142</volume>, <fpage>3274</fpage>&#x02013;<lpage>3281</lpage>. <pub-id pub-id-type="doi">10.1149/1.2049974</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Zhu</surname><given-names>J.</given-names></name>; <name><surname>Wierzbicki</surname><given-names>T.</given-names></name>; <name><surname>Li</surname><given-names>W.</given-names></name>
+<article-title>A review of safety-focused mechanical
+modeling of commercial lithium-ion batteries</article-title>. <source>J. Power Sources</source>
+<year>2018</year>, <volume>378</volume>, <fpage>153</fpage>&#x02013;<lpage>168</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2017.12.034</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Yang</surname><given-names>X.-G.</given-names></name>; <name><surname>Liu</surname><given-names>T.</given-names></name>; <name><surname>Gao</surname><given-names>Y.</given-names></name>; <name><surname>Ge</surname><given-names>S.</given-names></name>; <name><surname>Leng</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>D.</given-names></name>; <name><surname>Wang</surname><given-names>C.-Y.</given-names></name>
+<article-title>Asymmetric temperature
+modulation for extreme fast
+charging of lithium-ion batteries</article-title>. <source>Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>3002</fpage><pub-id pub-id-type="doi">10.1016/j.joule.2019.09.021</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Julien</surname><given-names>C. M.</given-names></name>; <name><surname>Mauger</surname><given-names>A.</given-names></name>
+<article-title>Review of 5-v electrodes for li-ion
+batteries: Status
+and trends</article-title>. <source>Ionics</source>
+<year>2013</year>, <volume>19</volume>, <fpage>951</fpage>&#x02013;<lpage>988</lpage>. <pub-id pub-id-type="doi">10.1007/s11581-013-0913-2</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Dong</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Tang</surname><given-names>P.</given-names></name>; <name><surname>Xiao</surname><given-names>X.</given-names></name>; <name><surname>Ma</surname><given-names>M.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Yin</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>D.</given-names></name>; <name><surname>Yang</surname><given-names>S.</given-names></name>
+<article-title>Improved high
+temperature performance of a spinel LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> cathode for high-voltage lithium-ion batteries by surface
+modification of a flexible conductive nanolayer</article-title>. <source>ACS Omega</source>
+<year>2019</year>, <volume>4</volume>, <fpage>185</fpage>&#x02013;<lpage>194</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.8b02571</pub-id>.<pub-id pub-id-type="pmid">31459322</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Mao</surname><given-names>J.</given-names></name>; <name><surname>Dai</surname><given-names>K.</given-names></name>; <name><surname>Xuan</surname><given-names>M.</given-names></name>; <name><surname>Shao</surname><given-names>G.</given-names></name>; <name><surname>Qiao</surname><given-names>R.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Battaglia</surname><given-names>V. S.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>
+<article-title>Effect of chromium and niobium doping
+on the morphology and electrochemical performance of high-voltage
+spinel lini0.5mn1.5o4 cathode material</article-title>. <source>ACS
+Appl. Mater. Interfaces</source>
+<year>2016</year>, <volume>8</volume>, <fpage>9116</fpage>&#x02013;<lpage>9124</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.6b00877</pub-id>.<pub-id pub-id-type="pmid">27008976</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Mao</surname><given-names>J.</given-names></name>; <name><surname>Ma</surname><given-names>M.</given-names></name>; <name><surname>Liu</surname><given-names>P.</given-names></name>; <name><surname>Hu</surname><given-names>J.</given-names></name>; <name><surname>Shao</surname><given-names>G.</given-names></name>; <name><surname>Battaglia</surname><given-names>V.</given-names></name>; <name><surname>Dai</surname><given-names>K.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>
+<article-title>The effect of cobalt doping on the morphology and electrochemical
+performance of high-voltage spinel lini0.5mn1.5o4 cathode material</article-title>. <source>Solid State Ionics</source>
+<year>2016</year>, <volume>292</volume>, <fpage>70</fpage>&#x02013;<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2016.05.008</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Komatsu</surname><given-names>H.</given-names></name>; <name><surname>Arai</surname><given-names>H.</given-names></name>; <name><surname>Koyama</surname><given-names>Y.</given-names></name>; <name><surname>Sato</surname><given-names>K.</given-names></name>; <name><surname>Kato</surname><given-names>T.</given-names></name>; <name><surname>Yoshida</surname><given-names>R.</given-names></name>; <name><surname>Murayama</surname><given-names>H.</given-names></name>; <name><surname>Takahashi</surname><given-names>I.</given-names></name>; <name><surname>Orikasa</surname><given-names>Y.</given-names></name>; <name><surname>Fukuda</surname><given-names>K.</given-names></name>; <name><surname>Hirayama</surname><given-names>T.</given-names></name>; <name><surname>Ikuhara</surname><given-names>Y.</given-names></name>; <name><surname>Ukyo</surname><given-names>Y.</given-names></name>; <name><surname>Uchimoto</surname><given-names>Y.</given-names></name>; <name><surname>Ogumi</surname><given-names>Z.</given-names></name>
+<article-title>Solid solution
+domains
+at phase transition front of Li<sub>x</sub>Ni<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub></article-title>. <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>1500638</fpage><pub-id pub-id-type="doi">10.1002/aenm.201500638</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Manthiram</surname><given-names>A.</given-names></name>; <name><surname>Chemelewski</surname><given-names>K.</given-names></name>; <name><surname>Lee</surname><given-names>E.-S.</given-names></name>
+<article-title>A perspective on the high-voltage
+LiMn<sub>1.5</sub>Ni<sub>0.5</sub>O<sub>4</sub> spinel cathode for
+lithium-ion batteries</article-title>. <source>Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>1339</fpage><pub-id pub-id-type="doi">10.1039/c3ee42981d</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Ma</surname><given-names>J.</given-names></name>; <name><surname>Hu</surname><given-names>P.</given-names></name>; <name><surname>Cui</surname><given-names>G.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>
+<article-title>Surface and interface issues in spinel
+LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub>: Insights into a potential
+cathode material for high energy density lithium ion batteries</article-title>. <source>Chem. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>3578</fpage>&#x02013;<lpage>3606</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.6b00948</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Zhang</surname><given-names>X.-F.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Patel</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>T.</given-names></name>; <name><surname>Liu</surname><given-names>W.-M.</given-names></name>; <name><surname>Chen</surname><given-names>M.</given-names></name>; <name><surname>Offer</surname><given-names>G. J.</given-names></name>; <name><surname>Yan</surname><given-names>Y.</given-names></name>
+<article-title>Potentiometric measurement
+of entropy change for lithium batteries</article-title>. <source>Phys.
+Chem. Chem. Phys.</source>
+<year>2017</year>, <volume>19</volume>, <fpage>9833</fpage>&#x02013;<lpage>9842</lpage>. <pub-id pub-id-type="doi">10.1039/c6cp08505a</pub-id>.<pub-id pub-id-type="pmid">28280804</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Duncan</surname><given-names>H.</given-names></name>; <name><surname>Hai</surname><given-names>B.</given-names></name>; <name><surname>Leskes</surname><given-names>M.</given-names></name>; <name><surname>Grey</surname><given-names>C. P.</given-names></name>; <name><surname>Chen</surname><given-names>G.</given-names></name>
+<article-title>Relationships between
+Mn<sup>3+</sup> content, structural ordering, phase transformation,
+and kinetic properties in LiNi<sub>x</sub>Mn<sub>2-x</sub>O<sub>4</sub> cathode materials</article-title>. <source>Chem. Mater.</source>
+<year>2014</year>, <volume>26</volume>, <fpage>5374</fpage>&#x02013;<lpage>5382</lpage>. <pub-id pub-id-type="doi">10.1021/cm502607v</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Mao</surname><given-names>J.</given-names></name>; <name><surname>Dai</surname><given-names>K.</given-names></name>; <name><surname>Zhai</surname><given-names>Y.</given-names></name>
+<article-title>Electrochemical studies of spinel LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> cathodes with different particle morphologies</article-title>. <source>Electrochim. Acta</source>
+<year>2012</year>, <volume>63</volume>, <fpage>381</fpage>&#x02013;<lpage>390</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2011.12.129</pub-id>.</mixed-citation></ref></ref-list></back></article>

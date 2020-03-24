@@ -1,0 +1,305 @@
+{
+  "id": [
+    "31459180"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31459180"
+  ],
+  "pmcid": [
+    "PMC6645412"
+  ],
+  "doi": [
+    "10.1021/acsomega.8b01539"
+  ],
+  "title": [
+    "Liquid-like Poly(ionic liquid) as Electrolyte for Thermally Stable Lithium-Ion Battery."
+  ],
+  "authorString": [
+    "Zhang Z, Zhang Y, Du B, Peng Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang Z"
+          ],
+          "firstName": [
+            "Zhijun"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "MOE Key Laboratory of Macromolecular Synthesis and Functionalization, Department of Polymer Science & Engineering, Zhejiang University, Hangzhou 310027, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yelong"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun 130022, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Du B"
+          ],
+          "firstName": [
+            "Binyang"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "MOE Key Laboratory of Macromolecular Synthesis and Functionalization, Department of Polymer Science & Engineering, Zhejiang University, Hangzhou 310027, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Peng Z"
+          ],
+          "firstName": [
+            "Zhangquan"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun 130022, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2748-2869",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2735068"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "10564-10571"
+  ],
+  "abstractText": [
+    "A liquid-like poly(ionic liquid) (PIL) with a very low glass transition temperature of -51 °C and a thermal decomposition temperature of 202.7 °C was synthesized. A PIL-based electrolyte by mixing this poly(ionic liquid) with additives of 10 wt % propylene carbonate and 0.1 M LiClO4 is proved to be an excellent electrolyte for lithium-ion battery. The obtained PIL-based electrolyte exhibits a high ionic conductivity of 8.3 × 10-5 S cm-1 at 25 °C and 2.0 × 10-4 S cm-1 at 60 °C and a wide electrochemical potential window up to 5.61 V at 25 °C and 4.14 V at 60 °C. The Li/LiFePO4 batteries equipped with this PIL-based electrolyte achieve high capacity, outstanding cycling stability and rate capability at 25 °C, and even improved performance at high temperature like 60 °C. Such excellent performances of batteries are attributed to the formation of stable solid-electrolyte interface film at the lithium-electrolyte interface and the stability of electrolyte during cycling."
+  ],
+  "affiliation": [
+    "MOE Key Laboratory of Macromolecular Synthesis and Functionalization, Department of Polymer Science & Engineering, Zhejiang University, Hangzhou 310027, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.8b01539"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6645412"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6645412?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-29"
+  ],
+  "firstIndexDate": [
+    "2019-08-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-29"
+  ],
+  "dateOfRevision": [
+    "2019-08-30"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-05"
+  ],
+  "firstPublicationDate": [
+    "2018-09-05"
+  ]
+}

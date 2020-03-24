@@ -1,0 +1,368 @@
+{
+  "id": [
+    "27026069"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27026069"
+  ],
+  "pmcid": [
+    "PMC4812302"
+  ],
+  "doi": [
+    "10.1038/srep23585"
+  ],
+  "title": [
+    "Boosting the power performance of multilayer graphene as lithium-ion battery anode via unconventional doping with in-situ formed Fe nanoparticles."
+  ],
+  "authorString": [
+    "Raccichini R, Varzi A, Chakravadhanula VS, Kübel C, Passerini S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Raccichini R"
+          ],
+          "firstName": [
+            "Rinaldo"
+          ],
+          "lastName": [
+            "Raccichini"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1507-2739",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Helmholtz Institute Ulm (HIU), Helmholtzstrasse 11, 89081 Ulm, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Varzi A"
+          ],
+          "firstName": [
+            "Alberto"
+          ],
+          "lastName": [
+            "Varzi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Helmholtz Institute Ulm (HIU), Helmholtzstrasse 11, 89081 Ulm, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Chakravadhanula VS"
+          ],
+          "firstName": [
+            "Venkata Sai Kiran"
+          ],
+          "lastName": [
+            "Chakravadhanula"
+          ],
+          "initials": [
+            "VS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7413-1199",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Helmholtz Institute Ulm (HIU), Helmholtzstrasse 11, 89081 Ulm, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kübel C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Kübel"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Helmholtz Institute Ulm (HIU), Helmholtzstrasse 11, 89081 Ulm, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Passerini S"
+          ],
+          "firstName": [
+            "Stefano"
+          ],
+          "lastName": [
+            "Passerini"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Helmholtz Institute Ulm (HIU), Helmholtzstrasse 11, 89081 Ulm, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1507-2739",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7413-1199",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5701-4006",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2460807"
+      ],
+      "dateOfPublication": [
+        "2016 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "23585"
+  ],
+  "abstractText": [
+    "Graphene is extensively investigated and promoted as a viable replacement for graphite, the state-of-the-art material for lithium-ion battery (LIB) anodes, although no clear evidence is available about improvements in terms of cycling stability, delithiation voltage and volumetric capacity. Here we report the microwave-assisted synthesis of a novel graphene-based material in ionic liquid (i.e., carved multilayer graphene with nested Fe3O4 nanoparticles), together with its extensive characterization via several physical and chemical techniques. When such a composite material is used as LIB anode, the carved paths traced by the Fe3O4 nanoparticles, and the unconverted metallic iron formed in-situ upon the 1(st) lithiation, result in enhanced rate capability and, especially at high specific currents (i.e., 5 A g(-1)), remarkable cycling stability (99% of specific capacity retention after 180 cycles), low average delithiation voltage (0.244 V) and a substantially increased volumetric capacity with respect to commercial graphite (58.8 Ah L(-1) vs. 9.6 Ah L(-1))."
+  ],
+  "affiliation": [
+    "Helmholtz Institute Ulm (HIU), Helmholtzstrasse 11, 89081 Ulm, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep23585"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4812302"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4812302?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-10-20"
+  ],
+  "dateOfCreation": [
+    "2016-03-31"
+  ],
+  "firstIndexDate": [
+    "2016-03-31"
+  ],
+  "fullTextReceivedDate": [
+    "2016-04-06"
+  ],
+  "dateOfRevision": [
+    "2019-01-10"
+  ],
+  "electronicPublicationDate": [
+    "2016-03-30"
+  ],
+  "firstPublicationDate": [
+    "2016-03-30"
+  ]
+}

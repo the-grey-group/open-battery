@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC4872260/results/search/country/results.xml">
+  <result pre="[1], Graduate School of Human and Environmental Studies, Kyoto University" exact="Japan" post="[2], Office of Society-Academia Collaboration for Innovation, Kyoto University"/>
+  <result pre="Japan [2], Office of Society-Academia Collaboration for Innovation, Kyoto University" exact="Japan" post="[3], Department of Applied Chemistry, Ritsumeikan University Japan [4],"/>
+  <result pre="Kyoto University Japan [3], Department of Applied Chemistry, Ritsumeikan University" exact="Japan" post="[4], Research Organization of Science and Engineering, Ritsumeikan University"/>
+  <result pre="Japan [4], Research Organization of Science and Engineering, Ritsumeikan University" exact="Japan" post="[5], National Institute of Advanced Industrial Science and Technology"/>
+  <result pre="Japan [5], National Institute of Advanced Industrial Science and Technology" exact="Japan" post="[6], KRI Inc. Japan a orikasa@fc.ritsumei.ac.jp b uchimoto.yoshiharu.2n@kyoto-u.ac.jp epub:"/>
+  <result pre="of Advanced Industrial Science and Technology Japan [6], KRI Inc." exact="Japan" post="a orikasa@fc.ritsumei.ac.jp b uchimoto.yoshiharu.2n@kyoto-u.ac.jp epub: 2016-05-05 collection: 2016 6"/>
+ </snippets>
+</snippetsTree>

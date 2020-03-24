@@ -1,0 +1,331 @@
+{
+  "id": [
+    "26061390"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26061390"
+  ],
+  "pmcid": [
+    "PMC4462153"
+  ],
+  "doi": [
+    "10.1038/srep11326"
+  ],
+  "title": [
+    "Unique Urchin-like Ca2Ge7O16 Hierarchical Hollow Microspheres as Anode Material for the Lithium Ion Battery."
+  ],
+  "authorString": [
+    "Li D, Feng C, Liu HK, Guo Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li D"
+          ],
+          "firstName": [
+            "Dan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "1] Hubei Collaborative Innovation Center for Advanced Organic Chemical Materials, College of Chemistry and Chemical Engineering, Hubei University, Wuhan 430062, China [2] Institute for Superconducting and Electronic Materials, School of Mechanical, Materials and Mechatronics Engineering, University of Wollongong, North Wollongong, NSW 2500, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Feng C"
+          ],
+          "firstName": [
+            "Chuanqi"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Hubei Collaborative Innovation Center for Advanced Organic Chemical Materials, College of Chemistry and Chemical Engineering, Hubei University, Wuhan 430062, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu HK"
+          ],
+          "firstName": [
+            "Hua Kun"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "HK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0253-647X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Superconducting and Electronic Materials, School of Mechanical, Materials and Mechatronics Engineering, University of Wollongong, North Wollongong, NSW 2500, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo Z"
+          ],
+          "firstName": [
+            "Zaiping"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3464-5301",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1] Hubei Collaborative Innovation Center for Advanced Organic Chemical Materials, College of Chemistry and Chemical Engineering, Hubei University, Wuhan 430062, China [2] Institute for Superconducting and Electronic Materials, School of Mechanical, Materials and Mechatronics Engineering, University of Wollongong, North Wollongong, NSW 2500, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3464-5301",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0253-647X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2243512"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "11326"
+  ],
+  "abstractText": [
+    "Germanium is an outstanding anode material in terms of electrochemical performance, especially rate capability, but its developments are hindered by its high price because it is rare in the crust of earth, and its huge volume variation during the lithium insertion and extraction. Introducing other cheaper elements into the germanium-based material is an efficient way to dilute the high price, but normally sacrifice its electrochemical performance. By the combination of nanostructure design and cheap element (calcium) introduction, urchin-like Ca2Ge7O16 hierarchical hollow microspheres have been successfully developed in order to reduce the price and maintain the good electrochemical properties of germanium-based material. The electrochemical test results in different electrolytes show that ethylene carbonate/dimethyl carbonate/diethyl carbonate (3/4/3 by volume) with 5 wt% fluoroethylene carbonate additive is the most suitable solvent for the electrolyte. From the electrochemical evaluation, the as-synthesized Ca2Ge7O16 hollow microspheres exhibit high reversible specific capacity of up to 804.6 mA h g(-1) at a current density of 100 mA g(-1) after 100 cycles and remarkable rate capability of 341.3 mA h g(-1) at a current density of 4 A g(-1). The growth mechanism is proposed based on our experimental results on the growth process."
+  ],
+  "affiliation": [
+    "1] Hubei Collaborative Innovation Center for Advanced Organic Chemical Materials, College of Chemistry and Chemical Engineering, Hubei University, Wuhan 430062, China [2] Institute for Superconducting and Electronic Materials, School of Mechanical, Materials and Mechatronics Engineering, University of Wollongong, North Wollongong, NSW 2500, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep11326"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4462153"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4462153?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-15"
+  ],
+  "dateOfCreation": [
+    "2015-06-11"
+  ],
+  "firstIndexDate": [
+    "2015-06-11"
+  ],
+  "fullTextReceivedDate": [
+    "2015-06-17"
+  ],
+  "dateOfRevision": [
+    "2015-06-13"
+  ],
+  "electronicPublicationDate": [
+    "2015-06-10"
+  ],
+  "firstPublicationDate": [
+    "2015-06-10"
+  ]
+}

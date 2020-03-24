@@ -1,0 +1,424 @@
+{
+  "id": [
+    "32053971"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32053971"
+  ],
+  "pmcid": [
+    "PMC7077619"
+  ],
+  "doi": [
+    "10.3390/polym12020405"
+  ],
+  "title": [
+    "Superior Ionic Transferring Polymer with Silicon Dioxide Composite Membrane via Phase Inversion Method Designed for High Performance Sodium-Ion Battery."
+  ],
+  "authorString": [
+    "Arjunan P, Kouthaman M, Subadevi R, Diwakar K, Liu WR, Huang CH, Sivakumar M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Arjunan P"
+          ],
+          "firstName": [
+            "Ponnaiah"
+          ],
+          "lastName": [
+            "Arjunan"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Physics, #120, Energy Materials Lab, Science Block, Alagappa University, Karaikudi 630 003, Tamil Nadu, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kouthaman M"
+          ],
+          "firstName": [
+            "Mathiyalagan"
+          ],
+          "lastName": [
+            "Kouthaman"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Physics, #120, Energy Materials Lab, Science Block, Alagappa University, Karaikudi 630 003, Tamil Nadu, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Subadevi R"
+          ],
+          "firstName": [
+            "Rengapillai"
+          ],
+          "lastName": [
+            "Subadevi"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Physics, #120, Energy Materials Lab, Science Block, Alagappa University, Karaikudi 630 003, Tamil Nadu, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Diwakar K"
+          ],
+          "firstName": [
+            "Karuppiah"
+          ],
+          "lastName": [
+            "Diwakar"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Physics, #120, Energy Materials Lab, Science Block, Alagappa University, Karaikudi 630 003, Tamil Nadu, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu WR"
+          ],
+          "firstName": [
+            "Wei-Ren"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "WR"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, R&D Center for Membrane Technology, Research Center for Circular Economy, Chung-Yuan Christian University, Chung-Li 32023, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang CH"
+          ],
+          "firstName": [
+            "Chia-Hung"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "affiliation": [
+            "Development Centre, Metal Industries Research, Kaohsiung 81160, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Sivakumar M"
+          ],
+          "firstName": [
+            "Marimuthu"
+          ],
+          "lastName": [
+            "Sivakumar"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7138-8220",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physics, #120, Energy Materials Lab, Science Block, Alagappa University, Karaikudi 630 003, Tamil Nadu, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7138-8220",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2909810"
+      ],
+      "dateOfPublication": [
+        "2020 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Polymers"
+          ],
+          "ISOAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "NLMid": [
+            "101545357"
+          ],
+          "ISSN": [
+            "2073-4360"
+          ],
+          "ESSN": [
+            "2073-4360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Superior sodium-ion-conducting polymer poly(vinyledene fluoride)-silicon dioxide (PVdF-SiO2) composite separator membrane was prepared via simple phase inversion method, which is a suitable alternative conventional polypropylene membrane. Basically, PVdF is the promising for use as high porous polymer electrolyte membrane due to its high dielectric constant ( = 8.4). In this work, we prepared a composite membrane using PVdF-SiO2 via phase inversion method. This work was systematically studied towards the morphology, porosity, and electrochemical properties of as prepared membrane. The electrolyte uptake capability of separator membrane tested with 1 M NaPF6 electrolyte solution and temperature-dependent ionic conduction test were performed at various temperatures. This membrane exhibits higher ionic conductivity of 4.7 × 10-2 S cm-1 at room temperature. The physical properties were analyzed by X-ray diffraction, FT-IR, and FE-SEM micrographs analyses. The electrochemical performances with impedance analysis carried for prepared membrane with the as-prepared sodium P2-type cathode material. The material showed an initial discharge capacity of 178 mAh g-1 at 0.1 C between 2 and 4 V with 98% columbic efficiency and 81% capacity retention after 50 cycles upon using the as-prepared PVdF-SiO2 composite separator membrane."
+  ],
+  "affiliation": [
+    "Department of Physics, #120, Energy Materials Lab, Science Block, Alagappa University, Karaikudi 630 003, Tamil Nadu, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "EMR/2016/006302"
+          ],
+          "agency": [
+            "Department of Science and Technology, Ministry of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PURSE and FIST"
+          ],
+          "agency": [
+            "Department of Science and Technology, Ministry of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "108-2811-E-033-500, 108-2911-I-033-502, 108-E-033-MY3 and 108-3116-F-006 -002"
+          ],
+          "agency": [
+            "Ministry of Science and Technology, Taiwan"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RUSA- Phase 2.0 grant sanctioned vide Lt.No.F-24-51/2014 U Policy (TNMulti Gen), Dept. of Education"
+          ],
+          "agency": [
+            "Ministry of Human Resource Development"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phase Inversion Method",
+        "Pvdf-sio2 Membrane",
+        "High Capacity Delivery",
+        "Superior Ionic Conductivity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/polym12020405"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7077619"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7077619?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-02-15"
+  ],
+  "firstIndexDate": [
+    "2020-02-15"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-23"
+  ],
+  "dateOfRevision": [
+    "2020-03-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-11"
+  ],
+  "firstPublicationDate": [
+    "2020-02-11"
+  ]
+}

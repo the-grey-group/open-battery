@@ -1,0 +1,443 @@
+{
+  "id": [
+    "31963244"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31963244"
+  ],
+  "pmcid": [
+    "PMC7022720"
+  ],
+  "doi": [
+    "10.3390/nano10010157"
+  ],
+  "title": [
+    "Preparation of Nanocomposite Polymer Electrolyte via In Situ Synthesis of SiO2 Nanoparticles in PEO."
+  ],
+  "authorString": [
+    "Tan X, Wu Y, Tang W, Song S, Yao J, Wen Z, Lu L, Savilov SV, Hu N, Molenda J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tan X"
+          ],
+          "firstName": [
+            "Xinjie"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Aerospace Engineering, Chongqing University, Chongqing 400044, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Yongmin"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Space Power-sources Technology, Shanghai Institute of Space Power-Sources, Shanghai 200245, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang W"
+          ],
+          "firstName": [
+            "Weiping"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Space Power-sources Technology, Shanghai Institute of Space Power-Sources, Shanghai 200245, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Song S"
+          ],
+          "firstName": [
+            "Shufeng"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "College of Aerospace Engineering, Chongqing University, Chongqing 400044, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yao J"
+          ],
+          "firstName": [
+            "Jianyao"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Aerospace Engineering, Chongqing University, Chongqing 400044, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wen Z"
+          ],
+          "firstName": [
+            "Zhaoyin"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "CAS Key Laboratory of Materials for Energy Conversion, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai 200050, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Mechanical Engineering, National University of Singapore, Singapore 117575, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Savilov SV"
+          ],
+          "firstName": [
+            "Serguei V"
+          ],
+          "lastName": [
+            "Savilov"
+          ],
+          "initials": [
+            "SV"
+          ],
+          "affiliation": [
+            "Department of Physical Chemistry Engineering, M.V. Lomonosov Moscow State University, Moscow 119991, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu N"
+          ],
+          "firstName": [
+            "Ning"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6444-8467",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Mechanical Engineering, Hebei University of Technology, Tianjin 300401, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Molenda J"
+          ],
+          "firstName": [
+            "Janina"
+          ],
+          "lastName": [
+            "Molenda"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "AGH University of Science and Technology, Faculty of Energy and Fuels, Al Mickiewicza 30, PL-30059 Krakow, Poland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6444-8467",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2898717"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomaterials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "NLMid": [
+            "101610216"
+          ],
+          "ISSN": [
+            "2079-4991"
+          ],
+          "ESSN": [
+            "2079-4991"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Composite polymer electrolytes provide an emerging solution for new battery development by replacing liquid electrolytes, which are commonly complexes of polyethylene oxide (PEO) with ceramic fillers. However, the agglomeration of fillers and weak interaction restrict their conductivities. By contrast with the prevailing methods of blending preformed ceramic fillers within the polymer matrix, here we proposed an in situ synthesis method of SiO2 nanoparticles in the PEO matrix. In this case, robust chemical interactions between SiO2 nanoparticles, lithium salt and PEO chains were induced by the in situ non-hydrolytic sol gel process. The in situ synthesized nanocomposite polymer electrolyte delivered an impressive ionic conductivity of ~1.1 × 10-4 S cm-1 at 30 °C, which is two orders of magnitude higher than that of the preformed synthesized composite polymer electrolyte. In addition, an extended electrochemical window of up to 5 V vs. Li/Li+ was achieved. The Li/nanocomposite polymer electrolyte/Li symmetric cell demonstrated a stable long-term cycling performance of over 700 h at 0.01-0.1 mA cm-2 without short circuiting. The all-solid-state battery consisting of the nanocomposite polymer electrolyte, Li metal and LiFePO4 provides a discharge capacity of 123.5 mAh g-1, a Coulombic efficiency above 99% and a good capacity retention of 70% after 100 cycles."
+  ],
+  "affiliation": [
+    "College of Aerospace Engineering, Chongqing University, Chongqing 400044, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "No. 51702030"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "In situ",
+        "peo",
+        "silica",
+        "Lithium Metal",
+        "Composite Polymer Electrolyte"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nano10010157"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7022720"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7022720?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-23"
+  ],
+  "firstIndexDate": [
+    "2020-01-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-19"
+  ],
+  "dateOfRevision": [
+    "2020-03-12"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-16"
+  ],
+  "firstPublicationDate": [
+    "2020-01-16"
+  ]
+}

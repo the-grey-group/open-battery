@@ -1,0 +1,339 @@
+{
+  "id": [
+    "32154077"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32154077"
+  ],
+  "pmcid": [
+    "PMC7055569"
+  ],
+  "doi": [
+    "10.1002/advs.201902866"
+  ],
+  "title": [
+    "Can Hybrid Na-Air Batteries Outperform Nonaqueous Na-O2 Batteries?"
+  ],
+  "authorString": [
+    "Khan Z, Vagin M, Crispin X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Khan Z"
+          ],
+          "firstName": [
+            "Ziyauddin"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8242-7547",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Organic Electronics Department of Science and Technology Linköping University SE60174 Norrköping Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Vagin M"
+          ],
+          "firstName": [
+            "Mikhail"
+          ],
+          "lastName": [
+            "Vagin"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8478-4663",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Organic Electronics Department of Science and Technology Linköping University SE60174 Norrköping Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Crispin X"
+          ],
+          "firstName": [
+            "Xavier"
+          ],
+          "lastName": [
+            "Crispin"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8845-6296",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Organic Electronics Department of Science and Technology Linköping University SE60174 Norrköping Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8242-7547",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8478-4663",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8845-6296",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2922913"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+          ],
+          "ISOAbbreviation": [
+            "Adv Sci (Weinh)"
+          ],
+          "medlineAbbreviation": [
+            "Adv Sci (Weinh)"
+          ],
+          "NLMid": [
+            "101664569"
+          ],
+          "ISSN": [
+            "2198-3844"
+          ],
+          "ESSN": [
+            "2198-3844"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1902866"
+  ],
+  "abstractText": [
+    "In recent years, there has been an upsurge in the study of novel and alternative energy storage devices beyond lithium-based systems due to the exponential increase in price of lithium. Sodium (Na) metal-based batteries can be a possible alternative to lithium-based batteries due to the similar electrochemical voltage of Na and Li together with the thousand times higher natural abundance of Na compared to Li. Though two different kinds of Na-O2 batteries have been studied specifically based on electrolytes until now, very recently, a hybrid Na-air cell has shown distinctive advantage over nonaqueous cell systems. Hybrid Na-air batteries provide a fundamental advantage due to the formation of highly soluble discharge product (sodium hydroxide) which leads to low overpotentials for charge and discharge processes, high electrical energy efficiency, and good cyclic stability. Herein, the current status and challenges associated with hybrid Na-air batteries are reported. Also, a brief description of nonaqueous Na-O2 batteries and its close competition with hybrid Na-air batteries are provided."
+  ],
+  "affiliation": [
+    "Laboratory of Organic Electronics Department of Science and Technology Linköping University SE60174 Norrköping Sweden."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "NASICON",
+        "Aqueous",
+        "Hybrid Batteries",
+        "Na–o 2 Batteries",
+        "Na–air Batteries"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/advs.201902866"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7055569"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7055569?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-11"
+  ],
+  "firstIndexDate": [
+    "2020-03-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-22"
+  ],
+  "dateOfRevision": [
+    "2020-03-20"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-19"
+  ],
+  "firstPublicationDate": [
+    "2020-01-19"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6351620/results/search/elements/results.xml">
+  <result pre="a natural graphite anode in quaternary ammonium-based ionic liquid electrolytes" exact="Carbon" post="2006 44 203 210 10.1016/j.carbon.2005.07.038 8. Lu J et"/>
+  <result pre="11 2949 2954 10.1021/nl201470j 21668030 13. Park MH et al." exact="Silicon" post="nanotube battery anodes Nano Lett. 2009 9 3844 3847"/>
+  <result pre="2007 171 886 893 10.1016/j.jpowsour.2007.06.026 22. Wang C et al." exact="Lithium" post="insertion in carbon–silicon composite materials produced by mechanical milling"/>
+  <result pre="24 6034 6041 10.1002/adma.201202744 22945804 39. Nie M et al." exact="Silicon" post="solid electrolyte interphase (SEI) of lithium ion battery characterized"/>
+ </snippets>
+</snippetsTree>

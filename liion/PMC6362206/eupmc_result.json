@@ -1,0 +1,480 @@
+{
+  "id": [
+    "30718703"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30718703"
+  ],
+  "pmcid": [
+    "PMC6362206"
+  ],
+  "doi": [
+    "10.1038/s41598-018-38112-2"
+  ],
+  "title": [
+    "Cyclability evaluation on Si based Negative Electrode in Lithium ion Battery by Graphite Phase Evolution: an operando X-ray diffraction study."
+  ],
+  "authorString": [
+    "Hu CW, Chou JP, Hou SC, Hu A, Su YF, Chen TY, Liew WK, Liao YF, Huang JL, Chen JM, Chang CC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hu CW"
+          ],
+          "firstName": [
+            "Chih-Wei"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "CW"
+          ],
+          "affiliation": [
+            "Department of Engineering and System Science, National Tsing Hua University, Hsinchu, 30013, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chou JP"
+          ],
+          "firstName": [
+            "Jyh-Pin"
+          ],
+          "lastName": [
+            "Chou"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8336-6793",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of mechanical and biomedical engineering, City University of Hong Kong, Kowloon, Hong Kong SAR."
+          ]
+        },
+        {
+          "fullName": [
+            "Hou SC"
+          ],
+          "firstName": [
+            "Shang-Chieh"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, National Cheng Kung University, Tainan, 70101, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu A"
+          ],
+          "firstName": [
+            "Alice"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0883-315X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of mechanical and biomedical engineering, City University of Hong Kong, Kowloon, Hong Kong SAR."
+          ]
+        },
+        {
+          "fullName": [
+            "Su YF"
+          ],
+          "firstName": [
+            "Yu-Fan"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "YF"
+          ],
+          "affiliation": [
+            "Department of Greenergy, National University of Tainan, Tainan, 70005, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen TY"
+          ],
+          "firstName": [
+            "Tsan-Yao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "TY"
+          ],
+          "affiliation": [
+            "Department of Engineering and System Science, National Tsing Hua University, Hsinchu, 30013, Taiwan. chencaeser@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Liew WK"
+          ],
+          "firstName": [
+            "Wing-Keong"
+          ],
+          "lastName": [
+            "Liew"
+          ],
+          "initials": [
+            "WK"
+          ],
+          "affiliation": [
+            "Department of Greenergy, National University of Tainan, Tainan, 70005, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Liao YF"
+          ],
+          "firstName": [
+            "Yen-Fa"
+          ],
+          "lastName": [
+            "Liao"
+          ],
+          "initials": [
+            "YF"
+          ],
+          "affiliation": [
+            "National Synchrotron Radiation Research Center, Hsinchu, 30076, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang JL"
+          ],
+          "firstName": [
+            "Jow-Lay"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, National Cheng Kung University, Tainan, 70101, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen JM"
+          ],
+          "firstName": [
+            "Jin-Ming"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "National Synchrotron Radiation Research Center, Hsinchu, 30076, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang CC"
+          ],
+          "firstName": [
+            "Chia-Chin"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8037-4488",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Greenergy, National University of Tainan, Tainan, 70005, Taiwan. ccchang@mail.nutn.edu.tw."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8037-4488",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8336-6793",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0883-315X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2776943"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1299"
+  ],
+  "abstractText": [
+    "Artificial graphite (FSN) additive is employed as internal structural label for projecting cyclability of Si material native electrode in a mass ratio of Si/FSN = 1.0 in Li ion battery (LIB). Results of operando X-ray diffraction analysis on Si-FSN negative electrode in LIB demonstrate that one can evaluate the lithiation and delithiation affinity of active material by referring phase transition delay of graphite as affected by experimental splits in a formation process of LIB. We prove that a thin layer of surface amorphous structure and residual lattice strain are formed in Si by high energy ball-milling treatment. Those manipulations improve Li intercalation kinetics and thus enabling a capacity fading of less than 10% (from 1860 to 1650 mAhg-1) for Si negative electrode in 50 cycles. Of utmost importance, this study discloses a robust assessment for revealing mechanism on amorphous and strain related silicide formation and predicting cyclability of negative electrode by quantitative phase evolution rate of FSN additive in LIB."
+  ],
+  "affiliation": [
+    "Department of Engineering and System Science, National Tsing Hua University, Hsinchu, 30013, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MOST 105-3113-E-006-019-CC2"
+          ],
+          "agency": [
+            "Ministry of Science and Technology, Taiwan (Ministry of Science and Technology of Taiwan)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-38112-2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6362206"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6362206?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-06"
+  ],
+  "firstIndexDate": [
+    "2019-02-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-20"
+  ],
+  "dateOfRevision": [
+    "2019-07-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-04"
+  ],
+  "firstPublicationDate": [
+    "2019-02-04"
+  ]
+}

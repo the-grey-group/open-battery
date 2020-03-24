@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6844093/results/search/country/results.xml">
+  <result pre="§ Liu Zhongyun ‡ [†], Guangdong University of Technology PR" exact="China" post="[‡], Georgia Institute of Technology United States *E-mail: pkdlxx@gdut.edu.cn"/>
+  <result pre="Zhongyun ‡ [†], Guangdong University of Technology PR China [‡]," exact="Georgia" post="Institute of Technology United States *E-mail: pkdlxx@gdut.edu.cn (X.L.). *E-mail:"/>
+  <result pre="University of Technology PR China [‡], Georgia Institute of Technology" exact="United States" post="*E-mail: pkdlxx@gdut.edu.cn (X.L.). *E-mail: wenluo@gdut.edu.cn (W.L.). epub: 2019-10-10 collection:"/>
+  <result pre="work was supported by the National Natural Science Foundation of" exact="China" post="(grant no. 21875046, no. 51803036, and no. 51876044), Technology"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,374 @@
+{
+  "id": [
+    "31909264"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31909264"
+  ],
+  "pmcid": [
+    "PMC6940697"
+  ],
+  "doi": [
+    "10.1016/j.heliyon.2019.e03094"
+  ],
+  "title": [
+    "Dependence of electric power flow on solar radiation power in compact photovoltaic system containing SiC-based inverter with spherical Si solar cells."
+  ],
+  "authorString": [
+    "Ando Y, Oku T, Yasuda M, Ushijima K, Matsuo H, Murozono M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ando Y"
+          ],
+          "firstName": [
+            "Yuji"
+          ],
+          "lastName": [
+            "Ando"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Materials Science, The University of Shiga Prefecture, 2500 Hassaka, Hikone, Shiga, 522-8533, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Oku T"
+          ],
+          "firstName": [
+            "Takeo"
+          ],
+          "lastName": [
+            "Oku"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2290-1216",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science, The University of Shiga Prefecture, 2500 Hassaka, Hikone, Shiga, 522-8533, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yasuda M"
+          ],
+          "firstName": [
+            "Masashi"
+          ],
+          "lastName": [
+            "Yasuda"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Collaborative Research Center, The University of Shiga Prefecture, 2500 Hassaka, Hikone, Shiga, 522-8533, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ushijima K"
+          ],
+          "firstName": [
+            "Kazufumi"
+          ],
+          "lastName": [
+            "Ushijima"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "U. Design, 2-22 Takatsuka, Hirakata, Osaka, 573-0035, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Matsuo H"
+          ],
+          "firstName": [
+            "Hiroshi"
+          ],
+          "lastName": [
+            "Matsuo"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Micro Vehicle Lab., Ltd., 3-3-2 Tosabori, Nishi-ku, Osaka, 550-0001, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Murozono M"
+          ],
+          "firstName": [
+            "Mikio"
+          ],
+          "lastName": [
+            "Murozono"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Clean Venture 21 Co., 38 Ishihara Douno-Ushirocho, Kissyouin, Minami-ku, Kyoto, 601-8355, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2290-1216",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2898993"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Heliyon"
+          ],
+          "ISOAbbreviation": [
+            "Heliyon"
+          ],
+          "medlineAbbreviation": [
+            "Heliyon"
+          ],
+          "NLMid": [
+            "101672560"
+          ],
+          "ISSN": [
+            "2405-8440"
+          ],
+          "ESSN": [
+            "2405-8440"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e03094"
+  ],
+  "abstractText": [
+    "A photovoltaic power generation system suitable for mobile applications was developed. A SiC integrated converter with the maximum power point tracking circuit provided the smallest photovoltaic inverter in ~200 W level. The SiC-based inverter exhibited a peak direct current (DC)-alternating current (AC) conversion efficiency higher than that of conventional Si inverters. A Li-ion laminated battery was mounted in the same housing as the inverter. The weight of entire system containing spherical Si solar cell panels was well below 6 kg. Continuous operation measurements of this system were carried out using four solar cell modules connected in parallel under irradiation by natural sunlight. The total inverter efficiencies under realistic operation conditions were slightly decreased compared with the DC-AC converter values because of loss by the maximum power point tracking device. Even under unstable weather conditions, the system provided power stability without ripples. The behaviors of the output powers of the solar cell, storage battery, and inverter modules were analyzed as a function of the solar radiation power density. The substantial efficiencies of the solar cell modules were dependent on the weather conditions and were approximately 10% on cloudy days. The present compact photovoltaic power generation system with SiC device and spherical Si solar cells is viable for sub kW-class inverter."
+  ],
+  "affiliation": [
+    "Department of Materials Science, The University of Shiga Prefecture, 2500 Hassaka, Hikone, Shiga, 522-8533, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Energy",
+        "Solar energy",
+        "Renewable energy resources",
+        "Lithium-ion battery",
+        "Silicon carbide",
+        "Solar Cell",
+        "Field Effect Transistor",
+        "Photovoltaics",
+        "Electrical Engineering",
+        "Schottky Diode",
+        "Inverter",
+        "Power Converter",
+        "Energy Storage Technology",
+        "Energy Sustainability",
+        "Materials Physics",
+        "Spherical Silicon",
+        "Direct Current-alternating Current Converter",
+        "Maximum Power Point Tracking Charge Controller"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.heliyon.2019.e03094"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6940697"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6940697?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-08"
+  ],
+  "firstIndexDate": [
+    "2020-01-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-08"
+  ],
+  "dateOfRevision": [
+    "2020-01-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-31"
+  ],
+  "firstPublicationDate": [
+    "2019-12-31"
+  ]
+}

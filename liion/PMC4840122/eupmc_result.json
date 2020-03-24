@@ -1,0 +1,414 @@
+{
+  "id": [
+    "27102903"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27102903"
+  ],
+  "pmcid": [
+    "PMC4840122"
+  ],
+  "doi": [
+    "10.1186/s11671-016-1426-5"
+  ],
+  "title": [
+    "Cu2+1O coated polycrystalline Si nanoparticles as anode for lithium-ion battery."
+  ],
+  "authorString": [
+    "Zhang J, Zhang C, Wu S, Liu Z, Zheng J, Zuo Y, Xue C, Li C, Cheng B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Junying"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "State Key Laboratory on Integrated Optoelectronics, Institute of Semiconductors, Chinese Academy of Sciences, Beijing, 100083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang C"
+          ],
+          "firstName": [
+            "Chunqian"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "State Key Laboratory on Integrated Optoelectronics, Institute of Semiconductors, Chinese Academy of Sciences, Beijing, 100083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu S"
+          ],
+          "firstName": [
+            "Shouming"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Zhejiang Fluoride and Silicon Research Institute, Quzhou, Zhejiang, 324100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Z"
+          ],
+          "firstName": [
+            "Zhi"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "State Key Laboratory on Integrated Optoelectronics, Institute of Semiconductors, Chinese Academy of Sciences, Beijing, 100083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "State Key Laboratory on Integrated Optoelectronics, Institute of Semiconductors, Chinese Academy of Sciences, Beijing, 100083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zuo Y"
+          ],
+          "firstName": [
+            "Yuhua"
+          ],
+          "lastName": [
+            "Zuo"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory on Integrated Optoelectronics, Institute of Semiconductors, Chinese Academy of Sciences, Beijing, 100083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xue C"
+          ],
+          "firstName": [
+            "Chunlai"
+          ],
+          "lastName": [
+            "Xue"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "State Key Laboratory on Integrated Optoelectronics, Institute of Semiconductors, Chinese Academy of Sciences, Beijing, 100083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li C"
+          ],
+          "firstName": [
+            "Chuanbo"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "State Key Laboratory on Integrated Optoelectronics, Institute of Semiconductors, Chinese Academy of Sciences, Beijing, 100083, China. cbli@semi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng B"
+          ],
+          "firstName": [
+            "Buwen"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6547-1458",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory on Integrated Optoelectronics, Institute of Semiconductors, Chinese Academy of Sciences, Beijing, 100083, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6547-1458",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2358880"
+      ],
+      "dateOfPublication": [
+        "2016 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanoscale research letters"
+          ],
+          "ISOAbbreviation": [
+            "Nanoscale Res Lett"
+          ],
+          "medlineAbbreviation": [
+            "Nanoscale Res Lett"
+          ],
+          "NLMid": [
+            "101279750"
+          ],
+          "ISSN": [
+            "1931-7573"
+          ],
+          "ESSN": [
+            "1556-276X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "214"
+  ],
+  "abstractText": [
+    "Cu2+1O coated Si nanoparticles were prepared by simple hydrolysis and were investigated as an anode material for lithium-ion battery. The coating of Cu2+1O on the surface of Si particles remarkably improves the cycle performance of the battery than that made by the pristine Si. The battery exhibits an initial reversible capacity of 3063 mAh/g and an initial coulombic efficiency (CE) of 82.9 %. With a current density of 300 mA/g, its reversible capacity can remains 1060 mAh/g after 350 cycles, corresponding to a CE ≥ 99.8 %. It is believed that the Cu2+1O coating enhances the electrical conductivity, and the elasticity of Cu2+1O further helps buffer the volume changes during lithiation/delithiation processes. Experiment results indicate that the electrode maintained a highly integrated structure after 100 cycles and it is in favour of the formation of stable solid electrolyte interface (SEI) on the Si surface to keep the extremely high CE during long charge and discharge cycles."
+  ],
+  "affiliation": [
+    "State Key Laboratory on Integrated Optoelectronics, Institute of Semiconductors, Chinese Academy of Sciences, Beijing, 100083, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium-ion battery",
+        "Composite Anode",
+        "Cu2+1o",
+        "Polycrystalline Si"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s11671-016-1426-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4840122"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4840122?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-04-22"
+  ],
+  "dateOfCreation": [
+    "2016-04-22"
+  ],
+  "firstIndexDate": [
+    "2016-04-22"
+  ],
+  "fullTextReceivedDate": [
+    "2016-05-21"
+  ],
+  "dateOfRevision": [
+    "2016-05-17"
+  ],
+  "electronicPublicationDate": [
+    "2016-04-22"
+  ],
+  "firstPublicationDate": [
+    "2016-04-22"
+  ]
+}

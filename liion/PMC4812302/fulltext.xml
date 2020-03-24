@@ -1,0 +1,922 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NPG//DTD XML Article//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName NPG_XML_Article.dtd?><?SourceDTD.Version 2.7.10?><?ConverterInfo.XSLTName nature2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Sci Rep</journal-id><journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id><journal-title-group><journal-title>Scientific Reports</journal-title></journal-title-group><issn pub-type="epub">2045-2322</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4812302</article-id><article-id pub-id-type="pii">srep23585</article-id><article-id pub-id-type="doi">10.1038/srep23585</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Boosting the power performance of multilayer graphene as lithium-ion battery anode via
+unconventional doping with in-situ formed Fe nanoparticles</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Raccichini</surname><given-names>Rinaldo</given-names></name><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a2">2</xref><xref ref-type="aff" rid="a3">3</xref></contrib><contrib contrib-type="author"><name><surname>Varzi</surname><given-names>Alberto</given-names></name><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a2">2</xref></contrib><contrib contrib-type="author"><name><surname>Chakravadhanula</surname><given-names>Venkata Sai Kiran</given-names></name><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a4">4</xref><xref ref-type="aff" rid="a5">5</xref></contrib><contrib contrib-type="author"><name><surname>K&#x000fc;bel</surname><given-names>Christian</given-names></name><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a4">4</xref><xref ref-type="aff" rid="a5">5</xref></contrib><contrib contrib-type="author"><name><surname>Passerini</surname><given-names>Stefano</given-names></name><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a2">2</xref></contrib><aff id="a1"><label>1</label><institution>Helmholtz Institute Ulm (HIU)</institution>, Helmholtzstrasse
+11, 89081
+Ulm, <country>Germany</country></aff><aff id="a2"><label>2</label><institution>Karlsruhe Institute of Technology (KIT)</institution>, P.O. Box
+3640, 76021
+Karlsruhe, <country>Germany</country></aff><aff id="a3"><label>3</label><institution>Institute of Physical Chemistry, University of Muenster</institution>,
+Corrensstrasse 28/30, 48149
+Muenster, <country>Germany</country></aff><aff id="a4"><label>4</label><institution>Institute of Nanotechnology (INT), Karlsruhe Institute of
+Technology (KIT)</institution>, Hermann-von-Helmholtz Platz 1,
+76344
+Eggenstein-Leopoldshafen, <country>Germany</country></aff><aff id="a5"><label>5</label><institution>Karlsruhe Nano Micro Facility (KNMF), Karlsruhe Institute of
+Technology (KIT)</institution>, Hermann-von-Helmholtz Platz 1,
+76344
+Eggenstein-Leopoldshafen, <country>Germany</country></aff></contrib-group><author-notes><corresp id="c1"><label>a</label>
+<email>stefano.passerini@kit.edu</email>
+</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>03</month><year>2016</year></pub-date><pub-date pub-type="collection"><year>2016</year></pub-date><volume>6</volume><elocation-id>23585</elocation-id><history><date date-type="received"><day>25</day><month>11</month><year>2015</year></date><date date-type="accepted"><day>25</day><month>02</month><year>2016</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2016, Macmillan Publishers Limited</copyright-statement><copyright-year>2016</copyright-year><copyright-holder>Macmillan Publishers Limited</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><!--author-paid--><license-p>This work is licensed under a Creative Commons Attribution 4.0
+International License. The images or other third party material in this article are
+included in the article&#x02019;s Creative Commons license, unless indicated
+otherwise in the credit line; if the material is not included under the Creative
+Commons license, users will need to obtain permission from the license holder to
+reproduce the material. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><abstract><p>Graphene is extensively investigated and promoted as a viable replacement for
+graphite, the state-of-the-art material for lithium-ion battery (LIB) anodes,
+although no clear evidence is available about improvements in terms of cycling
+stability, delithiation voltage and volumetric capacity. Here we report the
+microwave-assisted synthesis of a novel graphene-based material in ionic liquid
+(i.e., carved multilayer graphene with nested Fe<sub>3</sub>O<sub>4</sub>
+nanoparticles), together with its extensive characterization via several physical
+and chemical techniques. When such a composite material is used as LIB anode, the
+carved paths traced by the Fe<sub>3</sub>O<sub>4</sub> nanoparticles, and the
+unconverted metallic iron formed <italic>in-situ</italic> upon the 1<sup>st</sup>
+lithiation, result in enhanced rate capability and, especially at high specific
+currents (i.e., 5&#x02009;A g<sup>&#x02212;1</sup>), remarkable cycling
+stability (99% of specific capacity retention after 180 cycles), low average
+delithiation voltage (0.244&#x02009;V) and a substantially increased volumetric
+capacity with respect to commercial graphite (58.8&#x02009;Ah
+L<sup>&#x02212;1</sup> vs. 9.6&#x02009;Ah
+L<sup>&#x02212;1</sup>).</p></abstract></article-meta></front><body><p>In the ongoing challenge to increase the energy density of lithium-ion batteries (LIBs),
+graphene<xref ref-type="bibr" rid="b1">1</xref> has been intensively investigated as anode materials to
+replace graphite<xref ref-type="bibr" rid="b2">2</xref> since 2008<xref ref-type="bibr" rid="b3">3</xref>. Most of the reports on the
+use of graphene as active material<xref ref-type="bibr" rid="b4">4</xref> are motivated by the larger lithium
+uptake with respect to the LiC<sub>6</sub> stoichiometry for graphite<xref ref-type="bibr" rid="b5">5</xref>.
+Early studies<xref ref-type="bibr" rid="b6">6</xref><xref ref-type="bibr" rid="b7">7</xref> about lithium storage in single layer graphene claimed,
+in fact, the achievement of Li<sub>2</sub>C<sub>6</sub> and Li<sub>3</sub>C<sub>6</sub>
+stoichiometries. Unfortunately, as later proved by further investigations<xref ref-type="bibr" rid="b8">8</xref><xref ref-type="bibr" rid="b9">9</xref>, such phases are unstable upon cycling and the stored lithium being
+never entirely recovered after the first lithiation. This irreversibility is frequently
+associated with the use of reduced graphene oxides (RGOs) as LIB anodes<xref ref-type="bibr" rid="b10">10</xref><xref ref-type="bibr" rid="b11">11</xref> since these materials<xref ref-type="bibr" rid="b12">12</xref> generally show various
+defects<xref ref-type="bibr" rid="b4">4</xref>, which enable high specific gravimetric capacity values
+(e.g.,&#x02009;&#x0003e;&#x02009;2,000&#x02009;mAh
+g<sup>&#x02212;1</sup>)<xref ref-type="bibr" rid="b4">4</xref> but poorly reversible adsorption of
+Li<sup>+</sup>
+<xref ref-type="bibr" rid="b13">13</xref> resulting in considerable capacity losses (i.e., low Coulombic
+efficiencies), especially in the first cycle. Moreover, the high delithiation potential
+of RGOs, and the generally low density of such materials, act as stumbling blocks for
+their use in practical applications<xref ref-type="bibr" rid="b4">4</xref><xref ref-type="bibr" rid="b14">14</xref><xref ref-type="bibr" rid="b15">15</xref>. As graphene and RGOs,
+graphite has serious limitations, too. It suffers, for example, from poor lithium-ion
+storage capability at low temperatures<xref ref-type="bibr" rid="b16">16</xref>. Furthermore, the specific
+capacity of graphite rapidly decays when high current loads are applied. In this regard,
+the development of graphene-based materials has recently emerged as strategy to mitigate
+some of the issues associated with the use of bare graphene (e.g., layers restacking)
+while, at the same time, attempting to outperform standard graphite<xref ref-type="bibr" rid="b4">4</xref>,
+(e.g., at
+temperatures&#x02009;&#x0003c;&#x02009;0&#x02009;&#x000b0;C)<xref ref-type="bibr" rid="b16">16</xref>. The addition of different electroactive materials, such as metal and/or
+metal oxide nanoparticles providing reversible insertion (e.g., TiO<sub>2</sub>),
+alloying (e.g., Sn) or conversion (e.g., Fe<sub>3</sub>O<sub>4</sub>) reactions with
+lithium, resulting on higher gravimetric capacities than those of bare graphene and
+graphite<xref ref-type="bibr" rid="b4">4</xref>. Indeed, electroactive particles and graphene might enhance
+each other&#x02019;s performance, with the former helping to reduce the graphene
+restacking and the latter providing enhanced conductivity and buffering of eventual
+volume changes. However, as recently pointed out by Obrovac and Chevrier<xref ref-type="bibr" rid="b15">15</xref>, investigation about the density and the lithiation/delithiation voltages of such
+materials are essential parameters which should be provided in order to ensure the
+progress in the LIB field.</p><p>In this respect, we aimed to develop a composite formed by multilayer graphene and
+Fe<sub>3</sub>O<sub>4</sub>, because of the environmentally-friendliness of the
+latter compound and its expected ability to increase the rate capability by conversion
+to metallic iron (i.e., good electronic conductor) upon lithiation<xref ref-type="bibr" rid="b17">17</xref>.
+Making use of the ionic liquid microwave-assisted exfoliation method previously
+developed for graphene production<xref ref-type="bibr" rid="b18">18</xref>, a novel graphene-based
+composite<xref ref-type="bibr" rid="b4">4</xref> has been synthesized. Noticeably, the composite revealed a
+carved structure with nested Fe<sub>3</sub>O<sub>4</sub> nanoparticles, which has been
+observed and characterized for the first time. A multitude of
+RGO/Fe<sub>3</sub>O<sub>4</sub> compounds have been reported in the past years<xref ref-type="bibr" rid="b19">19</xref><xref ref-type="bibr" rid="b20">20</xref>, all with considerable amounts of iron oxide (usually between 30 and
+70&#x02009;wt.%) aiming to exploit the conversion reaction to increase the specific
+gravimetric capacity of the anode (causing low energy efficiency and relatively high
+lithiation/delithiation voltages). Differently, this novel composite, obtained by
+simultaneous synthesis of multilayer graphene and Fe<sub>3</sub>O<sub>4</sub>
+nanoparticles, only contains a minimal amount of iron oxide
+(i.e.,&#x02009;&#x0003c;3&#x02009;wt. %). However, it possesses a peculiar
+structure enabling superior power performance. Indeed, when the delithiation voltage is
+limited to 1&#x02009;V vs. Li/Li<sup>+</sup>, the carved paths traced by the
+Fe<sub>3</sub>O<sub>4</sub> nanoparticles and the unconverted metallic iron formed
+<italic>in-situ</italic> upon the 1<sup>st</sup> lithiation, incredibly enhance the anode
+performance at high currents without affecting the energy efficiency. According to our
+knowledge, such approach is reported here for the first time.</p><sec disp-level="1"><title>Results</title><sec disp-level="2"><title>Synthesis summary</title><p>The overall procedure for the synthesis of the carved multilayer graphene with
+nested Fe<sub>3</sub>O<sub>4</sub> nanoparticles (hereinafter called
+MUG-Fe<sub>3</sub>O<sub>4</sub>) is illustrated in <xref ref-type="fig" rid="f1">Fig.
+1a</xref>. After 35&#x02009;hours of sonication, the 1% w/w dispersion
+of expanded graphite (EG) in 1-ethyl-3-methylimidazolium acetate (EMIMAc) is
+mixed with a 4.5% w/w solution of iron (II) acetate in EMIMAc (previously
+prepared by 1&#x02009;h of stirring), and left to stir overnight at
+700&#x02009;rpm. In this first step, the negatively charged thin graphite
+microplatelets<xref ref-type="bibr" rid="b16">16</xref> obtained during the ultrasonication
+process<xref ref-type="bibr" rid="b21">21</xref><xref ref-type="bibr" rid="b22">22</xref>, electronically interact with the
+Fe<sup>2+</sup> ions. Differently from the widespread procedures
+employing electrically insulating graphene oxide<xref ref-type="bibr" rid="b10">10</xref> as graphene
+precursor<xref ref-type="bibr" rid="b20">20</xref><xref ref-type="bibr" rid="b23">23</xref><xref ref-type="bibr" rid="b24">24</xref><xref ref-type="bibr" rid="b25">25</xref><xref ref-type="bibr" rid="b26">26</xref><xref ref-type="bibr" rid="b27">27</xref>, here, by using thin graphite
+microplatelets, the characteristic &#x003c0; network of the graphitic carbon
+(and, consequently, the electrical conductive properties of graphite) is
+preserved. In the following step, the EMIMAc-based dispersion is subjected to
+microwave irradiation upon which the MUG-Fe<sub>3</sub>O<sub>4</sub> composite
+forms. Although rapid and efficient synthesis of metal oxide nanoparticles<xref ref-type="bibr" rid="b28">28</xref> with unique structures and properties were already obtained
+combining ionic liquids and microwaves<xref ref-type="bibr" rid="b29">29</xref><xref ref-type="bibr" rid="b30">30</xref>, to the best of our
+knowledge, this is the first time Fe<sub>3</sub>O<sub>4</sub> is prepared using
+iron acetate in combination with EMIMAc. It is furthermore worth noticing that,
+as previously reported and demonstrated<xref ref-type="bibr" rid="b16">16</xref><xref ref-type="bibr" rid="b31">31</xref>, the microwave
+heating process reduces the thin graphite microplatelets in size yielding to
+multilayer graphene (MUG). The composite material was recovered through vacuum
+filtration and thermally annealed in Ar atmosphere in order to improve its
+structure and morphology<xref ref-type="bibr" rid="b32">32</xref>. Finally, the complete removal of
+residual EMIMAc was performed via thermal decomposition resulting in the
+formation of benign volatile products.</p></sec><sec disp-level="2"><title>Physicochemical Characterizations</title><p>As evidenced by the scanning electron microscopy (SEM) micrographs in <xref ref-type="fig" rid="f1">Fig. 1b</xref>, the graphene sheets show jagged edges with
+irregular facets<xref ref-type="bibr" rid="b33">33</xref> along with the presence of nanoparticles. The
+multilayer morphology of graphene and the nanometric size of the metal oxide
+particles are revealed in <xref ref-type="fig" rid="f1">Fig. 1c</xref>. Interestingly, a
+particular morphological feature is observed on the MUG surface where the iron
+oxide nanoparticles seem to create grooves (e.g., the ones marked by the red
+arrows) along various MUG edge planes<xref ref-type="bibr" rid="b34">34</xref>. It is worth noting that
+a similar structure, to the best of our knowledge, has been reported only twice
+in literature. These were, however, obtained by means of a completely different
+synthetic approach (i.e., catalytic hydrogenation of graphite with Nickel
+nanoparticles<xref ref-type="bibr" rid="b35">35</xref><xref ref-type="bibr" rid="b36">36</xref><xref ref-type="bibr" rid="b37">37</xref>). At higher magnifications (<xref ref-type="fig" rid="f1">Fig. 1d,e</xref>), the details of the carved structures can be
+clearly seen and, the nanometric size of the Fe<sub>3</sub>O<sub>4</sub>
+particles is better appreciated (10&#x02013;100&#x02009;nm range).
+Apparently, the nanoparticles are able to carve different edge planes of the
+multilayer graphene causing, especially for the flakes with nanometric lateral
+sizes, a structural fragmentation on the carbonaceous matrix. When the synthesis
+is carried out in the absence of graphene (i.e., using only the iron precursor
+solution), larger Fe<sub>3</sub>O<sub>4</sub> agglomerates are formed (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 1a,b</xref>). Moreover,
+if only the graphite microplatelets dispersion is processed (i.e., without the
+iron precursor), the obtained multilayer graphene shows a rather different
+morphology<xref ref-type="bibr" rid="b16">16</xref>, free of carved structures (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 1c,d</xref>). The powder
+diffraction pattern in <xref ref-type="fig" rid="f1">Fig. 1f</xref> allows identifying the
+different crystallographic features of multilayer graphene and iron oxide. The
+most intense reflection around 26.5 2 Theta degree is associated with the (002)
+diffraction plane of graphitic layers<xref ref-type="bibr" rid="b38">38</xref>. As shown in the inset in
+<xref ref-type="fig" rid="f1">Fig. 1f</xref>, the other reflections between 35 and 80 2
+Theta degree (marked with +), can be ascribable to different graphitic
+crystalline planes of multilayer graphene, belonging to either hexagonal or
+rhombohedral phases<xref ref-type="bibr" rid="b38">38</xref><xref ref-type="bibr" rid="b39">39</xref><xref ref-type="bibr" rid="b40">40</xref>. Additionally, few low-intensity
+reflections (marked with &#x000a7;) might be due to a limited presence of
+non-graphitic carbon domains as carbonaceous by-products of the synthetic
+process<xref ref-type="bibr" rid="b13">13</xref><xref ref-type="bibr" rid="b40">40</xref><xref ref-type="bibr" rid="b41">41</xref><xref ref-type="bibr" rid="b42">42</xref><xref ref-type="bibr" rid="b43">43</xref><xref ref-type="bibr" rid="b44">44</xref>. Minor reflections
+corresponding to the Fe<sub>3</sub>O<sub>4</sub> phase (marked with
+|) are consistent with the standard XRD data (PDF# 01-073-9877) for
+the cubic magnetite phase<xref ref-type="bibr" rid="b45">45</xref> (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 1e</xref>). As expected, the
+powder diffraction pattern of multilayer graphene (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 1f</xref>) only shows the carbon
+reflections but no Fe<sub>3</sub>O<sub>4</sub> signature.</p><p>Further confirmation for the MUG-Fe<sub>3</sub>O<sub>4</sub> peculiarity features
+comes from transmission electron microscopy (TEM) analysis. The scanning TEM
+(STEM) image shown in <xref ref-type="fig" rid="f2">Fig. 2a</xref> highlights the z-contrast
+between the MUG graphitic layers and the iron oxide nanoparticles. Here, some of
+the carved paths traced by the Fe<sub>3</sub>O<sub>4</sub> nanoparticles (marked
+with red arrows) can be clearly observed. The bright field TEM micrograph (<xref ref-type="fig" rid="f2">Fig. 2b</xref>) reveals the nanometric size of the iron oxide
+particles (between 5 and 30&#x02009;nm in this specific micrograph), which
+are nested in the carved multilayer graphene matrix. The contrast of the dark
+Fe<sub>3</sub>O<sub>4</sub> nanoparticles and the bright grooves (shown by
+red arrows) generated by the nanoparticles, allow a deeper investigation of the
+composite structure. Indeed, differently carved paths (width ranging from
+10&#x02009;nm to 40&#x02009;nm) on different edges planes of the MUG
+structure can be clearly noticed. In <xref ref-type="fig" rid="f2">Fig. 2c</xref>, the
+corresponding selective area electron diffraction (SAED) pattern to <xref ref-type="fig" rid="f2">Fig. 2b</xref> is shown. The d-values measured from the SAED
+pattern fit to the XRD reflections for the iron oxide structure, with lattice
+spacings of 0.295&#x02009;nm, while the peaks at
+~0.207&#x02009;nm and ~0.125&#x02009;nm fit both
+Fe<sub>3</sub>O<sub>4</sub> (400) and (622) as well as graphite (100) and
+(110) reflections. The high resolution TEM micrograph (HRTEM) in <xref ref-type="fig" rid="f2">Fig. 2d</xref> distinctly shows an iron oxide nanoparticle covered by thin
+graphitic carbon layers (marked with red arrows). According to this micrograph,
+it is reasonable to assume that MUG fragments, including those generated by the
+carving, are wrapped around the Fe<sub>3</sub>O<sub>4</sub> nanoparticles during
+the composite synthesis. To the best of our knowledge, similar results were only
+obtained by chemical vapour deposition, as also recently reported by Chang <italic>et
+al.</italic><xref ref-type="bibr" rid="b46">46</xref> However, EMIMAc can be excluded as source of carbon
+since it is known that it decomposes exclusively to volatile products upon
+thermal treatment<xref ref-type="bibr" rid="b47">47</xref><xref ref-type="bibr" rid="b48">48</xref> (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 2</xref>). To further enlighten the
+MUG-Fe<sub>3</sub>O<sub>4</sub> structure and composition, additional
+analyses were performed. The area marked by the purple rectangle in <xref ref-type="fig" rid="f3">Fig. 3a,b</xref> has been investigated by STEM-EELS mapping
+(looking at the C K-edge, Fe L<sub>2,3</sub>-edge and O K-edge) in order to
+further confirm the elements present in the composite. In <xref ref-type="fig" rid="f3">Fig.
+3c</xref>&#x02013;e, the elemental maps for C, Fe and O elements are
+shown, respectively. As expected, C clearly represents the most abundant
+element, while Fe and O are mostly confined where the nanoparticles are located.
+<xref ref-type="fig" rid="f3">Fig. 3f</xref>, depicts the EEL spectra of a selected area of
+the composite (orange rectangle in <xref ref-type="fig" rid="f3">Fig. 3b</xref>). The C K-edge
+EEL spectrum (see inset in <xref ref-type="fig" rid="f3">Fig. 3f</xref>) shows two features for
+the near edge fine structure: (i) a narrow peak at around 285&#x02009;eV,
+corresponding to the electronic transition from 1&#x02009;s to
+&#x003c0;<sup>*</sup> states<xref ref-type="bibr" rid="b49">49</xref>, which is
+characteristic for the carbon sp<sup>2</sup>-hybridization and, (ii) a
+sequence of broad peaks, ranging from 292&#x02009;eV to 311&#x02009;eV,
+which correspond to transitions from the 1&#x02009;s to the unoccupied
+&#x003c3;*<xref ref-type="bibr" rid="b50">50</xref>. The shape and the intensity of the latter
+peaks fits well those of an ordered graphitic structure<xref ref-type="bibr" rid="b51">51</xref><xref ref-type="bibr" rid="b52">52</xref>,
+thus supporting the previous XRD analysis. At the same time, the O K-edge and Fe
+L<sub>2,3</sub>-edge EEL spectra (<xref ref-type="fig" rid="f3">Fig. 3f</xref> inset with
+blue and green line, respectively) confirm the presence of iron oxide<xref ref-type="bibr" rid="b53">53</xref>. It is worth noting that no significant amount of N is detected
+at around 450 eV, thus, confirming the complete ionic liquid removal during
+synthesis. In <xref ref-type="fig" rid="f3">Fig. 3g</xref>, the TGA curves of both MUG and the
+composite show the weight loss upon heating. The multilayer graphene is stable,
+in oxygen, up to 450&#x02009;&#x000b0;C, however, a loss is observable
+between 460&#x02009;&#x000b0;C and 670&#x02009;&#x000b0;C. At
+1000&#x02009;&#x000b0;C, MUG shows a weight loss of about 91.15%, which
+is consistent with the results obtained from the CHNS elemental analysis (<xref ref-type="table" rid="t1">Table 1</xref>)<xref ref-type="bibr" rid="b54">54</xref><xref ref-type="bibr" rid="b55">55</xref>. The weight loss of MUG is
+not 100% because of the synthetic process applied. In fact, during the
+synthesis, thermally stable carbonaceous species (i.e., those denoted as
+&#x0201c;non-graphitic carbons&#x0201d; in the XRD analysis which also
+include amorphous carbons) can be obtained, as already reported in literature
+for graphene and other kinds of carbon<xref ref-type="bibr" rid="b56">56</xref><xref ref-type="bibr" rid="b57">57</xref><xref ref-type="bibr" rid="b58">58</xref>. Regarding the
+composite, MUG-Fe<sub>3</sub>O<sub>4</sub>, its stability extends up to
+500&#x02009;&#x000b0;C, i.e., before showing a similar weight loss
+between 530&#x02009;&#x000b0;C and 670&#x02009;&#x000b0;C.
+Considering the TGA curves of EMIMAc and EG (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 2</xref>), the 88.32% of
+MUG-Fe<sub>3</sub>O<sub>4</sub> weight loss at
+1000&#x02009;&#x000b0;C, is compatible with the presence of the
+Fe<sub>3</sub>O<sub>4</sub> in the composite<xref ref-type="bibr" rid="b57">57</xref>. Indeed, it is
+possible to calculate the Fe<sub>3</sub>O<sub>4</sub> amount as
+2.73&#x02009;wt. %, corresponding to a Fe content of about
+1.98&#x02009;wt. %, which is in the same order of magnitude of the ICP
+result reported in <xref ref-type="table" rid="t1">Table 1</xref> (Fe content of about
+0.25&#x02009;wt. %). It is worth pointing out that no Fe was detected by ICP
+in the EG precursor or MUG (<xref ref-type="table" rid="t1">Table 1</xref>), thus confirming
+the presence of iron only in the composite. It should be furthermore noted that
+the low hydrogen content found in both MUG and MUG-Fe<sub>3</sub>O<sub>4</sub>
+is in agreement with the presence of minor non-graphitic carbon domains (as
+previously revealed by the XRD analysis) and dangling-bond-containing edges<xref ref-type="bibr" rid="b44">44</xref>. The influence of grooves on the porosimetric features of the
+composite has been also investigated by Brunauer-Emmett-Teller (BET) surface
+area and Barrett-Joyner-Halenda (BJH) pore size distribution analyses. From the
+nitrogen adsorption-desorption isotherms for MUG and
+MUG-Fe<sub>3</sub>O<sub>4</sub> (<xref ref-type="fig" rid="f3">Fig. 3h</xref>) similar
+values of BET surface area are calculated (48.27&#x02009;m<sup>2</sup>
+g<sup>&#x02212;1</sup> and 51.79&#x02009;m<sup>2</sup>
+g<sup>&#x02212;1</sup> for multilayer graphene and composite,
+respectively). However, as already reported<xref ref-type="bibr" rid="b16">16</xref><xref ref-type="bibr" rid="b59">59</xref><xref ref-type="bibr" rid="b60">60</xref>, the
+graphene sheets&#x02019; arrangement play a crucial role in this analysis as
+it can considerably reduce BET surface area values up to one order of magnitude.
+According to the BJH analysis (<xref ref-type="fig" rid="f3">Fig. 3i</xref>), the presence of
+Fe<sub>3</sub>O<sub>4</sub> has a non-negligible effect on the pores size
+and volume of the composite. Up to 9&#x02013;10&#x02009;nm pore radius,
+no substantial difference in the pores volume could be noticed. However, above
+10&#x02009;nm the total pore volume increases reaching the final values of
+0.79&#x02009;cm<sup>3</sup> g<sup>&#x02212;1</sup> and
+0.41&#x02009;cm<sup>3</sup> g<sup>&#x02212;1</sup> for
+MUG-Fe<sub>3</sub>O<sub>4</sub> and MUG, respectively. The increased pore
+volume matching the width of the carved path (10&#x02013;40&#x02009;nm)
+confirms the essential role of Fe<sub>3</sub>O<sub>4</sub> particles in
+enhancing the porosity of multilayer graphene in the composite material.</p></sec><sec disp-level="2"><title>Electrochemical Characterizations</title><p>Besides the above-mentioned physicochemical characterizations, the
+MUG-Fe<sub>3</sub>O<sub>4</sub> composite was investigated as LIB anode
+active material. For the sake of comparison, the evaluation of the
+Li<sup>+</sup> storage properties of Fe<sub>3</sub>O<sub>4</sub>
+synthesized through the same ionic liquid microwave-assisted synthesis was also
+performed (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 3</xref>),
+showing the typical issues of a conversion material (e.g., high voltage
+hysteresis, capacity fading upon cycling and low coulombic efficiency), which
+prevent its practical application in LIB<xref ref-type="bibr" rid="b61">61</xref>.</p><p>Regarding MUG, its specific capacity, coulombic efficiency and, in particular,
+the voltage profiles are similar to those of graphite but, contrary to the
+latter, it shows acceptable lithium storage capacity even at high specific
+currents and low temperatures<xref ref-type="bibr" rid="b16">16</xref>. As all graphenes, MUG generally
+exhibits low density<xref ref-type="bibr" rid="b4">4</xref> and, consequently, its volumetric capacity
+is smaller than that of graphite. Surprisingly, however, the carbon density in
+MUG-Fe<sub>3</sub>O<sub>4</sub> is higher than that in pure MUG, which
+represents an interesting property.</p><p>To evaluate the electrochemical performance,
+MUG-Fe<sub>3</sub>O<sub>4</sub>-based electrodes were investigated in half-cell
+configuration and subjected to repeated galvanostatic charge/discharge cycles in
+the narrow voltage range comprised between 0.005&#x02009;V and
+1&#x02009;V (<xref ref-type="fig" rid="f4">Fig. 4a</xref>). In literature, negative
+electrodes are frequently delithiated up to 3&#x02009;V. However, only a
+restricted operative voltage window is of practical interest, as it results in
+lower average lithiation/delithiation voltages<xref ref-type="bibr" rid="b15">15</xref> (hereinafter ALV
+and ADV, respectively) and thus higher voltage efficiency (VE) (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 4a&#x02013;c</xref>). Of
+course, limiting the delithiation to 1&#x02009;V results on the loss of the
+Fe<sub>3</sub>O<sub>4</sub> conversion mechanism, which, however,
+contributes minimally to the composite&#x02019;s capacity, and only at
+medium-low currents (<xref ref-type="supplementary-material" rid="S1">Supplementary Fig.
+4d</xref>). The results in <xref ref-type="fig" rid="f4">Fig. 4a</xref>, especially the
+comparison with MUG and SLP30 (this latter being a commercial graphite anode
+material of Imerys Graphite &#x00026; Carbon), indicate as the metallic Fe
+nanoparticles, formed during the first lithiation, as well as the carved paths,
+have a beneficial effect on the high rate performance (i.e., above
+2&#x02009;A g<sup>&#x02212;1</sup>). During the 1<sup>st</sup>
+cycle, MUG-Fe<sub>3</sub>O<sub>4</sub> obviously showed the highest lithiation
+capacity due to the conversion reaction of Fe<sub>3</sub>O<sub>4</sub> to
+Fe<sup>0</sup>, but, for the same reason, also the lowest CE (i.e.,
+63.8% vs. 76.1% and 81.1% for MUG-Fe<sub>3</sub>O<sub>4</sub>, MUG and SLP30,
+respectively, in <xref ref-type="fig" rid="f4">Fig. 4b</xref>) (see the voltage profiles and
+detailed discussion in <xref ref-type="supplementary-material" rid="S1">Supplementary Fig.
+5</xref>). After 10 cycles, however, all active materials showed stable and
+similar performance, with average capacity values of about 335&#x02009;mAh
+g<sup>&#x02212;1</sup>, 348&#x02009;mAh
+g<sup>&#x02212;1</sup> and 370&#x02009;mAh
+g<sup>&#x02212;1</sup> for SLP30, MUG and
+MUG-Fe<sub>3</sub>O<sub>4</sub>, respectively. However, as specific currents
+higher than 0.2&#x02009;A g<sup>&#x02212;1</sup> were applied,
+commercial graphite suddenly lost its storage capability. The decay of
+electrochemical performance is even more dramatic at higher currents, e.g.,
+1&#x02009;A g<sup>&#x02212;1</sup>, where only about
+80&#x02009;mAh g<sup>&#x02212;1</sup> were delivered by SLP30. In
+comparison, under the same current load, both MUG and
+MUG-Fe<sub>3</sub>O<sub>4</sub> showed a stable behaviour, providing about
+340&#x02009;mAh g<sup>&#x02212;1</sup> and 350&#x02009;mAh
+g<sup>&#x02212;1</sup> at the 50<sup>th</sup> cycle,
+respectively. However, when the applied current was increased to 5&#x02009;A
+g<sup>&#x02212;1</sup>, MUG-Fe<sub>3</sub>O<sub>4</sub>
+substantially outperformed MUG, also. Indeed, at the 10<sup>th</sup> cycle
+at 5&#x02009;A g<sup>&#x02212;1</sup>, an average specific capacity
+of 15&#x02009;mAh g<sup>&#x02212;1</sup>, 180&#x02009;mAh
+g<sup>&#x02212;1</sup> and 265&#x02009;mAh
+g<sup>&#x02212;1</sup> were delivered by SLP30, MUG and
+MUG-Fe<sub>3</sub>O<sub>4</sub>, respectively. Upon prolonged cycling at
+such high current (i.e., after 180 cycles), MUG-Fe<sub>3</sub>O<sub>4</sub>
+offered 258&#x02009;mAh g<sup>&#x02212;1</sup>, i.e., about 99%
+capacity retention respect to the 1<sup>st</sup> cycle performed at 5 A
+g<sup>&#x02212;1</sup>, compared to 165&#x02009;mAh
+g<sup>&#x02212;1</sup> and 18&#x02009;mAh
+g<sup>&#x02212;1</sup> of MUG and commercial graphite, respectively.
+The rather poor performance of the latter material is well explained by the
+voltage profiles in <xref ref-type="fig" rid="f4">Fig. 4c</xref>, highlighting how the ohmic
+drop of SLP30 graphite increased dramatically with the applied current.
+Differently, MUG and MUG-Fe<sub>3</sub>O<sub>4</sub> showed similar behaviour up
+to 1&#x02009;A g<sup>&#x02212;1</sup> while, at 5&#x02009;A
+g<sup>&#x02212;1</sup>, MUG-Fe<sub>3</sub>O<sub>4</sub> achieved
+considerably higher specific capacity. <xref ref-type="fig" rid="f4">Fig. 4d</xref> (upper
+part) displays the evolution of ALVs and ADVs, for the three different active
+material, at different currents. It should be emphasised that ADV, in
+particular, represents a key parameter for an anode material because it relates
+with the energy output of the LIB incorporating it<xref ref-type="bibr" rid="b15">15</xref>. For all the
+three different active materials, at the lowest current applied (i.e.,
+0.1&#x02009;A g<sup>&#x02212;1</sup>), the ALVs and ADVs ranged from
+0.12&#x02009;V&#x02013;0.14&#x02009;V and
+0.17&#x02009;V&#x02013;0.2&#x02009;V, respectively. However, when
+the specific current of 5&#x02009;A g<sup>&#x02212;1</sup> was
+applied, the ADV of SLP30 rise up to 0.7&#x02009;V while the ALV is about
+0.18&#x02009;V. On the contrary, MUG and MUG-Fe<sub>3</sub>O<sub>4</sub>,
+showed ALVs of about 0.13&#x02009;V and 0.10&#x02009;V and ADVs of about
+of 0.30&#x02009;V and 0.24&#x02009;V, respectively. For the same
+selected cycles, the assessment of the voltage efficiency, has been carried out
+too. VE, which is defined as the ratio of ALV and ADV under specific current
+conditions<xref ref-type="bibr" rid="b62">62</xref>, is an excellent tool used to estimate the
+electrode materials&#x02019; impact on the energy efficiency of the battery
+(for Coulombic efficiency&#x02009;&#x0003e;&#x02009;99%)<xref ref-type="bibr" rid="b63">63</xref>. As shown in <xref ref-type="fig" rid="f4">Fig. 4d</xref> (lower part), the VE of SLP30,
+already small at 0.1&#x02009;A g<sup>&#x02212;1</sup> (i.e., 64%),
+reach the lowest value of 26% when the highest specific current is applied.
+Contrarily, both MUG and MUG-Fe<sub>3</sub>O<sub>4</sub> show similar VEs of
+about 82%, 68% and 43% for applied current of 0.1&#x02009;A
+g<sup>&#x02212;1</sup>, 1&#x02009;A
+g<sup>&#x02212;1</sup> and 5&#x02009;A
+g<sup>&#x02212;1</sup>, respectively. To understand the reason
+behind the lower ALV and ADV of MUG-Fe<sub>3</sub>O<sub>4</sub> (i.e., its
+superior ability of storing lithium ions, especially at high currents),
+differential capacity analysis<xref ref-type="bibr" rid="b64">64</xref> has been performed (<xref ref-type="fig" rid="f4">Fig. 4e</xref>). The differential capacity plots of the selected
+cycles in <xref ref-type="fig" rid="f4">Fig. 4c</xref> show features only in the
+0.005&#x02009;V-0.350&#x02009;V range, as this is the potential range
+where the main Li<sup>+</sup> storage mechanisms occurs. Different
+lithiation/delithiation regions could be ascribed to different Li-C
+stoichiometries<xref ref-type="bibr" rid="b65">65</xref><xref ref-type="bibr" rid="b66">66</xref>, as reported in <xref ref-type="supplementary-material" rid="S1">Supplementary Table 1</xref>. Moreover, monitoring
+the polarization of the electrodes, through peaks&#x02019; shifts, the
+influence of the different Li<sup>+</sup> storage mechanisms, on the overall
+electrochemical performance, was identified. With respect to MUG and
+MUG-Fe<sub>3</sub>O<sub>4</sub>, graphite showed significant polarization
+associated to the Li<sup>+</sup> intercalation stages. At 1&#x02009;A
+g<sup>&#x02212;1</sup> SLP30, in fact, lost almost completely the
+typical staging behaviour (see also <xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 6a</xref>). On the contrary, MUG shows a polarization
+similar to MUG-Fe<sub>3</sub>O<sub>4</sub>, and all the peaks are still clearly
+detectable. At the 250<sup>th</sup> cycle (specific current of
+5&#x02009;A g<sup>&#x02212;1</sup>), graphite shows only a flat
+line, thus indicating the complete loss of the staging mechanism (see also <xref ref-type="supplementary-material" rid="S1">Supplementary Fig 6b</xref>), while MUG
+loses the LiC<sub>12</sub>&#x02009;&#x02194;&#x02009;LIC<sub>6</sub>
+staging process. Contrarily, MUG-Fe<sub>3</sub>O<sub>4</sub> still enables all
+lithium intercalation stages, even if they appear largely polarized. This
+explains the higher capacity of MUG-Fe<sub>3</sub>O<sub>4</sub> at
+5&#x02009;A g<sup>&#x02212;1</sup> which, as a matter of fact, still
+exhibits the peaks related to stage I. This fact suggests that, the carved
+paths, together with the presence of metallic Fe nanoparticles, should have a
+beneficial effect on the kinetics of Li<sup>+</sup> intercalation into the
+carved MUG. In order to further understand the influence of both the carved
+paths and the Fe nanoparticles, electrochemical impedance spectroscopy (EIS)
+measurements have been performed on MUG-Fe<sub>3</sub>O<sub>4</sub> and MUG. The
+Nyquist plots displayed in <xref ref-type="fig" rid="f5">Fig. 5a</xref> highlight a similar
+response for the two samples. Both materials feature, indeed, two depressed
+semicircles at high and medium frequencies, which can be associated to the
+diffusion of Li<sup>+</sup> in the SEI (R<sub>SEI</sub> |
+CPE<sub>SEI</sub>) and charge transfer (R<sub>ct</sub> |
+CPE<sub>dl</sub>), respectively. Interestingly, the SEI formed on
+MUG-Fe<sub>3</sub>O<sub>4</sub> appears to be more resistive, as also
+confirmed by the larger activation energy (see <xref ref-type="fig" rid="f5">Fig. 5b</xref>).
+As reported in previous studies<xref ref-type="bibr" rid="b67">67</xref><xref ref-type="bibr" rid="b68">68</xref>, the presence of
+Fe<sup>0</sup> particles might play a catalytic role for the
+decomposition of the electrolyte, thus, leading to the growth of a thicker, but
+more stable SEI. The two samples present comparable activation energies for
+charge transfer (see <xref ref-type="fig" rid="f5">Fig. 5b</xref>), suggesting that the Fe
+nanoparticles do not directly affect this process. However,
+MUG-Fe<sub>3</sub>O<sub>4</sub> interestingly shows a reduced resistance
+compared to the MUG. This might be associated to the presence of the grooves in
+the MUG-Fe<sub>3</sub>O<sub>4</sub>. We indeed propose that, by carving the MUG
+surface, the nanoparticles create additional graphitic edges where
+Li<sup>+</sup> can easily intercalate without affecting the battery
+performance. This peculiar morphology of MUG-Fe<sub>3</sub>O<sub>4</sub> would
+also enable shorter diffusion paths for Li<sup>+</sup> ions (see <xref ref-type="fig" rid="f5">Fig. 5c</xref>). The low frequency behaviour seems to support this
+claim. For both samples, the low frequency tail does not show the typical
+Warburg-like behaviour (&#x003b1;&#x02009;=&#x02009;0.5), but a much
+steeper rise, which can be better fitted with a constant phase element (CPE),
+usually associated to the limit capacitance element<xref ref-type="bibr" rid="b69">69</xref>. This
+indicates for a very minor effect of the Li<sup>+</sup> diffusion in the
+material solid phase on the overall lithiation/delithiation process. With this
+regard, the lower slope of MUG (&#x003b1;&#x02009;=&#x02009;0.85
+compared to &#x003b1;&#x02009;=&#x02009;0.98 for
+MUG-Fe<sub>3</sub>O<sub>4</sub>) suggests higher hindrance to the
+solid-state diffusion.</p><p>Despite the intriguing mechanism and the highly promising results in terms of
+Li<sup>+</sup>-ion storage behaviour, we are aware that gravimetric
+values have only limited relevance when it comes to practical application<xref ref-type="bibr" rid="b15">15</xref>. Therefore, taking into account the electrode densities (<xref ref-type="table" rid="t2">Table 2</xref>), specific volumetric capacities were calculated
+for the three materials (<xref ref-type="table" rid="t3">Table 3</xref>). The combination of
+these results with the ADVs allow us to depict a more realistic scenario about
+their possible use in real LIB applications<xref ref-type="bibr" rid="b15">15</xref>. At the lowest
+specific current (i.e., 0.1&#x02009;A g<sup>&#x02212;1</sup>),
+although it exhibits a smaller gravimetric capacity, graphite provides the
+highest volumetric capacity because of its higher density. At 1&#x02009;A
+g<sup>&#x02212;1</sup>, however, the poor performance of graphite
+leads to its volumetric capacity being only half that of
+MUG-Fe<sub>3</sub>O<sub>4</sub> (40.5&#x02009;Ah
+L<sup>&#x02212;1</sup> vs. 79.0&#x02009;Ah
+L<sup>&#x02212;1</sup>). Additionally, the ADV dramatically
+increases for graphite (0.412&#x02009;V) with respect to MUG and
+MUG-Fe<sub>3</sub>O<sub>4</sub>, showing rather similar values (i.e.,
+0.184&#x02009;V and 0.189&#x02009;V, respectively). At higher currents
+(e.g., 5&#x02009;A g<sup>&#x02212;1</sup>),
+MUG-Fe<sub>3</sub>O<sub>4</sub> outperforms both reference materials,
+providing a volumetric capacity of 58.8&#x02009;Ah
+L<sup>&#x02212;1</sup> and an ADV of 0.244&#x02009;V. On the
+contrary, graphite only delivered 9.6&#x02009;Ah
+L<sup>&#x02212;1</sup> with an ADV of 0.697&#x02009;V. MUG,
+indeed, showed also a rather low ADV (0.303&#x02009;V) but, due to its lower
+density and storage capability than MUG-Fe<sub>3</sub>O<sub>4</sub>, also a
+limited volumetric capacity (33.7&#x02009;Ah
+L<sup>&#x02212;1</sup>).</p></sec></sec><sec disp-level="1"><title>Discussion</title><p>Carved multilayer graphene with nested Fe<sub>3</sub>O<sub>4</sub> nanoparticles has
+been synthesized through an innovative synthetic pathway. The characteristic
+structure and morphology of this material has been widely investigated proving its
+peculiarity in terms of structural arrangement between the
+Fe<sub>3</sub>O<sub>4</sub> nanoparticles and the multilayer graphene matrix.
+Its use as LIB anode revealed enhanced Li<sup>+</sup> storage properties of this
+material compared to multilayer graphene and commercial graphite. As evidenced by
+the differential capacity analysis and EIS measurements, the key role in the
+advanced battery performance of the composite, is played by: (i) the carved
+structure of the multilayer graphene and, (ii) the confinement, upon cycling of
+metallic iron nanoparticles. Indeed, remarkable high values of specific volumetric
+capacity of 58.8&#x02009;Ah L<sup>&#x02212;1</sup> and low average
+delithiation voltage of 0.244&#x02009;V have been achieved upon applied
+lithiation/delithiation current of 5&#x02009;A
+g<sup>&#x02212;1</sup>.</p></sec><sec disp-level="1"><title>Methods</title><sec disp-level="2"><title>Synthesis of carved multilayer graphene with
+nested-Fe<sub>3</sub>O<sub>4</sub> nanoparticles</title><p>The EG-EMIMAc dispersion was prepared by mixing 1.5&#x02009;g of expanded
+graphite (EG, SGL Carbon) and 155.5&#x02009;g of 1-ethyl-3-methylimidazolium
+acetate (EMIMAc, Ionic Liquids Technologies GmbH) using a Hielscher Ultrasonic
+Processor UP400S equipped with a Sonotrode H7 probe and operating in continuous
+at full amplitude for 35&#x02009;hours. An ice bath was used in order to
+avoid excessive heating of the dispersion upon ultrasonication. Afterwards,
+15.0&#x02009;g of the EG-EMIMAc dispersion was mixed with a 4.5% w/w
+solution of iron acetate-EMIMAc, and left to stir overnight at
+700&#x02009;rpm. The iron precursor solution was obtained by dissolving
+2.6&#x02009;g of iron (II) acetate (Alfa Aesar) in 55.8&#x02009;g of
+EMIMAc under stirring condition (700&#x02009;rpm) for 1&#x02009;hour at
+80&#x02009;&#x000b0;C. The dispersion was placed inside a borosilicate
+glass reaction vials and exposed to microwave irradiation using an Anton Paar
+Monowave 300 microwave reactor using the procedure &#x0201c;heat as fast as
+possible&#x0201d; until the temperature of 230&#x02009;&#x000b0;C
+was reached. The temperature was held for 180&#x02009;s before cooling down
+to 40&#x02009;&#x000b0;C. The solid product was separated from the
+residual ionic liquid through vacuum filtration using Fluoropore&#x02122;
+PTFE filter membranes (pore size 0.22 &#x000b5;m, diam. 47&#x02009;mm)
+and rinsed with ultrapure water (Milli Q). The composite was finally obtained
+after a final thermal annealing step at 800&#x02009;&#x000b0;C for
+3&#x02009;h in Ar atmosphere (heating rate: 5&#x02009;&#x000b0;C
+min<sup>&#x02212;1</sup>). Fe<sub>3</sub>O<sub>4</sub> or MUG were
+obtained applying the same procedure but using only the iron precursor solution
+or the graphite dispersion, respectively.</p></sec><sec disp-level="2"><title>Physicochemical characterizations</title><p>SEM micrographs were collected with a ZEISS LEO 1550VP Field Emission Scanning
+Electron Microscope after Pt sputtering of the samples. XRD patterns were
+recorded by a Bruker D8 Advance diffractometer equipped with a CuK&#x003b1;
+source (&#x003bb;&#x02009;=&#x02009;0.154&#x02009;nm) in the
+10&#x02013;80 2 Theta degree range measuring with a focusing Goebel mirror.
+TEM characterizations were carried out using an aberration (image) corrected FEI
+Titan 80&#x02013;300 operated at 80&#x02009;kV and 300&#x02009;kV
+equipped with a Gatan imaging filter (Tridiem 863). For (S)TEM measurements,
+samples were prepared by dispersing a small amount of powder directly onto holey
+carbon Au grids (Quantifoil GmbH). EDX-EELS Elemental mapping was performed in
+scanning transmission electron microscopy (STEM) mode with drift correction. For
+the composition maps, Hartree-Slater cross-section model
+(283.9&#x02013;337.9&#x02009;eV for C K-edge and
+521.5&#x02013;561.4&#x02009;eV for O K-edge) was used for signal
+quantification of C K-edge and O K-edge, whereas Hydrogenic w/ WL model
+(708.1&#x02013;748.0&#x02009;eV for Fe L<sub>2,3</sub>) has been
+employed for Fe. A Power law model has been used for the correction of
+background for all the three elements (224.5&#x02013;279.7&#x02009;eV
+for C K-edge, 446.2&#x02013;516.4&#x02009;eV for O K-edge and
+631.9&#x02013;694.0&#x02009;eV for Fe L<sub>2,3</sub>). TGA analyses
+were conducted at scan rate of 5&#x02009;&#x000b0;C
+min<sup>&#x02212;1</sup> under O<sub>2</sub> atmosphere using a TA
+Instruments Q 5000. Specific surface area and pore size distribution were
+measured by nitrogen adsorption and calculated according to the BET and BJH
+theories (Autosorb IQ, Quantachrome Instruments). CHNS analyses were performed
+using an elementar vario MICRO cube micro-analyzer. ICP measurements were
+carried out using an ULTIMA 2 ICP-OES spectrometer.</p></sec><sec disp-level="2"><title>Electrodes preparation</title><p>The working electrodes were prepared by casting water-based slurries consisting
+of 80&#x02009;wt.% active material, 10&#x02009;wt.% sodium carboxymethyl
+cellulose (Walocel CRT 2000 PA, Dow Wolff Cellulosics) and 10&#x02009;wt.%
+conductive carbon (Super C65, from Imerys Graphite and Carbon). After
+homogenizing the dispersion in an agate mortar for 15&#x02009;minutes, the
+obtained slurry was casted on dendritic copper foil (Schlenk, 99.9%) with a wet
+film thickness of 120&#x02009;&#x003bc;m. The electrode layer was dried
+overnight at 80&#x02009;&#x000b0;C and subsequently punched to disc
+electrodes (&#x000f8;&#x02009;=&#x02009;12&#x02009;mm). Finally,
+the electrodes were further dried in a glass oven under vacuum at
+180&#x02009;&#x000b0;C for at least 8&#x02009;h. The electrodes
+average active material mass loading was 1&#x02009;mg
+cm<sup>&#x02212;2</sup>.</p></sec><sec disp-level="2"><title>Electrochemical characterizations</title><p>Electrochemical tests were carried out using 3-electrodes Swagelok T-cell
+assembled in an Ar filled glovebox (MBraun) with O<sub>2</sub> and
+H<sub>2</sub>O levels&#x02009;&#x0003c;&#x02009;0.1&#x02009;ppm.
+Lithium metal foil (from Rockwood Lithium) was used as counter and reference
+electrode. Glass fibre filter separator (WhatmanGf/D) drenched with
+1&#x02009;M LiPF<sub>6</sub> in EC:DMC 1:1&#x02009;w/w electrolytic
+solution was employed as electrolyte (120&#x02009;&#x003bc;L for each
+assembled cell). The electrochemical tests, galvanostatic charge/discharge
+cycles, were performed in two different potential ranges (from
+0.005&#x02009;V to 3&#x02009;V vs. Li/Li<sup>+</sup> and from
+0.005&#x02009;V to 1&#x02009;V vs. Li/Li<sup>+</sup>) using a Maccor
+Battery Tester 4300 at
+20&#x02009;&#x000b1;&#x02009;1&#x02009;&#x000b0;C. Different
+specific currents, ranging from 0.1&#x02009;A g<sup>&#x02212;1</sup>
+to 50 A g<sup>&#x02212;1</sup> were applied. Cyclic voltammetry tests
+were carried out with a scan rate of 5&#x02009;mV
+s<sup>&#x02212;1</sup> in a
+0.005&#x02009;V&#x02013;3&#x02009;V potential range using a VMP3
+galvanostat/potentiostat by Bio-Logic (France). The same instrumentation was
+used to acquire the electrochemical impedance spectra (sinus amplitude:
+5&#x02009;mV; frequency range: 1&#x02009;MHz-10&#x02009;mHz) at
+different temperatures (in a MK 53 climatic chamber from Binder). Prior to
+collecting the impedance spectra, the electrodes were subject to a
+charge/discharge cycle at at 20&#x02009;&#x000b0;C and 0.1&#x02009;A
+g<sup>&#x02212;1</sup> (lithiation down to 5&#x02009;mV and
+delithiation to 1&#x02009;V vs. Li/Li<sup>+</sup>) to ensure full
+formation, followed by reduction up to 0.11&#x02009;V vs.
+Li/Li<sup>+</sup> and a 2&#x02009;h rest step.</p></sec><sec disp-level="2"><title>Electrode density calculations</title><p>The electrodes density was calculated by considering the volume of the coating
+layer (without the current collector) and active material mass only (no
+conductive additive and binder considered).</p></sec><sec disp-level="2"><title>Average voltage calculations</title><p>The average lithiation and delithiation voltage was obtained by the integral of
+the voltage profiles (energy) divided by the specific gravimetric capacity.</p></sec></sec><sec disp-level="1"><title>Additional Information</title><p><bold>How to cite this article</bold>: Raccichini, R. <italic>et al.</italic> Boosting the power
+performance of multilayer graphene as lithium-ion battery anode via unconventional
+doping with in-situ formed Fe nanoparticles. <italic>Sci. Rep.</italic>
+<bold>6</bold>, 23585; doi: 10.1038/srep23585 (2016).</p></sec><sec sec-type="supplementary-material" id="S1"><title>Supplementary Material</title><supplementary-material id="d33e24" content-type="local-data"><caption><title>Supplementary Information</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep23585-s1.pdf"/></supplementary-material></sec></body><back><ack><p>R.R., A.V. and S.P. acknowledge the financial support of Bundesministerium
+f&#x000fc;r Bildung und Forschung (BMBF) within the project &#x02018;IES,
+Innovative Elektrochemische Superkondensatoren&#x02019; (contract number
+03EK3010). C.V. acknowledges the discussions with Xiaoke Mu on EELS quantification.
+V.S.K.C. thanks Dr. Christian K&#x000fc;bel and Prof. Dr. Horst Hahn for their
+continuous support. R.R. thanks Dr. Guinevre Giffin for the productive discussions.
+All the authors acknowledge the support by the Karlsruhe Nano Micro Facility (KNMF),
+a Helmholtz user facility operated at Karlsruhe Institute of Technology (KIT), for
+electron microscopy and spectroscopy. Last but not least, they would like to thank
+Imerys Graphite &#x00026; Carbon, SGL carbon, IoLiTec-Ionic Liquids Technologies
+GmbH, and Dow Wolff Cellulosics, for providing the materials necessary for such
+study.</p></ack><ref-list><ref id="b1"><mixed-citation publication-type="journal"><name><surname>Geim</surname><given-names>A. K.</given-names></name> &#x00026;
+<name><surname>Novoselov</surname><given-names>K. S.</given-names></name>
+<article-title>The rise of graphene</article-title>. <source>Nat. Mater.</source>
+<volume>6</volume>, <fpage>183</fpage>&#x02013;<lpage>191</lpage> (<year>2007</year>).<pub-id pub-id-type="pmid">17330084</pub-id></mixed-citation></ref><ref id="b2"><mixed-citation publication-type="journal"><name><surname>Peled</surname><given-names>E.</given-names></name>, <name><surname>Menachem</surname><given-names>C.</given-names></name>, <name><surname>Bar-Tow</surname><given-names>D.</given-names></name>
+&#x00026; <name><surname>Melman</surname><given-names>A.</given-names></name>
+<article-title>Improved Graphite Anode for Lithium-Ion Batteries</article-title>. <source>J.
+Electrochem. Soc.</source>
+<volume>143</volume>, <fpage>L4</fpage>&#x02013;<lpage>L7</lpage> (<year>1996</year>).</mixed-citation></ref><ref id="b3"><mixed-citation publication-type="journal"><name><surname>Yoo</surname><given-names>E.</given-names></name>, <name><surname>Kim</surname><given-names>J.</given-names></name>, <name><surname>Hosono</surname><given-names>E.</given-names></name>, <name><surname>Zhou</surname><given-names>H.-S.</given-names></name> &#x00026; <name><surname>Kudo</surname><given-names>T.</given-names></name>, <article-title>I. H. Large reversible Li storage of graphene
+nanosheet families for use in rechargeable lithium ion batteries</article-title>.
+<source>Nano Lett.</source>
+<volume>8</volume>, <fpage>2277</fpage>&#x02013;<lpage>2282</lpage> (<year>2008</year>).<pub-id pub-id-type="pmid">18651781</pub-id></mixed-citation></ref><ref id="b4"><mixed-citation publication-type="journal"><name><surname>Raccichini</surname><given-names>R.</given-names></name>,
+<name><surname>Varzi</surname><given-names>A.</given-names></name>, <name><surname>Passerini</surname><given-names>S.</given-names></name> &#x00026; <name><surname>Scrosati</surname><given-names>B.</given-names></name>
+<article-title>The role of graphene for electrochemical energy storage</article-title>. <source>Nat.
+Mater.</source>
+<volume>14</volume>, <fpage>271</fpage>&#x02013;<lpage>279</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">25532074</pub-id></mixed-citation></ref><ref id="b5"><mixed-citation publication-type="journal"><name><surname>Loeffler</surname><given-names>N.</given-names></name>,
+<name><surname>Bresser</surname><given-names>D.</given-names></name> &#x00026;
+<name><surname>Passerini</surname><given-names>S.</given-names></name>
+<article-title>Secondary Lithium-Ion Battery Anodes: From First Commercial Batteries to
+Recent Research Activities Addressing the challenges in rechargeable
+lithium-ion battery technologies</article-title>. <source>Johnson Matthey Technol.
+Rev.</source>
+<volume>59</volume>, <fpage>34</fpage>&#x02013;<lpage>44</lpage> (<year>2015</year>).</mixed-citation></ref><ref id="b6"><mixed-citation publication-type="journal"><name><surname>Sato</surname><given-names>K.</given-names></name>, <name><surname>Noguchi</surname><given-names>M.</given-names></name>, <name><surname>Demachi</surname><given-names>A.</given-names></name>,
+<name><surname>Oki</surname><given-names>N.</given-names></name> &#x00026;
+<name><surname>Endo</surname><given-names>M.</given-names></name>
+<article-title>A mechanism of lithium storage in disordered carbons</article-title>.
+<source>Science</source>
+<volume>264</volume>, <fpage>556</fpage>&#x02013;<lpage>558</lpage> (<year>1994</year>).<pub-id pub-id-type="pmid">17732740</pub-id></mixed-citation></ref><ref id="b7"><mixed-citation publication-type="journal"><name><surname>Liu</surname><given-names>Y.</given-names></name>, <name><surname>Xue</surname><given-names>J.
+S.</given-names></name>, <name><surname>Zheng</surname><given-names>T.</given-names></name>
+&#x00026; <name><surname>Dahn</surname><given-names>J. R.</given-names></name>
+<article-title>Mechanism of lithium insertion in hard carbons prepared by pyrolysis of
+epoxy resins</article-title>. <source>Carbon</source>
+<volume>34</volume>, <fpage>193</fpage>&#x02013;<lpage>200</lpage> (<year>1996</year>).</mixed-citation></ref><ref id="b8"><mixed-citation publication-type="journal"><name><surname>Tossici</surname><given-names>R.</given-names></name>, <name><surname>Janot</surname><given-names>R.</given-names></name>, <name><surname>Nobili</surname><given-names>F.</given-names></name>,
+<name><surname>Gu&#x000e8;rard</surname><given-names>D.</given-names></name> &#x00026;
+<name><surname>Marassi</surname><given-names>R.</given-names></name>
+<article-title>Electrochemical behavior of superdense
+&#x02018;LiC<sub>2</sub>&#x02019; prepared by ball-milling</article-title>.
+<source>Electrochim. Acta</source>
+<volume>48</volume>, <fpage>1419</fpage>&#x02013;<lpage>1424</lpage> (<year>2003</year>).</mixed-citation></ref><ref id="b9"><mixed-citation publication-type="journal"><name><surname>Pollak</surname><given-names>E.</given-names></name>
+<italic>et al.</italic>
+<article-title>The interaction of Li<sup>+</sup> with single-layer and few-layer
+graphene</article-title>. <source>Nano Lett.</source>
+<volume>10</volume>, <fpage>3386</fpage>&#x02013;<lpage>3388</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20677788</pub-id></mixed-citation></ref><ref id="b10"><mixed-citation publication-type="journal"><name><surname>Dreyer</surname><given-names>D. R.</given-names></name>, <name><surname>Park</surname><given-names>S.</given-names></name>, <name><surname>Bielawski</surname><given-names>C.
+W.</given-names></name> &#x00026; <name><surname>Ruoff</surname><given-names>R. S.</given-names></name>
+<article-title>The chemistry of graphene oxide</article-title>. <source>Chem. Soc. Rev.</source>
+<volume>39</volume>, <fpage>228</fpage>&#x02013;<lpage>240</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20023850</pub-id></mixed-citation></ref><ref id="b11"><mixed-citation publication-type="journal"><name><surname>Liu</surname><given-names>J.</given-names></name>
+<article-title>Charging graphene for energy</article-title>. <source>Nat. Nanotechnol</source>.
+<volume>9</volume>, <fpage>739</fpage>&#x02013;<lpage>741</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25286262</pub-id></mixed-citation></ref><ref id="b12"><mixed-citation publication-type="journal"><name><surname>Bianco</surname><given-names>A.</given-names></name>
+<italic>et al.</italic>
+<article-title>All in the graphene family &#x02013; A recommended nomenclature for
+two-dimensional carbon materials</article-title>. <source>Carbon</source>
+<volume>65</volume>, <fpage>1</fpage>&#x02013;<lpage>6</lpage> (<year>2013</year>).</mixed-citation></ref><ref id="b13"><mixed-citation publication-type="journal"><name><surname>Winter</surname><given-names>M.</given-names></name>,
+<name><surname>Besenhard</surname><given-names>J. O.</given-names></name>,
+<name><surname>Spahr</surname><given-names>M. E.</given-names></name> &#x00026;
+<name><surname>Nov&#x000e1;k</surname><given-names>P.</given-names></name>
+<article-title>Insertion electrode materials for rechargeable lithium batteries</article-title>.
+<source>Adv. Mater.</source>
+<volume>10</volume>, <fpage>725</fpage>&#x02013;<lpage>763</lpage> (<year>1998</year>).</mixed-citation></ref><ref id="b14"><mixed-citation publication-type="journal"><name><surname>Scrosati</surname><given-names>B.</given-names></name> &#x00026;
+<name><surname>Garche</surname><given-names>J.</given-names></name>
+<article-title>Lithium batteries: status, prospects and future</article-title>. <source>J. Power
+Sources</source>
+<volume>195</volume>, <fpage>2419</fpage>&#x02013;<lpage>2430</lpage> (<year>2010</year>).</mixed-citation></ref><ref id="b15"><mixed-citation publication-type="journal"><name><surname>Obrovac</surname><given-names>M. N.</given-names></name> &#x00026;
+<name><surname>Chevrier</surname><given-names>V. L.</given-names></name>
+<article-title>Alloy negative electrodes for Li-ion batteries</article-title>. <source>Chem. Rev.</source>
+<volume>114</volume>, <fpage>11444</fpage>&#x02013;<lpage>11502</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25399614</pub-id></mixed-citation></ref><ref id="b16"><mixed-citation publication-type="journal"><name><surname>Raccichini</surname><given-names>R.</given-names></name>
+<italic>et al.</italic>
+<article-title>Enhanced low-temperature lithium storage performance of multilayer graphene
+made through an improved ionic liquid-assisted synthesis</article-title>. <source>J.
+Power Sources</source>
+<volume>281</volume>, <fpage>318</fpage>&#x02013;<lpage>325</lpage> (<year>2015</year>).</mixed-citation></ref><ref id="b17"><mixed-citation publication-type="journal"><name><surname>Thackeray</surname><given-names>M. M.</given-names></name>,
+<name><surname>David</surname><given-names>W. I. F.</given-names></name> &#x00026;
+<name><surname>Goodenough</surname><given-names>J. B.</given-names></name><article-title>
+characterization of the lithiated iron oxides
+Li<sub>x</sub>Fe<sub>3</sub>O<sub>4</sub> and
+Li<sub>x</sub>Fe<sub>2</sub>O<sub>3</sub>
+(0&#x02009;&#x0003c;&#x02009;x&#x02009;&#x0003c;&#x02009;2).</article-title>
+<source>Mater. Res. Bull</source>. <volume>17</volume>,
+<fpage>785</fpage>&#x02013;<lpage>793</lpage> (<year>1982</year>).</mixed-citation></ref><ref id="b18"><mixed-citation publication-type="journal"><name><surname>Raccichini</surname><given-names>R.</given-names></name>,
+<name><surname>Varzi</surname><given-names>A.</given-names></name>, <name><surname>Balducci</surname><given-names>A.</given-names></name> &#x00026; <name><surname>Passerini</surname><given-names>S.</given-names></name>
+<article-title>Method of producing graphene by exfoliation of graphite</article-title>.
+<source>PCT/EP2014/054232</source> (<year>2014</year>).</mixed-citation></ref><ref id="b19"><mixed-citation publication-type="journal"><name><surname>Zhang</surname><given-names>L.</given-names></name>, <name><surname>Wu</surname><given-names>H. Bin</given-names></name> &#x00026; <name><surname>Lou</surname><given-names>X. W.
+D.</given-names></name>
+<article-title>Iron-Oxide-Based Advanced Anode Materials for Lithium-Ion Batteries</article-title>.
+<source>Adv. Energy Mater</source>. <volume>4</volume>,
+<fpage>1300958</fpage>&#x02013;<lpage>1300969</lpage> (<year>2014</year>).</mixed-citation></ref><ref id="b20"><mixed-citation publication-type="journal"><name><surname>Wang</surname><given-names>Z.</given-names></name> &#x00026;
+<name><surname>Liu</surname><given-names>C.-J.</given-names></name>
+<article-title>Preparation and application of iron oxide/graphene based composites for
+electrochemical energy storage and energy conversion devices: Current status
+and perspective</article-title>. <source>Nano Energy</source>
+<volume>11</volume>, <fpage>277</fpage>&#x02013;<lpage>293</lpage> (<year>2015</year>).</mixed-citation></ref><ref id="b21"><mixed-citation publication-type="journal"><name><surname>Bang</surname><given-names>J. H.</given-names></name> &#x00026;
+<name><surname>Suslick</surname><given-names>K. S.</given-names></name>
+<article-title>Applications of ultrasound to the synthesis of nanostructured
+materials</article-title>. <source>Adv. Mater.</source>
+<volume>22</volume>, <fpage>1039</fpage>&#x02013;<lpage>1059</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20401929</pub-id></mixed-citation></ref><ref id="b22"><mixed-citation publication-type="journal"><name><surname>Chatel</surname><given-names>G.</given-names></name> &#x00026;
+<name><surname>MacFarlane</surname><given-names>D. R.</given-names></name>
+<article-title>Ionic liquids and ultrasound in combination: synergies and
+challenges</article-title>. <source>Chem. Soc. Rev.</source>
+<volume>43</volume>, <fpage>8132</fpage>&#x02013;<lpage>8149</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25198613</pub-id></mixed-citation></ref><ref id="b23"><mixed-citation publication-type="journal"><name><surname>Zhou</surname><given-names>G.</given-names></name>
+<italic>et al.</italic>
+<article-title>Graphene-wrapped Fe<sub>3</sub>O<sub>4</sub> anode material with improved
+reversible capacity and cyclic stability for lithium ion batteries</article-title>.
+<source>Chem. Mater.</source>
+<volume>22</volume>, <fpage>5306</fpage>&#x02013;<lpage>5313</lpage> (<year>2010</year>).</mixed-citation></ref><ref id="b24"><mixed-citation publication-type="journal"><name><surname>Wang</surname><given-names>J. Z.</given-names></name>
+<italic>et al.</italic>
+<article-title>Graphene-encapsulated Fe<sub>3</sub>O<sub>4</sub> nanoparticles with 3D
+laminated structure as superior anode in lithium ion batteries</article-title>.
+<source>Chemistry (Easton)</source>. <volume>17</volume>,
+<fpage>661</fpage>&#x02013;<lpage>667</lpage> (<year>2011</year>).</mixed-citation></ref><ref id="b25"><mixed-citation publication-type="journal"><name><surname>Lian</surname><given-names>P.</given-names></name>
+<italic>et al.</italic>
+<article-title>Enhanced cycling performance of Fe<sub>3</sub>O<sub>4</sub>-graphene
+nanocomposite as an anode material for lithium-ion batteries</article-title>.
+<source>Electrochim. Acta</source>
+<volume>56</volume>, <fpage>834</fpage>&#x02013;<lpage>840</lpage> (<year>2010</year>).</mixed-citation></ref><ref id="b26"><mixed-citation publication-type="journal"><name><surname>Zhang</surname><given-names>M.</given-names></name>
+<italic>et al.</italic>
+<article-title>Magnetite/graphene composites: microwave irradiation synthesis and enhanced
+cycling and rate performances for lithium ion batteries</article-title>. <source>J.
+Mater. Chem.</source>
+<volume>20</volume>, <fpage>5538</fpage>&#x02013;<lpage>5543</lpage> (<year>2010</year>).</mixed-citation></ref><ref id="b27"><mixed-citation publication-type="journal"><name><surname>Li</surname><given-names>B.</given-names></name>, <name><surname>Cao</surname><given-names>H.</given-names></name>, <name><surname>Shao</surname><given-names>J.</given-names></name>,
+<name><surname>Qu</surname><given-names>M.</given-names></name> &#x00026;
+<name><surname>Warner</surname><given-names>J. H.</given-names></name>
+<article-title>Superparamagnetic Fe<sub>3</sub>O<sub>4</sub>
+nanocrystals@graphene composites for energy storage
+devices</article-title>. <source>J. Mater. Chem.</source>
+<volume>21</volume>, <fpage>5069</fpage> (<year>2011</year>).</mixed-citation></ref><ref id="b28"><mixed-citation publication-type="journal"><name><surname>Shang</surname><given-names>C.</given-names></name>
+<italic>et al.</italic>
+<article-title>One-pot <italic>in situ</italic> molten salt synthesis of octahedral
+Fe<sub>3</sub>O<sub>4</sub> for efficient microwave absorption
+application</article-title>. <source>RSC Adv</source>. <volume>5</volume>,
+<fpage>80450</fpage>&#x02013;<lpage>80456</lpage> (<year>2015</year>).</mixed-citation></ref><ref id="b29"><mixed-citation publication-type="journal"><name><surname>Mart&#x000ed;nez-Palou</surname><given-names>R.</given-names></name>
+<article-title>Microwave-assisted synthesis using ionic liquids</article-title>. <source>Mol.
+Divers.</source>
+<volume>14</volume>, <fpage>3</fpage>&#x02013;<lpage>25</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">19507045</pub-id></mixed-citation></ref><ref id="b30"><mixed-citation publication-type="journal"><name><surname>Niederberger</surname><given-names>M.</given-names></name> &#x00026;
+<name><surname>Pinna</surname><given-names>N.</given-names></name>
+<source>Metal oxide nanoparticles in organic solvents</source>. (Springer, <year>2009</year>).</mixed-citation></ref><ref id="b31"><mixed-citation publication-type="journal"><name><surname>Kang</surname><given-names>X.</given-names></name>, <name><surname>Sun</surname><given-names>X.</given-names></name> &#x00026; <name><surname>Han</surname><given-names>B.</given-names></name>
+<article-title>Synthesis of Functional Nanomaterials in Ionic Liquids</article-title>. <source>Adv.
+Mater.</source>
+<volume>28</volume>, <fpage>1011</fpage>&#x02013;<lpage>1030</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26523610</pub-id></mixed-citation></ref><ref id="b32"><mixed-citation publication-type="journal"><name><surname>Alonzo-Medina</surname><given-names>G. M.</given-names></name>,
+<name><surname>Gonz&#x000e1;lez-Gonz&#x000e1;lez</surname><given-names>A.</given-names></name>, <name><surname>Saced&#x000f3;n</surname><given-names>J.
+L.</given-names></name> &#x00026; <name><surname>Oliva</surname><given-names>A.
+I.</given-names></name>
+<article-title>Understanding the thermal annealing process on metallic thin films</article-title>.
+<source>IOP Conf. Ser. Mater. Sci. Eng.</source>
+<volume>45</volume>, <fpage>012013</fpage> (<year>2013</year>).</mixed-citation></ref><ref id="b33"><mixed-citation publication-type="journal"><name><surname>Zhang</surname><given-names>T.</given-names></name>, <name><surname>Li</surname><given-names>X.</given-names></name> &#x00026; <name><surname>Gao</surname><given-names>H.</given-names></name>
+<article-title>Fracture of graphene: a review</article-title>. <source>Int. J. Fract</source>. (<year>2015</year>). doi:
+<pub-id pub-id-type="doi">10.1007/s10704-015-0039-9</pub-id></mixed-citation></ref><ref id="b34"><mixed-citation publication-type="journal"><name><surname>Banks</surname><given-names>C. E.</given-names></name> &#x00026;
+<name><surname>Compton</surname><given-names>R. G.</given-names></name>
+<article-title>New electrodes for old: from carbon nanotubes to edge plane pyrolytic
+graphite</article-title>. <source>Analyst</source>
+<volume>131</volume>, <fpage>15</fpage>&#x02013;<lpage>21</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">16425467</pub-id></mixed-citation></ref><ref id="b35"><mixed-citation publication-type="journal"><name><surname>Ci</surname><given-names>L.</given-names></name>
+<italic>et al.</italic>
+<article-title>Controlled nanocutting of graphene</article-title>. <source>Nano Res</source>.
+<volume>1</volume>, <fpage>116</fpage>&#x02013;<lpage>122</lpage> (<year>2008</year>).</mixed-citation></ref><ref id="b36"><mixed-citation publication-type="journal"><name><surname>Ci</surname><given-names>L.</given-names></name>
+<italic>et al.</italic>
+<article-title>Graphene Shape Control by Multistage Cutting and Transfer</article-title>. <source>Adv.
+Mater.</source>
+<volume>21</volume>, <fpage>4487</fpage>&#x02013;<lpage>4491</lpage> (<year>2009</year>).</mixed-citation></ref><ref id="b37"><mixed-citation publication-type="journal"><name><surname>Lukas</surname><given-names>M.</given-names></name>
+<italic>et al.</italic>
+<article-title>Catalytic subsurface etching of nanoscale channels in graphite</article-title>.
+<source>Nat. Commun.</source>
+<volume>4</volume>, <fpage>1379</fpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23340419</pub-id></mixed-citation></ref><ref id="b38"><mixed-citation publication-type="journal"><name><surname>Soneda</surname><given-names>Y.</given-names></name> &#x00026;
+<name><surname>Hatori</surname><given-names>H.</given-names></name>
+<article-title>Formation of Rhombohedral Crystallite in Platelet Graphite
+Nanofibers</article-title>. in <source>Int. Conf. Carbon</source>
+<fpage>1940</fpage>&#x02013;<lpage>1942</lpage> (<year>2007</year>).</mixed-citation></ref><ref id="b39"><mixed-citation publication-type="journal"><name><surname>Seehra</surname><given-names>M. S.</given-names></name>,
+<name><surname>Geddam</surname><given-names>U. S.</given-names></name>,
+<name><surname>Schwegler-Berry</surname><given-names>D.</given-names></name> &#x00026;
+<name><surname>Stefaniak</surname><given-names>A. B.</given-names></name>
+<article-title>Detection and quantification of 2H and 3R phases in commercial
+graphene-based materials</article-title>. <source>Carbon</source>
+<volume>95</volume>, <fpage>818</fpage>&#x02013;<lpage>823</lpage> (<year>2015</year>).</mixed-citation></ref><ref id="b40"><mixed-citation publication-type="journal"><name><surname>Fayos</surname><given-names>J.</given-names></name>
+<article-title>Possible 3D Carbon Structures as Progressive Intermediates in Graphite to
+Diamond Phase Transition</article-title>. <source>J. Solid State Chem.</source>
+<volume>148</volume>, <fpage>278</fpage>&#x02013;<lpage>285</lpage> (<year>1999</year>).</mixed-citation></ref><ref id="b41"><mixed-citation publication-type="journal"><name><surname>Franklin</surname><given-names>R. E.</given-names></name>
+<article-title>Crystallite growth in graphitizing and non-graphitizing carbons</article-title>.
+<source>Proc. R. Soc. London A</source>
+<volume>209</volume>, <fpage>196</fpage>&#x02013;<lpage>218</lpage> (<year>1951</year>).</mixed-citation></ref><ref id="b42"><mixed-citation publication-type="journal"><name><surname>Harris</surname><given-names>P. J. F.</given-names></name>
+<article-title>New Perspectives on the Structure of Graphitic Carbons</article-title>. <source>Crit.
+Rev. Solid State Mater. Sci.</source>
+<volume>30</volume>, <fpage>235</fpage>&#x02013;<lpage>253</lpage> (<year>2005</year>).</mixed-citation></ref><ref id="b43"><mixed-citation publication-type="journal"><name><surname>Faber</surname><given-names>K.</given-names></name>,
+<name><surname>Badaczewski</surname><given-names>F.</given-names></name>,
+<name><surname>Ruland</surname><given-names>W.</given-names></name> &#x00026;
+<name><surname>Smarsly</surname><given-names>B. M.</given-names></name>
+<article-title>Investigation of the Microstructure of Disordered, Non-graphitic Carbons by
+an Advanced Analysis Method for Wide-Angle X-ray Scattering</article-title>.
+<source>Zeitschrift f&#x000fc;r Anorg. und Allg. Chemie</source>
+<volume>640</volume>, <fpage>3107</fpage>&#x02013;<lpage>3117</lpage> (<year>2014</year>).</mixed-citation></ref><ref id="b44"><mixed-citation publication-type="journal"><name><surname>Ivanovskii.</surname><given-names>A. L.</given-names></name>
+<article-title>Graphene-based and graphene-like materials</article-title>. <source>Russ. Chem.
+Rev.</source>
+<volume>81</volume>, <fpage>571</fpage>&#x02013;<lpage>605</lpage> (<year>2012</year>).</mixed-citation></ref><ref id="b45"><mixed-citation publication-type="journal"><name><surname>Finger</surname><given-names>L. W.</given-names></name>, <name><surname>Hazen</surname><given-names>R. M.</given-names></name> &#x00026; <name><surname>Hofmeister</surname><given-names>A.
+M.</given-names></name>
+<article-title>High-Pressure crystal chemistry of spinel (MgAl<sub>2</sub>O<sub>4</sub>)
+and magnetite (Fe<sub>3</sub>O<sub>4</sub>): Comparisons with silicate
+spinels</article-title>. <source>Phys. Chem. Miner.</source>
+<volume>13</volume>, <fpage>215</fpage>&#x02013;<lpage>220</lpage> (<year>1986</year>).</mixed-citation></ref><ref id="b46"><mixed-citation publication-type="journal"><name><surname>Son</surname><given-names>I. H.</given-names></name>
+<italic>et al.</italic>
+<article-title>Silicon carbide-free graphene growth on silicon for lithium-ion battery
+with high volumetric energy density</article-title>. <source>Nat. Commun.</source>
+<volume>6</volume>, <fpage>7393</fpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26109057</pub-id></mixed-citation></ref><ref id="b47"><mixed-citation publication-type="journal"><name><surname>Clough</surname><given-names>M. T.</given-names></name>, <name><surname>Geyer</surname><given-names>K.</given-names></name>, <name><surname>Hunt</surname><given-names>P. a</given-names></name>,
+<name><surname>Mertes</surname><given-names>J.</given-names></name> &#x00026;
+<name><surname>Welton</surname><given-names>,. T.</given-names></name><article-title> Thermal
+decomposition of carboxylate ionic liquids: trends and
+mechanism</article-title>s.<source>Phys. Chem. Chem. Phys</source>. <volume>15</volume>,
+<fpage>20480</fpage>&#x02013;<lpage>20495</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">24173605</pub-id></mixed-citation></ref><ref id="b48"><mixed-citation publication-type="journal"><name><surname>Zhang</surname><given-names>S.</given-names></name>, <name><surname>Dokko</surname><given-names>K.</given-names></name> &#x00026; <name><surname>Watanabe</surname><given-names>M.</given-names></name>
+<article-title>Carbon materialization of ionic liquids: from solvents to materials</article-title>.
+<source>Mater. Horizons</source>
+<volume>2</volume>, <fpage>168</fpage>&#x02013;<lpage>197</lpage> (<year>2015</year>).</mixed-citation></ref><ref id="b49"><mixed-citation publication-type="journal"><name><surname>Reddy</surname><given-names>M. A.</given-names></name>
+<italic>et al.</italic>
+<article-title>CFx Derived Carbon-FeF<sub>2</sub> Nanocomposites for Reversible Lithium
+Storage</article-title>. <source>Adv. Energy Mater</source>. <volume>3</volume>,
+<fpage>308</fpage>&#x02013;<lpage>313</lpage> (<year>2013</year>).</mixed-citation></ref><ref id="b50"><mixed-citation publication-type="journal"><name><surname>Chen</surname><given-names>C.-M.</given-names></name>
+<italic>et al.</italic>
+<article-title>Hierarchically aminated graphene honeycombs for electrochemical capacitive
+energy storage</article-title>. <source>J. Mater. Chem.</source>
+<volume>22</volume>, <fpage>14076</fpage>&#x02013;<lpage>14084</lpage> (<year>2012</year>).</mixed-citation></ref><ref id="b51"><mixed-citation publication-type="journal"><name><surname>Yuan</surname><given-names>J.</given-names></name> &#x00026;
+<name><surname>Brown</surname><given-names>L.</given-names></name>
+<article-title>Investigation of atomic structures of diamond-like amorphous carbon by
+electron energy loss spectroscopy</article-title>. <source>Micron</source>
+<volume>31</volume>, <fpage>515</fpage>&#x02013;<lpage>525</lpage> (<year>2000</year>).<pub-id pub-id-type="pmid">10831296</pub-id></mixed-citation></ref><ref id="b52"><mixed-citation publication-type="journal"><name><surname>Chu</surname><given-names>P. K.</given-names></name> &#x00026;
+<name><surname>Li</surname><given-names>L.</given-names></name>
+<article-title>Characterization of amorphous and nanocrystalline carbon films</article-title>.
+<source>Mater. Chem. Phys.</source>
+<volume>96</volume>, <fpage>253</fpage>&#x02013;<lpage>277</lpage> (<year>2006</year>).</mixed-citation></ref><ref id="b53"><mixed-citation publication-type="journal"><name><surname>Almeida</surname><given-names>T. P.</given-names></name>
+<italic>et al.</italic>
+<article-title>Visualized effect of oxidation on magnetic recording fidelity in
+pseudo-single-domain magnetite particles</article-title>. <source>Nat. Commun.</source>
+<volume>5</volume>, <fpage>1</fpage>&#x02013;<lpage>6</lpage> (<year>2014</year>).</mixed-citation></ref><ref id="b54"><mixed-citation publication-type="journal"><name><surname>Mo</surname><given-names>Y.</given-names></name>, <name><surname>Wan</surname><given-names>Y.</given-names></name>, <name><surname>Chau</surname><given-names>A.</given-names></name>
+&#x00026; <name><surname>Huang</surname><given-names>F.</given-names></name>
+<article-title>Graphene/Ionic liquid composite films and ion exchange</article-title>. <source>Sci.
+Rep</source>. <volume>4</volume>, <fpage>5466</fpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24970602</pub-id></mixed-citation></ref><ref id="b55"><mixed-citation publication-type="journal"><name><surname>Park</surname><given-names>O.-K.</given-names></name>
+<italic>et al.</italic>
+<article-title>Defect healing of reduced graphene oxide via intramolecular
+cross-dehydrogenative coupling</article-title>. <source>Nanotechnology</source>
+<volume>24</volume>, <fpage>185604</fpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23579433</pub-id></mixed-citation></ref><ref id="b56"><mixed-citation publication-type="journal"><name><surname>Li</surname><given-names>Z.</given-names></name>
+<italic>et al.</italic>
+<article-title>Preparation and characterization of ordered mesoporous carbons on SBA-15
+template</article-title>. <source>J. Mater. Chem.</source>
+<volume>16</volume>, <fpage>1350</fpage>&#x02013;<lpage>1354</lpage> (<year>2006</year>).</mixed-citation></ref><ref id="b57"><mixed-citation publication-type="journal"><name><surname>Zhou</surname><given-names>J.</given-names></name>, <name><surname>Song</surname><given-names>H.</given-names></name>, <name><surname>Ma</surname><given-names>L.</given-names></name>
+&#x00026; <name><surname>Chen</surname><given-names>X.</given-names></name>
+<article-title>Magnetite/graphene nanosheet composites: interfacial interaction and its
+impact on the durable high-rate performance in lithium-ion batteries</article-title>.
+<source>RSC Adv</source>. <volume>1</volume>, <fpage>782</fpage> (<year>2011</year>).</mixed-citation></ref><ref id="b58"><mixed-citation publication-type="journal"><name><surname>Zhong</surname><given-names>C.</given-names></name>, <name><surname>Wang</surname><given-names>J.</given-names></name>, <name><surname>Chen</surname><given-names>Z.</given-names></name>
+&#x00026; <name><surname>Liu</surname><given-names>H.</given-names></name>
+<article-title>SnO<sub>2</sub>-graphene composite synthesized via an ultrafast and
+environmentally friendly microwave autoclave method and its use as a
+superior anode for lithium-ion batteries</article-title>. <source>J. Phys. Chem. C</source>
+<volume>115</volume>, <fpage>25115</fpage>&#x02013;<lpage>25120</lpage> (<year>2011</year>).</mixed-citation></ref><ref id="b59"><mixed-citation publication-type="journal"><name><surname>Kim</surname><given-names>H.</given-names></name>, <name><surname>Park</surname><given-names>K.-Y.</given-names></name>, <name><surname>Hong</surname><given-names>J.</given-names></name>
+&#x00026; <name><surname>Kang</surname><given-names>K.</given-names></name>
+<article-title>All-graphene-battery: bridging the gap between supercapacitors and lithium
+ion batteries</article-title>. <source>Sci. Rep</source>. <volume>4</volume>, <fpage>5278</fpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24923290</pub-id></mixed-citation></ref><ref id="b60"><mixed-citation publication-type="journal"><name><surname>Park</surname><given-names>S.-H.</given-names></name>
+<italic>et al.</italic>
+<article-title>Spray-Assisted Deep-Frying Process for the <italic>In Situ</italic> Spherical
+Assembly of Graphene for Energy-Storage Devices</article-title>. <source>Chem.
+Mater.</source>
+<volume>27</volume>, <fpage>457</fpage>&#x02013;<lpage>465</lpage> (<year>2015</year>).</mixed-citation></ref><ref id="b61"><mixed-citation publication-type="journal"><name><surname>Cabana</surname><given-names>J.</given-names></name>,
+<name><surname>Monconduit</surname><given-names>L.</given-names></name>,
+<name><surname>Larcher</surname><given-names>D.</given-names></name> &#x00026;
+<name><surname>Palac&#x000ed;n</surname><given-names>M. R.</given-names></name>
+<article-title>Beyond intercalation-based Li-ion batteries: The state of the art and
+challenges of electrode materials reacting through conversion
+reactions</article-title>. <source>Adv. Mater.</source>
+<volume>22</volume>, <fpage>170</fpage>&#x02013;<lpage>192</lpage> (<year>2010</year>).</mixed-citation></ref><ref id="b62"><mixed-citation publication-type="journal"><name><surname>Linden</surname><given-names>D.</given-names></name> &#x00026;
+<name><surname>Reddy</surname><given-names>T. B.</given-names></name>
+<source>Handbook of Batteries</source>. (McGraw-Hill, <year>2002</year>).</mixed-citation></ref><ref id="b63"><mixed-citation publication-type="journal"><name><surname>Goodenough</surname><given-names>J. B.</given-names></name>
+<article-title>Electrochemical energy storage in a sustainable modern society</article-title>.
+<source>Energy Environ. Sci.</source>
+<volume>7</volume>, <fpage>14</fpage>&#x02013;<lpage>18</lpage> (<year>2014</year>).</mixed-citation></ref><ref id="b64"><mixed-citation publication-type="journal"><name><surname>Hatzikraniotis</surname><given-names>E.</given-names></name>,
+<name><surname>Mitsas</surname><given-names>C. L.</given-names></name> &#x00026;
+<name><surname>Siapkas</surname><given-names>D. I.</given-names></name>
+<source>Materials for Lithium-Ion Batteries.</source> (Springer: Netherlands, , <year>2000</year>). doi:
+<pub-id pub-id-type="doi">10.1007/978-94-011-4333-2</pub-id></mixed-citation></ref><ref id="b65"><mixed-citation publication-type="journal"><name><surname>Ohzuku</surname><given-names>T.</given-names></name>, <name><surname>Iwakoshi</surname><given-names>Y.</given-names></name> &#x00026; <name><surname>Sawai</surname><given-names>K.</given-names></name>
+<article-title>Formation of Lithium-Graphite Intercalation Compounds in Nonaqueous
+Electrolytes and Their Application as a Negative Electrode for a Lithium Ion
+(Shuttlecock) Cell</article-title>. <source>J. Electrochem. Soc.</source>
+<volume>140</volume>, <fpage>2490</fpage>&#x02013;<lpage>2498</lpage> (<year>1993</year>).</mixed-citation></ref><ref id="b66"><mixed-citation publication-type="journal"><name><surname>Levi</surname><given-names>M. D.</given-names></name> &#x00026;
+<name><surname>Aurbach</surname><given-names>D.</given-names></name>
+<article-title>The mechanism of lithium intercalation in graphite film electrodes in
+aprotic media. Part 1. High resolution slow scan rate cyclic voltammetric
+studies and modeling</article-title>. <source>J. Electroanal. Chem.</source>
+<volume>421</volume>, <fpage>79</fpage>&#x02013;<lpage>88</lpage> (<year>1997</year>).</mixed-citation></ref><ref id="b67"><mixed-citation publication-type="journal"><name><surname>Amine</surname><given-names>K.</given-names></name>, <name><surname>Liu</surname><given-names>J.</given-names></name> &#x00026; <name><surname>Belharouak</surname><given-names>I.</given-names></name>
+<article-title>High-temperature storage and cycling of C-LiFePO<sub>4</sub>/graphite
+Li-ion cells</article-title>. <source>Electrochem. Commun.</source>
+<volume>7</volume>, <fpage>669</fpage>&#x02013;<lpage>673</lpage> (<year>2005</year>).</mixed-citation></ref><ref id="b68"><mixed-citation publication-type="journal"><name><surname>Striebel</surname><given-names>K.</given-names></name>
+<italic>et al.</italic>
+<article-title>The development of low cost LiFePO<sub>4</sub>-based high power lithium-ion
+batteries</article-title>. <source>J. Power Sources</source>
+<volume>146</volume>, <fpage>33</fpage>&#x02013;<lpage>38</lpage> (<year>2005</year>).</mixed-citation></ref><ref id="b69"><mixed-citation publication-type="journal"><name><surname>Ho</surname><given-names>C.</given-names></name>, <name><surname>Raistrick</surname><given-names>I. D.</given-names></name> &#x00026; <name><surname>Huggins</surname><given-names>R.
+A.</given-names></name>
+<article-title>Application of A-C Techniques to the Study of Lithium Diffusion in Tungsten
+Trioxide Thin Films</article-title>. <source>J. Electrochem. Soc.</source>
+<volume>127</volume>, <fpage>343</fpage>&#x02013;<lpage>350</lpage> (<year>1980</year>).</mixed-citation></ref></ref-list><fn-group><fn fn-type="conflict"><p>A European Patent Application (PCT/EP2014/054232) direct to the synthesis
+of multilayer graphene as described in the manuscript has been filed by University
+of M&#x000fc;nster with the PROvendis GmbH.</p></fn><fn><p><bold>Author Contributions</bold> R.R. designed the research and synthesized the samples. R.R. and A.V. carried out the
+physicochemical and electrochemical characterizations. V.S.K.C. and C.K. carried out
+the TEM analyses. R.R and A.V. wrote the manuscript and conceived figures and
+tables. S.P. supervised and revised the writing. All the authors discussed the
+results and commented on the manuscript.</p></fn></fn-group></back><floats-group><fig id="f1"><label>Figure 1</label><caption><title>Carved multilayer graphene with nested Fe<sub>3</sub>O<sub>4</sub> nanoparticles.</title><p>(<bold>a</bold>) Schematic representation of the synthetic route employed to
+produce the carved multilayer graphene with nested
+Fe<sub>3</sub>O<sub>4</sub> nanoparticles. (<bold>b</bold>,<bold>c</bold>) Low- and
+(<bold>d</bold>), (<bold>e</bold>) high- magnification SEM micrographs of carved
+multilayer graphene-Fe<sub>3</sub>O<sub>4</sub> composite. (<bold>f</bold>) XRD
+pattern of the carved multilayer graphene-Fe<sub>3</sub>O<sub>4</sub>
+composite. Positions of main reflections are marked as (|)
+Fe<sub>3</sub>O<sub>4</sub>; (+) graphitic carbons; (&#x000a7;)
+non-graphitic carbons.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep23585-f1"/></fig><fig id="f2"><label>Figure 2</label><caption><title>TEM analysis of the composite.</title><p>(<bold>a</bold>) Scanning transmission electron microscopy (STEM) micrograph of the
+composite. The carved paths created by the Fe<sub>3</sub>O<sub>4</sub>
+nanoparticles are clearly distinguishable (marked with red arrows).
+(<bold>b</bold>) Bright-field TEM micrograph of the composite where
+Fe<sub>3</sub>O<sub>4</sub> nanoparticles are outlined with white round
+dot dashes and, the carving paths, are indicated with red arrows. (<bold>c</bold>)
+Corresponding selected area electron diffraction (SAED) pattern for the
+image in (<bold>b</bold>). (<bold>d</bold>) High resolution TEM (HRTEM) micrograph of a
+Fe<sub>3</sub>O<sub>4</sub> nanoparticle covered by a thin graphitic
+carbon layers originated by the carving of the multilayer graphene (marked
+with red arrows).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep23585-f2"/></fig><fig id="f3"><label>Figure 3</label><caption><title>Composite elemental mapping, thermal behaviour and Nitrogen adsorption
+comparison between multilayer graphene (MUG) and the composite
+(MUG-Fe<sub>3</sub>O<sub>4</sub>).</title><p>(<bold>a</bold>) STEM micrograph of a composite region. (<bold>b</bold>) STEM micrograph
+of the selected area (purple rectangle) in a. (<bold>c</bold>) Carbon elemental
+mapping of the composite obtained through Electron Energy Loss Spectroscopy
+(EELS) using the C K-edge. (<bold>d</bold>) Iron elemental mapping of the
+composite obtained through EELS using the Fe L<sub>2,3</sub>-edge.
+(<bold>e</bold>) Oxygen elemental mapping of the composite obtained through EELS
+using the O K-edge. (<bold>f</bold>) EELS spectrum of the selected area (orange
+rectangle) in b. In the insets, magnified spectrum region, referred to the C
+K-edge, Fe L<sub>2,3</sub>-edge and O K-edge, are shown. (<bold>g</bold>) TGA
+profiles (in Oxygen), (<bold>h</bold>) Nitrogen adsorption/desorption isotherms
+and (<bold>i</bold>) BJH pore size distributions of multilayer graphene and the
+composite.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep23585-f3"/></fig><fig id="f4"><label>Figure 4</label><caption><title>Rate capability test comparison for commercial graphite (SLP30), multilayer graphene (MUG) and composite (MUG-Fe<sub>3</sub>O<sub>4</sub>) in the
+0.005&#x02009;V&#x02013;1V potential range.</title><p>(<bold>a</bold>) Specific
+gravimetric capacities for various galvanostatic lithiation/delithiation
+cycles performed at different current &#x02009;rates (measurements
+performed in Li half-cell with 1&#x02009;M LiPF<sub>6</sub> in EC:DMC
+1:1&#x02009;w/w electrolyte) for three different active material, i.e.,
+composite (MUG-Fe<sub>3</sub>O<sub>4</sub>), multilayer graphene (MUG) and
+graphite (SLP30). (<bold>b</bold>) Coulombic efficiencies for the various
+galvanostatic lithiation/delithiation cycles reported in a. (<bold>c</bold>)
+Potential profiles of selected cycles at different specific currents.
+(<bold>d</bold>) Average lithiation/delithiation voltages and voltage
+efficiencies for the selected cycles in c. (<bold>e</bold>) Investigation of the
+lithium ions storage mechanisms: calculated dQ
+dE<sup>&#x02212;1</sup> vs. E differential profiles for the
+selected cycles in c, in the potential range
+0.00&#x02009;V&#x02013;0.350&#x02009;V.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep23585-f4"/></fig><fig id="f5"><label>Figure 5</label><caption><title>Electrochemical impedance spectroscopy of multilayer graphene (MUG) and the
+composite (MUG-Fe<sub>3</sub>O<sub>4</sub>).</title><p>(<bold>a</bold>) Nyquist plots collected after lithiation of the samples up to
+0.11&#x02009;V (measurements performed in a 3-electrodes Li half-cell
+with 1&#x02009;M LiPF<sub>6</sub> in EC:DMC 1:1&#x02009;w/w
+electrolyte, at 20&#x000b0;C). (<bold>b</bold>) Arrhenius Plots used to
+extrapolate the activation energies associated to Li<sup>+</sup>
+diffusion through the SEI (upper part), and charge transfer (bottom part).
+(<bold>c</bold>) Schematic model of the enhanced Li<sup>+</sup> storage
+properties provided by the peculiar morphology of
+MUG-Fe<sub>3</sub>O<sub>4</sub>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep23585-f5"/></fig><table-wrap position="float" id="t1"><label>Table 1</label><caption><title>C, H, N, S, Fe, O contents for expanded graphite (EG), multilayer graphene
+(MUG) and composite (MUG-Fe<sub>3</sub>O<sub>4</sub>).</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="center"/><col align="center"/><col align="center"/><col align="center"/><col align="center"/><col align="center"/></colgroup><thead valign="bottom"><tr><th align="center" valign="top" charoff="50">&#x000a0;</th><th align="center" valign="top" charoff="50">C^ (wt. %)</th><th align="center" valign="top" charoff="50">H^ (wt. %)</th><th align="center" valign="top" charoff="50">N^ (wt. %)</th><th align="center" valign="top" charoff="50">S^ (wt. %)</th><th align="center" valign="top" charoff="50">Fe* (wt. %)</th><th align="center" valign="top" charoff="50">O<sup>#</sup>(wt. %)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" charoff="50">EG</td><td align="center" valign="top" charoff="50">93.19</td><td align="center" valign="top" charoff="50">&#x02013;</td><td align="center" valign="top" charoff="50">&#x02013;</td><td align="center" valign="top" charoff="50">&#x02013;</td><td align="center" valign="top" charoff="50">&#x02013;</td><td align="center" valign="top" charoff="50">6.81</td></tr><tr><td align="left" valign="top" charoff="50">MUG</td><td align="center" valign="top" charoff="50">90.98</td><td align="center" valign="top" charoff="50">0.30</td><td align="center" valign="top" charoff="50">&#x02013;</td><td align="center" valign="top" charoff="50">&#x02013;</td><td align="center" valign="top" charoff="50">&#x02013;</td><td align="center" valign="top" charoff="50">8.72</td></tr><tr><td align="left" valign="top" charoff="50">MUG-Fe<sub>3</sub>O<sub>4</sub></td><td align="center" valign="top" charoff="50">90.67</td><td align="center" valign="top" charoff="50">0.29</td><td align="center" valign="top" charoff="50">&#x02013;</td><td align="center" valign="top" charoff="50">&#x02013;</td><td align="center" valign="top" charoff="50">0.25</td><td align="center" valign="top" charoff="50">8.79</td></tr></tbody></table><table-wrap-foot><fn id="t1-fn1"><p>^CHNS Elemental analysis; *ICP Analysis;
+<sup>#</sup>Content determined by subtraction.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="t2"><label>Table 2</label><caption><title>Densities of the electrodes based on commercial graphite (SLP30), multilayer
+graphene (MUG) or composite (MUG-Fe<sub>3</sub>O<sub>4</sub>) active
+material.</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="center" char="."/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50">Active Material</th><th align="center" valign="top" char="." charoff="50">Electrode density (g
+mL<sup>&#x02212;1</sup>)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" charoff="50">SLP30</td><td align="center" valign="top" char="." charoff="50">0.478</td></tr><tr><td align="left" valign="top" charoff="50">MUG</td><td align="center" valign="top" char="." charoff="50">0.210</td></tr><tr><td align="left" valign="top" charoff="50">MUG-Fe<sub>3</sub>O<sub>4</sub></td><td align="center" valign="top" char="." charoff="50">0.228</td></tr></tbody></table></table-wrap><table-wrap position="float" id="t3"><label>Table 3</label><caption><title>Specific gravimetric and volumetric capacities and average delithiation
+voltages of graphite (SLP30), multilayer graphene (MUG) and composite
+(MUG-Fe<sub>3</sub>O<sub>4</sub>) at different current rates.</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="center"/><col align="center"/><col align="center"/><col align="center"/><col align="center"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50">Cycle number(specific current)</th><th align="center" valign="top" charoff="50">Activematerial</th><th align="center" valign="top" charoff="50">Gravimetric capacity(mAh
+g<sup>&#x02212;1</sup>)</th><th align="center" valign="top" charoff="50">Volumetriccapacity (Ah
+L<sup>&#x02212;1</sup>)</th><th align="center" valign="top" charoff="50">Average delithiationvoltage (V)</th><td>&#x000a0;</td></tr></thead><tbody valign="top"><tr><td rowspan="3" align="left" valign="middle" charoff="50">10<sup>th</sup> (0.1&#x02009;A
+g<sup>&#x02212;1</sup>)</td><td align="center" valign="top" charoff="50">SLP30</td><td align="center" valign="top" charoff="50">336.3</td><td align="center" valign="top" charoff="50">160.7</td><td align="center" valign="top" charoff="50">0.197</td><td>&#x000a0;</td></tr><tr><td align="center" valign="top" charoff="50">MUG</td><td align="center" valign="top" charoff="50">345.7</td><td align="center" valign="top" charoff="50">72.6</td><td align="center" valign="top" charoff="50">0.173</td><td>&#x000a0;</td></tr><tr><td align="center" valign="top" charoff="50">MUG-Fe<sub>3</sub>O<sub>4</sub></td><td align="center" valign="top" charoff="50">368.3</td><td align="center" valign="top" charoff="50">84.0</td><td align="center" valign="top" charoff="50">0.171</td><td>&#x000a0;</td></tr><tr><td rowspan="3" align="left" valign="middle" charoff="50">50<sup>th</sup> (1&#x02009;A
+g<sup>&#x02212;1</sup>)</td><td align="center" valign="top" charoff="50">SLP30</td><td align="center" valign="top" charoff="50">84.8</td><td align="center" valign="top" charoff="50">40.5</td><td align="center" valign="top" charoff="50">0.412</td><td>&#x000a0;</td></tr><tr><td align="center" valign="top" charoff="50">MUG</td><td align="center" valign="top" charoff="50">340.2</td><td align="center" valign="top" charoff="50">71.4</td><td align="center" valign="top" charoff="50">0.184</td><td>&#x000a0;</td></tr><tr><td align="center" valign="top" charoff="50">MUG-Fe<sub>3</sub>O<sub>4</sub></td><td align="center" valign="top" charoff="50">346.3</td><td align="center" valign="top" charoff="50">79.0</td><td align="center" valign="top" charoff="50">0.189</td><td>&#x000a0;</td></tr><tr><td rowspan="3" align="left" valign="middle" charoff="50">250<sup>th</sup> (5&#x02009;A
+g<sup>&#x02212;1</sup>)</td><td align="center" valign="top" charoff="50">SLP30</td><td align="center" valign="top" charoff="50">20.0</td><td align="center" valign="top" charoff="50">9.6</td><td align="center" valign="top" charoff="50">0.697</td><td>&#x000a0;</td></tr><tr><td align="center" valign="top" charoff="50">MUG</td><td align="center" valign="top" charoff="50">160.3</td><td align="center" valign="top" charoff="50">33.7</td><td align="center" valign="top" charoff="50">0.303</td><td>&#x000a0;</td></tr><tr><td align="center" valign="top" charoff="50">MUG-Fe<sub>3</sub>O<sub>4</sub></td><td align="center" valign="top" charoff="50">257.8</td><td align="center" valign="top" charoff="50">58.8</td><td align="center" valign="top" charoff="50">0.244</td><td>&#x000a0;</td></tr></tbody></table></table-wrap></floats-group></article>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6940697/results/word/frequencies/results.xml">
+  <result title="frequency" word="power" count="101"/>
+  <result title="frequency" word="SiC" count="71"/>
+  <result title="frequency" word="inverter" count="54"/>
+  <result title="frequency" word="solar" count="42"/>
+  <result title="frequency" word="loss" count="37"/>
+  <result title="frequency" word="DC-AC" count="36"/>
+  <result title="frequency" word="Figure" count="35"/>
+  <result title="frequency" word="output" count="34"/>
+  <result title="frequency" word="battery" count="32"/>
+  <result title="frequency" word="efficiencies" count="31"/>
+  <result title="frequency" word="photovoltaic" count="25"/>
+  <result title="frequency" word="Power" count="23"/>
+  <result title="frequency" word="efficiency" count="23"/>
+  <result title="frequency" word="modules" count="21"/>
+  <result title="frequency" word="total" count="21"/>
+ </snippets>
+</snippetsTree>

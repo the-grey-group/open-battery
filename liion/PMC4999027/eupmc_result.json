@@ -1,0 +1,470 @@
+{
+  "id": [
+    "26999804"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26999804"
+  ],
+  "pmcid": [
+    "PMC4999027"
+  ],
+  "doi": [
+    "10.1111/jmi.12389"
+  ],
+  "title": [
+    "Comparison of three-dimensional analysis and stereological techniques for quantifying lithium-ion battery electrode microstructures."
+  ],
+  "authorString": [
+    "Taiwo OO, Finegan DP, Eastwood DS, Fife JL, Brown LD, Darr JA, Lee PD, Brett DJ, Shearing PR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Taiwo OO"
+          ],
+          "firstName": [
+            "Oluwadamilola O"
+          ],
+          "lastName": [
+            "Taiwo"
+          ],
+          "initials": [
+            "OO"
+          ],
+          "affiliation": [
+            "The Electrochemical Innovation Lab, Department of Chemical Engineering, University College London, London, WC1E 7JE, U.K."
+          ]
+        },
+        {
+          "fullName": [
+            "Finegan DP"
+          ],
+          "firstName": [
+            "Donal P"
+          ],
+          "lastName": [
+            "Finegan"
+          ],
+          "initials": [
+            "DP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4633-560X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Electrochemical Innovation Lab, Department of Chemical Engineering, University College London, London, WC1E 7JE, U.K."
+          ]
+        },
+        {
+          "fullName": [
+            "Eastwood DS"
+          ],
+          "firstName": [
+            "David S"
+          ],
+          "lastName": [
+            "Eastwood"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "affiliation": [
+            "Manchester X-Ray Imaging Facility, School of Materials, University of Manchester, Manchester M13 9PL, U.K."
+          ]
+        },
+        {
+          "fullName": [
+            "Fife JL"
+          ],
+          "firstName": [
+            "Julie L"
+          ],
+          "lastName": [
+            "Fife"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Swiss Light Source, Paul Scherrer Institut, 5232 Villigen, PSI, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Brown LD"
+          ],
+          "firstName": [
+            "Leon D"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "LD"
+          ],
+          "affiliation": [
+            "The Electrochemical Innovation Lab, Department of Chemical Engineering, University College London, London, WC1E 7JE, U.K."
+          ]
+        },
+        {
+          "fullName": [
+            "Darr JA"
+          ],
+          "firstName": [
+            "Jawwad A"
+          ],
+          "lastName": [
+            "Darr"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Department of Chemistry, University College London, 20 Gordon Street, London, WC1H 0AJ, U.K."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee PD"
+          ],
+          "firstName": [
+            "Peter D"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "PD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3898-8881",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Manchester X-Ray Imaging Facility, School of Materials, University of Manchester, Manchester M13 9PL, U.K."
+          ]
+        },
+        {
+          "fullName": [
+            "Brett DJ"
+          ],
+          "firstName": [
+            "Daniel J L"
+          ],
+          "lastName": [
+            "Brett"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "The Electrochemical Innovation Lab, Department of Chemical Engineering, University College London, London, WC1E 7JE, U.K."
+          ]
+        },
+        {
+          "fullName": [
+            "Shearing PR"
+          ],
+          "firstName": [
+            "Paul R"
+          ],
+          "lastName": [
+            "Shearing"
+          ],
+          "initials": [
+            "PR"
+          ],
+          "affiliation": [
+            "The Electrochemical Innovation Lab, Department of Chemical Engineering, University College London, London, WC1E 7JE, U.K."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4633-560X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3898-8881",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "263"
+      ],
+      "journalIssueId": [
+        "2441662"
+      ],
+      "dateOfPublication": [
+        "2016 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of microscopy"
+          ],
+          "ISOAbbreviation": [
+            "J Microsc"
+          ],
+          "medlineAbbreviation": [
+            "J Microsc"
+          ],
+          "NLMid": [
+            "0204522"
+          ],
+          "ISSN": [
+            "0022-2720"
+          ],
+          "ESSN": [
+            "1365-2818"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "280-292"
+  ],
+  "abstractText": [
+    "Lithium-ion battery performance is intrinsically linked to electrode microstructure. Quantitative measurement of key structural parameters of lithium-ion battery electrode microstructures will enable optimization as well as motivate systematic numerical studies for the improvement of battery performance. With the rapid development of 3-D imaging techniques, quantitative assessment of 3-D microstructures from 2-D image sections by stereological methods appears outmoded; however, in spite of the proliferation of tomographic imaging techniques, it remains significantly easier to obtain two-dimensional (2-D) data sets. In this study, stereological prediction and three-dimensional (3-D) analysis techniques for quantitative assessment of key geometric parameters for characterizing battery electrode microstructures are examined and compared. Lithium-ion battery electrodes were imaged using synchrotron-based X-ray tomographic microscopy. For each electrode sample investigated, stereological analysis was performed on reconstructed 2-D image sections generated from tomographic imaging, whereas direct 3-D analysis was performed on reconstructed image volumes. The analysis showed that geometric parameter estimation using 2-D image sections is bound to be associated with ambiguity and that volume-based 3-D characterization of nonconvex, irregular and interconnected particles can be used to more accurately quantify spatially-dependent parameters, such as tortuosity and pore-phase connectivity."
+  ],
+  "affiliation": [
+    "The Electrochemical Innovation Lab, Department of Chemical Engineering, University College London, London, WC1E 7JE, U.K."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "1272545"
+          ],
+          "agency": [
+            "Engineering and Physical Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "EP/M009394/1"
+          ],
+          "agency": [
+            "Engineering and Physical Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "EP/I02249X/1"
+          ],
+          "agency": [
+            "Engineering and Physical Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium-ion battery",
+        "stereology",
+        "Microstructural Characterization",
+        "X-ray Tomography",
+        "Image Quantification",
+        "3-D Image Analysis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/jmi.12389"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4999027"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4999027?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-07-07"
+  ],
+  "dateOfCreation": [
+    "2016-08-16"
+  ],
+  "firstIndexDate": [
+    "2016-03-22"
+  ],
+  "fullTextReceivedDate": [
+    "2016-09-15"
+  ],
+  "dateOfRevision": [
+    "2017-07-07"
+  ],
+  "electronicPublicationDate": [
+    "2016-03-21"
+  ],
+  "firstPublicationDate": [
+    "2016-03-21"
+  ]
+}

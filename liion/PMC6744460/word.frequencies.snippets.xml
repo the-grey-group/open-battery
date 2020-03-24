@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6744460/results/word/frequencies/results.xml">
+  <result title="frequency" word="temperature" count="118"/>
+  <result title="frequency" word="RTD" count="77"/>
+  <result title="frequency" word="battery" count="59"/>
+  <result title="frequency" word="thermal" count="50"/>
+  <result title="frequency" word="electrode" count="48"/>
+  <result title="frequency" word="internal" count="48"/>
+  <result title="frequency" word="cell" count="43"/>
+  <result title="frequency" word="short" count="41"/>
+  <result title="frequency" word="circuit" count="38"/>
+  <result title="frequency" word="surface" count="38"/>
+  <result title="frequency" word="external" count="36"/>
+  <result title="frequency" word="embedded" count="33"/>
+  <result title="frequency" word="LIB" count="29"/>
+  <result title="frequency" word="spacer" count="27"/>
+  <result title="frequency" word="cells" count="26"/>
+  <result title="frequency" word="cathode" count="21"/>
+  <result title="frequency" word="coin" count="21"/>
+  <result title="frequency" word="lithium-ion" count="21"/>
+ </snippets>
+</snippetsTree>

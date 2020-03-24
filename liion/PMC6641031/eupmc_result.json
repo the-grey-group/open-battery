@@ -1,0 +1,429 @@
+{
+  "id": [
+    "31457471"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31457471"
+  ],
+  "pmcid": [
+    "PMC6641031"
+  ],
+  "doi": [
+    "10.1021/acsomega.7b00037"
+  ],
+  "title": [
+    "V2O5 Nanowire Composite Paper as a High-Performance Lithium-Ion Battery Cathode."
+  ],
+  "authorString": [
+    "Zhang Y, Wang Y, Xiong Z, Hu Y, Song W, Huang QA, Cheng X, Chen LQ, Sun C, Gu H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yue"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Hubei Collaborative Innovation Center for Advanced Organic Chemical Materials; Hubei Key Laboratory of Ferro & Piezoelectric Materials and Devices; Faculty of Physics & Electronic Science, Hubei University, Wuhan 430062, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yizhi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Beijing Institute of Nanoenergy and Nanosystems, Chinese Academy of Sciences, National Center for Nanoscience and Technology (NCNST), Beijing 100083, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiong Z"
+          ],
+          "firstName": [
+            "Zhihong"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Hubei Collaborative Innovation Center for Advanced Organic Chemical Materials; Hubei Key Laboratory of Ferro & Piezoelectric Materials and Devices; Faculty of Physics & Electronic Science, Hubei University, Wuhan 430062, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu Y"
+          ],
+          "firstName": [
+            "Yongming"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Hubei Collaborative Innovation Center for Advanced Organic Chemical Materials; Hubei Key Laboratory of Ferro & Piezoelectric Materials and Devices; Faculty of Physics & Electronic Science, Hubei University, Wuhan 430062, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Song W"
+          ],
+          "firstName": [
+            "Weixing"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Beijing Institute of Nanoenergy and Nanosystems, Chinese Academy of Sciences, National Center for Nanoscience and Technology (NCNST), Beijing 100083, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang QA"
+          ],
+          "firstName": [
+            "Qiu-An"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "QA"
+          ],
+          "affiliation": [
+            "Hubei Collaborative Innovation Center for Advanced Organic Chemical Materials; Hubei Key Laboratory of Ferro & Piezoelectric Materials and Devices; Faculty of Physics & Electronic Science, Hubei University, Wuhan 430062, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng X"
+          ],
+          "firstName": [
+            "Xiaoxing"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Materials Science & Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen LQ"
+          ],
+          "firstName": [
+            "Long-Qing"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "LQ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3359-3781",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science & Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun C"
+          ],
+          "firstName": [
+            "Chunwen"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3610-9396",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Beijing Institute of Nanoenergy and Nanosystems, Chinese Academy of Sciences, National Center for Nanoscience and Technology (NCNST), Beijing 100083, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gu H"
+          ],
+          "firstName": [
+            "Haoshuang"
+          ],
+          "lastName": [
+            "Gu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Hubei Collaborative Innovation Center for Advanced Organic Chemical Materials; Hubei Key Laboratory of Ferro & Piezoelectric Materials and Devices; Faculty of Physics & Electronic Science, Hubei University, Wuhan 430062, P. R. China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3610-9396",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3359-3781",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2546372"
+      ],
+      "dateOfPublication": [
+        "2017 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "793-799"
+  ],
+  "abstractText": [
+    "Ultralong, as long as ∼1 mm, orthorhombic vanadium pentoxide (V2O5) nanowires were synthesized using a hydrothermal method. Free-standing and binder-free composite paper was prepared on a large scale by a two-step reduction method using free-standing V2O5 nanowires as the skeleton and reduced graphene oxide (rGO) nanosheets as the additive. Such a free-standing V2O5/rGO composite paper as a cathode for lithium ion batteries possesses both structural integrity and extraordinary electrochemical performance. The reversible specific areal capacity of the V2O5/rGO composite paper electrode is 885 μAh/cm2 at 0.09 mA/cm2, much higher than that of the pure V2O5 nanowire paper electrode (570 μAh/cm2). It also shows excellent cycling performance at high rates with 30.9% loss of its initial capacities after 1000 cycles at a current rate of 0.9 mA/cm2. The excellent performance was attributed to the improved electronic conductivity and Li+ ion transport from the rGO addition."
+  ],
+  "affiliation": [
+    "Hubei Collaborative Innovation Center for Advanced Organic Chemical Materials; Hubei Key Laboratory of Ferro & Piezoelectric Materials and Devices; Faculty of Physics & Electronic Science, Hubei University, Wuhan 430062, P. R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.7b00037"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6641031"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6641031?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-29"
+  ],
+  "firstIndexDate": [
+    "2019-08-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-29"
+  ],
+  "dateOfRevision": [
+    "2019-09-01"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-06"
+  ],
+  "firstPublicationDate": [
+    "2017-03-06"
+  ]
+}

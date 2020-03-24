@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC7074852/results/word/frequencies/results.xml">
+  <result title="frequency" word=".Co" count="63"/>
+  <result title="frequency" word=".Ni" count="63"/>
+  <result title="frequency" word="NiCo" count="54"/>
+  <result title="frequency" word="CuCo" count="44"/>
+  <result title="frequency" word="anode" count="34"/>
+  <result title="frequency" word="Figure" count="24"/>
+  <result title="frequency" word="mAh" count="23"/>
+ </snippets>
+</snippetsTree>

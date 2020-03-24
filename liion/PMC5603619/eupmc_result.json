@@ -1,0 +1,310 @@
+{
+  "id": [
+    "28983451"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28983451"
+  ],
+  "pmcid": [
+    "PMC5603619"
+  ],
+  "doi": [
+    "10.1186/s40580-017-0118-x"
+  ],
+  "title": [
+    "Rice husk-originating silicon-graphite composites for advanced lithium ion battery anodes."
+  ],
+  "authorString": [
+    "Kim HJ, Choi JH, Choi JW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim HJ"
+          ],
+          "firstName": [
+            "Hye Jin"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "affiliation": [
+            "Graduate School of Energy, Environment, Water, and Sustainability (EEWS), Korea Advanced Institute of Science and Technology (KAIST), 291 Daehak-ro, Yuseong-gu, Daejeon, 34141 Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Choi JH"
+          ],
+          "firstName": [
+            "Jin Hyeok"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Graduate School of Energy, Environment, Water, and Sustainability (EEWS), Korea Advanced Institute of Science and Technology (KAIST), 291 Daehak-ro, Yuseong-gu, Daejeon, 34141 Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Choi JW"
+          ],
+          "firstName": [
+            "Jang Wook"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8783-0901",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Chemical and Biological Engineering and Institute of Chemical Processes, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul, 08826 Republic of Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8783-0901",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2524529"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nano convergence"
+          ],
+          "ISOAbbreviation": [
+            "Nano Converg"
+          ],
+          "medlineAbbreviation": [
+            "Nano Converg"
+          ],
+          "NLMid": [
+            "101695675"
+          ],
+          "ISSN": [
+            "2196-5404"
+          ],
+          "ESSN": [
+            "2196-5404"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "24"
+  ],
+  "abstractText": [
+    "Rice husk is produced in a massive amount worldwide as a byproduct of rice cultivation. Rice husk contains approximately 20 wt% of mesoporous SiO2. We produce mesoporous silicon (Si) by reducing the rice husk-originating SiO2 using a magnesio-milling process. Taking advantage of meso-porosity and large available quantity, we apply rice husk-originating Si to lithium ion battery anodes in a composite form with commercial graphite. By varying the mass ratio between these two components, trade-off relation between specific capacity and cycle life was observed. A controllable pre-lithiation scheme was adopted to increase the initial Coulombic efficiency and energy density. The series of electrochemical results suggest that rice husk-originating Si-graphite composites are promising candidates for high capacity lithium ion battery anodes, with the prominent advantages in battery performance and scalability."
+  ],
+  "affiliation": [
+    "Graduate School of Energy, Environment, Water, and Sustainability (EEWS), Korea Advanced Institute of Science and Technology (KAIST), 291 Daehak-ro, Yuseong-gu, Daejeon, 34141 Republic of Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rice husk",
+        "Lithium ion battery",
+        "Silicon Anode",
+        "Magnesio-milling Reduction",
+        "Meso-porosity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40580-017-0118-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5603619"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5603619?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-10-06"
+  ],
+  "firstIndexDate": [
+    "2017-10-07"
+  ],
+  "fullTextReceivedDate": [
+    "2017-10-06"
+  ],
+  "dateOfRevision": [
+    "2017-10-08"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-19"
+  ],
+  "firstPublicationDate": [
+    "2017-09-19"
+  ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6669463/results/word/frequencies/results.xml">
+  <result title="frequency" word="anode" count="49"/>
+  <result title="frequency" word="Figure" count="37"/>
+  <result title="frequency" word="high" count="34"/>
+  <result title="frequency" word="nc-Si" count="33"/>
+  <result title="frequency" word="Wang" count="31"/>
+  <result title="frequency" word="LIB" count="29"/>
+  <result title="frequency" word="silicon" count="29"/>
+  <result title="frequency" word="AC," count="28"/>
+  <result title="frequency" word="Zhang" count="28"/>
+  <result title="frequency" word="battery" count="28"/>
+  <result title="frequency" word="capacity" count="26"/>
+  <result title="frequency" word="lithium-ion" count="26"/>
+  <result title="frequency" word="anodes" count="25"/>
+  <result title="frequency" word="batteries" count="25"/>
+  <result title="frequency" word="carbon" count="24"/>
+  <result title="frequency" word="nc-Si," count="24"/>
+  <result title="frequency" word="rice" count="23"/>
+  <result title="frequency" word="nanocomposites" count="21"/>
+ </snippets>
+</snippetsTree>

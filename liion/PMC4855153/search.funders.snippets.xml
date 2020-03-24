@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC4855153/results/search/funders/results.xml">
+  <result pre="University of Science and Technology United States [2], TEM Laboratory," exact="University of New Mexico" post="United States [3], Department of Chemistry, Missouri University of"/>
+  <result pre="1c, acquired in the scanning TEM (STEM) mode combined with" exact="EDS" post="collection. Figure 1e is the Fe element distribution along"/>
+  <result pre="along the red line as shown in Fig. 1c, and" exact="EDS" post="line scan in the STEM mode was used to"/>
+  <result pre="penetration ~400 nm deep below the 160Fe LMNO particle surface. The" exact="EDS" post="spectrum from the surface vicinity of the UC and"/>
+  <result pre="Tecnai F20 field emission gun high resolution TEM equipped with" exact="EDS" post="system. ICP-AES was used to quantify the mass percent"/>
+  <result pre="mapping of cross-sectioned surface by EDS, and ( e) Fe" exact="EDS" post="line scanning along the red line as shown in"/>
+  <result pre="were coated on primary LiMn 1.5Ni 0.5O 4 particle surface." exact="EDS" post="mapping and EDS element line scanning indicates that Fe"/>
+  <result pre="primary LiMn 1.5Ni 0.5O 4 particle surface. EDS mapping and" exact="EDS" post="element line scanning indicates that Fe was doped in"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,327 @@
+{
+  "id": [
+    "31990950"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31990950"
+  ],
+  "pmcid": [
+    "PMC6986742"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0227903"
+  ],
+  "title": [
+    "Lamination of Separators to Electrodes using Electrospinning."
+  ],
+  "authorString": [
+    "Springer BC, Frankenberger M, Pettinger KH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Springer BC"
+          ],
+          "firstName": [
+            "Bernhard Christian"
+          ],
+          "lastName": [
+            "Springer"
+          ],
+          "initials": [
+            "BC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1286-4557",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Technology Centre for Energy, University of Applied Sciences Landshut, Ruhstorf a. d. Rott, Bavaria, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Frankenberger M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Frankenberger"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6129-6771",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Technology Centre for Energy, University of Applied Sciences Landshut, Ruhstorf a. d. Rott, Bavaria, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Pettinger KH"
+          ],
+          "firstName": [
+            "Karl-Heinz"
+          ],
+          "lastName": [
+            "Pettinger"
+          ],
+          "initials": [
+            "KH"
+          ],
+          "affiliation": [
+            "Technology Centre for Energy, University of Applied Sciences Landshut, Ruhstorf a. d. Rott, Bavaria, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6129-6771",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1286-4557",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2896459"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e0227903"
+  ],
+  "abstractText": [
+    "This study shows the feasibility of the Electrospinning method as a process step for advanced and fast production Li ion cells. Lamination is a key technology for Lithium-ion battery production. It bares different advantages, such as a fast production line speed by fixing the separator to the electrodes. Unfortunately, this technology is inapplicable for separator and electrode formulations not based on thermoplastic binders. Using Electrospinning, this disadvantage can be overcome. In our study, beaded PVDF polymer nanofibres were spun onto a fibre-reinforced, inorganic-filled separator. This modified separator was then laminated onto a NMC111-cathode using a temperature profile of 110/110/120°C within the laminator. After Lamination, the separator was pulled-off again and placed in a SEM to see the adhesive behaviour of the applied polymer. The information gathered with SEM clearly shows a successful lamination of the separator to the electrode."
+  ],
+  "affiliation": [
+    "Technology Centre for Energy, University of Applied Sciences Landshut, Ruhstorf a. d. Rott, Bavaria, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0227903"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6986742"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6986742?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-29"
+  ],
+  "firstIndexDate": [
+    "2020-01-29"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-21"
+  ],
+  "dateOfRevision": [
+    "2020-02-19"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-28"
+  ],
+  "firstPublicationDate": [
+    "2020-01-28"
+  ]
+}

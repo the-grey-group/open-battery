@@ -1,0 +1,608 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6645042</article-id><article-id pub-id-type="pmid">31457244</article-id><article-id pub-id-type="doi">10.1021/acsomega.7b01146</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>General Strategy for Integrated SnO<sub>2</sub>/Metal
+Oxides as Biactive Lithium-Ion Battery Anodes with Ultralong Cycling
+Life</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Bai</surname><given-names>Jing</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><name><surname>Xi</surname><given-names>Baojuan</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Feng</surname><given-names>Zhenyu</given-names></name><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Zhang</surname><given-names>Junhao</given-names></name><xref rid="aff2" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Feng</surname><given-names>Jinkui</given-names></name><xref rid="aff3" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath6"><name><surname>Xiong</surname><given-names>Shenglin</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><sup>&#x02020;</sup>State
+Key Laboratory of Crystal Materials and <sup>&#x02021;</sup>Key Laboratory for Colloid and
+Interface, Ministry of Education, &#x00026; School of Chemistry and Chemical
+Engineering, <institution>Shandong University</institution>, Jinan, Shandong 250100, <country>P. R. China</country></aff><aff id="aff2"><label>&#x000a7;</label>School
+of Environmental and Chemical Engineering, <institution>Jiangsu University of Science and Technology</institution>, Zhenjiang, Jiangsu 212003, <country>P. R. China</country></aff><aff id="aff3"><label>&#x02225;</label>Key
+Laboratory for Liquid&#x02212;Solid Structural Evolution &#x00026; Processing
+of Materials (Ministry of Education), School of Materials Science
+and Engineering, <institution>Shandong University</institution>, Jinan, Shandong 250061, <country>P. R. China</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>baojuanxi@sdu.edu.cn</email> (B.X.).</corresp><corresp id="cor2"><label>*</label>E-mail: <email>chexsl@sdu.edu.cn</email> (S.X.).</corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>10</month><year>2017</year></pub-date><pub-date pub-type="collection"><day>31</day><month>10</month><year>2017</year></pub-date><volume>2</volume><issue>10</issue><fpage>6415</fpage><lpage>6423</lpage><history><date date-type="received"><day>07</day><month>08</month><year>2017</year></date><date date-type="accepted"><day>22</day><month>09</month><year>2017</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2017 American Chemical Society</copyright-statement><copyright-year>2017</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-01146n_0007" id="ab-tgr1"/></p><p>Integration
+of bicomponents into a greater object or assemblage
+is a new avenue to acquire multifunctionality for metal oxide-based
+anodes for lithium-ion batteries (LIBs). Herein, we report a versatile
+means by which precursors serve as self-sacrificing templates to form
+architectures of SnO<sub>2</sub> phase and other metal oxides. The
+vital challenge is the determination of appropriate synthetic system
+that can benefit the formation of respective precursors in a structure
+or single-source precursors of tin and other metal species. In the
+current work, by the aids of synergy action between <sc>l</sc>-proline
+and ethylene glycol&#x000a0;(EG), precursors containing two metal ions
+are generally fabricated. Adequate flexibility of the present method
+has been achieved for SnO<sub>2</sub>/M<sub><italic>x</italic></sub>O<sub><italic>y</italic></sub> hierarchical hybrids, including Mn<sub>2</sub>O<sub>3</sub>, Co<sub>3</sub>O<sub>4</sub>, NiO, and Zn<sub>2</sub>SnO<sub>4</sub>, by calcination of their corresponding SnMn,
+SnCo, SnNi, and SnZn precursors, respectively. When evaluated as anode
+materials for LIBs, the obtained SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> homogeneous hybrids, as expected, show higher specific capacity
+and ultralong cycling stability, gaining a reversible specific capacity
+of 610.3 mA h g<sup>&#x02013;1</sup> after 600 cycles with only decay
+of 0.29 mA h g<sup>&#x02013;1</sup> per cycle at 1 A g<sup>&#x02013;1</sup> and 487 mA h g<sup>&#x02013;1</sup> after 1001 cycles at a high current
+density of 2 A g<sup>&#x02013;1</sup>.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao7b01146</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao-2017-01146n</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>As one of the excellent
+energy storage carriers, lithium-ion batteries
+(LIBs) have drawn extensive attention in the past decades because
+of the broad range of applications in mobile electric devices, hybrid
+electric vehicles, and smart grids.<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref6">6</xref></sup> To fulfill the higher requirements of these applications, further
+improvements in terms of specific capacity and cycling life should
+be initiated. Because of their intrinsic limitations in performance,
+bulk electrode materials fail to completely meet the ever-growing
+demands. It has been widely demonstrated that nanosized anode/cathode
+materials enable better rate capability and capacity via reducing
+diffusion distances of lithium ions and augmenting the contact area
+between the electrolyte and the electrode. In addition, the commercial
+graphite anode exhibits a low theoretical capacity (372 mA h g<sup>&#x02013;1</sup>),<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup> which cannot keep pace with the
+increasing need for energy density of those apparatus with LIB as
+a power source. In response, metal oxides with higher theoretical
+capacity (e.g., SnO<sub>2</sub>,<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> Co<sub>3</sub>O<sub>4</sub>,<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> MnO<sub>2</sub>,<sup><xref ref-type="bibr" rid="ref12">12</xref>&#x02212;<xref ref-type="bibr" rid="ref14">14</xref></sup> Fe<sub>2</sub>O<sub>3</sub>,<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> and ZnCo<sub>2</sub>O<sub>4</sub><sup><xref ref-type="bibr" rid="ref16">16</xref></sup>) have been emerging
+as attractive anode candidates for LIBs. However, they usually show
+poor cycling stability and rate capability resulting from low conductivity
+and remarkable volume change during the charge/discharge process.<sup><xref ref-type="bibr" rid="ref9">9</xref>&#x02212;<xref ref-type="bibr" rid="ref19">19</xref></sup> To solve the above issues, it is a useful strategy to assemble two
+kinds of metal oxides with nanosize into hierarchical composites.<sup><xref ref-type="bibr" rid="ref20">20</xref>&#x02212;<xref ref-type="bibr" rid="ref22">22</xref></sup></p><p>Recently, such bicomponent hybrids featured with the complex
+heterostructure
+have been developed and designed to serve as active materials for
+LIBs, verifying that these hybrid anodes are furnished with better
+lithium storage property (higher specific capacity, better cycling
+stability, etc.) than any corresponding counterparts.<sup><xref ref-type="bibr" rid="ref20">20</xref>&#x02212;<xref ref-type="bibr" rid="ref22">22</xref></sup> From the viewpoint of structural modeling, one representative pattern
+is that two components heterogeneously dispersed in the structure
+and can be clearly differentiated due to their definite boundary between
+each other, such as ZnO@&#x003b1;-Co(OH)<sub>2</sub> core&#x02013;shell
+structures featured by ZnO spheres as core and &#x003b1;-Co(OH)<sub>2</sub> nanosheets as shell<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> and &#x003b1;-Fe<sub>2</sub>O<sub>3</sub>/SnO<sub>2</sub> heterostructures<sup><xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> consisting of SnO<sub>2</sub> nanowire stem with sixfold &#x003b1;-Fe<sub>2</sub>O<sub>3</sub> nanorod branches and SnO<sub>2</sub> nanosheet
+base growing with branched Fe<sub>2</sub>O<sub>3</sub> nanorods. Two
+steps are versatilely applied to sequentially generate the two components
+or precursors into such hybrid architectures with one material as
+matrix for the growth of another. Another appealing motif is the homogeneous
+dispersion of components in the entire heterostructure.<sup><xref ref-type="bibr" rid="ref26">26</xref>&#x02212;<xref ref-type="bibr" rid="ref28">28</xref></sup> The Yuan group reported the ZnO/ZnFe<sub>2</sub>O<sub>4</sub> submicrocubes
+constructed with well-dispersed subunits of two oxides by calcination
+of Prussian blue analogue of Zn<sub>3</sub>[Fe(CN)<sub>6</sub>]<sub>2</sub> cubes, demonstrating better electrochemical Li storage performance.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> CoO/CoFe<sub>2</sub>O<sub>4</sub> nanocomposites
+had been derived from CoFe-layered double hydroxides, exhibiting a
+tunable lithium storage property by changing the ratio of the component
+metal oxides.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> In the connection, one
+of the challenging issues is to obtain single-resource precursors
+involving two active metals. Despite great efforts, the effective
+and general synthesis was largely prohibited by the difficulty of
+epitaxial growth of the second kind of materials or the limited range
+of such single sources of bimetal precursors as Prussian blue. Moreover,
+the aforementioned composites cannot tolerate long cycling at higher
+current density, probably pertaining to the lack of proper conjoint
+components. Therefore, efficient coupling of bimetals in a versatile
+synthetic system should be initiated immediately targeted at high-performance
+anode materials for LIBs.</p><p>Motivated by the advantages of bioxide
+composites, the general
+one-pot synthesis of such hybrids was realized in our work by picking
+a suitable couple of solvent and ligand. This was the first time to
+enable the architectures of nanosized SnO<sub>2</sub> phase and other
+oxides including Mn<sub>2</sub>O<sub>3</sub>, Co<sub>3</sub>O<sub>4</sub>, NiO, and Zn<sub>2</sub>SnO<sub>4</sub>. By rationally picking
+up the powerful linker and solvent to conjugate tin and other metal
+species, hierarchical structures composed of single- or double-source
+precursors were obtained depending on the intrinsic property of metal
+ions, which played the key role in the synthesis of bioxide composites.
+Particularly, SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> hierarchial
+hybrids (HHs) consisted of nanosheet networks attached to the nanorod
+stem. When SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs worked
+as the anode materials for LIBs, a reversible capacity of 487 mA h
+g<sup>&#x02013;1</sup> was maintained even after a long 1000 cycles
+at a high current density of 2 A g<sup>&#x02013;1</sup>, which was
+much better than SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> submicrorods
+and pristine Mn<sub>2</sub>O<sub>3</sub>. The origin of performance
+elevation could be attributed to the synergistic effect of nanohybrid,
+structural interface, and void among the nanosheets. This strategy
+displays adequate versatility for architectures of advanced oxide-based
+hybrid anodes for LIBs and supercapacitors.</p></sec><sec id="sec2"><title>Results and Discussion</title><p>The overall
+morphology and structure are investigated by the field
+emission scanning electron microscopy (FESEM) technique. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a demonstrates a
+high yield of the SnMn&#x000a0;precursor. To be more detailed (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b,c), some assemblages
+bind to the submicrorod stem similar to agaric growing on trees. Thereinto,
+submicrorods are about 5&#x02013;10 &#x003bc;m in length. Moreover, these
+assemblages are assembled with interconnected nanosheets, leaving
+significant voids. According to the thermogravimetric analysis (TGA)
+result (Figure S1 in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">Supporting Information</ext-link>), the precursor was annealed above 500 &#x000b0;C to transform completely
+into SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs. As shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d&#x02013;f, the morphology
+and structure of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs inherited
+well from the paternal template.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>FESEM images at different resolutions
+of the SnMn precursor (a&#x02013;c)
+and SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs (d,e). Scale bar:
+(a) 10 &#x003bc;m, (b) 1 &#x003bc;m, (c) 500 nm, (d) 10 &#x003bc;m, (e)
+1 &#x003bc;m, and (f) 500 nm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-01146n_0001" id="gr1" position="float"/></fig><p>The transmission electron microscopy (TEM) technique was
+applied
+to visualize the detailed structure information. In <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a,b, for SnMn precursor, it
+is clearly exhibited that the thin nanosheets constitute flowerlike
+clusters which are grown on the submicrorod stem. The TEM images of
+SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs are displayed in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c,d, demonstrating
+the structural feature inherent from their precursors. The high-resolution
+TEM (HRTEM) image of <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>e is used to detect the crystalline nature of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs. Furthermore, the faster Fourier
+transformation electron diffraction (FFT-ED) pattern was recorded
+from the square area of <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>e, exhibiting the well-defined diffraction spots. After calculation
+and analysis, the sets of diffractions are indexed to be (020) and
+(211) of cubic Mn<sub>2</sub>O<sub>3</sub> with lattice spacings of
+0.47 and 0.39 nm, respectively. Another HRTEM image in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>f was also recorded from SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs. The FFT-ED pattern from
+the marked square can be indexed to be two sets of diffraction spots,
+one of which is corresponding to cubic Mn<sub>2</sub>O<sub>3</sub> labeled by a parallelogram and another spot marked by a circle is
+calculated to be related with the (101) plane of tetragonal SnO<sub>2</sub>. At the same time, the elemental configuration is sharply
+visualized by a scanning transmission electron microscopy (STEM) instrument,
+where the mapping images in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>g describe the distribution of Mn and Sn mainly focusing
+on assemblages and submicrorod stems, respectively. The phase of the
+annealed sample was confirmed by the X-ray diffraction (XRD) pattern
+in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a. They
+can be well-indexed to be tetragonal SnO<sub>2</sub> (JCPDS no. 41-1445)
+and cubic Mn<sub>2</sub>O<sub>3</sub> (JCPDS no. 41-1442) marked
+in the pattern. There is no peak for impurity, indicating the high
+purity of the product.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>TEM images of (a,b) SnMn precursor and (c,d) SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs; (e,f) HRTEM images from SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs and (g) corresponding elemental
+mapping images of Mn, Sn, and O for one single SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HH.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-01146n_0002" id="gr2" position="float"/></fig><fig id="fig3" position="float"><label>Figure 3</label><caption><p>XRD patterns of (a) SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs,
+(b) SnO<sub>2</sub>/Co<sub>3</sub>O<sub>4</sub> HHs, (c) SnO<sub>2</sub>/NiO HHs, and (d) SnO<sub>2</sub>/Zn<sub>2</sub>SnO<sub>4</sub> HHs.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-01146n_0003" id="gr3" position="float"/></fig><p>To verify the multifunctionality
+of the synthetic system in the
+present method in regard of incorporating two metal species into the
+precursors, we used Co(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;4H<sub>2</sub>O, Ni(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;4H<sub>2</sub>O,
+and Zn(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;2H<sub>2</sub>O to substitute
+the previous Mn(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;4H<sub>2</sub>O for study and successfully fabricated their corresponding precursors
+which were nominated as SnCo, SnNi, and SnZn precursors, respectively.
+As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">Figure S2</ext-link>, these precursors
+were profiled by similar XRD patterns with well-defined peaks, demonstrating
+good crystallinity. After calcination at 500 or 600 &#x000b0;C, various
+SnO<sub>2</sub>/oxides HHs were harvested, which were analyzed via
+the XRD technique in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>. Specifically, the XRD pattern in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b of SnO<sub>2</sub>/Co<sub>3</sub>O<sub>4</sub> HHs can be indexed to tetragonal SnO<sub>2</sub> (JCPDS 41-1445)
+and cubic Co<sub>3</sub>O<sub>4</sub> (JCPDS 42-1467). Simultaneously,
+other hierarchical hybrids (HHs) of SnO<sub>2</sub>/NiO and SnO<sub>2</sub>/Zn<sub>2</sub>SnO<sub>4</sub> can effectively be identified
+by XRD patterns in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c,d, namely, tetragonal SnO<sub>2</sub> (JCPDS 41-1445), cubic
+NiO (<italic>Fm</italic>&#x00033;&#x00305;<italic>m</italic>, JCPDS 47-1049),
+and cubic Zn<sub>2</sub>SnO<sub>4</sub> (JCPDS 24-1470). These XRD
+results confirmed the formation of various SnO<sub>2</sub>/oxide hybrids,
+implying the versatility of the present method.</p><p>The FESEM image
+in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a captures
+a panoramic sight of SnO<sub>2</sub>/Co<sub>3</sub>O<sub>4</sub> HHs,
+which displays the screw-nut-like structures that
+are clearly observed from <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b. It is clear that the caps are attached at both ends,
+and some discrete nanoparticles bind on the rodlike stem. Furthermore,
+the microstructure details of SnO<sub>2</sub>/NiO HHs were also inspected. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c remarkably describes
+the typical one-dimensional structures. On the basis of the observation
+from the higher-magnification FESEM image in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d, several nanorods are preferentially stacked
+into bundles with a few nanoparticles scattered onto the nanorod surface.
+When Zn(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;2H<sub>2</sub>O replaced
+Mn(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;4H<sub>2</sub>O in our synthesis,
+final SnO<sub>2</sub>/Zn<sub>2</sub>SnO<sub>4</sub> HHs were transformed
+from the precursor. It is interesting to note that SnO<sub>2</sub>/Zn<sub>2</sub>SnO<sub>4</sub> HHs still maintain one-dimensional
+structures but hexagonal prisms, as indicated in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a,b. Because of sintering at
+high temperature, some prisms suffer from cracking pointed by arrows.
+The mapping description in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c gives the elemental distribution of Zn and Sn, implying
+the uniform dispersion of SnO<sub>2</sub> and Zn<sub>2</sub>SnO<sub>4</sub> domains over the whole hexagonal prism.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>FESEM images of SnO<sub>2</sub>/Co<sub>3</sub>O<sub>4</sub> HHs
+(a,b) and SnO<sub>2</sub>/NiO HHs (c,d). Scale bar: 1 &#x003bc;m for
+all panels.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-01146n_0004" id="gr4" position="float"/></fig><fig id="fig5" position="float"><label>Figure 5</label><caption><p>(a,b) FESEM images of
+SnO<sub>2</sub>/Zn<sub>2</sub>SnO<sub>4</sub> HHs and (c) TEM image
+recorded from a typical single SnO<sub>2</sub>/Zn<sub>2</sub>SnO<sub>4</sub> hexagonal prism and the corresponding
+elemental mapping images (c) of Sn and Zn. Scale bars: (a,b) 1 &#x003bc;m
+and (c) 2 &#x003bc;m.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-01146n_0005" id="gr5" position="float"/></fig><p>To shed light on the
+formation mechanism of precursors, some tests
+and related analyses were done. In the XRD pattern of the SnMn precursor
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">Figure S2</ext-link>, the appearance of the peak
+at about 10.8&#x000b0; demonstrates the formation of a glycolate precursor.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> A control experiment was carried out where K<sub>2</sub>SnO<sub>3</sub>&#x000b7;3H<sub>2</sub>O was not applied with
+other conditions being kept constant, and finally, flowerlike Mn&#x02013;glycolate
+was obtained, as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">Figure S3</ext-link>. After
+heat treatment, pristine Mn<sub>2</sub>O<sub>3</sub> was attained
+and indexed by the XRD pattern in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">Figure S4</ext-link>. Similarly, if Mn(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;4H<sub>2</sub>O was not added, no product was harvested. The comparative results
+implied that Mn was inclined to bond with EG but not with <sc>l</sc>-proline&#x000a0;and had higher coordination ability to bond with EG
+than Sn. Hence, it is reasonable to speculate that the SnMn precursor
+was composed of Mn&#x02013;glycolate and Sn&#x02013;proline. To obtain
+more information about the precursor, Fourier transform infrared (FTIR)
+spectra of <sc>l</sc>-proline and SnMn precursor were recorded in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">Figure S5</ext-link>. A remarkable band at 3433 cm<sup>&#x02013;1</sup> in both spectra implies the occurrence of hydroxyl vibration. In
+the spectrum of the SnMn precursor, the bands at 2934, 2895, and 2837
+cm<sup>&#x02013;1</sup> are related to the asymmetric stretching vibration
+of N&#x02013;H and C&#x02013;H groups.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> It
+should be noted that the C=O stretch band for the carboxyl
+group of <sc>l</sc>-proline&#x000a0;appeared at 1623 cm<sup>&#x02013;1</sup> and disappeared in the spectrum of the precursor.<sup><xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> There are two new bands at 1633 and 1462 ascribed to the asymmetric
+&#x003bd;<sub>as</sub>(COO<sup>&#x02013;</sup>) and symmetric &#x003bd;<sub>s</sub>(COO<sup>&#x02013;</sup>) stretching of carboxyl groups, respectively.
+According to the wavenumber separation value (<italic>D</italic>)
+between the &#x003bd;<sub>as</sub>(COO<sup>&#x02013;</sup>) and &#x003bd;<sub>s</sub>(COO<sup>&#x02013;</sup>) bands, the type of interaction between
+the carboxylate head and metal ions can be distinguished as monodentate,
+bidentate bridging, bidentate chelating, or ionic interaction.<sup><xref ref-type="bibr" rid="ref32">32</xref>&#x02212;<xref ref-type="bibr" rid="ref34">34</xref></sup> Here, the <italic>D</italic> value is 171 cm<sup>&#x02013;1</sup>, suggesting that the carboxyl groups play a role in bidentate bridging.<sup><xref ref-type="bibr" rid="ref32">32</xref>&#x02212;<xref ref-type="bibr" rid="ref34">34</xref></sup> Thereafter, the Sn&#x02013;proline complex is described as Sn&#x02013;O&#x02013;C(R)&#x02013;O&#x02013;Sn
+in which <sc>l</sc>-proline bridges two Sn atoms at each end. Some
+unsaturated Mn atoms in Mn&#x02013;glycolate and Sn atoms in Sn&#x02013;proline
+would bond with the carboxyl of Sn&#x02013;proline and hydroxyl of
+Mn&#x02013;glycolate, which rendered the hybridization of SnMn precursor
+HHs. When Zn(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;2H<sub>2</sub>O was
+used in the synthetic system, the as-attained SnZn precursor exhibited
+well-shaped hexagonal prisms. Moreover, the characteristic XRD peak
+corresponding to the metal glycolate disappears. Correspondingly,
+the SnZn precursor is inferred to be a single-source analogue of the
+SnZn&#x02013;proline complex. After calcination at high temperature,
+it completely transformed into SnO<sub>2</sub> and ZnSn<sub>2</sub>O<sub>4</sub>, similar to the reported Prussian blue-structured Zn<sub>3</sub>[Fe(CN)<sub>6</sub>]<sub>2</sub> as a template to fabricate
+ZnO and ZnFe<sub>2</sub>O<sub>4</sub> components.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> These precursors, including SnMn, SnCo, SnNi, and SnZn
+precursors, showed prominently different coordination properties and
+crystallization behaviors to get different structure bimetal oxides,
+which mainly originated from the different intrinsic properties of
+cations, that is, Mn<sup>2+</sup>, Co<sup>2+</sup>, Ni<sup>2+</sup>, and Zn<sup>2+</sup>. A more comprehensive and extensive investigation
+into the underlying fundamentals for such distinctions with changing
+metal cations is undergoing. From the above discussion, the significance
+of synthetic system was highlighted. The option of appropriate system
+can moderate the hybridization fashion and determine the realization
+of final hybridization.</p><p>To prove the superiority of such hierarchical
+structures as the
+anode materials, another control sample of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> submicrorods was attained from its precursor
+via calcination. As can be seen in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">Figure S6a</ext-link>, the FESEM image of the precursor of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> submicrorods describes a rodlike structure with a length
+of 2&#x02013;8 &#x003bc;m and a diameter of hundred nanometers to several
+micrometers. Moreover, this morphology was maintained after annealing,
+as demonstrated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">Figure S6b</ext-link>. The XRD
+pattern of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> submicrorods
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">Figure S7</ext-link> offers a similar profile,
+which is determined to be tetragonal SnO<sub>2</sub> (JCPDS no. 41-1445)
+and cubic Mn<sub>2</sub>O<sub>3</sub> (JCPDS no. 41-1442). Further
+confirmation of chemical composition was given by the STEM mapping
+results (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">Figure S6c</ext-link>), evidently demonstrating
+the homogeneous distribution of Sn, Mn, and O throughout the rodlike
+structure.</p><p>When tested as an anode material for LIBs, the electrochemical
+behaviors of several samples were characterized. As shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a, both SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs and submicrorods exhibit good rate
+capability. At the low current densities of 0.2, 0.5, and 1 A g<sup>&#x02013;1</sup>, the capacity of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs is a little higher than that of the submicrorods. However,
+when the current density increases to 2 and 5 A g<sup>&#x02013;1</sup>, both samples offer a similar reversible capacity. As the rate is
+back to 0.5 A g<sup>&#x02013;1</sup> in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">Figure S8</ext-link>, the specific capacity of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs is 859.2 mA h g<sup>&#x02013;1</sup> and is comparable
+with that of 814 mA h g<sup>&#x02013;1</sup> at the initial current
+density of 0.5 A g<sup>&#x02013;1</sup>, indicating a good rate capacity
+of the active material. The reversible capacity can be still maintained
+as high as 839.9 mA h g<sup>&#x02013;1</sup> after 260 cycles. However,
+SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> submicrorods rapidly degrade
+to about 400 mA h g<sup>&#x02013;1</sup> just at 140th cycle.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>(a) Rate capability
+and (b) cycling performance of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs and submicrorods at a current density
+of 0.5 A g<sup>&#x02013;1</sup> and (c,d) cycling performance of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs at current densities of 1
+and 2 A g<sup>&#x02013;1</sup>, respectively.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-01146n_0006" id="gr6" position="float"/></fig><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">Figure S9</ext-link> shows the cyclic voltammetry
+(CV)&#x000a0;curves of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs
+at a scan rate of 0.1 mV s<sup>&#x02013;1</sup> in the potential range
+of 0.01&#x02013;3.0 V. In the first cathodic process, a weak and broad
+cathodic peak was located at around 1.26 V but disappeared in the
+successive cycles, which can be attributed to the reduction of Mn<sup>3+</sup> to Mn<sup>2+</sup>.<sup><xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup> The main cathodic peak
+at around 0.96 V is ascribed to the reduction of SnO<sub>2</sub> to
+Sn and Li<sub>2</sub>O.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> The last main
+peak located at 0.24 V is associated with the reduction of Mn<sup>2+</sup> to Mn<sup>0</sup> and the alloying reaction of Sn and Li<sup>+</sup> (Li<sub><italic>x</italic></sub>Sn).<sup><xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref38">38</xref>,<xref ref-type="bibr" rid="ref39">39</xref></sup> In the anodic
+process, the anodic peak at 0.56 V is for the oxidation of Li<sub><italic>x</italic></sub>Sn alloy to Sn.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> The anodic peak at 1.27 V is ascribed to the oxidation of Mn<sup>0</sup> to Mn<sup>2+</sup> and Sn<sup>0</sup> partially back to SnO<sub>2</sub>.<sup><xref ref-type="bibr" rid="ref40">40</xref>,<xref ref-type="bibr" rid="ref41">41</xref></sup> In the second scan, the cathodic peak at
+0.96 V weakens and then vanishes subsequently, suggesting an irreversible
+transition of SnO<sub>2</sub> to Sn.<sup><xref ref-type="bibr" rid="ref37">37</xref>,<xref ref-type="bibr" rid="ref41">41</xref></sup> Other two
+peaks at &#x0223c;0.44 and 0.06 V are attributed to the reduction of
+Mn<sup>2+</sup> to Mn<sup>0</sup> and the formation of an Li<sub><italic>x</italic></sub>Sn alloy, respectively.<sup><xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref39">39</xref></sup></p><p>Here, the cycling performance of the
+as-prepared samples at different
+current densities was also studied. First, at the current density
+of 0.5 A g<sup>&#x02013;1</sup> in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b, the initial discharge capacity and charge
+capacity of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs are 1598.7
+and 1021.4 mA h g<sup>&#x02013;1</sup>, respectively. The significant
+capacity loss of 577.3 mA h g<sup>&#x02013;1</sup> is generally considered
+to be caused by the formation of a solid electrolyte interphase (SEI)
+layer on the surface of anode materials in the first discharge process.<sup><xref ref-type="bibr" rid="ref42">42</xref>&#x02212;<xref ref-type="bibr" rid="ref47">47</xref></sup> Subsequently, the capacity profile undergoes declination followed
+by inclination, which is familiarly observed for transition&#x000a0;metal
+oxides. This phenomenon generally&#x000a0;results from the reversible
+formation of the gel-like polymeric layer.<sup><xref ref-type="bibr" rid="ref48">48</xref>&#x02212;<xref ref-type="bibr" rid="ref53">53</xref></sup> This process was recognized as the activation stage. Even after
+300 cycles, SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs could
+maintain stable capacity, delivering 867.8 mA h g<sup>&#x02013;1</sup>, whereas SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> submicrorods
+show a trend of capacity down all the way and just recover 428 mA
+h g<sup>&#x02013;1</sup> at the 140th cycle. When the cycling performance
+of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs is tested at the
+current density of 1 A g<sup>&#x02013;1</sup> (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>c), the first discharge and charge capacities
+are 1734.9 and 1126 mA h g<sup>&#x02013;1</sup>, respectively, with
+a high initial coulombic efficiency of 65%. The irreversible capacity
+can be attributed to the decomposition of the electrolyte to form
+a SEI layer on the surface of the electrode.<sup><xref ref-type="bibr" rid="ref42">42</xref>&#x02212;<xref ref-type="bibr" rid="ref47">47</xref></sup> From the sixth cycle onward, the electrode shows an excellent stable
+capacity, and the reversible capacity of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs is 610.3 mA h g<sup>&#x02013;1</sup> after 600 cycles
+with only&#x000a0;a slight decay of 0.29 mA h g<sup>&#x02013;1</sup> per
+cycle. By comparison, as displayed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">Figure S10a</ext-link>, the first discharge and charge capacities of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> submicrorods and pristine Mn<sub>2</sub>O<sub>3</sub> are 1519.5 and 1028.5&#x000a0;as well as 933.7 and 526.1 mA
+h g<sup>&#x02013;1</sup> at a current density of 1 A g<sup>&#x02013;1</sup>. After lithium storage cycling, the reversible capacity of both
+samples degrades to 192.6 at 250th cycle and 290.4 mA h g<sup>&#x02013;1</sup> at 100th cycle. When the current density increases to 2 A g<sup>&#x02013;1</sup> (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>d), SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs can still
+maintain a good cycling performance, which additionally suggests a
+remarkable rapid charging ability. It delivers a reversible capacity
+as high as 487 mA h g<sup>&#x02013;1</sup> after 1001 cycles. The other
+two electrodes made of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> submicrorods and pristine Mn<sub>2</sub>O<sub>3</sub> cannot endure
+long cycling at such a high current density. From <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">Figure S10</ext-link>, the reversible capacities of the former electrode
+are only 192.6 and 115 mA h g<sup>&#x02013;1</sup> after 250 cycles
+at the current densities of 1 and 2 A g<sup>&#x02013;1</sup>, respectively,
+recovering about 12.7 and 7.6% from the first discharge capacity.
+In addition, the latter one experiences 100 lithiation/delithiation
+cycles, and the charge capacities reduce to 290.4 and 202.7 mA h g<sup>&#x02013;1</sup> at the current densities of 1 and 2 A g<sup>&#x02013;1</sup>, respectively.</p><p>On the basis of the above data and analyses,
+it was well-concluded
+that SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs exhibited a superior
+rate capability and cycling life to SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> submicrorods and pristine Mn<sub>2</sub>O<sub>3</sub>. Through the structural and compositional comparison among them,
+the superiority of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs
+can be analyzed as follows. The nanosheet-interconnecting network
+could raise the surface area of the electrode materials, favorably
+increasing the contact area between the electrode and the electrolyte
+and allowing the full occurrence of electrochemical reactions, demonstrated
+a better performance of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs than the submicrorods. What is more, the structural voids benefited
+buffering the volumetric variation of the active materials during
+the repeated discharge/charge process. Last, the synergetic effect
+of SnO<sub>2</sub> and Mn<sub>2</sub>O<sub>3</sub> was another dominating
+reason to enhance the electrochemical performance of the composite,<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> which was verified by the worse lithium storage
+property of the single-phase Mn<sub>2</sub>O<sub>3</sub>.</p></sec><sec id="sec3"><title>Conclusions</title><p>In summary, the general fabrication of integrated SnO<sub>2</sub>/metal oxide HHs has been devised based on the template-directing
+route, including Mn<sub>2</sub>O<sub>3</sub>, Co<sub>3</sub>O<sub>4</sub>, NiO, and Zn<sub>2</sub>SnO<sub>4</sub> as the oxide phase.
+Their corresponding precursors containing tin and another metal were
+successfully designed by taking advantage of the synergistic role
+of <sc>l</sc>-proline and EG. By analyzing the phase and bond information
+via XRD and FTIR, single- or double-source precursors could be engineered
+depending on the coordination and/or intrinsic property of different
+metal species. In principle, the synthetic strategy is applicable
+to the integration of other metal oxides. Thereinto, SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs were featured as architectural hybrids
+with flowerlike clusters anchoring on the rod stem. In accordance
+with our present work, SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs as the anode material for LIBs showed the enhanced storage capacity
+and cycling stability. The superior electrochemical performance of
+SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs could be attributed
+to their special nanohybrid hierarchical architecture. It proved once
+more that the reasonable design of nanoarchitectures showed an encouraging
+avenue to improve the performance of anode materials for LIBs.</p></sec><sec id="sec4"><title>Materials
+and Methods</title><sec id="sec4-1"><title>Synthesis of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs</title><p>All chemical reagents were used as received without any further
+purification. The synthesis of the SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> hybrid precursor (SnMn precursor) was conducted by a simple
+refluxing method. In a typical synthesis, 1 mmol Mn(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;4H<sub>2</sub>O, 0.5 mmol K<sub>2</sub>SnO<sub>3</sub>&#x000b7;3H<sub>2</sub>O, and 1 mmol&#x000a0;<sc>l</sc>-proline
+were dispersed into 40 mL of EG and oil-bathed in a one-neck capped
+flask connected with a condenser at 170 &#x000b0;C for 6 h under continuous
+stirring. After being cooled to room temperature naturally, the product
+was centrifuged, washed with ethanol several times, and then dried
+at 60 &#x000b0;C overnight to obtain brown powder. Subsequently, the
+precursor was calcined at 500 &#x000b0;C for 5 h in an air atmosphere
+with the heating rate of 2 &#x000b0;C/min. Finally, the dark brown SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs were obtained.</p></sec><sec id="sec4-2"><title>Synthesis of
+SnO<sub>2</sub>/Co<sub>3</sub>O<sub>4</sub> HHs</title><p>The synthetic
+procedures were similar to those of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs except that Mn(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;4H<sub>2</sub>O was replaced with 1 mmol Co(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;4H<sub>2</sub>O in the experiment.</p></sec><sec id="sec4-3"><title>Synthesis of SnO<sub>2</sub>/NiO HHs</title><p>The synthetic
+procedures were similar to those of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs except that Mn(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;4H<sub>2</sub>O was replaced with 1 mmol Ni(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;4H<sub>2</sub>O in the experiment.</p></sec><sec id="sec4-4"><title>Synthesis of SnO<sub>2</sub>/Zn<sub>2</sub>SnO<sub>4</sub> HHs</title><p>The synthetic procedures
+were similar to those of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs except that Mn(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;4H<sub>2</sub>O was replaced with 0.5 mmol Zn(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;2H<sub>2</sub>O in the experiment, and
+the corresponding precursor was annealed at 600 &#x000b0;C.</p></sec><sec id="sec4-5"><title>Synthesis of
+Mn<sub>2</sub>O<sub>3</sub> Nanosheets</title><p>The synthetic procedures
+were similar to those of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs except that K<sub>2</sub>SnO<sub>3</sub>&#x000b7;3H<sub>2</sub>O was not applied in the experiment.</p></sec><sec id="sec4-6"><title>Synthesis of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> Submicrorods</title><p>The synthetic
+procedures were similar to those of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs except that the flask was opened
+and not connected with the condenser when oil-bathing the reagents.</p></sec><sec id="sec4-7"><title>Characterization of Materials</title><p>The phase detection of
+products was performed by powder XRD (Philips X&#x02019;Pert Pro Super
+diffractometer, Cu K&#x003b1; radiation, &#x003bb; = 1.54178 &#x000c5;).
+TEM and FESEM images were recorded with a transmission electron microscope
+(JEOL, JEM-1011) and a field emission scanning electron microscope
+(JEOL, JSM-6700F), respectively. HRTEM images were recorded using
+an electron microscope (JEM-2100F, accelerating voltage: 200 kV) coupled
+with an X-ray energy-dispersive spectroscopy (EDX) instrument. TGA
+(PerkinElmer Diamond TG/DTA apparatus) was conducted at a heating
+rate of 10 &#x000b0;C/min in flowing air. FTIR spectra were recorded
+on a Bruker EQUINOX55 spectrometer with a potassium bromide pellet
+as a control.</p></sec><sec id="sec4-8"><title>Electrochemical Characterization</title><p>The working electrode
+was made of 70 wt % active material, 20 wt % conductive material (acetylene
+black), and 10 wt % binder (carboxymethylcellulose sodium). The above
+materials were mixed with water by grinding to form a slurry, which
+was then pasted on the pure copper foil and dried at 80 &#x000b0;C in
+vacuum. The obtained foil was cut into a disk with a diameter of 12
+mm, and the mass density of the active material was about 1 mg cm<sup>&#x02013;2</sup>. The electrochemical measurements were performed
+using CR2032 coin cells in the voltage range of 3.0&#x02013;0.01 V.
+The cells were assembled in an argon-filled glovebox with the lithium
+foil as the counter electrode and the Celgard 2400 membrane as the
+separator. The electrolyte was a mixture of 1 M LiPF<sub>6</sub> in
+ethylene carbonate, dimethyl carbonate, and diethyl carbonate in a
+volume ratio of 1:1:1 purchased from Samsung Chemical Corporation.</p></sec></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acsomega.7b01146">10.1021/acsomega.7b01146</ext-link>.<list id="silist" list-type="simple"><list-item><p>TGA, XRD, FESEM,
+FTIR, and TEM images of the corresponding
+precursors and the final products and electrochemical performance
+of SnO<sub>2</sub>/Mn<sub>2</sub>O<sub>3</sub> HHs and submicrorods
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01146/suppl_file/ao7b01146_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao7b01146_si_001.pdf"><caption><p>ao7b01146_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="notes2"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The authors gratefully
+acknowledge the financial
+support provided by the National Natural Science Fund of China (nos.
+21601108 and 21371108), the Fundamental Research Funds of Shandong
+University (no. 2016JC033 and 2016GN010), Young Scholars Program of
+Shandong University (no. 2017WLJH15), and the Taishan Scholar Project
+of Shandong Province (no. ts201511004).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Yu</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>C.-H.</given-names></name>; <name><surname>Shui</surname><given-names>J.-L.</given-names></name>; <name><surname>Xie</surname><given-names>S.</given-names></name>
+<article-title>Nickel-Foam-Supported
+Reticular CoO-Li<sub>2</sub>O Composite Anode Materials for Lithium
+Ion Batteries</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2005</year>, <volume>44</volume>, <fpage>7085</fpage>&#x02013;<lpage>7089</lpage>. <pub-id pub-id-type="doi">10.1002/anie.200501905</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Dedryv&#x000e8;re</surname><given-names>R.</given-names></name>; <name><surname>Laruelle</surname><given-names>S.</given-names></name>; <name><surname>Grugeon</surname><given-names>S.</given-names></name>; <name><surname>Poizot</surname><given-names>P.</given-names></name>; <name><surname>Gonbeau</surname><given-names>D.</given-names></name>; <name><surname>Tarascon</surname><given-names>J.-M.</given-names></name>
+<article-title>Contribution of X-ray Photoelectron
+Spectroscopy to
+the Study of the Electrochemical Reactivity of CoO toward Lithium</article-title>. <source>Chem. Mater.</source>
+<year>2004</year>, <volume>16</volume>, <fpage>1056</fpage>&#x02013;<lpage>1061</lpage>. <pub-id pub-id-type="doi">10.1021/cm0311269</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Xia</surname><given-names>H.</given-names></name>; <name><surname>Lu</surname><given-names>L.</given-names></name>; <name><surname>Xue</surname><given-names>D.</given-names></name>
+<article-title>Anisotropic Co<sub>3</sub>O<sub>4</sub> Porous Nanocapsules toward
+High-Capacity Li-Ion Batteries</article-title>. <source>J. Mater. Chem.</source>
+<year>2010</year>, <volume>20</volume>, <fpage>1506</fpage>&#x02013;<lpage>1510</lpage>. <pub-id pub-id-type="doi">10.1039/b923834d</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Chen</surname><given-names>Y. M.</given-names></name>; <name><surname>Yu</surname><given-names>L.</given-names></name>; <name><surname>Lou</surname><given-names>X. W. D.</given-names></name>
+<article-title>Hierarchical Tubular Structures Composed of Co<sub>3</sub>O<sub>4</sub> Hollow Nanoparticles and Carbon Nanotubes for
+Lithium Storage</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2016</year>, <volume>55</volume>, <fpage>5990</fpage>&#x02013;<lpage>5993</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201600133</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Dunn</surname><given-names>B.</given-names></name>; <name><surname>Kamath</surname><given-names>H.</given-names></name>; <name><surname>Tarascon</surname><given-names>J.-M.</given-names></name>
+<article-title>Electrical Energy
+Storage for the
+Grid: a Battery of Choices</article-title>. <source>Science</source>
+<year>2011</year>, <volume>334</volume>, <fpage>928</fpage>&#x02013;<lpage>935</lpage>. <pub-id pub-id-type="doi">10.1126/science.1212741</pub-id>.<pub-id pub-id-type="pmid">22096188</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Wang</surname><given-names>H.-g.</given-names></name>; <name><surname>Zhang</surname><given-names>X.-b.</given-names></name>
+<article-title>Designing Multi-Shelled Metal Oxides:
+towards High
+Energy-Density Lithium-Ion Batteries</article-title>. <source>Sci. China
+Mater.</source>
+<year>2016</year>, <volume>59</volume>, <fpage>521</fpage>&#x02013;<lpage>522</lpage>. <pub-id pub-id-type="doi">10.1007/s40843-016-5095-7</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Zeng</surname><given-names>L.</given-names></name>; <name><surname>Wu</surname><given-names>Y.</given-names></name>; <name><surname>Yu</surname><given-names>Y.</given-names></name>
+<article-title>Nanostructured Electrode
+Materials for Lithium-Ion and Sodium-Ion Batteries via Electrospinning</article-title>. <source>Sci. China Mater.</source>
+<year>2016</year>, <volume>59</volume>, <fpage>287</fpage>&#x02013;<lpage>321</lpage>. <pub-id pub-id-type="doi">10.1007/s40843-016-5039-6</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Wu</surname><given-names>Z.-S.</given-names></name>; <name><surname>Ren</surname><given-names>W.</given-names></name>; <name><surname>Wen</surname><given-names>L.</given-names></name>; <name><surname>Gao</surname><given-names>L.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Zhou</surname><given-names>G.</given-names></name>; <name><surname>Li</surname><given-names>F.</given-names></name>; <name><surname>Cheng</surname><given-names>H.-M.</given-names></name>
+<article-title>Graphene Anchored
+with Co<sub>3</sub>O<sub>4</sub> Nanoparticles as Anode of Lithium
+Ion Batteries with Enhanced Reversible Capacity and Cyclic Performance</article-title>. <source>ACS Nano</source>
+<year>2010</year>, <volume>4</volume>, <fpage>3187</fpage>&#x02013;<lpage>3194</lpage>. <pub-id pub-id-type="doi">10.1021/nn100740x</pub-id>.<pub-id pub-id-type="pmid">20455594</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Pei</surname><given-names>L.</given-names></name>; <name><surname>Jin</surname><given-names>Q.</given-names></name>; <name><surname>Zhu</surname><given-names>Z.</given-names></name>; <name><surname>Zhao</surname><given-names>Q.</given-names></name>; <name><surname>Liang</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>
+<article-title>Ice-Templated
+Preparation and Sodium Storage of Ultrasmall SnO<sub>2</sub> Nanoparticles
+Embedded in Three-Dimensional Graphene</article-title>. <source>Nano
+Res.</source>
+<year>2015</year>, <volume>8</volume>, <fpage>184</fpage>&#x02013;<lpage>192</lpage>. <pub-id pub-id-type="doi">10.1007/s12274-014-0609-6</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Miao</surname><given-names>C.</given-names></name>; <name><surname>Liu</surname><given-names>M.</given-names></name>; <name><surname>He</surname><given-names>Y.-B.</given-names></name>; <name><surname>Qin</surname><given-names>X.</given-names></name>; <name><surname>Tang</surname><given-names>L.</given-names></name>; <name><surname>Huang</surname><given-names>B.</given-names></name>; <name><surname>Li</surname><given-names>R.</given-names></name>; <name><surname>Li</surname><given-names>B.</given-names></name>; <name><surname>Kang</surname><given-names>F.</given-names></name>
+<article-title>Monodispersed SnO<sub>2</sub> Nanospheres
+Embedded in Framework of Graphene and Porous Carbon as Anode for Lithium
+Ion Batteries</article-title>. <source>Energy Storage Mater.</source>
+<year>2016</year>, <volume>3</volume>, <fpage>98</fpage>&#x02013;<lpage>105</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2016.01.006</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Su</surname><given-names>D.</given-names></name>; <name><surname>Dou</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>G.</given-names></name>
+<article-title>Mesocrystal
+Co<sub>3</sub>O<sub>4</sub> Nanoplatelets
+as High Capacity Anode Materials for Li-Ion Batteries</article-title>. <source>Nano Res.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>794</fpage>&#x02013;<lpage>803</lpage>. <pub-id pub-id-type="doi">10.1007/s12274-014-0440-0</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Lai</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Huang</surname><given-names>Z.</given-names></name>
+<article-title>Carbon Nanohorns as a High-Performance
+Carrier for MnO<sub>2</sub> Anode in Lithium-Ion Batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2012</year>, <volume>4</volume>, <fpage>2325</fpage>&#x02013;<lpage>2328</lpage>. <pub-id pub-id-type="doi">10.1021/am300378w</pub-id>.<pub-id pub-id-type="pmid">22545767</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Kim</surname><given-names>J. M.</given-names></name>; <name><surname>Huh</surname><given-names>Y. S.</given-names></name>; <name><surname>Han</surname><given-names>Y.-K.</given-names></name>; <name><surname>Cho</surname><given-names>M. S.</given-names></name>; <name><surname>Kim</surname><given-names>H. J.</given-names></name>
+<article-title>Facile
+Synthesis Route to Highly Crystalline Mesoporous &#x003b3;-MnO2 Nanospheres</article-title>. <source>Electrochem. Commun.</source>
+<year>2012</year>, <volume>14</volume>, <fpage>32</fpage>&#x02013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1016/j.elecom.2011.10.023</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Nan</surname><given-names>C.</given-names></name>; <name><surname>Lu</surname><given-names>J.</given-names></name>; <name><surname>Peng</surname><given-names>Q.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>
+<article-title>&#x003b1;-MnO<sub>2</sub> Nanotubes:
+High Surface Area and Enhanced Lithium Battery Properties</article-title>. <source>Chem. Commun.</source>
+<year>2012</year>, <volume>48</volume>, <fpage>6945</fpage>&#x02013;<lpage>6947</lpage>. <pub-id pub-id-type="doi">10.1039/c2cc32306k</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Kong</surname><given-names>D.</given-names></name>; <name><surname>Zhou</surname><given-names>G.</given-names></name>; <name><surname>Wu</surname><given-names>S.</given-names></name>; <name><surname>Lv</surname><given-names>W.</given-names></name>; <name><surname>Luo</surname><given-names>C.</given-names></name>; <name><surname>Shao</surname><given-names>J.-J.</given-names></name>; <name><surname>Li</surname><given-names>B.</given-names></name>; <name><surname>Kang</surname><given-names>F.</given-names></name>; <name><surname>Yang</surname><given-names>Q.-H.</given-names></name>
+<article-title>Twin-Functional
+Graphene Oxide: Compacting with Fe<sub>2</sub>O<sub>3</sub> into a
+High Volumetric Capacity Anode for Lithium Ion Battery</article-title>. <source>Energy Storage Mater.</source>
+<year>2017</year>, <volume>6</volume>, <fpage>98</fpage>&#x02013;<lpage>103</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2016.09.005</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Bai</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Xiong</surname><given-names>S.</given-names></name>
+<article-title>Unusual Formation of ZnCo<sub>2</sub>O<sub>4</sub> 3D Hierarchical
+Twin Microspheres as a High-Rate and
+Ultralong-Life Lithium-Ion Battery Anode Material</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2014</year>, <volume>24</volume>, <fpage>3012</fpage>&#x02013;<lpage>3020</lpage>. <pub-id pub-id-type="doi">10.1002/adfm.201303442</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Wang</surname><given-names>T.</given-names></name>; <name><surname>Zhu</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>H.</given-names></name>; <name><surname>Qin</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>F.</given-names></name>; <name><surname>Cheng</surname><given-names>Q.</given-names></name>; <name><surname>Yu</surname><given-names>X.</given-names></name>; <name><surname>Xu</surname><given-names>Z.</given-names></name>; <name><surname>Lu</surname><given-names>B.</given-names></name>
+<article-title>Large-scale
+production of silicon nanoparticles@graphene embedded in nanotubes
+as ultra-robust battery anodes</article-title>. <source>J. Mater. Chem.
+A</source>
+<year>2017</year>, <volume>5</volume>, <fpage>4809</fpage>&#x02013;<lpage>4817</lpage>. <pub-id pub-id-type="doi">10.1039/c6ta10631e</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>He</surname><given-names>C.</given-names></name>; <name><surname>Wu</surname><given-names>S.</given-names></name>; <name><surname>Zhao</surname><given-names>N.</given-names></name>; <name><surname>Shi</surname><given-names>C.</given-names></name>; <name><surname>Liu</surname><given-names>E.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>
+<article-title>Carbon-Encapsulated
+Fe<sub>3</sub>O<sub>4</sub> Nanoparticles as a High-Rate Lithium Ion
+Battery Anode Material</article-title>. <source>ACS Nano</source>
+<year>2013</year>, <volume>7</volume>, <fpage>4459</fpage>&#x02013;<lpage>4469</lpage>. <pub-id pub-id-type="doi">10.1021/nn401059h</pub-id>.<pub-id pub-id-type="pmid">23614734</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Zhu</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>T.</given-names></name>; <name><surname>Fan</surname><given-names>F.</given-names></name>; <name><surname>Mei</surname><given-names>L.</given-names></name>; <name><surname>Lu</surname><given-names>B.</given-names></name>
+<article-title>Atomic-Scale
+Control of Silicon Expansion Space as Ultrastable Battery Anodes</article-title>. <source>ACS Nano</source>
+<year>2016</year>, <volume>10</volume>, <fpage>8243</fpage>&#x02013;<lpage>8251</lpage>. <pub-id pub-id-type="doi">10.1021/acsnano.6b04522</pub-id>.<pub-id pub-id-type="pmid">27462725</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Guo</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>G.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>F.</given-names></name>
+<article-title>In situ synthesis
+of SnO<sub>2</sub>&#x02013;Fe<sub>2</sub>O<sub>3</sub>@polyaniline
+and their conversion to SnO<sub>2</sub>&#x02013;Fe<sub>2</sub>O<sub>3</sub>@C composite as fully reversible anode material for lithium-ion
+batteries</article-title>. <source>J. Power Sources</source>
+<year>2014</year>, <volume>246</volume>, <fpage>862</fpage>&#x02013;<lpage>867</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2013.08.052</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>H.</given-names></name>; <name><surname>Xie</surname><given-names>Y.</given-names></name>; <name><surname>Guo</surname><given-names>J.</given-names></name>
+<article-title>Ultralong life lithium-ion
+battery anode with superior high-rate capability and excellent cyclic
+stability from mesoporous Fe<sub>2</sub>O<sub>3</sub>@TiO<sub>2</sub> core&#x02013;shell nanorods</article-title>. <source>J. Mater. Chem.
+A</source>
+<year>2014</year>, <volume>2</volume>, <fpage>3912</fpage>&#x02013;<lpage>3918</lpage>. <pub-id pub-id-type="doi">10.1039/c3ta14317a</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Xu</surname><given-names>D.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Guo</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>K.</given-names></name>
+<article-title>Three-Dimensional Hierarchical
+Co<sub>3</sub>O<sub>4</sub>/CuO Nanowire Heterostructure Arrays on
+Nickel Foam for High-Performance
+Lithium Ion Batteries</article-title>. <source>Nano Energy</source>
+<year>2014</year>, <volume>6</volume>, <fpage>19</fpage>&#x02013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2014.02.012</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Bai</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>W.</given-names></name>; <name><surname>Yu</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>T.</given-names></name>; <name><surname>Feng</surname><given-names>J.</given-names></name>; <name><surname>Xiong</surname><given-names>S.</given-names></name>
+<article-title>One-Pot Solvothermal
+Synthesis of ZnO@&#x003b1;-Co(OH)2 Core&#x02013;Shell Hierarchical Microspheres
+with Superior Lithium Storage Properties</article-title>. <source>J.
+Phys. Chem. C</source>
+<year>2016</year>, <volume>120</volume>, <fpage>2984</fpage>&#x02013;<lpage>2992</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.5b10222</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Zhou</surname><given-names>W.</given-names></name>; <name><surname>Cheng</surname><given-names>C.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Tay</surname><given-names>Y. Y.</given-names></name>; <name><surname>Jiang</surname><given-names>J.</given-names></name>; <name><surname>Jia</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Gong</surname><given-names>H.</given-names></name>; <name><surname>Hng</surname><given-names>H. H.</given-names></name>; <name><surname>Yu</surname><given-names>T.</given-names></name>; <name><surname>Fan</surname><given-names>H. J.</given-names></name>
+<article-title>Epitaxial
+Growth of Branched &#x003b1;-Fe<sub>2</sub>O<sub>3</sub>/SnO<sub>2</sub> Nano-Heterostructures with Improved
+Lithium-Ion Battery Performance</article-title>. <source>Adv. Funct.
+Mater.</source>
+<year>2011</year>, <volume>21</volume>, <fpage>2439</fpage>&#x02013;<lpage>2445</lpage>. <pub-id pub-id-type="doi">10.1002/adfm.201100088</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>J.</given-names></name>; <name><surname>Wu</surname><given-names>H.</given-names></name>; <name><surname>Xu</surname><given-names>M.</given-names></name>; <name><surname>Peng</surname><given-names>Z.</given-names></name>; <name><surname>Zheng</surname><given-names>G.</given-names></name>
+<article-title>Hierarchical
+SnO<sub>2</sub>&#x02013;Fe<sub>2</sub>O<sub>3</sub> Heterostructures
+as Lithium-Ion Battery Anodes</article-title>. <source>J. Mater. Chem.</source>
+<year>2012</year>, <volume>22</volume>, <fpage>21923</fpage>&#x02013;<lpage>21927</lpage>. <pub-id pub-id-type="doi">10.1039/c2jm35255a</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Hou</surname><given-names>L.</given-names></name>; <name><surname>Lian</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Yuan</surname><given-names>C.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>
+<article-title>Self-Sacrifice
+Template Fabrication of Hierarchical Mesoporous Bi-Component-Active
+ZnO/ZnFe<sub>2</sub>O<sub>4</sub> Sub-Microcubes as Superior Anode
+towards High-Performance Lithium-Ion Battery</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2015</year>, <volume>25</volume>, <fpage>238</fpage>&#x02013;<lpage>246</lpage>. <pub-id pub-id-type="doi">10.1002/adfm.201402827</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Yin</surname><given-names>Y.-X.</given-names></name>; <name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Zhang</surname><given-names>F.</given-names></name>; <name><surname>Wan</surname><given-names>L.-J.</given-names></name>; <name><surname>Xu</surname><given-names>S.</given-names></name>; <name><surname>Evans</surname><given-names>D. G.</given-names></name>
+<article-title>Well-Dispersed
+Bi-Component-Active CoO/CoFe<sub>2</sub>O<sub>4</sub> Nanocomposites
+with Tunable Performances as Anode Materials
+for Lithium-Ion Batteries</article-title>. <source>Chem. Commun.</source>
+<year>2012</year>, <volume>48</volume>, <fpage>410</fpage>&#x02013;<lpage>412</lpage>. <pub-id pub-id-type="doi">10.1039/c1cc15322f</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Rai</surname><given-names>A. K.</given-names></name>; <name><surname>Gim</surname><given-names>J.</given-names></name>; <name><surname>Thi</surname><given-names>T. V.</given-names></name>; <name><surname>Ahn</surname><given-names>D.</given-names></name>; <name><surname>Cho</surname><given-names>S. J.</given-names></name>; <name><surname>Kim</surname><given-names>J.</given-names></name>
+<article-title>High Rate
+Capability and Long Cycle Stability of Co<sub>3</sub>O<sub>4</sub>/CoFe<sub>2</sub>O<sub>4</sub> Nanocomposite as an Anode Material
+for High-Performance Secondary Lithium Ion Batteries</article-title>. <source>J. Phys. Chem. C</source>
+<year>2014</year>, <volume>118</volume>, <fpage>11234</fpage>&#x02013;<lpage>11243</lpage>. <pub-id pub-id-type="doi">10.1021/jp502004c</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Hu</surname><given-names>L.</given-names></name>; <name><surname>Zhong</surname><given-names>H.</given-names></name>; <name><surname>Zheng</surname><given-names>X.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>P.</given-names></name>; <name><surname>Chen</surname><given-names>Q.</given-names></name>
+<article-title>CoMn<sub>2</sub>O<sub>4</sub> Spinel Hierarchical Microspheres Assembled
+with Porous Nanosheets as Stable Anodes for Lithium-ion Batteries</article-title>. <source>Sci. Rep.</source>
+<year>2012</year>, <volume>2</volume>, <fpage>986</fpage><pub-id pub-id-type="doi">10.1038/srep00986</pub-id>.<pub-id pub-id-type="pmid">23248749</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Zhang</surname><given-names>W.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Gu</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>G.</given-names></name>; <name><surname>Zhang</surname><given-names>F.</given-names></name>; <name><surname>Fan</surname><given-names>X.</given-names></name>
+<article-title>L-Proline Covalently
+Anchored on Graphene Oxide as an Effective Bifunctional
+Catalyst for Ketene Forming Reaction</article-title>. <source>Chem.
+Eng. Sci.</source>
+<year>2015</year>, <volume>135</volume>, <fpage>187</fpage>&#x02013;<lpage>192</lpage>. <pub-id pub-id-type="doi">10.1016/j.ces.2015.04.050</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Safaei-Ghomi</surname><given-names>J.</given-names></name>; <name><surname>Masoomi</surname><given-names>R.</given-names></name>; <name><surname>Hamadanian</surname><given-names>M.</given-names></name>; <name><surname>Naseh</surname><given-names>S.</given-names></name>
+<article-title>Magnetic Nanoscale
+Core&#x02013;Shell Structured Fe<sub>3</sub>O<sub>4</sub>@l-Proline:
+an Efficient, Reusable and Eco-friendly Nanocatalyst for Diastereoselective
+Synthesis of Fulleropyrrolidines</article-title>. <source>New J. Chem.</source>
+<year>2016</year>, <volume>40</volume>, <fpage>3289</fpage>&#x02013;<lpage>3299</lpage>. <pub-id pub-id-type="doi">10.1039/c5nj02960k</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Safaei-Ghomi</surname><given-names>J.</given-names></name>; <name><surname>Zahedi</surname><given-names>S.</given-names></name>
+<article-title>l-Proline-Functionalized Fe<sub>3</sub>O<sub>4</sub> Nanoparticles as a Novel Magnetic Chiral Catalyst for the Direct
+Asymmetric Mannich Reaction</article-title>. <source>Appl. Organomet.
+Chem.</source>
+<year>2015</year>, <volume>29</volume>, <fpage>566</fpage>&#x02013;<lpage>571</lpage>. <pub-id pub-id-type="doi">10.1002/aoc.3333</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>He</surname><given-names>R.</given-names></name>; <name><surname>Gu</surname><given-names>H.-C.</given-names></name>
+<article-title>Oleic Acid
+Coating on the Monodisperse Magnetite Nanoparticles</article-title>. <source>Appl. Surf. Sci.</source>
+<year>2006</year>, <volume>253</volume>, <fpage>2611</fpage>&#x02013;<lpage>2617</lpage>. <pub-id pub-id-type="doi">10.1016/j.apsusc.2006.05.023</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Ren</surname><given-names>Y.</given-names></name>; <name><surname>Iimura</surname><given-names>K.-i.</given-names></name>; <name><surname>Kato</surname><given-names>T.</given-names></name>
+<article-title>Structure of Barium Stearate Films
+at the Air/Water Interface Investigated by Polarization Modulation
+Infrared Spectroscopy and &#x003c0;&#x02013;A Isotherms</article-title>. <source>Langmuir</source>
+<year>2001</year>, <volume>17</volume>, <fpage>2688</fpage>&#x02013;<lpage>2693</lpage>. <pub-id pub-id-type="doi">10.1021/la000872e</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Lin</surname><given-names>H. B.</given-names></name>; <name><surname>Rong</surname><given-names>H. B.</given-names></name>; <name><surname>Huang</surname><given-names>W. Z.</given-names></name>; <name><surname>Liao</surname><given-names>Y. H.</given-names></name>; <name><surname>Xing</surname><given-names>L. D.</given-names></name>; <name><surname>Xu</surname><given-names>M. Q.</given-names></name>; <name><surname>Li</surname><given-names>X. P.</given-names></name>; <name><surname>Li</surname><given-names>W. S.</given-names></name>
+<article-title>Triple-Shelled Mn<sub>2</sub>O<sub>3</sub> Hollow Nanocubes: Force-Induced
+Synthesis and
+Excellent Performance as the Anode in Lithium-Ion Batteries</article-title>. <source>J. Mater. Chem. A</source>
+<year>2014</year>, <volume>2</volume>, <fpage>14189</fpage>&#x02013;<lpage>14194</lpage>. <pub-id pub-id-type="doi">10.1039/c4ta02666g</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Qian</surname><given-names>Y.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Tang</surname><given-names>K.</given-names></name>
+<article-title>Synthesis of Mn<sub>2</sub>O<sub>3</sub> Nanomaterials with Controllable
+Porosity and
+Thickness for Enhanced Lithium-Ion Batteries Performance</article-title>. <source>Nanoscale</source>
+<year>2014</year>, <volume>6</volume>, <fpage>1725</fpage>&#x02013;<lpage>1731</lpage>. <pub-id pub-id-type="doi">10.1039/c3nr05551e</pub-id>.<pub-id pub-id-type="pmid">24343374</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Cong</surname><given-names>H.-P.</given-names></name>; <name><surname>Xin</surname><given-names>S.</given-names></name>; <name><surname>Yu</surname><given-names>S. H.</given-names></name>
+<article-title>Flexible
+Nitrogen-Doped Graphene/SnO<sub>2</sub> Foams
+Promise Kinetically Stable Lithium Storage</article-title>. <source>Nano Energy</source>
+<year>2015</year>, <volume>13</volume>, <fpage>482</fpage>&#x02013;<lpage>490</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2015.03.016</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Du</surname><given-names>N.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Zhai</surname><given-names>C.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Yang</surname><given-names>D.</given-names></name>
+<article-title>Layer-by-Layer
+Synthesis of &#x003b3;-Fe<sub>2</sub>O<sub>3</sub>@SnO<sub>2</sub>@C
+Porous Core&#x02013;Shell Nanorods with High Reversible Capacity in
+Lithium-Ion Batteries</article-title>. <source>Nanoscale</source>
+<year>2013</year>, <volume>5</volume>, <fpage>4744</fpage>&#x02013;<lpage>4750</lpage>. <pub-id pub-id-type="doi">10.1039/c3nr00275f</pub-id>.<pub-id pub-id-type="pmid">23599163</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Liu</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>R.</given-names></name>; <name><surname>Liu</surname><given-names>M.</given-names></name>; <name><surname>Luo</surname><given-names>J.</given-names></name>; <name><surname>Jin</surname><given-names>X.</given-names></name>; <name><surname>Sun</surname><given-names>J.</given-names></name>; <name><surname>Gao</surname><given-names>L.</given-names></name>
+<article-title>Fe<sub>2</sub>O<sub>3</sub>@SnO<sub>2</sub> Nanoparticle
+Decorated Graphene Flexible Films as High-Performance Anode Materials
+for Lithium-Ion Batteries</article-title>. <source>J. Mater. Chem. A</source>
+<year>2014</year>, <volume>2</volume>, <fpage>4598</fpage>&#x02013;<lpage>4604</lpage>. <pub-id pub-id-type="doi">10.1039/c3ta14897a</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Pan</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>K.-X.</given-names></name>; <name><surname>Zhu</surname><given-names>X.-D.</given-names></name>; <name><surname>Xie</surname><given-names>X.-M.</given-names></name>; <name><surname>Liu</surname><given-names>Y.-T.</given-names></name>
+<article-title>Hierarchical
+Assembly of SnO<sub>2</sub> Nanowires on MnO<sub>2</sub> Nanosheets:
+a Novel 1/2D Hybrid Architecture for High-Capacity, Reversible Lithium
+Storage</article-title>. <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>6477</fpage>&#x02013;<lpage>6483</lpage>. <pub-id pub-id-type="doi">10.1039/c5ta00266d</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Guo</surname><given-names>J.</given-names></name>; <name><surname>Zhu</surname><given-names>H.</given-names></name>; <name><surname>Sun</surname><given-names>Y.</given-names></name>; <name><surname>Tang</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>
+<article-title>Flexible Foams of Graphene
+Entrapped SnO<sub>2</sub>&#x02013;Co<sub>3</sub>O<sub>4</sub> Nanocubes
+with Remarkably Large and Fast Lithium Storage</article-title>. <source>J. Mater. Chem. A</source>
+<year>2016</year>, <volume>4</volume>, <fpage>16101</fpage>&#x02013;<lpage>16107</lpage>. <pub-id pub-id-type="doi">10.1039/c6ta06626g</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Demir-Cakan</surname><given-names>R.</given-names></name>; <name><surname>Hu</surname><given-names>Y.-S.</given-names></name>; <name><surname>Antonietti</surname><given-names>M.</given-names></name>; <name><surname>Maier</surname><given-names>J.</given-names></name>; <name><surname>Titirici</surname><given-names>M.-M.</given-names></name>
+<article-title>Facile
+One-Pot Synthesis of Mesoporous SnO<sub>2</sub> Microspheres via Nanoparticles
+Assembly and Lithium Storage Properties</article-title>. <source>Chem.
+Mater.</source>
+<year>2008</year>, <volume>20</volume>, <fpage>1227</fpage>&#x02013;<lpage>1229</lpage>. <pub-id pub-id-type="doi">10.1021/cm7031288</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Cui</surname><given-names>L.-F.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Casalongue</surname><given-names>H. S.</given-names></name>; <name><surname>Robinson</surname><given-names>J. T.</given-names></name>; <name><surname>Liang</surname><given-names>Y.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Dai</surname><given-names>H.</given-names></name>
+<article-title>Mn<sub>3</sub>O<sub>4</sub>&#x02013;Graphene Hybrid as a High-Capacity
+Anode Material
+for Lithium Ion Batteries</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2010</year>, <volume>132</volume>, <fpage>13978</fpage>&#x02013;<lpage>13980</lpage>. <pub-id pub-id-type="doi">10.1021/ja105296a</pub-id>.<pub-id pub-id-type="pmid">20853844</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Jang</surname><given-names>B. Z.</given-names></name>; <name><surname>Liu</surname><given-names>C.</given-names></name>; <name><surname>Neff</surname><given-names>D.</given-names></name>; <name><surname>Yu</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>M. C.</given-names></name>; <name><surname>Xiong</surname><given-names>W.</given-names></name>; <name><surname>Zhamu</surname><given-names>A.</given-names></name>
+<article-title>Graphene Surface-Enabled Lithium Ion-Exchanging Cells: Next-Generation
+High-Power Energy Storage Devices</article-title>. <source>Nano Lett.</source>
+<year>2011</year>, <volume>11</volume>, <fpage>3785</fpage>&#x02013;<lpage>3791</lpage>. <pub-id pub-id-type="doi">10.1021/nl2018492</pub-id>.<pub-id pub-id-type="pmid">21823618</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Laruelle</surname><given-names>S.</given-names></name>; <name><surname>Grugeon</surname><given-names>S.</given-names></name>; <name><surname>Poizot</surname><given-names>P.</given-names></name>; <name><surname>Doll&#x000e9;</surname><given-names>M.</given-names></name>; <name><surname>Dupont</surname><given-names>L.</given-names></name>; <name><surname>Tarascon</surname><given-names>J.-M.</given-names></name>
+<article-title>On the Origin of the Extra Electrochemical
+Capacity Displayed by MO/Li Cells at Low Potential</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2002</year>, <volume>149</volume>, <fpage>A627</fpage>&#x02013;<lpage>A634</lpage>. <pub-id pub-id-type="doi">10.1149/1.1467947</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Yang</surname><given-names>S.</given-names></name>; <name><surname>Feng</surname><given-names>X.</given-names></name>; <name><surname>Ivanovici</surname><given-names>S.</given-names></name>; <name><surname>M&#x000fc;llen</surname><given-names>K.</given-names></name>
+<article-title>Fabrication
+of Graphene-Encapsulated Oxide Nanoparticles: towards High-Performance
+Anode Materials for Lithium Storage</article-title>. <source>Angew.
+Chem., Int. Ed.</source>
+<year>2010</year>, <volume>49</volume>, <fpage>8408</fpage>&#x02013;<lpage>8411</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201003485</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Lee</surname><given-names>S. W.</given-names></name>; <name><surname>Yabuuchi</surname><given-names>N.</given-names></name>; <name><surname>Gallant</surname><given-names>B. M.</given-names></name>; <name><surname>Chen</surname><given-names>S.</given-names></name>; <name><surname>Kim</surname><given-names>B.-S.</given-names></name>; <name><surname>Hammond</surname><given-names>P. T.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+<article-title>High-Power
+Lithium Batteries from
+Functionalized Carbon-Nanotube Electrodes</article-title>. <source>Nat.
+Nanotechnol.</source>
+<year>2010</year>, <volume>5</volume>, <fpage>531</fpage>&#x02013;<lpage>537</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2010.116</pub-id>.<pub-id pub-id-type="pmid">20562872</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Wu</surname><given-names>Z.-S.</given-names></name>; <name><surname>Sun</surname><given-names>Y.</given-names></name>; <name><surname>Tan</surname><given-names>Y.-Z.</given-names></name>; <name><surname>Yang</surname><given-names>S.</given-names></name>; <name><surname>Feng</surname><given-names>X.</given-names></name>; <name><surname>M&#x000fc;llen</surname><given-names>K.</given-names></name>
+<article-title>Three-Dimensional
+Graphene-Based Macro- and Mesoporous Frameworks for High-Performance
+Electrochemical Capacitive Energy Storage</article-title>. <source>J.
+Am. Chem. Soc.</source>
+<year>2012</year>, <volume>134</volume>, <fpage>19532</fpage>&#x02013;<lpage>19535</lpage>. <pub-id pub-id-type="doi">10.1021/ja308676h</pub-id>.<pub-id pub-id-type="pmid">23148416</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Wei</surname><given-names>W.</given-names></name>; <name><surname>Yang</surname><given-names>S.</given-names></name>; <name><surname>Zhou</surname><given-names>H.</given-names></name>; <name><surname>Lieberwirth</surname><given-names>I.</given-names></name>; <name><surname>Feng</surname><given-names>X.</given-names></name>; <name><surname>M&#x000fc;llen</surname><given-names>K.</given-names></name>
+<article-title>3D Graphene
+Foams Cross-Linked with
+Pre-Encapsulated Fe<sub>3</sub>O<sub>4</sub> Nanospheres for Enhanced
+Lithium Storage</article-title>. <source>Adv. Mater.</source>
+<year>2013</year>, <volume>25</volume>, <fpage>2909</fpage>&#x02013;<lpage>2914</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201300445</pub-id>.<pub-id pub-id-type="pmid">23606504</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Lai</surname><given-names>C.</given-names></name>; <name><surname>Wu</surname><given-names>Z.</given-names></name>; <name><surname>Gu</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Xi</surname><given-names>K.</given-names></name>; <name><surname>Kumar</surname><given-names>R. V.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>
+<article-title>Reinforced Conductive Confinement of Sulfur for Robust and High-Performance
+Lithium&#x02013;Sulfur Batteries</article-title>. <source>ACS Appl. Mater.
+Interfaces</source>
+<year>2015</year>, <volume>7</volume>, <fpage>23885</fpage>&#x02013;<lpage>23892</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.5b07978</pub-id>.<pub-id pub-id-type="pmid">26470838</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Wang</surname><given-names>D.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Geng</surname><given-names>D.</given-names></name>; <name><surname>Li</surname><given-names>R.</given-names></name>; <name><surname>Cai</surname><given-names>M.</given-names></name>; <name><surname>Sham</surname><given-names>T.-K.</given-names></name>; <name><surname>Sun</surname><given-names>X.</given-names></name>
+<article-title>Layer by Layer Assembly of Sandwiched
+Graphene/SnO<sub>2</sub> Nanorod/Carbon Nanostructures with Ultrahigh
+Lithium Ion Storage Properties</article-title>. <source>Energy Environ.
+Sci.</source>
+<year>2013</year>, <volume>6</volume>, <fpage>2900</fpage>&#x02013;<lpage>2906</lpage>. <pub-id pub-id-type="doi">10.1039/c3ee40829a</pub-id>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Xu</surname><given-names>X.</given-names></name>; <name><surname>Tan</surname><given-names>H.</given-names></name>; <name><surname>Xi</surname><given-names>K.</given-names></name>; <name><surname>Ding</surname><given-names>S.</given-names></name>; <name><surname>Yu</surname><given-names>D.</given-names></name>; <name><surname>Cheng</surname><given-names>S.</given-names></name>; <name><surname>Yang</surname><given-names>G.</given-names></name>; <name><surname>Peng</surname><given-names>X.</given-names></name>; <name><surname>Fakeeh</surname><given-names>A.</given-names></name>; <name><surname>Kumar</surname><given-names>R. V.</given-names></name>
+<article-title>Bamboo-Like
+Amorphous Carbon Nanotubes Clad in Ultrathin Nickel Oxide Nanosheets
+for Lithium-Ion Battery Electrodes with Long Cycle Life</article-title>. <source>Carbon</source>
+<year>2015</year>, <volume>84</volume>, <fpage>491</fpage>&#x02013;<lpage>499</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2014.12.040</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Zhang</surname><given-names>G.</given-names></name>; <name><surname>Yu</surname><given-names>L.</given-names></name>; <name><surname>Wu</surname><given-names>H. B.</given-names></name>; <name><surname>Hoster</surname><given-names>H. E.</given-names></name>; <name><surname>Lou</surname><given-names>X. W. D.</given-names></name>
+<article-title>Formation of
+ZnMn<sub>2</sub>O<sub>4</sub> Ball-In-Ball Hollow Microspheres as
+a High-Performance Anode for Lithium-Ion Batteries</article-title>. <source>Adv. Mater.</source>
+<year>2012</year>, <volume>24</volume>, <fpage>4609</fpage>&#x02013;<lpage>4613</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201201779</pub-id>.<pub-id pub-id-type="pmid">22730075</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Jiang</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Huang</surname><given-names>X.</given-names></name>; <name><surname>Yuan</surname><given-names>C.</given-names></name>; <name><surname>Lou</surname><given-names>X. W. D.</given-names></name>
+<article-title>Recent
+Advances in Metal Oxide-based Electrode Architecture Design for Electrochemical
+Energy Storage</article-title>. <source>Adv. Mater.</source>
+<year>2012</year>, <volume>24</volume>, <fpage>5166</fpage>&#x02013;<lpage>5180</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201202146</pub-id>.<pub-id pub-id-type="pmid">22912066</pub-id></mixed-citation></ref></ref-list></back></article>

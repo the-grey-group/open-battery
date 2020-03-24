@@ -1,0 +1,317 @@
+{
+  "id": [
+    "31245638"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31245638"
+  ],
+  "pmcid": [
+    "PMC6582158"
+  ],
+  "doi": [
+    "10.1016/j.heliyon.2019.e01866"
+  ],
+  "title": [
+    "Lithium battery reusing and recycling: A circular economy insight."
+  ],
+  "authorString": [
+    "Pagliaro M, Meneguzzo F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pagliaro M"
+          ],
+          "firstName": [
+            "Mario"
+          ],
+          "lastName": [
+            "Pagliaro"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Istituto per lo Studio dei Materiali Nanostrutturati, CNR, via U. La Malfa 153, 90146, Palermo, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Meneguzzo F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Meneguzzo"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5952-9166",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Istituto di Biometeorologia, CNR, via G. Caproni 8, 50145, Firenze, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5952-9166",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2826608"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Heliyon"
+          ],
+          "ISOAbbreviation": [
+            "Heliyon"
+          ],
+          "medlineAbbreviation": [
+            "Heliyon"
+          ],
+          "NLMid": [
+            "101672560"
+          ],
+          "ISSN": [
+            "2405-8440"
+          ],
+          "ESSN": [
+            "2405-8440"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e01866"
+  ],
+  "abstractText": [
+    "Driven by the rapid uptake of battery electric vehicles, Li-ion power batteries are increasingly reused in stationary energy storage systems, and eventually recycled to recover all the valued components. Offering an updated global perspective, this study provides a circular economy insight on lithium-ion battery reuse and recycling."
+  ],
+  "affiliation": [
+    "Istituto per lo Studio dei Materiali Nanostrutturati, CNR, via U. La Malfa 153, 90146, Palermo, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Energy",
+        "Circular economy",
+        "Lithium-ion battery",
+        "Battery Electric Vehicle",
+        "Battery Recycling"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.heliyon.2019.e01866"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6582158"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6582158?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR78219"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-28"
+  ],
+  "firstIndexDate": [
+    "2019-06-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-28"
+  ],
+  "dateOfRevision": [
+    "2020-03-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-15"
+  ],
+  "firstPublicationDate": [
+    "2019-06-15"
+  ]
+}

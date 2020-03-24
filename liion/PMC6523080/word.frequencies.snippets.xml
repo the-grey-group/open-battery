@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6523080/results/word/frequencies/results.xml">
+  <result title="frequency" word="C@Si/rGO" count="84"/>
+  <result title="frequency" word="film" count="75"/>
+  <result title="frequency" word="Si/rGO" count="57"/>
+  <result title="frequency" word="Figure" count="49"/>
+  <result title="frequency" word="anode" count="49"/>
+  <result title="frequency" word="electrode" count="43"/>
+  <result title="frequency" word="carbon" count="38"/>
+  <result title="frequency" word="batteries" count="37"/>
+  <result title="frequency" word="Wang" count="35"/>
+  <result title="frequency" word="lithium" count="34"/>
+  <result title="frequency" word="graphene" count="33"/>
+  <result title="frequency" word="ion" count="27"/>
+  <result title="frequency" word="lithium-ion" count="27"/>
+  <result title="frequency" word="silicon" count="27"/>
+  <result title="frequency" word="materials" count="24"/>
+  <result title="frequency" word="nanoparticle" count="24"/>
+  <result title="frequency" word="self-standing" count="23"/>
+ </snippets>
+</snippetsTree>

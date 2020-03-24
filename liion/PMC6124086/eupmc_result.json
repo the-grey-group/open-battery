@@ -1,0 +1,351 @@
+{
+  "id": [
+    "30225018"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30225018"
+  ],
+  "pmcid": [
+    "PMC6124086"
+  ],
+  "doi": [
+    "10.1098/rsos.180311"
+  ],
+  "title": [
+    "Waterborne polyurethane as a carbon coating for micrometre-sized silicon-based lithium-ion battery anode material."
+  ],
+  "authorString": [
+    "Yan C, Huang T, Zheng X, Gong C, Wu M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yan C"
+          ],
+          "firstName": [
+            "Chunfeng"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Key Laboratory of Optoelectronic Materials Chemistry and Physics, Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences, Fuzhou 350002, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Key Laboratory of Optoelectronic Materials Chemistry and Physics, Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences, Fuzhou 350002, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng X"
+          ],
+          "firstName": [
+            "Xiangzhen"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Optoelectronic Materials Chemistry and Physics, Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences, Fuzhou 350002, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gong C"
+          ],
+          "firstName": [
+            "Cuiran"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Key Laboratory of Optoelectronic Materials Chemistry and Physics, Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences, Fuzhou 350002, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu M"
+          ],
+          "firstName": [
+            "Maoxiang"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2176-1151",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Key Laboratory of Optoelectronic Materials Chemistry and Physics, Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences, Fuzhou 350002, People's Republic of China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2176-1151",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2728799"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Royal Society open science"
+          ],
+          "ISOAbbreviation": [
+            "R Soc Open Sci"
+          ],
+          "medlineAbbreviation": [
+            "R Soc Open Sci"
+          ],
+          "NLMid": [
+            "101647528"
+          ],
+          "ISSN": [
+            "2054-5703"
+          ],
+          "ESSN": [
+            "2054-5703"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "180311"
+  ],
+  "abstractText": [
+    "Waterborne polyurethane (WPU) is first used as a carbon-coating source for micrometre-sized silicon. The remaining nitrogen (N) and oxygen (O) heteroatoms during pyrolysis of the WPU interact with the surface oxide on the silicon (Si) particles via hydrogen bonding (Si-OH⋯N and Si-OH⋯O). The N and O atoms involved in the carbon network can interact with the lithium ions, which is conducive to lithium-ion insertion. A satisfactory performance of the Si@N, O-doped carbon (Si@CNO) anode is gained at 25 and 55°C. The Si@CNO anode shows stable cycling performance (capacity retention of 70.0% over 100 cycles at 25°C and 60.3% over 90 cycles at 55°C with a current density of 500 mA g-1) and a superior rate capacity of 864.1 mA h g-1 at 1000 mA g-1 (25°C). The improved electrochemical performance of the Si@CNO electrode is attributed to the enhanced electrical conductivity and structural stability."
+  ],
+  "affiliation": [
+    "Key Laboratory of Optoelectronic Materials Chemistry and Physics, Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences, Fuzhou 350002, People's Republic of China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium-ion battery",
+        "Electrochemical performance",
+        "25 And 55°C",
+        "Micrometre-sized Silicon Anodes",
+        "Water Polyurethane"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1098/rsos.180311"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6124086"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6124086?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-09-19"
+  ],
+  "firstIndexDate": [
+    "2018-09-19"
+  ],
+  "fullTextReceivedDate": [
+    "2018-09-19"
+  ],
+  "dateOfRevision": [
+    "2018-09-20"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-22"
+  ],
+  "firstPublicationDate": [
+    "2018-08-22"
+  ]
+}

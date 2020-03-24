@@ -1,0 +1,443 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6641031</article-id><article-id pub-id-type="pmid">31457471</article-id><article-id pub-id-type="doi">10.1021/acsomega.7b00037</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>V<sub>2</sub>O<sub>5</sub> Nanowire Composite Paper as a High-Performance Lithium-Ion
+Battery Cathode</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Zhang</surname><given-names>Yue</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Wang</surname><given-names>Yizhi</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Xiong</surname><given-names>Zhihong</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath4"><name><surname>Hu</surname><given-names>Yongming</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Song</surname><given-names>Weixing</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Huang</surname><given-names>Qiu-an</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Cheng</surname><given-names>Xiaoxing</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Chen</surname><given-names>Long-Qing</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Sun</surname><given-names>Chunwen</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath10"><name><surname>Gu</surname><given-names>Haoshuang</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Hubei
+Collaborative Innovation Center for Advanced Organic Chemical Materials;
+Hubei Key Laboratory of Ferro &#x00026; Piezoelectric Materials and Devices;
+Faculty of Physics &#x00026; Electronic Science, <institution>Hubei University</institution>, Wuhan 430062, <country>P. R. China</country></aff><aff id="aff2"><label>&#x02021;</label>Beijing
+Institute of Nanoenergy and Nanosystems, <institution>Chinese Academy of Sciences, National Center for Nanoscience and
+Technology (NCNST)</institution>, Beijing 100083, <country>P. R. China</country></aff><aff id="aff3"><label>&#x000a7;</label>Department
+of Materials Science &#x00026; Engineering, <institution>The Pennsylvania State University</institution>, University Park, Pennsylvania 16802, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>huym@hubu.edu.cn</email> (Y.H.).</corresp><corresp id="cor2"><label>*</label>E-mail: <email>guhsh@hubu.edu.cn</email> (H.G.).</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>03</month><year>2017</year></pub-date><pub-date pub-type="collection"><day>31</day><month>03</month><year>2017</year></pub-date><volume>2</volume><issue>3</issue><fpage>793</fpage><lpage>799</lpage><history><date date-type="received"><day>11</day><month>01</month><year>2017</year></date><date date-type="accepted"><day>22</day><month>02</month><year>2017</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2017 American Chemical Society</copyright-statement><copyright-year>2017</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-00037g_0004" id="ab-tgr1"/></p><p>Ultralong, as long
+as &#x0223c;1 mm, orthorhombic vanadium pentoxide
+(V<sub>2</sub>O<sub>5</sub>) nanowires were synthesized using a hydrothermal
+method. Free-standing and binder-free composite paper was prepared
+on a large scale by a two-step reduction method using free-standing
+V<sub>2</sub>O<sub>5</sub> nanowires as the skeleton and reduced graphene
+oxide (rGO) nanosheets as the additive. Such a free-standing V<sub>2</sub>O<sub>5</sub>/rGO composite paper as a cathode for lithium
+ion batteries possesses both structural integrity and extraordinary
+electrochemical performance. The reversible specific areal capacity
+of the V<sub>2</sub>O<sub>5</sub>/rGO composite paper electrode is
+885 &#x003bc;Ah/cm<sup>2</sup> at 0.09 mA/cm<sup>2</sup>, much higher
+than that of the pure V<sub>2</sub>O<sub>5</sub> nanowire paper electrode
+(570 &#x003bc;Ah/cm<sup>2</sup>). It also shows excellent cycling performance
+at high rates with 30.9% loss of its initial capacities after 1000
+cycles at a current rate of 0.9 mA/cm<sup>2</sup>. The excellent performance
+was attributed to the improved electronic conductivity and Li<sup>+</sup> ion transport from the rGO addition.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao7b00037</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao-2017-00037g</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Currently, lithium
+ion batteries (LIBs) have been considered as
+the leading candidates for new energy vehicles, hybrid cars, and various
+portable and smart devices because of their high-energy density and
+long lifetime. So far, different metal oxides have been explored as
+cathode materials, such as LiCoO<sub>2</sub>, LiFePO<sub>4</sub>, TiO<sub>2</sub>, etc.<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref3">3</xref></sup> However, those electrode materials based on conventional
+transitional metal oxides still suffer from poor performance; it is
+a huge challenge to improve the specific capacities/energy densities
+to meet the increasing demands of electronic devices and electronic
+vehicles. Moreover, the electrode materials in conventional LIBs are
+typically in a powder form, and thus they require conductive additives,
+insulated polymer binders, and aluminum or copper foil current collectors.
+Those inactive ingredients significantly decreased the overall energy
+and power density of the electrodes, besides increasing the costs.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> To improve the performance of LIBs, designing
+a new kind of free-standing and binder-free electrodes in which all
+of the materials contribute to the lithium storage is an effective
+strategy. Meanwhile, great efforts have been devoted to designing
+original electrodes and decreasing the inactive additives in the electrodes.<sup><xref ref-type="bibr" rid="ref5">5</xref>&#x02212;<xref ref-type="bibr" rid="ref7">7</xref></sup></p><p>Among the explored LIB cathode materials, vanadium pentoxide
+(V<sub>2</sub>O<sub>5</sub>) is a promising candidate due to its high
+capacity,
+stable crystal structure, and low cost. However, its low electronic
+conductivity, small diffusion coefficient of Li ions, poor rate capability,
+and cycle stability hinder the practical application of V<sub>2</sub>O<sub>5</sub> in LIBs.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> In addition, the
+lithiation/delithiation processes in crystalline V<sub>2</sub>O<sub>5</sub> are also accompanied by structural phase transitions, which
+induce lattice strain within the same electrodes.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> Nanostructuring of V<sub>2</sub>O<sub>5</sub>,<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref11">11</xref></sup> or modified V<sub>2</sub>O<sub>5</sub>,<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup> adding carbon nanotubes,<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> graphene sheets, and
+reduced graphene oxide (rGO) nanosheets,<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref15">15</xref>&#x02212;<xref ref-type="bibr" rid="ref18">18</xref></sup> has been reported to improve the electrochemical
+behavior of V<sub>2</sub>O<sub>5</sub>. Furthermore, most of the studied
+materials for particularly positive electrodes as free-standing and
+binder-free electrodes are currently based on the rGO paper,<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref18">18</xref>&#x02212;<xref ref-type="bibr" rid="ref21">21</xref></sup> in which the amount of active material is very limited. It is well
+known that rGO in the composite material is helpful in improving the
+electronic conductivity of the active material, that is, those rGO-based
+paper electrodes do not possess good energy density. Therefore, in
+this work, a free-standing composite paper with a diameter of several
+centimeters was successfully prepared on a large scale by a two-step
+reduction (TSR) method using ultralong V<sub>2</sub>O<sub>5</sub> nanowires
+serving as the skeleton and rGO nanosheets as the electronic transport
+network, as shown in the schematic diagram in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>. The ultralong V<sub>2</sub>O<sub>5</sub> nanowires were retained, and a layer-by-layer structured composite
+is obtained finally. More importantly, this process is simple, reproducible,
+and can be scaled-up, which is very important for practical applications.
+As a cathode for LIBs, the free-standing V<sub>2</sub>O<sub>5</sub> nanowire composite paper electrodes show excellent electrochemical
+performances.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Schematic diagram showing the formation process of the
+V<sub>2</sub>O<sub>5</sub>/rGO composite paper.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-00037g_0007" id="gr1" position="float"/></fig></sec><sec id="sec2"><title>Results and Discussion</title><p>The V<sub>2</sub>O<sub>5</sub> nanowire
+paper and the V<sub>2</sub>O<sub>5</sub>/rGO composite paper were
+prepared using the TSR method;
+the corresponding scanning electron microscopy (SEM) images are shown
+in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a&#x02013;d.
+As can be seen, both of them are composed of free-standing nanowires,
+and the formed flexible papers have a diameter of 4.0 cm and a thickness
+of about 20 &#x003bc;m. It is obvious that the ultralong V<sub>2</sub>O<sub>5</sub> nanowires distributed randomly within the pure paper
+and interconnected with each other to form a network; the length of
+an individual nanowire reaches up to 1.0 mm, as shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a,b. It can also
+be observed that a large amount of V<sub>2</sub>O<sub>5</sub> nanowires
+interweave and interact with rGO sheets to form a dense structure
+(<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c,d). The
+cross-sectional view further reveals that the V<sub>2</sub>O<sub>5</sub> nanowires and rGO sheets interlaced with each other to form a multilayered
+stacking structure. In addition, the as-prepared V<sub>2</sub>O<sub>5</sub>/rGO composite paper exhibits a rough and
+porous surface, and the tight fit between the V<sub>2</sub>O<sub>5</sub> nanowires and the rGO sheets may be beneficial for the cycling performance.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> For comparison, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b00037/suppl_file/ao7b00037_si_001.pdf">Figure S2</ext-link> shows the SEM images of the V<sub>2</sub>O<sub>5</sub> nanowires
+combined with Super P (V<sub>2</sub>O<sub>5</sub>/SP); one can see
+that the composite is quite inhomogeneous. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>e shows the transmission electron microscopy
+(TEM) image of the V<sub>2</sub>O<sub>5</sub>/rGO composite paper
+in a few layers. The rGO nanosheets with their characteristic wrinkles
+can be distinguished easily and clearly demonstrate that the V<sub>2</sub>O<sub>5</sub> nanowires serve as the skeleton, and the rGO
+nanosheets serve as the additive. The inset is a high-resolution transmission
+electron microscopy (HRTEM) image of an individual V<sub>2</sub>O<sub>5</sub> nanowire, with a characteristic lattice spacing of 0.341
+and 0.438 nm, corresponding to the (110) and (001) planes of the orthorhombic-phase
+V<sub>2</sub>O<sub>5</sub>, respectively.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> It is noted that the V<sub>2</sub>O<sub>5</sub> nanowires are grown
+along the [110] direction. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>f presents the HRTEM image of the V<sub>2</sub>O<sub>5</sub>/rGO composite and the fast Fourier transform (FFT) pattern
+of rGO, the almost regular hexagonal diffraction pattern indicating
+the good carbon framework of rGO.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup></p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Top view and
+cross-sectional SEM images of (a, b) the surface and
+cross-section SEM images of the pure V<sub>2</sub>O<sub>5</sub> NWs
+paper and (c, d) the surface and cross-section SEM images of the V<sub>2</sub>O<sub>5</sub>/rGO composite paper (inset: digital picture).
+(e) TEM image of the V<sub>2</sub>O<sub>5</sub>/rGO composite paper
+(inset: HRTEM image of V<sub>2</sub>O<sub>5</sub> nanowire) and (f)
+HRTEM image of V<sub>2</sub>O<sub>5</sub>/rGO (inset: FFT diffraction
+of rGO).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-00037g_0005" id="gr2" position="float"/></fig><p>The X-ray diffraction (XRD) patterns
+of the V<sub>2</sub>O<sub>5</sub> nanowire paper and the V<sub>2</sub>O<sub>5</sub>/rGO composite
+paper are shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a. The pure V<sub>2</sub>O<sub>5</sub> nanowire paper features diffraction peaks of (200), (001),
+(101), (110), (301), (002), and (600) corresponding to the orthorhombic-phase
+V<sub>2</sub>O<sub>5</sub> (JCPDS No. 41-1426).<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> However, for V<sub>2</sub>O<sub>5</sub>/rGO composites,
+three additional wide diffraction peaks located at around 7, 33, and
+40&#x000b0; were observed besides the V<sub>2</sub>O<sub>5</sub> phase,
+which can be attributed to the dehydrated phase of V<sub>2</sub>O<sub>5</sub> (JCPDS No. 40-1296) produced in the liquid-phase synthesis.<sup><xref ref-type="bibr" rid="ref28">28</xref>&#x02212;<xref ref-type="bibr" rid="ref30">30</xref></sup> Meanwhile, the characteristic diffraction peak located at 26&#x000b0;
+belongs to the phase of rGO.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> In order to
+remove the physically absorbed water within the composite, the samples
+was annealed at 210 &#x000b0;C and keep the physical property of rGO
+simultaneously. One can see that the physically absorbed water disappeared after heat treatment,
+whereas the hydration water remained within V<sub>2</sub>O<sub>5</sub>, which can transfer into pure orthorhombic-phase V<sub>2</sub>O<sub>5</sub> completely after annealing at 450 &#x000b0;C for 6 h in air,
+while the rGO in the composite would be burned (as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b00037/suppl_file/ao7b00037_si_001.pdf">Figure S3</ext-link>). <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b shows the Raman spectra of the V<sub>2</sub>O<sub>5</sub>/rGO nanowire composite paper and the GO nanosheets,
+which provide further evidence for the coexistence of rGO sheets and
+V<sub>2</sub>O<sub>5</sub> nanowires. As can be seen, two predominant
+peaks appear at about 1347 and 1596 cm<sup>&#x02013;1</sup> in the
+spectrum, assigned as the D band originating from the disordered carbon
+and the G band corresponding to the sp2 hybridized carbon, respectively.
+A slightly higher D/G ratio (<italic>I</italic><sub>D</sub>/<italic>I</italic><sub>G</sub> = 1.06) was obtained for the V<sub>2</sub>O<sub>5</sub>/rGO composite compare to that of the GO nanosheets
+(<italic>I</italic><sub>D</sub>/<italic>I</italic><sub>G</sub> = 0.89),
+indicating that the TSR process removed the oxygen-containing functional
+groups effectively and reformed the structure of GO with a good quantity.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> The peaks centered at 995 cm<sup>&#x02013;1</sup> related to the V=O stretching vibration of V<sub>2</sub>O<sub>5</sub>,<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> indicating the presence of V<sub>2</sub>O<sub>5</sub> in the composite paper. In addition, the Raman spectrum
+of the pure V<sub>2</sub>O<sub>5</sub> nanowires is shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b00037/suppl_file/ao7b00037_si_001.pdf">Figure S4</ext-link>; the spectrum fit well with the reported
+literature.<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup></p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(a) XRD patterns of the pure V<sub>2</sub>O<sub>5</sub> nanowire
+paper and the V<sub>2</sub>O<sub>5</sub>/rGO composite paper and (b)
+the Raman spectrum of the V<sub>2</sub>O<sub>5</sub>/rGO composite
+paper and GO nanosheets.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-00037g_0001" id="gr3" position="float"/></fig><p>To determine the percentage of graphene content within the
+V<sub>2</sub>O<sub>5</sub>/rGO composite, a thermalgravimetric analysis
+(TGA) curve was obtained. As shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a, the first weight loss is about 11% at
+around 230 &#x000b0;C, which may be ascribed to the physisorbed and chemisorbed
+water on the surface of the V<sub>2</sub>O<sub>5</sub>/rGO composite
+paper. The second weight loss is &#x0223c;13% from 230 to 440 &#x000b0;C,
+which most likely corresponds to the oxidation of graphene. It should
+be mentioned that a slight increase in weight is observed in the curve
+at around 450 &#x000b0;C; this may relate to the transformation of a
+few VO<sub>2</sub> molecules into V<sub>2</sub>O<sub>5</sub>. Excluding
+the weight loss of water molecule, the weight contents of V<sub>2</sub>O<sub>5</sub> were about 85 wt % in the V<sub>2</sub>O<sub>5</sub>/rGO composites, in good agreement with the synthetic experiment.<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> The higher proportion of V<sub>2</sub>O<sub>5</sub> in the free-standing electrodes will result
+in higher energy density (as shown in the Supporting information, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b00037/suppl_file/ao7b00037_si_001.pdf">Tables S1 and S2</ext-link>). <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b shows the survey X-ray photoelectron spectroscopy
+(XPS) spectrum of the composites in the binding energy range of 0&#x02013;800
+eV. It can be seen that the composite contains V, O, and C elements,
+corresponding to the binding energy of 517.5, 530.4, and 285 eV, respectively;
+no other elements are detected. The binding energy of vanadium and
+oxygen as determined by the XPS spectra indicated the formation of
+V-oxides in the composites.<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup> The C 1s XPS spectrum
+of the V<sub>2</sub>O<sub>5</sub>/rGO composite paper sample, shown
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b00037/suppl_file/ao7b00037_si_001.pdf">Figure S5</ext-link>, indicates that good quality
+of rGO is synthesized from the TSR method.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(a) TGA curve and (b)
+XPS survey spectrum of the V<sub>2</sub>O<sub>5</sub>/rGO composite
+paper.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-00037g_0002" id="gr4" position="float"/></fig><p>To evaluate the electrochemical
+behavior of the paper electrodes
+for LIB applications, the pure V<sub>2</sub>O<sub>5</sub> nanowire
+paper and the V<sub>2</sub>O<sub>5</sub>/rGO composite paper were
+cut into small pellets (&#x02300; 9 mm) and used as cathodes in coin-type
+cells directly. <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a shows typical cyclic voltammetry (CV) curves obtained at room temperature
+(RT) between 1.7 and 3.8 V (vs Li/Li<sup>+</sup>) at a scan rate of
+0.1 mV/s (this voltage range was chosen rather than the more conservative
+range of 2.0&#x02013;4.0 V because it permits increased lithiation,
+which would bring the capacity close to the theoretical value).<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> Three pairs of well-defined redox
+peaks at 2.07, 2.84, and 3.24 V (vs Li/Li<sup>+</sup>) in the anodic
+process and 2.80, 2.32, and 1.80 V (vs Li/Li<sup>+</sup>) in the cathodic
+process are observed from the CV curves. This can be assigned to the
+different stages during the Li<sup>+</sup> insertion process occurring
+at the V<sub>2</sub>O<sub>5</sub>/rGO composite paper electrodes,
+which could be expressed by the following equation: V<sub>2</sub>O<sub>5</sub> + <italic>x</italic>Li<sup>+</sup> + <italic>x</italic>e<sup>&#x02013;</sup> &#x02194; Li<italic><sub>x</sub></italic>V<sub>2</sub>O<sub>5</sub>. More specifically, the first reduction peak at 3.24
+V is attributed to the conversion of &#x003b1;-V<sub>2</sub>O<sub>5</sub> into &#x003b5;-Li<sub>0.5</sub>V<sub>2</sub>O<sub>5</sub>;<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref11">11</xref></sup><sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref11">11</xref></sup> subsequent reductions take place at 2.84 and 2.07
+V, corresponding to the formation of &#x003b4;-LiV<sub>2</sub>O<sub>5</sub> and &#x003b3;-LiV<sub>2</sub>O<sub>5</sub>, respectively.<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> For comparison, the pure V<sub>2</sub>O<sub>5</sub> paper has only
+a couple of redox peaks, at 2.60 and 2.08 V (vs Li/Li<sup>+</sup>),
+due to its relatively poor conductivity.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>(a) Representative CV
+curves of the pure V<sub>2</sub>O<sub>5</sub> nanowire paper and the
+V<sub>2</sub>O<sub>5</sub>/rGO composite
+paper electrodes obtained at a voltage range of 1.7&#x02013;3.8 V (vs
+Li<sup>+</sup>/Li) and a potential scan rate of 0.1 mV/s. (b) Voltage
+profiles for the pure V<sub>2</sub>O<sub>5</sub> nanowire paper and
+the V<sub>2</sub>O<sub>5</sub>/rGO composite paper electrodes at a
+current rate of 0.09 mA/cm<sup>2</sup>. (c) Discharge/charge capability
+of the pure V<sub>2</sub>O<sub>5</sub> nanowire paper and the V<sub>2</sub>O<sub>5</sub>/rGO composite paper electrodes at various rates
+for 35 cycles. (d) Capacity (left) and efficiency (right) vs cycle
+number for the pure V<sub>2</sub>O<sub>5</sub> nanowire paper and
+the V<sub>2</sub>O<sub>5</sub>/rGO composite paper electrodes at a
+current rate of 0.9 mA/cm<sup>2</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-00037g_0003" id="gr5" position="float"/></fig><p><xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b
+shows
+the voltage profiles of the pure V<sub>2</sub>O<sub>5</sub> nanowire
+paper and the V<sub>2</sub>O<sub>5</sub>/rGO composite paper electrodes
+at a current rate of 0.09 mA/cm<sup>2</sup>, respectively. In agreement
+with the above CV results, the processes display multiple redox plateaus
+between 1.7 and 3.8 V, indicating the structural transformation from
+the &#x003b1;-V<sub>2</sub>O<sub>5</sub> to &#x003b5;-Li<sub>0.5</sub>V<sub>2</sub>O<sub>5</sub> and &#x003b4;-LiV<sub>2</sub>O<sub>5</sub> and finally to the &#x003b3;-LiV<sub>2</sub>O<sub>5</sub> phase. It
+should be mentioned that the discharge- and charge-specific capacity
+are 0.885 and 0.880 mAh/cm<sup>2</sup>, which is up to 95.2% of the
+theoretical capacity of V<sub>2</sub>O<sub>5</sub> for two lithium
+intercalations (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b00037/suppl_file/ao7b00037_si_001.pdf">Figure S6</ext-link>).<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> However, the pure V<sub>2</sub>O<sub>5</sub> paper with
+lower electronic conductivity has a lower capacity of 0.570 mAh/cm<sup>2</sup>, which is still higher than that reported previously.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup> The electrical conductivity of the composite paper is about 1.62
+S cm<sup>&#x02013;1</sup>, which is 33 times higher than that of the
+pure V<sub>2</sub>O<sub>5</sub> nanowire paper (0.049 S cm<sup>&#x02013;1</sup>). Therefore, the excellent performance
+could be attributed to the binder-free, the excellent electronic conductivity
+of rGO, and the interconnected network of V<sub>2</sub>O<sub>5</sub> nanowires with good mechanical integrity, indicating that the free-standing
+electrode is very favorable for LIB applications.</p><p>To investigate
+their rate performances, various current densities
+(0.09&#x02013;4.5 mA/cm<sup>2</sup>) were applied on those paper electrodes
+as shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c. It is obvious that the areal capacity of the pure V<sub>2</sub>O<sub>5</sub> nanowire paper electrodes drops significantly with
+an increase in the discharge/charge rates. It should be noted that
+during the first cycle of discharge/charge,
+the pure V<sub>2</sub>O<sub>5</sub> nanowire paper electrodes present
+quite high areal capacity due to the unavoidable solid&#x02013;electrolyte
+interphase (SEI) film formation on the electrode surface and some
+possible side reactions between Li<sup>+</sup> and the residual functional
+groups in the rGO structure.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> For comparison,
+the V<sub>2</sub>O<sub>5</sub>/rGO composite paper electrodes show
+a higher areal capacity and better rate capability than those of the
+pure V<sub>2</sub>O<sub>5</sub> nanowire paper electrodes. As the
+current densities are 0.18, 0.45, 0.9, and 1.8 mA/cm<sup>2</sup>,
+the V<sub>2</sub>O<sub>5</sub>/rGO composite paper electrodes can
+deliver discharge capacities of 0.76, 0.68, 0.59, and 0.43 mAh/cm<sup>2</sup>, respectively. It should be noted that a stable discharge
+capacity of 0.742 mAh/cm<sup>2</sup> can be recovered as the current
+density returns to 0.09 mA/cm<sup>2</sup>, suggesting the good structure
+stability of the sample after a high rate of discharge and charge.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup></p><p><xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d exhibits
+the cycling performance of the pure V<sub>2</sub>O<sub>5</sub> paper
+electrodes and the V<sub>2</sub>O<sub>5</sub>/rGO composite paper
+electrodes at a current density of 0.9 mA/cm<sup>2</sup>. It is noted
+that the initial Coulombic efficiency (CE) of the first discharge
+and charge cycles is about 97%, which may also be attributed to the
+same unavoidable SEI film formation and the possible side reactions.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> More importantly, the CE value reaches up to
+99% after 30 cycles and maintains a stable value after 1000 cycles.
+A discharge capacity of 0.415 mAh/cm<sup>2</sup> can be delivered
+after 1000 cycles at 0.9 mA/cm<sup>2</sup>, corresponding to 69.1%
+of the initial discharge capacity. Without the binder, the V<sub>2</sub>O<sub>5</sub> nanowire network and the rGO bind together tightly
+(without structural damage) so that the rGO can keep the structure
+of V<sub>2</sub>O<sub>5</sub> from deterioration during the cycling
+process.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> Lee et al. also mentioned that
+a voltage range of 1.7&#x02013;3.8 V is suitable for the V<sub>2</sub>O<sub>5</sub>/rGO composite.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> In contrast,
+the pure V<sub>2</sub>O<sub>5</sub> paper electrodes only retain about
+28% of the initial discharge capacity at the current density of 0.9
+mA/cm<sup>2</sup> after 1000 cycles, which could be related to their
+poor rate capability and structural stability. For another comparison,
+the cycling performance of the V<sub>2</sub>O<sub>5</sub>/SP composite
+paper is quite poor after 1000 cycles (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b00037/suppl_file/ao7b00037_si_001.pdf">Figure S7</ext-link>). In addition, the V<sub>2</sub>O<sub>5</sub>/rGO composite
+paper still maintains good cycle stability at the current density
+of 1.8 mA/cm<sup>2</sup>, that is, 55% after 1000 cycles (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b00037/suppl_file/ao7b00037_si_001.pdf">Figure S8</ext-link>), which reveals that the V<sub>2</sub>O<sub>5</sub>/rGO composite paper has excellent cycling performance.</p><p><xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref> shows the
+electrochemical impedance spectra (Nyquist plots) of both cells with
+the pure V<sub>2</sub>O<sub>5</sub> nanowire paper and the V<sub>2</sub>O<sub>5</sub>/rGO composite paper electrodes. The stable SEI layers
+were formed after several cycling processes for the pure V<sub>2</sub>O<sub>5</sub> nanowire paper cell and the V<sub>2</sub>O<sub>5</sub>/rGO composite paper cell, and two depressed semicircles and one
+slope tail were observed. The results were fitted well using the equivalent
+circuit shown in the inset in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> The equivalent circuit
+consists of two parallel R-CPE circuits in series, one for the passive
+film formation and the other for lithium intercalation. Here, <italic>R</italic><sub>s</sub> is the Ohmic resistance related to the electrode,
+electrolyte, separator, and connection; <italic>R</italic><sub>1</sub> is often attributed to the impedance related to the SEI layer; <italic>R</italic><sub>2</sub> is the charge-transfer reaction resistance,
+associated with Li intercalation and varies depending on the composition
+of the electrode. CPE<sub>1</sub> and CPE<sub>2</sub> represents the
+nonideal interfaces of the SEI layer and electrolyte&#x02013;electrode,
+respectively. CPE<sub>3</sub> is basically the Warburg impedance.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup><disp-formula id="ueq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-00037g_m001" position="anchor"/></disp-formula>where <italic>Q</italic><sub><italic>i</italic></sub> is the prefactor of the CPE<italic>i</italic>, and &#x003b1;<italic><sub>i</sub></italic> is its exponent.
+For the electrochemical impedance
+spectroscopy (EIS) measurement, the same procedures were followed
+for both cells under the same conditions, including the state of charge,
+the disturbing signal&#x02019;s amplitude, the frequency range, and
+the temperature. <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref> shows the fitting parameters of the pure V<sub>2</sub>O<sub>5</sub> nanowire paper and the V<sub>2</sub>O<sub>5</sub>/rGO composite
+paper electrodes according to the EIS measurement. It can be seen
+that the Ohmic resistance is reduced from 3.0 to 2.6 &#x003a9;, indicating
+that the conductivity of the electrodes is improved as rGO is introduced.
+The impedance related to the SEI layer (<italic>R</italic><sub>1</sub>) is reduced from 76.8 to 35.9 &#x003a9; (reduced by almost half),
+indicating that rGO significantly improved the ion conductivity of
+the SEI layer. The charge-transfer reaction resistance (<italic>R</italic><sub>2</sub>) is reduced from 165.3 to 112 &#x003a9;, demonstrating
+that the conductivity is improved after rGO is introduced. Thus, the
+AC impedance results further proved that the electrochemical performance
+of the V<sub>2</sub>O<sub>5</sub>/rGO composite paper is better than
+that of the pure V<sub>2</sub>O<sub>5</sub> nanowire paper electrodes.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>EIS (Nyquist
+plot) of the pure V<sub>2</sub>O<sub>5</sub> nanowire
+paper and the V<sub>2</sub>O<sub>5</sub>/rGO composite paper cells.
+Amplitude: 5 mV, frequency range: 10 mHz to 300 kHz.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-00037g_0006" id="gr6" position="float"/></fig><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>EIS Fitting Parameters of the Pure
+V<sub>2</sub>O<sub>5</sub> Nanowire Paper and the V<sub>2</sub>O<sub>5</sub>/rGO Composite Paper Electrodes</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center"><bold>materials</bold></th><th style="border:none;" align="center" char="."><italic>R<sub>s</sub></italic> (&#x003a9;)</th><th style="border:none;" align="center" char="."><italic>R</italic><sub>1</sub> (&#x003a9;)</th><th style="border:none;" align="center"><italic>R</italic><sub>2</sub> (&#x003a9;)</th></tr></thead><tbody><tr><td style="border:none;" align="left">pure V<sub>2</sub>O<sub>5</sub></td><td style="border:none;" align="char" char=".">3.0</td><td style="border:none;" align="char" char=".">76.8</td><td style="border:none;" align="left">165.3</td></tr><tr><td style="border:none;" align="left">V<sub>2</sub>O<sub>5</sub>/rGO</td><td style="border:none;" align="char" char=".">2.6</td><td style="border:none;" align="char" char=".">35.9</td><td style="border:none;" align="left">112</td></tr></tbody></table></table-wrap></sec><sec id="sec3"><title>Conclusions</title><p>In summary, ultralong V<sub>2</sub>O<sub>5</sub> nanowires were
+synthesized by a hydrothermal process, and free-standing and binder-free
+pure V<sub>2</sub>O<sub>5</sub> nanowire paper and V<sub>2</sub>O<sub>5</sub>/rGO composite paper were prepared by the TSR method and were
+cut into small pellets used as a cathode for LIBs. The V<sub>2</sub>O<sub>5</sub>/rGO composite paper electrode shows a higher specific
+capacity of 0.885 mAh/cm<sup>2</sup> at 0.09 mA/cm<sup>2</sup>, which
+can deliver discharge capacities of approximately 0.76, 0.68, 0.59,
+and 0.43 mAh/cm<sup>2</sup> at current densities of 0.18, 0.45, 0.9,
+and 1.8 mA/cm<sup>2</sup>, respectively, and a stable discharge capacity
+of 0.742 mAh/cm<sup>2</sup> can be recovered when the current density
+comes back to 0.09 mA/cm<sup>2</sup>. A 30.9% decay was observed in
+the capacity after 1000 cycles at 0.9 mA/cm<sup>2</sup> for the V<sub>2</sub>O<sub>5</sub>/rGO composite paper electrode. The results demonstrate
+that the free-standing V<sub>2</sub>O<sub>5</sub>/rGO composite paper
+is a promising cathode material for high-energy-density lithium batteries.</p></sec><sec id="sec4"><title>Methods</title><sec id="sec4.1"><title>Preparation
+of Ultralong V<sub>2</sub>O<sub>5</sub> Nanowires
+and Partial rGO Sheets</title><p>Into a vessel of 50 mL Teflon (poly(tetrafluoroethylene)
+(PTFE)) with 35 mL of deionized (DI) water, 0.002 mol (0.364 g) of
+V<sub>2</sub>O<sub>5</sub> powders were added, then 5 mL of H<sub>2</sub>O<sub>2</sub> (30%) was dropped into the mixed solution slowly.
+After the solution was vigorously stirred for half an hour, the vessel
+was sealed into a homemade autoclave and placed in a stainless steel
+tank to perform a hydrothermal reaction at 230 &#x000b0;C for 12 h. After
+the autoclave was cooled down to RT naturally, the products were washed
+with DI water and ethanol several times and then dried at 100 &#x000b0;C
+in vacuum for 4 h. Finally, V<sub>2</sub>O<sub>5</sub> ultralong nanowires
+were obtained after the above products were calcined at 400 &#x000b0;C
+for 3 h in air.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup></p><p>The graphene oxides
+were prepared by an improved synthesis process.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> Following this, 21 mg of GO
+was dispersed in 21 mL of DI water, and then 21 mg of ascorbic acid
+was added into the dispersion; this mixture was subjected to ultrasonic
+treatment for 2 h. After allowing the dispersion to stand for 24 h,
+the mixture gradually turned black in color, and the ascorbic acid
+(Vitamin C)-reduced GO (VrGO) product was obtained.<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> This reduction of GO to VrGO is the first step.</p></sec><sec id="sec4.2"><title>Preparation
+of the V<sub>2</sub>O<sub>5</sub>/rGO Composite
+Paper</title><p>First, 119 mg of V<sub>2</sub>O<sub>5</sub> nanowires
+and 21 mL of as-synthesized VrGO (15 wt %) were dispersed in 119 mL
+of DI water completely under vigorous stirring for 1 h. Then, the
+mixture was transferred into the Teflon-lined autoclave, and another
+hydrothermal treatment was performed at 160 &#x000b0;C for 4 h. This in situ reduction of VrGO
+to rGO is the second step. The TSR process will tightly entangle the
+rGO and V<sub>2</sub>O<sub>5</sub> nanowires together.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> Second, the product was washed with DI water
+and ethanol several times and transferred into a PTFE evaporating
+dish and heat-treated at 60 &#x000b0;C for 24 h. Finally, the V<sub>2</sub>O<sub>5</sub>/rGO composite paper was obtained by peeling it off
+from the PTFE evaporating dish. For comparison, another conductive
+additive, conductive carbon black (SP conductive 99+%, abbr. SP, metal
+basis, Alfa Aesar China), was combined with the V<sub>2</sub>O<sub>5</sub> nanowire using a similar method without any other additive
+to synthesize the free-standing and binder-free V<sub>2</sub>O<sub>5</sub>/SP (15 wt %) composite paper. The pure V<sub>2</sub>O<sub>5</sub> nanowire paper was also prepared by a similar procedure as
+described above but in the absence of GO.</p></sec><sec id="sec4.3"><title>Structural and Electrochemical
+Measurements</title><p>The phase
+structures were characterized by XRD (AXS D8, Bruker) with Cu K&#x003b1;
+radiation (&#x003bb; = 1.5406 &#x000c5;) over the 2&#x003b8; range of 5&#x02013;60&#x000b0;.
+The morphology and microstructure of the samples were examined by
+SEM (JSM-7100F) and TEM (FEI Tecnai G<sup>2</sup> F20). The weight
+percentages of rGO in the composite paper were determined by the thermogravimetric/differential
+thermal analyzer (TGA; Diamond TG/DTA, Perkin Elmer) with a heating
+rate of 10 &#x000b0;C min<sup>&#x02013;1</sup> from RT to 750 &#x000b0;C
+in air. The Raman spectrum (NTEGRA Spectra, NT-MDT) was used to study
+the phonon vibration behavior of the samples. The conductivity of
+the paper electrodes was tested by a four-point probe equipment (Tonghui
+TH2661). Without the binder and current collector, the free-standing
+pure V<sub>2</sub>O<sub>5</sub> nanowire paper, V<sub>2</sub>O<sub>5</sub>/SP, and V<sub>2</sub>O<sub>5</sub>/rGO composite paper were
+cut into small pellets (&#x02300; = 9 mm), with an areal density of
+2.5, 2.7, and 3.1 mg/cm<sup>2</sup>, respectively (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b00037/suppl_file/ao7b00037_si_001.pdf">Figure S1</ext-link>), and used as the cathode electrodes directly. Before
+fabrication of the lithium battery, the paper electrodes were annealed
+at 210 &#x000b0;C for 6 h. Coin-type cells (CR 2032) were assembled in
+an argon-filled glove box (MBraun), using the Li foil as the counter
+electrode and reference electrodes, 1 mol/L LiPF<sub>6</sub> in a
+mixture of ethylene carbonate and dimethyl carbonate (1:1 in volume)
+as the electrolyte, and glass microfiber filters (Whatman) as the
+separator. The electrochemical performances of the prepared electrodes
+were tested with a Land CT2001A tester system at RT. The cells were
+galvanostatically discharged and charged at different current densities
+in a voltage range of 1.7&#x02013;3.8 V (vs Li<sup>+</sup>/Li). CV
+measurements were performed using the AutoLab (PGSTAT302N) electrochemical
+system at a scan rate of 0.1 mV/s, and the EIS of these cells were
+tested with a frequency range of 10 mHz to 300 kHz with an amplitude
+of 5 mV.</p></sec></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acsomega.7b00037">10.1021/acsomega.7b00037</ext-link>.<list id="silist" list-type="simple"><list-item><p>Digital camera
+pictures; SEM characterization and XRD
+patterns of V<sub>2</sub>O<sub>5</sub>/SP composite paper; Raman spectrum;
+C 1s XPS spectrum; specific capacity of V<sub>2</sub>O<sub>5</sub>/rGO composite paper; electrochemical performance comparison of V<sub>2</sub>O<sub>5</sub>/rGO composite paper to the data published in
+the literatures (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b00037/suppl_file/ao7b00037_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao7b00037_si_001.pdf"><caption><p>ao7b00037_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="notes-2"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The authors
+acknowledge the financial support of the National
+Science Foundation of China (Nos. 61274073, 51172275, 11474088, and
+51372271) and the National Key Basic Research Program of China (No.
+2012CB215402). This work was also supported by the Thousands Talents
+Program for the pioneer researcher and his innovation team in China.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Yamada</surname><given-names>A.</given-names></name>; <name><surname>Chung</surname><given-names>S. C.</given-names></name>; <name><surname>Hinokuma</surname><given-names>K.</given-names></name>
+<source>J. Electrochem. Soc.</source>
+<year>2001</year>, <volume>148</volume>, <fpage>A224</fpage>&#x02013;<lpage>A229</lpage>. <pub-id pub-id-type="doi">10.1149/1.1348257</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Ohzuku</surname><given-names>T.</given-names></name>; <name><surname>Ueda</surname><given-names>A.</given-names></name>
+<source>J.
+Electrochem. Soc.</source>
+<year>1994</year>, <volume>141</volume>, <fpage>2972</fpage>&#x02013;<lpage>2977</lpage>. <pub-id pub-id-type="doi">10.1149/1.2059267</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Mai</surname><given-names>L.</given-names></name>; <name><surname>Dong</surname><given-names>F.</given-names></name>; <name><surname>Xu</surname><given-names>X.</given-names></name>; <name><surname>Luo</surname><given-names>Y.</given-names></name>; <name><surname>An</surname><given-names>Q.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Pan</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>
+<source>Nano Lett.</source>
+<year>2013</year>, <volume>13</volume>, <fpage>740</fpage>&#x02013;<lpage>745</lpage>. <pub-id pub-id-type="doi">10.1021/nl304434v</pub-id>.<pub-id pub-id-type="pmid">23311754</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Xia</surname><given-names>L.</given-names></name>; <name><surname>Yu</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Lou</surname><given-names>X. W.</given-names></name>
+<source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>6</volume>, <elocation-id>1502217</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.201502217</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Pushparaj</surname><given-names>V. L.</given-names></name>; <name><surname>Shaijumon</surname><given-names>M. M</given-names></name>; <name><surname>Kumar</surname><given-names>A.</given-names></name>; <name><surname>Murugesan</surname><given-names>S.</given-names></name>; <name><surname>Ci</surname><given-names>L.</given-names></name>; <name><surname>Vajtai</surname><given-names>R.</given-names></name>; <name><surname>Linhardt</surname><given-names>R. J.</given-names></name>; <name><surname>Nalamasu</surname><given-names>O.</given-names></name>; <name><surname>Ajayan</surname><given-names>P. M.</given-names></name>
+<source>Proc. Natl. Acad.
+Sci. U.S.A.</source>
+<year>2007</year>, <volume>104</volume>, <fpage>13574</fpage>&#x02013;<lpage>13577</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0706508104</pub-id>.<pub-id pub-id-type="pmid">17699622</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Wang</surname><given-names>B.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Luo</surname><given-names>B.</given-names></name>; <name><surname>Jia</surname><given-names>Y.</given-names></name>; <name><surname>Zhi</surname><given-names>L.</given-names></name>
+<source>Nanoscale</source>
+<year>2013</year>, <volume>5</volume>, <fpage>1470</fpage>&#x02013;<lpage>1474</lpage>. <pub-id pub-id-type="doi">10.1039/c3nr33288h</pub-id>.<pub-id pub-id-type="pmid">23334474</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Kong</surname><given-names>D.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Hai</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>B.</given-names></name>; <name><surname>Qiu</surname><given-names>X.</given-names></name>; <name><surname>Song</surname><given-names>Q.</given-names></name>; <name><surname>Yang</surname><given-names>Q.-H.</given-names></name>; <name><surname>Zhi</surname><given-names>L.</given-names></name>
+<source>Energy
+Environ. Sci.</source>
+<year>2016</year>, <volume>9</volume>, <fpage>906</fpage>&#x02013;<lpage>911</lpage>. <pub-id pub-id-type="doi">10.1039/C5EE03345D</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Gittleson</surname><given-names>F. S.</given-names></name>; <name><surname>Hwang</surname><given-names>J.</given-names></name>; <name><surname>Sekol</surname><given-names>R. C.</given-names></name>; <name><surname>Taylor</surname><given-names>A. D.</given-names></name>
+<source>J. Mater. Chem. A</source>
+<year>2013</year>, <volume>1</volume>, <fpage>7979</fpage>&#x02013;<lpage>7984</lpage>. <pub-id pub-id-type="doi">10.1039/c3ta11049d</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Liu</surname><given-names>Q.</given-names></name>; <name><surname>Li</surname><given-names>Z.-F.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Ren</surname><given-names>Y.</given-names></name>; <name><surname>Sun</surname><given-names>C.-J.</given-names></name>; <name><surname>Lu</surname><given-names>W.</given-names></name>; <name><surname>Zhou</surname><given-names>Y.</given-names></name>; <name><surname>Stanciu</surname><given-names>L.</given-names></name>; <name><surname>Stach</surname><given-names>E. A.</given-names></name>; <name><surname>Xie</surname><given-names>J.</given-names></name>
+<source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <elocation-id>6127</elocation-id><pub-id pub-id-type="doi">10.1038/ncomms7127</pub-id>.<pub-id pub-id-type="pmid">25600907</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Chen</surname><given-names>M.</given-names></name>; <name><surname>Xia</surname><given-names>X.</given-names></name>; <name><surname>Yuan</surname><given-names>J.</given-names></name>; <name><surname>Yin</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>Q.</given-names></name>
+<source>J. Power Sources</source>
+<year>2015</year>, <volume>288</volume>, <fpage>145</fpage>&#x02013;<lpage>149</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2015.04.130</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Bai</surname><given-names>H.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Sun</surname><given-names>D. D.</given-names></name>; <name><surname>Chan</surname><given-names>S. H.</given-names></name>
+<source>Energy</source>
+<year>2014</year>, <volume>76</volume>, <fpage>607</fpage>&#x02013;<lpage>613</lpage>. <pub-id pub-id-type="doi">10.1016/j.energy.2014.08.058</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Yao</surname><given-names>J.</given-names></name>; <name><surname>Uchaker</surname><given-names>E.</given-names></name>; <name><surname>Zhang</surname><given-names>M.</given-names></name>; <name><surname>Tian</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Cao</surname><given-names>G.</given-names></name>
+<source>J.
+Phys. Chem. C</source>
+<year>2013</year>, <volume>117</volume>, <fpage>23507</fpage>&#x02013;<lpage>23514</lpage>. <pub-id pub-id-type="doi">10.1021/jp406927m</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Yan</surname><given-names>D.-J.</given-names></name>; <name><surname>Zhu</surname><given-names>X.-D.</given-names></name>; <name><surname>Wang</surname><given-names>K.-X.</given-names></name>; <name><surname>Gao</surname><given-names>X.-T.</given-names></name>; <name><surname>Feng</surname><given-names>Y.-J.</given-names></name>; <name><surname>Sun</surname><given-names>K.-N.</given-names></name>; <name><surname>Liu</surname><given-names>Y.-T.</given-names></name>
+<source>J. Mater. Chem.
+A</source>
+<year>2016</year>, <volume>4</volume>, <fpage>4900</fpage>&#x02013;<lpage>4907</lpage>. <pub-id pub-id-type="doi">10.1039/C6TA01417H</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Augustyn</surname><given-names>V.</given-names></name>; <name><surname>Jia</surname><given-names>X.</given-names></name>; <name><surname>Xiao</surname><given-names>Q.</given-names></name>; <name><surname>Dunn</surname><given-names>B.</given-names></name>; <name><surname>Lu</surname><given-names>Y.</given-names></name>
+<source>ACS
+Nano</source>
+<year>2012</year>, <volume>6</volume>, <fpage>4319</fpage>&#x02013;<lpage>4327</lpage>. <pub-id pub-id-type="doi">10.1021/nn300920e</pub-id>.<pub-id pub-id-type="pmid">22471878</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Gao</surname><given-names>X.-T.</given-names></name>; <name><surname>Zhu</surname><given-names>X.-D.</given-names></name>; <name><surname>Le</surname><given-names>S.-R.</given-names></name>; <name><surname>Yan</surname><given-names>D.-J.</given-names></name>; <name><surname>Qu</surname><given-names>C.-Y.</given-names></name>; <name><surname>Feng</surname><given-names>Y.-J.</given-names></name>; <name><surname>Sun</surname><given-names>K.-N.</given-names></name>; <name><surname>Liu</surname><given-names>Y.-T.</given-names></name>
+<source>ChemElectroChem</source>
+<year>2016</year>, <volume>3</volume>, <fpage>1727</fpage>&#x02013;<lpage>1959</lpage>. <pub-id pub-id-type="doi">10.1002/celc.201600596</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>
+<source>Energy
+Environ. Sci.</source>
+<year>2011</year>, <volume>4</volume>, <fpage>4000</fpage>&#x02013;<lpage>4008</lpage>. <pub-id pub-id-type="doi">10.1039/c1ee01353j</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Rui</surname><given-names>X.</given-names></name>; <name><surname>Zhu</surname><given-names>J.</given-names></name>; <name><surname>Sim</surname><given-names>D.</given-names></name>; <name><surname>Xu</surname><given-names>C.</given-names></name>; <name><surname>Zeng</surname><given-names>Y.</given-names></name>; <name><surname>Hng</surname><given-names>H. H.</given-names></name>; <name><surname>Lim</surname><given-names>T. M.</given-names></name>; <name><surname>Yan</surname><given-names>Q.</given-names></name>
+<source>Nanoscale</source>
+<year>2011</year>, <volume>3</volume>, <fpage>4752</fpage>&#x02013;<lpage>4758</lpage>. <pub-id pub-id-type="doi">10.1039/c1nr10879d</pub-id>.<pub-id pub-id-type="pmid">21989744</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Cheng</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>B.</given-names></name>; <name><surname>Xin</surname><given-names>H. L.</given-names></name>; <name><surname>Yang</surname><given-names>G.</given-names></name>; <name><surname>Cai</surname><given-names>H.</given-names></name>; <name><surname>Niea</surname><given-names>F.</given-names></name>; <name><surname>Huang</surname><given-names>H.</given-names></name>
+<source>J. Mater. Chem. A</source>
+<year>2013</year>, <volume>1</volume>, <fpage>10814</fpage>&#x02013;<lpage>10820</lpage>. <pub-id pub-id-type="doi">10.1039/c3ta12066j</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Perera</surname><given-names>S. D.</given-names></name>; <name><surname>Liyanage</surname><given-names>A. D.</given-names></name>; <name><surname>Nijem</surname><given-names>N.</given-names></name>; <name><surname>Ferraris</surname><given-names>J. P.</given-names></name>; <name><surname>Chabal</surname><given-names>Y. J.</given-names></name>; <name><surname>Balkus</surname><given-names>K. J.</given-names></name>
+<source>J. Power Sources</source>
+<year>2013</year>, <volume>230</volume>, <fpage>130</fpage>&#x02013;<lpage>137</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2012.11.118</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Foo</surname><given-names>C. Y.</given-names></name>; <name><surname>Sumboja</surname><given-names>A.</given-names></name>; <name><surname>Tan</surname><given-names>D. J. H.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Lee</surname><given-names>P. S.</given-names></name>
+<source>Adv. Energy Mater.</source>
+<year>2014</year>, <volume>4</volume>, <elocation-id>1400236</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.201400236</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Lee</surname><given-names>J. W.</given-names></name>; <name><surname>Lim</surname><given-names>S. Y.</given-names></name>; <name><surname>Jeong</surname><given-names>H. M.</given-names></name>; <name><surname>Hwang</surname><given-names>T. H.</given-names></name>; <name><surname>Kang</surname><given-names>J. K.</given-names></name>; <name><surname>Choi</surname><given-names>J. W.</given-names></name>
+<source>Energy Environ. Sci.</source>
+<year>2012</year>, <volume>5</volume>, <fpage>9889</fpage>&#x02013;<lpage>9894</lpage>. <pub-id pub-id-type="doi">10.1039/c2ee22004k</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Zhai</surname><given-names>T.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Fang</surname><given-names>X.</given-names></name>; <name><surname>Liao</surname><given-names>M.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Zhou</surname><given-names>H.</given-names></name>; <name><surname>Koide</surname><given-names>Y.</given-names></name>; <name><surname>Bando</surname><given-names>Y.</given-names></name>; <name><surname>Golberg</surname><given-names>D.</given-names></name>
+<source>Adv. Mater.</source>
+<year>2010</year>, <volume>22</volume>, <fpage>2547</fpage>&#x02013;<lpage>2552</lpage>. <pub-id pub-id-type="doi">10.1002/adma.200903586</pub-id>.<pub-id pub-id-type="pmid">20449845</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Marcano</surname><given-names>D. C.</given-names></name>; <name><surname>Kosynkin</surname><given-names>D. V.</given-names></name>; <name><surname>Berlin</surname><given-names>J. M.</given-names></name>; <name><surname>Sinitskii</surname><given-names>A.</given-names></name>; <name><surname>Sun</surname><given-names>Z.</given-names></name>; <name><surname>Slesarev</surname><given-names>A.</given-names></name>; <name><surname>Alemany</surname><given-names>L. B.</given-names></name>; <name><surname>Lu</surname><given-names>W.</given-names></name>; <name><surname>Tour</surname><given-names>J. M.</given-names></name>
+<source>ACS Nano</source>
+<year>2010</year>, <volume>4</volume>, <fpage>4806</fpage>&#x02013;<lpage>4814</lpage>. <pub-id pub-id-type="doi">10.1021/nn1006368</pub-id>.<pub-id pub-id-type="pmid">20731455</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Huang</surname><given-names>X.</given-names></name>; <name><surname>Qi</surname><given-names>X.</given-names></name>; <name><surname>Boeyab</surname><given-names>F.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>
+<source>Chem. Soc. Rev.</source>
+<year>2012</year>, <volume>41</volume>, <fpage>666</fpage>&#x02013;<lpage>686</lpage>. <pub-id pub-id-type="doi">10.1039/C1CS15078B</pub-id>.<pub-id pub-id-type="pmid">21796314</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>H.</given-names></name>; <name><surname>Shen</surname><given-names>G.</given-names></name>; <name><surname>Cheng</surname><given-names>P.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Guo</surname><given-names>S.</given-names></name>
+<source>Chem.
+Commun.</source>
+<year>2010</year>, <volume>46</volume>, <fpage>1112</fpage>&#x02013;<lpage>1114</lpage>. <pub-id pub-id-type="doi">10.1039/B917705A</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Moon</surname><given-names>I. K.</given-names></name>; <name><surname>Lee</surname><given-names>J.</given-names></name>; <name><surname>Ruoff</surname><given-names>R. S.</given-names></name>; <name><surname>Lee</surname><given-names>H.</given-names></name>
+<source>Nat.
+Commun.</source>
+<year>2010</year>, <volume>1</volume>, <fpage>73</fpage><pub-id pub-id-type="doi">10.1038/ncomms1067</pub-id>.<pub-id pub-id-type="pmid">20865806</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Ding</surname><given-names>J. N.</given-names></name>; <name><surname>Liu</surname><given-names>Y. B.</given-names></name>; <name><surname>Yuan</surname><given-names>N. Y.</given-names></name>; <name><surname>Ding</surname><given-names>G. Q.</given-names></name>; <name><surname>Fan</surname><given-names>Y.</given-names></name>; <name><surname>Yu</surname><given-names>C. T.</given-names></name>
+<source>Diamond
+Relat. Mater.</source>
+<year>2012</year>, <volume>21</volume>, <fpage>11</fpage>&#x02013;<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1016/j.diamond.2011.08.004</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Du</surname><given-names>G.</given-names></name>; <name><surname>Seng</surname><given-names>K. H.</given-names></name>; <name><surname>Guo</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Jia</surname><given-names>D.</given-names></name>; <name><surname>Jia</surname><given-names>C.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>
+<source>RSC
+Adv.</source>
+<year>2011</year>, <volume>1</volume>, <fpage>690</fpage>&#x02013;<lpage>697</lpage>. <pub-id pub-id-type="doi">10.1039/c1ra00258a</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Shang</surname><given-names>H.</given-names></name>; <name><surname>Chou</surname><given-names>T.</given-names></name>; <name><surname>Cao</surname><given-names>G.</given-names></name>
+<source>J.
+Phys. Chem. B</source>
+<year>2005</year>, <volume>109</volume>, <fpage>11361</fpage>&#x02013;<lpage>11366</lpage>. <pub-id pub-id-type="doi">10.1021/jp051275+</pub-id>.<pub-id pub-id-type="pmid">16852388</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Petkov</surname><given-names>V.</given-names></name>; <name><surname>Trikalitis</surname><given-names>P. N.</given-names></name>; <name><surname>Bozin</surname><given-names>E. S.</given-names></name>; <name><surname>Billinge</surname><given-names>S. J. L.</given-names></name>; <name><surname>Vogt</surname><given-names>T.</given-names></name>; <name><surname>Kanatzidis</surname><given-names>M. G.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2002</year>, <volume>124</volume>, <fpage>10157</fpage>&#x02013;<lpage>10162</lpage>. <pub-id pub-id-type="doi">10.1021/ja026143y</pub-id>.<pub-id pub-id-type="pmid">12188680</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Ren</surname><given-names>X.</given-names></name>; <name><surname>Shi</surname><given-names>C.</given-names></name>; <name><surname>Zhang</surname><given-names>P.</given-names></name>; <name><surname>Jiang</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<source>Mater. Sci. Eng.,
+B</source>
+<year>2012</year>, <volume>177</volume>, <fpage>929</fpage>&#x02013;<lpage>934</lpage>. <pub-id pub-id-type="doi">10.1016/j.mseb.2012.04.013</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Fei</surname><given-names>H.</given-names></name>; <name><surname>Peng</surname><given-names>Z.</given-names></name>; <name><surname>Ruan</surname><given-names>G.</given-names></name>; <name><surname>Tour</surname><given-names>J. M.</given-names></name>
+<source>ACS Appl. Mater.
+Interfaces</source>
+<year>2014</year>, <volume>6</volume>, <fpage>9590</fpage>&#x02013;<lpage>9594</lpage>. <pub-id pub-id-type="doi">10.1021/am501969m</pub-id>.<pub-id pub-id-type="pmid">24844573</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Sun</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>S.-B.</given-names></name>; <name><surname>Lv</surname><given-names>L.-P.</given-names></name>; <name><surname>Lieberwirth</surname><given-names>I.</given-names></name>; <name><surname>Zhang</surname><given-names>L.-C.</given-names></name>; <name><surname>Ding</surname><given-names>C.-X.</given-names></name>; <name><surname>Chen</surname><given-names>C.-H.</given-names></name>
+<source>J. Power Sources</source>
+<year>2013</year>, <volume>241</volume>, <fpage>168</fpage>&#x02013;<lpage>172</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2013.04.093</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Wang</surname><given-names>J.-G.</given-names></name>; <name><surname>Zhou</surname><given-names>D.</given-names></name>; <name><surname>Jin</surname><given-names>R.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Shen</surname><given-names>C.</given-names></name>; <name><surname>Xie</surname><given-names>K.</given-names></name>; <name><surname>Kang</surname><given-names>F.</given-names></name>; <name><surname>Li</surname><given-names>B.</given-names></name>; <name><surname>Wei</surname><given-names>B.</given-names></name>
+<source>ACS
+Nano</source>
+<year>2016</year>, <volume>10</volume>, <fpage>6227</fpage>&#x02013;<lpage>6234</lpage>. <pub-id pub-id-type="doi">10.1021/acsnano.6b02319</pub-id>.<pub-id pub-id-type="pmid">27172485</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Li</surname><given-names>T.</given-names></name>; <name><surname>Beidaghi</surname><given-names>M.</given-names></name>; <name><surname>Xiao</surname><given-names>X.</given-names></name>; <name><surname>Huang</surname><given-names>L.</given-names></name>; <name><surname>Hu</surname><given-names>Z.</given-names></name>; <name><surname>Sun</surname><given-names>W.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Gogotsi</surname><given-names>Y.</given-names></name>; <name><surname>Zhou</surname><given-names>J.</given-names></name>
+<source>Nano Energy</source>
+<year>2016</year>, <volume>26</volume>, <fpage>100</fpage>&#x02013;<lpage>107</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2016.05.004</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Piao</surname><given-names>T.</given-names></name>; <name><surname>Park</surname><given-names>S.-M.</given-names></name>; <name><surname>Doh</surname><given-names>C.-H.</given-names></name>; <name><surname>Moon</surname><given-names>S.-I.</given-names></name>
+<source>J. Electrochem.
+Soc.</source>
+<year>1999</year>, <volume>146</volume>, <fpage>2794</fpage>&#x02013;<lpage>2798</lpage>. <pub-id pub-id-type="doi">10.1149/1.1392010</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Huang</surname><given-names>Q. A.</given-names></name>; <name><surname>Park</surname><given-names>S. M.</given-names></name>
+<source>J. Phys. Chem. C</source>
+<year>2012</year>, <volume>116</volume>, <fpage>16939</fpage>&#x02013;<lpage>16950</lpage>. <pub-id pub-id-type="doi">10.1021/jp306140w</pub-id>.</mixed-citation></ref></ref-list></back></article>

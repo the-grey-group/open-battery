@@ -1,0 +1,375 @@
+{
+  "id": [
+    "30759779"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30759779"
+  ],
+  "pmcid": [
+    "PMC6410026"
+  ],
+  "doi": [
+    "10.3390/nano9020246"
+  ],
+  "title": [
+    "Recovery of Li(Ni0.33Mn0.33Co0.33)O₂ from Lithium-Ion Battery Cathodes: Aspects of Degradation."
+  ],
+  "authorString": [
+    "Sieber T, Ducke J, Rietig A, Langner T, Acker J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sieber T"
+          ],
+          "firstName": [
+            "Tim"
+          ],
+          "lastName": [
+            "Sieber"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Physical Chemistry, Brandenburg Technical University Cottbus-Senftenberg, Universitätsplatz 1, D-01968 Senftenberg, Germany. tim.sieber@b-tu.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Ducke J"
+          ],
+          "firstName": [
+            "Jana"
+          ],
+          "lastName": [
+            "Ducke"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Physical Chemistry, Brandenburg Technical University Cottbus-Senftenberg, Universitätsplatz 1, D-01968 Senftenberg, Germany. jana.ducke@b-tu.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Rietig A"
+          ],
+          "firstName": [
+            "Anja"
+          ],
+          "lastName": [
+            "Rietig"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2448-6856",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physical Chemistry, Brandenburg Technical University Cottbus-Senftenberg, Universitätsplatz 1, D-01968 Senftenberg, Germany. anja.rietig@b-tu.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Langner T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Langner"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Physical Chemistry, Brandenburg Technical University Cottbus-Senftenberg, Universitätsplatz 1, D-01968 Senftenberg, Germany. thomas.langner@b-tu.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Acker J"
+          ],
+          "firstName": [
+            "Jörg"
+          ],
+          "lastName": [
+            "Acker"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1325-1111",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physical Chemistry, Brandenburg Technical University Cottbus-Senftenberg, Universitätsplatz 1, D-01968 Senftenberg, Germany. joerg.acker@b-tu.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1325-1111",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2448-6856",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2778426"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomaterials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "NLMid": [
+            "101610216"
+          ],
+          "ISSN": [
+            "2079-4991"
+          ],
+          "ESSN": [
+            "2079-4991"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Nickel⁻manganese⁻cobalt oxides, with LiNi0.33Mn0.33Co0.33O₂ (NMC) as the most prominent compound, are state-of-the-art cathode materials for lithium-ion batteries in electric vehicles. The growing market for electro mobility has led to a growing global demand for Li, Co, Ni, and Mn, making spent lithium-ion batteries a valuable secondary resource. Going forward, energy- and resource-inefficient pyrometallurgical and hydrometallurgical recycling strategies must be avoided. We presented an approach to recover NMC particles from spent lithium-ion battery cathodes while preserving their chemical and morphological properties, with a minimal use of chemicals. The key task was the separation of the cathode coating layer consisting of NMC, an organic binder, and carbon black, from the Al substrate foil. This can be performed in water under strong agitation to support the slow detachment process. However, the contact of the NMC cathode with water leads to a release of Li⁺ ions and a fast increase in the pH. Unwanted side reactions may occur as the Al substrate foil starts to dissolve and Al(OH)₃ precipitates on the NMC. These side reactions are avoided using pH-adjusted solutions with sufficiently high buffer capacities to separate the coating layer from the Al substrate, without precipitations and without degradation of the NMC particles."
+  ],
+  "affiliation": [
+    "Department of Physical Chemistry, Brandenburg Technical University Cottbus-Senftenberg, Universitätsplatz 1, D-01968 Senftenberg, Germany. tim.sieber@b-tu.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "16SBS007"
+          ],
+          "agency": [
+            "Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Degradation",
+        "Leaching",
+        "Raman spectroscopy",
+        "Recycling",
+        "Recover",
+        "Sem-edx",
+        "Lithium-ion",
+        "Nickel–manganese–cobalt Oxide (Nmc)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nano9020246"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6410026"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6410026?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-15"
+  ],
+  "firstIndexDate": [
+    "2019-02-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-13"
+  ],
+  "dateOfRevision": [
+    "2019-03-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-12"
+  ],
+  "firstPublicationDate": [
+    "2019-02-12"
+  ]
+}

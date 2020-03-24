@@ -1,0 +1,688 @@
+{
+  "id": [
+    "31624258"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31624258"
+  ],
+  "pmcid": [
+    "PMC6797712"
+  ],
+  "doi": [
+    "10.1038/s41467-019-12626-3"
+  ],
+  "title": [
+    "Correlation between manganese dissolution and dynamic phase stability in spinel-based lithium-ion battery."
+  ],
+  "authorString": [
+    "Liu T, Dai A, Lu J, Yuan Y, Xiao Y, Yu L, Li M, Gim J, Ma L, Liu J, Zhan C, Li L, Zheng J, Ren Y, Wu T, Shahbazian-Yassar R, Wen J, Pan F, Amine K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu T"
+          ],
+          "firstName": [
+            "Tongchao"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "School of Advanced Materials, Peking University, Shenzhen Graduate School, 518055, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dai A"
+          ],
+          "firstName": [
+            "Alvin"
+          ],
+          "lastName": [
+            "Dai"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Chemical Sciences and Engineering Division, Argonne National Laboratory, Argonne, IL, 60439, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0858-8577",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chemical Sciences and Engineering Division, Argonne National Laboratory, Argonne, IL, 60439, USA. junlu@anl.gov."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan Y"
+          ],
+          "firstName": [
+            "Yifei"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2360-8794",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chemical Sciences and Engineering Division, Argonne National Laboratory, Argonne, IL, 60439, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao Y"
+          ],
+          "firstName": [
+            "Yinguo"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Advanced Materials, Peking University, Shenzhen Graduate School, 518055, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Chemical Sciences and Engineering Division, Argonne National Laboratory, Argonne, IL, 60439, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Li M"
+          ],
+          "firstName": [
+            "Matthew"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Chemical Sciences and Engineering Division, Argonne National Laboratory, Argonne, IL, 60439, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gim J"
+          ],
+          "firstName": [
+            "Jihyeon"
+          ],
+          "lastName": [
+            "Gim"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4171-3707",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chemical Sciences and Engineering Division, Argonne National Laboratory, Argonne, IL, 60439, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma L"
+          ],
+          "firstName": [
+            "Lu"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9646-0738",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "X-ray Science Division, Argonne National Laboratory, Argonne, IL, 60439, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jiajie"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Advanced Materials, Peking University, Shenzhen Graduate School, 518055, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhan C"
+          ],
+          "firstName": [
+            "Chun"
+          ],
+          "lastName": [
+            "Zhan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Chemical Sciences and Engineering Division, Argonne National Laboratory, Argonne, IL, 60439, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Li L"
+          ],
+          "firstName": [
+            "Luxi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "X-ray Science Division, Argonne National Laboratory, Argonne, IL, 60439, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng J"
+          ],
+          "firstName": [
+            "Jiaxin"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Advanced Materials, Peking University, Shenzhen Graduate School, 518055, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ren Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Ren"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "X-ray Science Division, Argonne National Laboratory, Argonne, IL, 60439, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu T"
+          ],
+          "firstName": [
+            "Tianpin"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6226-6205",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "X-ray Science Division, Argonne National Laboratory, Argonne, IL, 60439, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shahbazian-Yassar R"
+          ],
+          "firstName": [
+            "Reza"
+          ],
+          "lastName": [
+            "Shahbazian-Yassar"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7744-4780",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Mechanical and Industrial Engineering, University of Illinois at Chicago, Chicago, IL, 60607, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wen J"
+          ],
+          "firstName": [
+            "Jianguo"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3755-0044",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Nanoscale Materials, Argonne National Laboratory, Argonne, IL, 60439, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pan F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "School of Advanced Materials, Peking University, Shenzhen Graduate School, 518055, Shenzhen, China. panfeng@pkusz.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Amine K"
+          ],
+          "firstName": [
+            "Khalil"
+          ],
+          "lastName": [
+            "Amine"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9206-3719",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chemical Sciences and Engineering Division, Argonne National Laboratory, Argonne, IL, 60439, USA. amine@anl.gov."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4171-3707",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7744-4780",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0858-8577",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9206-3719",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9646-0738",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6226-6205",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2360-8794",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3755-0044",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2866016"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4721"
+  ],
+  "abstractText": [
+    "Historically long accepted to be the singular root cause of capacity fading, transition metal dissolution has been reported to severely degrade the anode. However, its impact on the cathode behavior remains poorly understood. Here we show the correlation between capacity fading and phase/surface stability of an LiMn2O4 cathode. It is revealed that a combination of structural transformation and transition metal dissolution dominates the cathode capacity fading. LiMn2O4 exhibits irreversible phase transitions driven by manganese(III) disproportionation and Jahn-Teller distortion, which in conjunction with particle cracks results in serious manganese dissolution. Meanwhile, fast manganese dissolution in turn triggers irreversible structural evolution, and as such, forms a detrimental cycle constantly consuming active cathode components. Furthermore, lithium-rich LiMn2O4 with lithium/manganese disorder and surface reconstruction could effectively suppress the irreversible phase transition and manganese dissolution. These findings close the loop of understanding capacity fading mechanisms and allow for development of longer life batteries."
+  ],
+  "affiliation": [
+    "School of Advanced Materials, Peking University, Shenzhen Graduate School, 518055, Shenzhen, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-12626-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6797712"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6797712?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-01-02"
+  ],
+  "dateOfCreation": [
+    "2019-10-19"
+  ],
+  "firstIndexDate": [
+    "2019-10-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-02"
+  ],
+  "dateOfRevision": [
+    "2020-01-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-17"
+  ],
+  "firstPublicationDate": [
+    "2019-10-17"
+  ]
+}

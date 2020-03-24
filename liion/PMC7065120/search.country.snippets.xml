@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC7065120/results/search/country/results.xml">
+  <result pre="Chemistry Institute of Inorganic Chemistry RWTH Aachen University 52056 Aachen" exact="Germany" post="[2], Institut Charles Gerhardt Montpellier CNRS Université de Montpellier"/>
+  <result pre="Institut Charles Gerhardt Montpellier CNRS Université de Montpellier 34095 Montpellier" exact="France" post="[3], Alistore—European Research Institute CNRS 80039 Amiens France [4],"/>
+  <result pre="34095 Montpellier France [3], Alistore—European Research Institute CNRS 80039 Amiens" exact="France" post="[4], Dutch-Belgian (DUBBLE) ESRF-The European Synchrotron 38043 Grenoble France"/>
+  <result pre="Amiens France [4], Dutch-Belgian (DUBBLE) ESRF-The European Synchrotron 38043 Grenoble" exact="France" post="[5], Reseau sur le Stockage Electrochimique de l'Energie (RS2E)"/>
+  <result pre="sur le Stockage Electrochimique de l'Energie (RS2E) CNRS 80039 Amiens" exact="France" post="[6], Hoffmann Institute of Advanced Materials Shenzhen Polytechnic 7098"/>
+  <result pre="Advanced Materials Shenzhen Polytechnic 7098 Liuxian Blvd Nanshan District Shenzhen" exact="China" post="epub: 2020-1-1 ppub: 2020-2-2 59 9 10.1002/anie.v59.9 3718 3723"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,375 @@
+{
+  "id": [
+    "30029489"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30029489"
+  ],
+  "pmcid": [
+    "PMC6161240"
+  ],
+  "doi": [
+    "10.3390/membranes8030045"
+  ],
+  "title": [
+    "Recent Advances in Poly(vinylidene fluoride) and Its Copolymers for Lithium-Ion Battery Separators."
+  ],
+  "authorString": [
+    "Barbosa JC, Dias JP, Lanceros-Méndez S, Costa CM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Barbosa JC"
+          ],
+          "firstName": [
+            "João C"
+          ],
+          "lastName": [
+            "Barbosa"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4670-2027",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centro de Física, Universidade do Minho, 4710-057 Braga, Portugal. joaocpbarbosa@live.com.pt."
+          ]
+        },
+        {
+          "fullName": [
+            "Dias JP"
+          ],
+          "firstName": [
+            "José P"
+          ],
+          "lastName": [
+            "Dias"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Centro de Física, Universidade do Minho, 4710-057 Braga, Portugal. jmpedrodias@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Lanceros-Méndez S"
+          ],
+          "firstName": [
+            "Senentxu"
+          ],
+          "lastName": [
+            "Lanceros-Méndez"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6791-7620",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "BCMaterials, Basque Center Centre for Materials, Applications and Nanostructures, UPV/EHU Science Park, 48940 Leioa, Spain. senentxu.lanceros@bcmaterials.net."
+          ]
+        },
+        {
+          "fullName": [
+            "Costa CM"
+          ],
+          "firstName": [
+            "Carlos M"
+          ],
+          "lastName": [
+            "Costa"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9266-3669",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centro de Física, Universidade do Minho, 4710-057 Braga, Portugal. cmscosta@fisica.uminho.pt."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4670-2027",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6791-7620",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9266-3669",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2701887"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Membranes"
+          ],
+          "ISOAbbreviation": [
+            "Membranes (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Membranes (Basel)"
+          ],
+          "NLMid": [
+            "101577807"
+          ],
+          "ISSN": [
+            "2077-0375"
+          ],
+          "ESSN": [
+            "2077-0375"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The separator membrane is an essential component of lithium-ion batteries, separating the anode and cathode, and controlling the number and mobility of the lithium ions. Among the polymer matrices most commonly investigated for battery separators are poly(vinylidene fluoride) (PVDF) and its copolymers poly(vinylidene fluoride-co-trifluoroethylene) (PVDF-TrFE), poly(vinylidene fluoride-co-hexafluoropropylene) (PVDF-HFP), and poly(vinylidene fluoride-cochlorotrifluoroethylene) (PVDF-CTFE), due to their excellent properties such as high polarity and the possibility of controlling the porosity of the materials through binary and ternary polymer/solvent systems, among others. This review presents the recent advances on battery separators based on PVDF and its copolymers for lithium-ion batteries. It is divided into the following sections: single polymer and co-polymers, surface modification, composites, and polymer blends. Further, a critical comparison between those membranes and other separator membranes is presented, as well as the future trends on this area."
+  ],
+  "affiliation": [
+    "Centro de Física, Universidade do Minho, 4710-057 Braga, Portugal. joaocpbarbosa@live.com.pt."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Copolymers",
+        "Pvdf",
+        "Lithium-ion Batteries",
+        "Battery Separator"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/membranes8030045"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6161240"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6161240?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR50914"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-22"
+  ],
+  "firstIndexDate": [
+    "2018-07-22"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-01"
+  ],
+  "dateOfRevision": [
+    "2018-10-02"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-19"
+  ],
+  "firstPublicationDate": [
+    "2018-07-19"
+  ]
+}

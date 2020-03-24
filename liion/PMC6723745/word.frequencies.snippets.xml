@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6723745/results/word/frequencies/results.xml">
+  <result title="frequency" word="membrane" count="69"/>
+  <result title="frequency" word="separator" count="50"/>
+  <result title="frequency" word="batteries" count="36"/>
+  <result title="frequency" word="separators" count="35"/>
+  <result title="frequency" word="Figure" count="33"/>
+  <result title="frequency" word="battery" count="33"/>
+  <result title="frequency" word="/PPTA-coated" count="30"/>
+  <result title="frequency" word="assembled" count="29"/>
+  <result title="frequency" word="electrolyte" count="27"/>
+  <result title="frequency" word="-coated" count="26"/>
+  <result title="frequency" word="lithium" count="23"/>
+  <result title="frequency" word="composite" count="21"/>
+ </snippets>
+</snippetsTree>

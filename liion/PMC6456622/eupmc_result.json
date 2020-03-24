@@ -1,0 +1,606 @@
+{
+  "id": [
+    "30967531"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30967531"
+  ],
+  "pmcid": [
+    "PMC6456622"
+  ],
+  "doi": [
+    "10.1038/s41467-019-09248-0"
+  ],
+  "title": [
+    "Anomalous metal segregation in lithium-rich material provides design rules for stable cathode in lithium-ion battery."
+  ],
+  "authorString": [
+    "Lin R, Hu E, Liu M, Wang Y, Cheng H, Wu J, Zheng JC, Wu Q, Bak S, Tong X, Zhang R, Yang W, Persson KA, Yu X, Yang XQ, Xin HL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lin R"
+          ],
+          "firstName": [
+            "Ruoqian"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Center for Functional Nanomaterials, Brookhaven National Laboratory, Upton, NY, 11973, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu E"
+          ],
+          "firstName": [
+            "Enyuan"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1881-4534",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chemistry Division, Brookhaven National Laboratory, Upton, NY, 11973, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu M"
+          ],
+          "firstName": [
+            "Mingjie"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Center for Functional Nanomaterials, Brookhaven National Laboratory, Upton, NY, 11973, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Beijing Advanced Innovation Center for Materials Genome Engineering, Institute of Physics, Chinese Academy of Sciences, 100190, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Physics and the Collaborative Innovation Center for Optoelectronic Semiconductors and Efficient Devices, Xiamen University, 361005, Xiamen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu J"
+          ],
+          "firstName": [
+            "Jinpeng"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Advanced Light Source, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng JC"
+          ],
+          "firstName": [
+            "Jin-Cheng"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6292-3236",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physics and the Collaborative Innovation Center for Optoelectronic Semiconductors and Efficient Devices, Xiamen University, 361005, Xiamen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Q"
+          ],
+          "firstName": [
+            "Qin"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6350-6672",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Functional Nanomaterials, Brookhaven National Laboratory, Upton, NY, 11973, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bak S"
+          ],
+          "firstName": [
+            "Seongmin"
+          ],
+          "lastName": [
+            "Bak"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Chemistry Division, Brookhaven National Laboratory, Upton, NY, 11973, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tong X"
+          ],
+          "firstName": [
+            "Xiao"
+          ],
+          "lastName": [
+            "Tong"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Center for Functional Nanomaterials, Brookhaven National Laboratory, Upton, NY, 11973, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang R"
+          ],
+          "firstName": [
+            "Rui"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Physics and Astronomy, University of California, Irvine, CA, 92697, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang W"
+          ],
+          "firstName": [
+            "Wanli"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0666-8063",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Advanced Light Source, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Persson KA"
+          ],
+          "firstName": [
+            "Kristin A"
+          ],
+          "lastName": [
+            "Persson"
+          ],
+          "initials": [
+            "KA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2495-5509",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Energy Storage and Distributed Resources Division, Lawrence Berkeley National Laboratory, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu X"
+          ],
+          "firstName": [
+            "Xiqian"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8513-518X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Beijing Advanced Innovation Center for Materials Genome Engineering, Institute of Physics, Chinese Academy of Sciences, 100190, Beijing, China. xyu@iphy.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang XQ"
+          ],
+          "firstName": [
+            "Xiao-Qing"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "XQ"
+          ],
+          "affiliation": [
+            "Chemistry Division, Brookhaven National Laboratory, Upton, NY, 11973, USA. xyang@bnl.gov."
+          ]
+        },
+        {
+          "fullName": [
+            "Xin HL"
+          ],
+          "firstName": [
+            "Huolin L"
+          ],
+          "lastName": [
+            "Xin"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6521-868X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Functional Nanomaterials, Brookhaven National Laboratory, Upton, NY, 11973, USA. hxin@bnl.gov."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0666-8063",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6292-3236",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1881-4534",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8513-518X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6521-868X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6350-6672",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2495-5509",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2799472"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1650"
+  ],
+  "abstractText": [
+    "Despite the importance of studying the instability of delithiated cathode materials, it remains difficult to underpin the degradation mechanism of lithium-rich cathode materials due to the complication of combined chemical and structural evolutions. Herein, we use state-of-the-art electron microscopy tools, in conjunction with synchrotron X-ray techniques and first-principle calculations to study a 4d-element-containing compound, Li2Ru0.5Mn0.5O3. We find surprisingly, after cycling, ruthenium segregates out as metallic nanoclusters on the reconstructed surface. Our calculations show that the unexpected ruthenium metal segregation is due to its thermodynamic insolubility in the oxygen deprived surface. This insolubility can disrupt the reconstructed surface, which explains the formation of a porous structure in this material. This work reveals the importance of studying the thermodynamic stability of the reconstructed film on the cathode materials and offers a theoretical guidance for choosing manganese substituting elements in lithium-rich as well as stoichiometric layer-layer compounds for stabilizing the cathode surface."
+  ],
+  "affiliation": [
+    "Center for Functional Nanomaterials, Brookhaven National Laboratory, Upton, NY, 11973, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-09248-0"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6456622"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6456622?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-11"
+  ],
+  "firstIndexDate": [
+    "2019-04-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-15"
+  ],
+  "dateOfRevision": [
+    "2020-03-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-09"
+  ],
+  "firstPublicationDate": [
+    "2019-04-09"
+  ]
+}

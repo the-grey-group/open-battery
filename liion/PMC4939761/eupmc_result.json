@@ -1,0 +1,292 @@
+{
+  "id": [
+    "27441220"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27441220"
+  ],
+  "pmcid": [
+    "PMC4939761"
+  ],
+  "doi": [
+    "10.1016/j.heliyon.2015.e00032"
+  ],
+  "title": [
+    "Preparation and characterization of a Lithium-ion battery separator from cellulose nanofibers."
+  ],
+  "authorString": [
+    "Zhang H, Wang X, Liang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Hongfeng"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Pulp and Paper Engineering, School of Light Industry and Food Sciences, South China University of Technology, Guangzhou, 510640, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiwen"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Pulp and Paper Engineering, School of Light Industry and Food Sciences, South China University of Technology, Guangzhou, 510640, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang Y"
+          ],
+          "firstName": [
+            "Yun"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Pulp and Paper Engineering, School of Light Industry and Food Sciences, South China University of Technology, Guangzhou, 510640, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2402195"
+      ],
+      "dateOfPublication": [
+        "2015 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Heliyon"
+          ],
+          "ISOAbbreviation": [
+            "Heliyon"
+          ],
+          "medlineAbbreviation": [
+            "Heliyon"
+          ],
+          "NLMid": [
+            "101672560"
+          ],
+          "ISSN": [
+            "2405-8440"
+          ],
+          "ESSN": [
+            "2405-8440"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "e00032"
+  ],
+  "abstractText": [
+    "Optimizing the desired properties for stretch monolayer separators used in Lithium-ion batteries has been a challenge. In the present study a cellulose nanofiber/PET nonwoven composite separator is successfully fabricated, using a wet-laid nonwoven (papermaking) process, which can attain optimal properties in wettability, mechanical strength, thermal resistance, and electrochemical performance simultaneously. The PET nonwoven material, which is fabricated from ultrafine PET fibers by a wet-laid process, is a mechanical support layer. The porous structure of the composite separator was created by cellulose nanofibers coating the PET in a papermaking process. Cellulose nanofibers (CNFs), which are an eco-friendly sustainable resource, have been drawing considerable attention due to their astounding properties, such as: incredible specific surface area, thermal and chemical stability, high mechanical strength and hydrophilicity. The results show that the CNF separator exhibits higher porosity (70%) than a PP (polypropylene) separator (40%). The CNF separator can also be wetted by electrolyte in a few seconds while a PP separator cannot be entirely wetted after 1 min. The CNF separator has an electrolyte uptake of 250%, while a PP separator has only 65%. Another notable finding is that the CNF separator has almost no shrinkage when exposed to 180 °C for 1 h, whereas a PP separator shrinks by more than 50%. Differential Scanning Calorimetry (DSC) shows that the CNF separator has a higher melting point than a PP separator. These findings all indicate that the CNF 29 separator will be more favorable than stretch film for use in Lithium-ion batteries."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Pulp and Paper Engineering, School of Light Industry and Food Sciences, South China University of Technology, Guangzhou, 510640, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "nanomaterials",
+        "Materials Science",
+        "Materials Processes",
+        "Natural Product Modification"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.heliyon.2015.e00032"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4939761"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4939761?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-07-21"
+  ],
+  "dateOfCreation": [
+    "2016-07-21"
+  ],
+  "firstIndexDate": [
+    "2016-07-22"
+  ],
+  "fullTextReceivedDate": [
+    "2016-07-22"
+  ],
+  "dateOfRevision": [
+    "2016-07-24"
+  ],
+  "electronicPublicationDate": [
+    "2015-10-21"
+  ],
+  "firstPublicationDate": [
+    "2015-10-21"
+  ]
+}

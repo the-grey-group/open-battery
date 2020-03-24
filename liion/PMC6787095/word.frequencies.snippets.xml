@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6787095/results/word/frequencies/results.xml">
+  <result title="frequency" word="porosity" count="104"/>
+  <result title="frequency" word="sulfur" count="78"/>
+  <result title="frequency" word="capacity" count="47"/>
+  <result title="frequency" word="electrolyte" count="46"/>
+  <result title="frequency" word="batteries" count="38"/>
+  <result title="frequency" word="electrode" count="37"/>
+  <result title="frequency" word="Fig." count="35"/>
+  <result title="frequency" word="cell" count="35"/>
+  <result title="frequency" word="energy" count="32"/>
+  <result title="frequency" word="battery" count="30"/>
+  <result title="frequency" word="carbon" count="30"/>
+  <result title="frequency" word="density" count="29"/>
+  <result title="frequency" word="plateau" count="28"/>
+  <result title="frequency" word="surface" count="28"/>
+  <result title="frequency" word="discharge" count="27"/>
+  <result title="frequency" word="cathode" count="26"/>
+  <result title="frequency" word="performance" count="25"/>
+  <result title="frequency" word="total" count="25"/>
+  <result title="frequency" word="loading" count="23"/>
+  <result title="frequency" word="volume" count="23"/>
+  <result title="frequency" word="lithium" count="22"/>
+  <result title="frequency" word="lithium-sulfur" count="22"/>
+  <result title="frequency" word="Li–S" count="21"/>
+  <result title="frequency" word="cells" count="21"/>
+  <result title="frequency" word="second" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,321 @@
+{
+  "id": [
+    "30687697"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30687697"
+  ],
+  "pmcid": [
+    "PMC6335950"
+  ],
+  "doi": [
+    "10.3389/fchem.2018.00654"
+  ],
+  "title": [
+    "Morphology Controllable Synthesis of NiO/NiFe2O4 Hetero-Structures for Ultrafast Lithium-Ion Battery."
+  ],
+  "authorString": [
+    "Wang Y, Wu S, Wang C, Wang Y, Han X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Chemistry & Materials Science, Jiangsu Key Laboratory of Green Synthetic Chemistry for Functional Materials, Jiangsu Normal University, Xuzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu S"
+          ],
+          "firstName": [
+            "Shengxiang"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School of Chemistry & Materials Science, Jiangsu Key Laboratory of Green Synthetic Chemistry for Functional Materials, Jiangsu Normal University, Xuzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "School of Chemistry & Materials Science, Jiangsu Key Laboratory of Green Synthetic Chemistry for Functional Materials, Jiangsu Normal University, Xuzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yijing"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Key Laboratory of Advanced Energy Materials Chemistry (MOE), College of Chemistry, Nankai University, Tianjin, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Han X"
+          ],
+          "firstName": [
+            "Xiaopeng"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Advanced Energy Materials Chemistry (MOE), College of Chemistry, Nankai University, Tianjin, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2651544"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Front Chem"
+          ],
+          "medlineAbbreviation": [
+            "Front Chem"
+          ],
+          "NLMid": [
+            "101627988"
+          ],
+          "ISSN": [
+            "2296-2646"
+          ],
+          "ESSN": [
+            "2296-2646"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "654"
+  ],
+  "abstractText": [
+    "Rational design of high performance anode material with outstanding rate capability and cycling stability is of great importance for lithium ion batteries (LIBs). Herein, a series of NiO/NiFe2O4 hetero-structures with adjustable porosity, particle size, and shell/internal structure have been synthesized via a controllable annealing process. The optimized NiO/NiFe2O4 (S-NFO) is hierarchical hollow nanocube that is composed of ~5 nm subunits and high porosity. When being applied as anode for LIBs, the S-NFO exhibits high rate capability and excellent cycle stability, which remains high capacity of 1,052 mAh g-1 after 300 cycles at 5.0 A g-1 and even 344 mAh g-1 after 2,000 cycles at 20 A g-1. Such impressive electrochemical performance of S-NFO is mainly due to three reasons. One is high porosity of its hierarchical hollow shell, which not only promotes the penetration of electrolyte, but also accommodates the volume change during cycling. Another is the small particle size of its subunits, which can effectively shorten the electron/ion diffusion distance and provide more active sites for Li+ storage. Besides, the hetero-interfaces between NiO and NiFe2O4 also contribute toitsfast charge transport."
+  ],
+  "affiliation": [
+    "School of Chemistry & Materials Science, Jiangsu Key Laboratory of Green Synthetic Chemistry for Functional Materials, Jiangsu Normal University, Xuzhou, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electrochemical performance",
+        "Lithium ion battery",
+        "Morphology Control",
+        "Hetero-structure",
+        "Nio/nife2o4"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fchem.2018.00654"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6335950"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6335950?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-29"
+  ],
+  "firstIndexDate": [
+    "2019-01-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-30"
+  ],
+  "dateOfRevision": [
+    "2019-01-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-10"
+  ],
+  "firstPublicationDate": [
+    "2018-01-01"
+  ]
+}

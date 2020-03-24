@@ -1,0 +1,319 @@
+{
+  "id": [
+    "28459088"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28459088"
+  ],
+  "pmcid": [
+    "PMC5396853"
+  ],
+  "doi": [
+    "10.1016/j.dib.2017.01.019"
+  ],
+  "title": [
+    "Experimental data of lithium-ion battery and ultracapacitor under DST and UDDS profiles at room temperature."
+  ],
+  "authorString": [
+    "Wang Y, Liu C, Pan R, Chen Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yujie"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Automation, University of Science and Technology of China, Hefei 230027, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu C"
+          ],
+          "firstName": [
+            "Chang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7292-6107",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Automation, University of Science and Technology of China, Hefei 230027, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Pan R"
+          ],
+          "firstName": [
+            "Rui"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Automation, University of Science and Technology of China, Hefei 230027, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Z"
+          ],
+          "firstName": [
+            "Zonghai"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Automation, University of Science and Technology of China, Hefei 230027, PR China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7292-6107",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5722-2673",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2542458"
+      ],
+      "dateOfPublication": [
+        "2017 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Data in Brief"
+          ],
+          "ISOAbbreviation": [
+            "Data Brief"
+          ],
+          "medlineAbbreviation": [
+            "Data Brief"
+          ],
+          "NLMid": [
+            "101654995"
+          ],
+          "ISSN": [
+            "2352-3409"
+          ],
+          "ESSN": [
+            "2352-3409"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "161-163"
+  ],
+  "abstractText": [
+    "This article provides the dataset of both the LiFePO4 type lithium-ion battery (LIB) behavior and the Maxwell ultracapacitor behavior. The dynamic stress test (DST) condition and the urban dynamometer driving schedule (UDDS) condition were carried out to analyze the battery/ultracapacitor features. The datasets were achieved at room temperature, in August, 2016. The shared data contributes to clarify the behavior of the LIBs and ultracapacitors and can be used to predict the state-of-charge (SOC) of the LIBs and ultracapacitors, which is also shown in the article of \"Modeling and state-of-charge prediction of lithium-ion battery and ultracapacitor hybrids with a co-estimator\" (United States Advanced Battery Consortium, 1996) [1]."
+  ],
+  "affiliation": [
+    "Department of Automation, University of Science and Technology of China, Hefei 230027, PR China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.dib.2017.01.019"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5396853"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5396853?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-05-01"
+  ],
+  "firstIndexDate": [
+    "2017-05-01"
+  ],
+  "fullTextReceivedDate": [
+    "2017-05-06"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-02-06"
+  ],
+  "firstPublicationDate": [
+    "2017-02-06"
+  ]
+}

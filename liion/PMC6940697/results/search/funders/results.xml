@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="This work was supported by the Super Cluster Program of" exact="Japan Science and Technology Agency" post="(JST). Competing interest statement The authors declare no conflict"/>
+ <result pre="thin films Jpn. J. Appl. Phys. 53 2014 05FJ03–1–7 31" exact="Texas Instruments" post="Datasheet of BQ24650 – Synchronous Switching-Mode Battery Charge Controller"/>
+ <result pre="with Maximum Power point Tracking 2016 Available online http://www.ti.com/lit/ds/symlink/bq24650.pdf 32" exact="STMicroelectronics" post="Datasheet of STPSC10TH13TI – Dual 650 V Power Schottky"/>
+</results>

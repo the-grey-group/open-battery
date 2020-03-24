@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC7075132/results/word/frequencies/results.xml">
+  <result title="frequency" word="SnO" count="88"/>
+  <result title="frequency" word="B-SFO@C" count="79"/>
+  <result title="frequency" word="carbon" count="73"/>
+  <result title="frequency" word="Figure" count="62"/>
+  <result title="frequency" word="metal" count="46"/>
+  <result title="frequency" word="electrode" count="44"/>
+  <result title="frequency" word="lithium" count="43"/>
+  <result title="frequency" word="capacity" count="38"/>
+  <result title="frequency" word="high" count="32"/>
+  <result title="frequency" word="anode" count="28"/>
+  <result title="frequency" word="materials" count="27"/>
+  <result title="frequency" word="Wang" count="26"/>
+  <result title="frequency" word="ion" count="25"/>
+  <result title="frequency" word="storage" count="25"/>
+  <result title="frequency" word="batteries" count="23"/>
+  <result title="frequency" word="Zhang" count="22"/>
+  <result title="frequency" word="electrochemical" count="22"/>
+  <result title="frequency" word="stress" count="21"/>
+ </snippets>
+</snippetsTree>

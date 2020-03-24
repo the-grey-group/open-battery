@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6949258/results/search/funders/results.xml">
+  <result pre="Institute of New-Energy Materials, School of Materials Science and Engineering," exact="Tianjin University," post="[4], 0000 0004 1937 2197 grid.169077.e School of Mechanical"/>
+  <result pre="[4], 0000 0004 1937 2197 grid.169077.e School of Mechanical Engineering," exact="Purdue University," post="[5], 0000 0000 9040 3743 grid.28703.3e Beijing Key Laboratory"/>
+  <result pre="grid.28703.3e Beijing Key Laboratory of Microstructure and Properties of Solids," exact="Beijing University of Technology," post="[6], 0000 0001 1939 4845 grid.187073.a Advanced Photon Source,"/>
+  <result pre="Technology, [6], 0000 0001 1939 4845 grid.187073.a Advanced Photon Source," exact="Argonne National Laboratory," post="[7], 0000 0001 2188 4229 grid.202665.5 National Synchrotron Light"/>
+  <result pre="0000 0001 2188 4229 grid.202665.5 National Synchrotron Light Source II," exact="Brookhaven National Laboratory," post="epub: 2020-1-1 pmc-release: 2020-1-1 collection: 2020 11 83 received:"/>
+  <result pre="terms Chemistry Energy science and technology Materials science Funding https://doi.org/10.13039/100000001" exact="National Science Foundation" post="(NSF) DMR 1832613 DMR 1832613 Xu Zhengrui Lin Feng"/>
+  <result pre="Critical Technology and Applied Science at Virginia Tech Funding https://doi.org/10.13039/100000015" exact="U.S. Department of Energy" post="(DOE) DE-AC02-76SF00515 DE-AC02-06CH11357 DE-SC0012704 DE-AC02-76SF00515 Jiang Zhisen Sun Cheng-Jun"/>
+  <result pre="of Energy’s (DOE) CAMP (Cell Analysis, Modeling and Prototyping) Facility," exact="Argonne National Laboratory." post="Electrochemical performance Composite electrode were prepared using 90% active"/>
+  <result pre="the beamline 20-BM-B of the advanced photon source (APS) at" exact="Argonne National Laboratory." post="The incident beam was monochromatized by using a Si"/>
+  <result pre="was performed at the beamline 20-BM-B of the APS at" exact="Argonne National Laboratory." post="The thin film electrode sample was moved in one"/>
+  <result pre="paper at 10.1038/s41467-019-13884-x. Acknowledgements The work was supported by the" exact="National Science Foundation" post="under contract DMR 1832613 and the Institute for Critical"/>
+  <result pre="Radiation Lightsource, SLAC National Accelerator Laboratory, is supported by the" exact="U.S. Department of Energy," post="Office of Science, Office of Basic Energy Sciences under"/>
+  <result pre="Accelerator Laboratory, is supported by the U.S. Department of Energy," exact="Office of Science," post="Office of Basic Energy Sciences under Contract No. DE-AC02-76SF00515."/>
+  <result pre="the U.S. Department of Energy, Office of Science, Office of" exact="Basic Energy Sciences" post="under Contract No. DE-AC02-76SF00515. The engineering support from D."/>
+  <result pre="This research used resources of the Advanced Photon Source, a" exact="U.S. Department of Energy" post="(DOE) Office of Science User Facility operated for the"/>
+  <result pre="the Advanced Photon Source, a U.S. Department of Energy (DOE)" exact="Office of Science" post="User Facility operated for the DOE Office of Science"/>
+  <result pre="(DOE) Office of Science User Facility operated for the DOE" exact="Office of Science" post="by Argonne National Laboratory under Contract No. DE-AC02-06CH11357. Some"/>
+  <result pre="User Facility operated for the DOE Office of Science by" exact="Argonne National Laboratory" post="under Contract No. DE-AC02-06CH11357. Some of the NMC materials"/>
+  <result pre="of Energy’s (DOE) CAMP (Cell Analysis, Modeling and Prototyping) Facility," exact="Argonne National Laboratory." post="The CAMP Facility is fully supported by the DOE"/>
+  <result pre="Laboratory. The CAMP Facility is fully supported by the DOE" exact="Vehicle Technologies Program" post="(VTP) within the core funding of the Applied Battery"/>
+  <result pre="used 18-ID of the National Synchrotron Light Source II, a" exact="U.S. Department of Energy" post="(DOE) Office of Science User Facility operated for the"/>
+  <result pre="Synchrotron Light Source II, a U.S. Department of Energy (DOE)" exact="Office of Science" post="User Facility operated for the DOE Office of Science"/>
+  <result pre="(DOE) Office of Science User Facility operated for the DOE" exact="Office of Science" post="by Brookhaven National Laboratory under Contract No. DE-SC0012704. The"/>
+  <result pre="User Facility operated for the DOE Office of Science by" exact="Brookhaven National Laboratory" post="under Contract No. DE-SC0012704. The work done at Purdue"/>
+  <result pre="National Laboratory under Contract No. DE-SC0012704. The work done at" exact="Purdue University" post="was supported by National Science Foundation under contract DMR"/>
+  <result pre="DE-SC0012704. The work done at Purdue University was supported by" exact="National Science Foundation" post="under contract DMR 1832707. The authors acknowledge the support"/>
+ </snippets>
+</snippetsTree>

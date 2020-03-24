@@ -1,0 +1,544 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6844093</article-id><article-id pub-id-type="doi">10.1021/acsomega.9b02089</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Enhanced Stability Lithium-Ion Battery Based on Optimized
+Graphene/Si Nanocomposites by Templated Assembly</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Liu</surname><given-names>Long</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><name><surname>Li</surname><given-names>Xinxi</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes2" ref-type="notes">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Zhang</surname><given-names>Guoqing</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Zhang</surname><given-names>Zengyao</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Fang</surname><given-names>Chenhui</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Ma</surname><given-names>Hong</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><name><surname>Luo</surname><given-names>Wen</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes2" ref-type="notes">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Liu</surname><given-names>Zhongyun</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><label>&#x02020;</label>School
+of Materials and Energy, <institution>Guangdong University
+of Technology</institution>, Guangzhou 51006, <country>PR China</country></aff><aff id="aff2"><label>&#x02021;</label>School
+of Chemical and Biomolecular Engineering, <institution>Georgia Institute of Technology</institution>, 311 Ferst Dr. NW, Atlanta, Georgia 30332, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>pkdlxx@gdut.edu.cn</email> (X.L.).</corresp><corresp id="cor2"><label>*</label>E-mail: <email>wenluo@gdut.edu.cn</email> (W.L.).</corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>10</month><year>2019</year></pub-date><pub-date pub-type="collection"><day>05</day><month>11</month><year>2019</year></pub-date><volume>4</volume><issue>19</issue><fpage>18195</fpage><lpage>18202</lpage><history><date date-type="received"><day>07</day><month>07</month><year>2019</year></date><date date-type="accepted"><day>26</day><month>08</month><year>2019</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2019 American Chemical
+Society</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02089_0011" id="ab-tgr1"/></p><p>Considering the sharp increase in
+energy demand, Si-based composites
+have shown promise as high-performance anodes for lithium-ion batteries
+during the last few years. However, a significant volume change of
+Si during repetitive cycles may cause technical and security problems
+that limit the particular application. Here, an optimized reduced
+graphene oxide/silicon (RGO/Si) composite with excellent stability
+has been fabricated via a facile templated self-assembly strategy.
+The active silicon nanoparticles were uniformly supported by graphene
+that can further form a three-dimensional network to buffer the volume
+change of Si and produce a stable solid-electrolyte interphase film
+due to the increased specific surface area and enhanced intermolecular
+interaction, resulting in an increase of electrical conductivity and
+structural stability. As the anode electrode material of lithium-ion
+batteries, the optimized 10RGO/Si-600 composite showed a reversible
+high capacity of 2317 mA h/g with an initial efficiency of 93.2% and
+a quite high capacity retention of 85% after 100 cycles at 0.1 A/g
+rate. Especially, it still displayed a specific capacity of 728 mA
+h/g after 100 cycles at a reasonably high current density of 2 A/g.
+This study has proposed the optimized method for developing advanced
+graphene/Si nanocomposites for enhanced cycling stability lithium-ion
+batteries.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao9b02089</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao9b02089</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>The
+rapid development of lithium-ion batteries (LIB) is driven
+by a growing energy storage demand of new energy vehicles and portable
+electronic equipment.<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref4">4</xref></sup> To meet the requirements of high-power density and long lifespan
+for large-scale LIB application, the improvement of energy density
+and long-term stability for electrode materials is distinctly important.
+In recent years, silicon has attracted much attention as the most
+promising substitute to the traditional graphite anode materials owing
+to the high theoretical capacity of about 4200 mA h/g and low operating
+potential.<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref></sup> However, the large volume expansion and
+pulverization of silicon during the charge and discharge processes
+lead to fast capacity fade and damage to the electrode that limit
+particular LIB applications.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup></p><p>To
+address the main drawback, scientists have put much effort focus
+on mitigating capacity fading in Si-based anodes, such as adding novel
+binders,<sup><xref ref-type="bibr" rid="ref8">8</xref>&#x02212;<xref ref-type="bibr" rid="ref11">11</xref></sup> mixing additives,<sup><xref ref-type="bibr" rid="ref12">12</xref>&#x02212;<xref ref-type="bibr" rid="ref14">14</xref></sup> coating high-conductivity materials,<sup><xref ref-type="bibr" rid="ref15">15</xref>&#x02212;<xref ref-type="bibr" rid="ref19">19</xref></sup> and designing special silicon nanostructures.<sup><xref ref-type="bibr" rid="ref19">19</xref>&#x02212;<xref ref-type="bibr" rid="ref22">22</xref></sup> Besides the above-modified methods,
+the silicon/nanocarbon composite with diverse structures have been
+considered as the most potent strategy to improve the performance
+of silicon material.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup></p><p>Recently, graphene has
+been utilized to modify silicon-based anode
+materials for improving the comprehensive electrochemical performance,
+preventing the aggregation of Si particles exposed to the electrolyte,
+providing skeleton-support for buffering the mechanical stress, and
+enhancing the lithium-ion transportation capability.<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> Chou et al.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> first prepared Si/graphene
+composite via a simple manual mixing method in 2010. The results displayed
+that the anode materials maintained a capacity of 1168 mA h/g and
+an average Coulombic efficiency of 93% after 30 cycles at 0.1 A/g.
+Chang et al.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> successfully prepared a
+silicon/reduced oxide graphene (RGO) nanocomposite with a three-dimensional
+multilayer structure, exhibiting an excellent reversible capacity
+up to 2300 mA h/g at 0.05 C (120 mA/g) and 87% capacity retention
+(up to 630 mA h/g) at 10 C after 152 cycles. Park et al.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> presented that Si nanoparticles could be entrapped
+RGO nanosheets by simple self-assembly without any chemical/physical
+linkers. The test results displayed the improved cyclability (1481
+mA h/g after 50 cycles) and favorable high-rate capability. Son et
+al.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> presented multilayer graphene directly
+grown on the Si nanoparticles surface by the chemical vapor deposition
+method. The results revealed a significant improvement of the performance.
+Zhou et al.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> fabricated Si/graphene composite
+film decorated by bovine serum albumin via electrostatic self-assembly,
+vacuum filtration, and annealing but the electrochemical performance
+of this electrode is not good enough. Zhang et al.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> proposed 3D porous Si/RGO anode materials with tunable
+pore size via controllable evaporation. The results revealed that
+Si/RGO anode after evaporation drying for 3.5 h exhibits a high reversible
+specific capacity of 1563 mA h/g at 50 mA/g, 90% capacity retention
+after 100 cycles, and superior rate capability (955 mA h/g at 2 A/g).
+However, although a large amount of research is focused on the silicon/graphene
+anode materials, few works focus on exploring an efficient and feasible
+method for preparing large-scale and stable-structured silicon/graphene
+anode materials, simultaneously keeping the high reversible capacity
+and long-term stability at a high rate current.</p><p>Here, we report
+an optimized RGO/Si composite via a scalable and
+effective method shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>. Si nanoparticles with controllable size are uniformly
+supported by the graphene nanosheets to form a 3D network. The increased
+specific surface area and enhanced intermolecular interactions at
+solid-state result in a remarkable increase in specific capacity and
+cycle stability. This kind of anode material opens a way to the high-stability
+LIBs.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Schematic illustration of the synthetic strategy of the optimized
+RGO/Si composite.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02089_0001" id="gr1" position="float"/></fig></sec><sec id="sec2"><label>2</label><title>Results
+and Discussion</title><sec id="sec2.1"><label>2.1</label><title>Structural Characterization</title><p>The XRD
+patterns of P&#x02013;Si and RGO/Si composites at different conditions
+are shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>. The sharp peaks of P&#x02013;Si and RGO/Si samples at 28.5&#x000b0;,
+38&#x000b0;, 57&#x000b0;, 69.5&#x000b0;, and 76.6&#x000b0; are assigned to (111),
+(220), (311), (400), and (331) planes of crystalline Si (PDF#05-0565).<sup><xref ref-type="bibr" rid="ref33">33</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> In addition, RGO exhibited characteristic peaks at 27&#x000b0; which
+belong to the (002) plane.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> Obviously,
+it can be found that the peaks at (002) were enhanced due to the increased
+content of graphene in the RGO/Si composites compared to the P&#x02013;Si.
+It also can be seen that the crystal structure of Si nanoparticles
+was not destroyed during the self-assembly and hydrothermal process.
+Moreover, compared to 10RGO/Si, the peaks of silicon in the 10RGO/Si-600
+have obviously increased, whereas the carbon peak has no change, indicating
+that the annealing process further promoted growth of the silicon
+grains and enhanced the intermolecular interaction between graphene
+and Si nanoparticles.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>XRD patterns of P&#x02013;Si and different RGO/Si composites.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02089_0003" id="gr2" position="float"/></fig><p>The XPS test was carried out to analyze the surface
+chemical state
+of the composites and the role of calcination. In the survey spectra
+of 10RGO/Si and 10RGO/Si-600 (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a), the elements, O, C, and Si arise from graphene
+nanosheets and Si nanoparticles, which is different with the P&#x02013;Si
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b02089/suppl_file/ao9b02089_si_001.pdf">Figure S1</ext-link>). To further illustrate the
+role of calcination, we applied the XPS region spectra of C 1s and
+Si 2p for 10RGO/Si and 10RGO/Si-600. From the C 1s region of the 10RGO/Si-600,
+there are four peaks (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b) of 284.4, 285.0, 286.0, and 289.4 eV, which can be assigned
+to C&#x02013;Si, C&#x02013;C, C&#x02013;O, and C=O bands, respectively.
+Moreover, from the Si 2p region of the 10RGO/Si-600 (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c), three evident peaks at
+99.8, 101. 2, and 103.9 eV could be attributed to the Si&#x02013;Si,
+Si&#x02013;C, and Si&#x02013;O bands. Compared with the C 1s and Si
+2p region of 10RGO/Si, the additional C&#x02013;Si and Si&#x02013;C
+band revealed the formation of chemical bond linkage in RGO/Si nanocomposite.<sup><xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref37">37</xref></sup> This kind of optimized nanocomposite after calcination is beneficial
+to improve the electrochemical performance because of the increased
+specific surface area and enhanced intermolecular interaction.<sup><xref ref-type="bibr" rid="ref38">38</xref>,<xref ref-type="bibr" rid="ref39">39</xref></sup> To demonstrate the changes of the specific surface area, the Brunauer&#x02013;Emmett&#x02013;Teller
+(BET) test was applied (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b02089/suppl_file/ao9b02089_si_001.pdf">Figure S2</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b02089/suppl_file/ao9b02089_si_001.pdf">Table S1</ext-link>). It can be found that the specific
+surface area of the 10RGO/Si (482 m<sup>2</sup>/g) composite is an
+order of magnitude higher than the P&#x02013;Si (30 m<sup>2</sup>/g).
+Furthermore, the specific surface area of 10RGO/Si-600 (539 m<sup>2</sup>/g) is further increased after the calcination process, indicating
+the optimization of the composite structure, which is a critical point
+for the enhanced cycling stability.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>XPS spectra of 10RGO/Si and 10RGO/Si-600:
+(a) survey scan, (b)
+region spectra of C 1s, and (c) region spectra of Si 2p.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02089_0004" id="gr3" position="float"/></fig><p>The morphology of the GO, P&#x02013;Si, and RGO/Si composites
+were
+characterized by scanning electron microscopy (SEM). As shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c, 10RGO/Si showed
+the typical composite structure, indicating that the pure silicon
+nanoparticles were attached on the surface of graphene to further
+interconnect into the 3D conductive skeleton network. It can be clearly
+observed that the 10RGO/Si showed the better 3D network with the uniformly
+distributed Si nanoparticles than 5RGO/Si and 15RGO/Si (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b02089/suppl_file/ao9b02089_si_001.pdf">Figure S3a,b</ext-link>). After high-temperature calcination
+at 600, the 10RGO/Si-600 composite presented a more dense structure,
+which is beneficial to optimize the transport path for both electrons
+and electrolyte ions and keep good electrical contact during Si alloying
+and dealloying process, resulting in an increase of storage capacity
+and cycling stability.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup></p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>SEM images of (a) graphene
+oxide; (b) P&#x02013;Si; (c) 10RGO/Si,
+and (d) 10RGO/Si-600.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02089_0005" id="gr4" position="float"/></fig><p>Transmission electron
+microscopy (TEM) was further used to analyze
+the microstructures of P&#x02013;Si and 10RGO/Si-600. As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a, P&#x02013;Si exhibit
+an average size of about 60 nm with a certain degree of aggregation.
+From the TEM image of 10RGO/Si-600 (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b) at the same ruler, Si nanoparticles were
+supported on the surface of graphene. Furthermore, the high-resolution
+TEM images (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c,d) showed that the optimized 10RGO/Si-600 composite can form a
+3D network structure, which is consistent with the above SEM images.
+Also, it can be found that the lattice spacing is about 0.32 nm of
+Si(111) and the microstructure of graphene with high-resolution (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b02089/suppl_file/ao9b02089_si_001.pdf">Figure S4</ext-link>), which is very important for the improved
+electrochemical performance due to the large specific surface area
+based on the BET data. The existence of graphene can accommodate the
+volume change and enhance the conductivity of lithium ions and electrons.
+In addition, after high-temperature calcination, the 10RGO/Si-600
+composite showed a better crystal structure and a more stable network
+that can further enhance the composite conductivity and decrease the
+resistance of Li<sup>+</sup> transfer. Moreover, the energy dispersive
+spectrometry (EDS) analysis was utilized to confirm the content (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b02089/suppl_file/ao9b02089_si_001.pdf">Figure S5</ext-link>) and the distribution of each element
+in 10RGO/Si-600 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b02089/suppl_file/ao9b02089_si_001.pdf">Table S2</ext-link>), which is very
+much in agreement with the aforementioned analysis.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>TEM images of (a) pure
+Si and (b&#x02013;d) 10RGO/Si-600 composite
+at different resolutions.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02089_0006" id="gr5" position="float"/></fig></sec><sec id="sec2.2"><label>2.2</label><title>Evaluation of Electrochemical Performance</title><p>The galvanostatic discharge and charge profiles of the RGO/Si electrodes
+were investigated in the voltage window of 0.01&#x02013;1.5 V at 0.1
+A/g (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a). Usually,
+the cycling stability of a Si-based electrode is investigated after
+the prestabilization process by cycling at a relatively low current
+density in the range of 0.1&#x02013;0.4 A/g. It should be mentioned
+that the cycling stability of the RGO/Si electrode was directly investigated
+at 0.1 A/g without the preslow cycling process. The corresponding
+initial charge capacities, discharge capacities, and the coulomb efficiencies
+are displayed in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a and summarized in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b02089/suppl_file/ao9b02089_si_001.pdf">Table S3</ext-link>. As we know,
+the capacity loss in the first cycle can be attributed to the formation
+of the solid-electrolyte interphase (SEI) and amorphous LixSi.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> As shown in <xref rid="fig6" ref-type="fig">Figures <xref rid="fig6" ref-type="fig">6</xref></xref>b and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b02089/suppl_file/ao9b02089_si_001.pdf">S6</ext-link>, the
+10RGO/Si-600 and 10RGO/Si electrodes both exhibited excellent cycling
+stability at the first three cycles and high initial Coulombic efficiency,
+which is significantly much higher than those of other composites
+and comparable to the recently reported Si-based electrodes.<sup><xref ref-type="bibr" rid="ref27">27</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> This is because the formed 3D network played an important role in
+cycling stability and Coulombic efficiency.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup></p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>(a)
+First charge&#x02013;discharge capacity of different materials
+and (b) first three charge&#x02013;discharge curves of 10RGO/Si-600
+at 0.1 A/g.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02089_0007" id="gr6" position="float"/></fig><p>The cycling performance was also
+studied by the galvanostatic discharge&#x02013;charge
+measurement within 100 circles under 0.1 and 2 A/g. From <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a, although P&#x02013;Si
+has the highest discharge capacity of 2746 mA h/g under 0.1 A/g, the
+specific capacity of P&#x02013;Si rapidly decays to 500 mA h/g after
+30 cycles due to the huge volume change and the low electronic conductivity
+during lithiation/delithiation. We can find that all RGO/Si composites
+showed a better cycle performance than P&#x02013;Si. Among these, 10RGO/Si-600
+showed the high initial discharge capacity of 2317 mA h/g and high
+capacity retention of 85% after 100 cycles, indicating a quite high
+specific capacity of 1969 mA h/g attributed to the stable 3D network.
+Also, from <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b, 10RGO/Si-600 exhibited a better cycling stability than 10RGO/Si
+after 100 cycles at 2A/g. Meanwhile, 10RGO/Si-600 showed a higher
+specific capacity of 728 mA h/g than 10RGO/Si of only 285 mA h/g.
+Based on the summary and comparison of the recent GO/Si anode (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b02089/suppl_file/ao9b02089_si_001.pdf">Table S5</ext-link>), the 10RGO/Si-600 composite showed
+a much higher specific capacity after 100 cycles at 0.1 A/g and is
+comparable to the best anode materials after 100 cycles at 2 A/g.
+It is because the optimized 3D network leads to an increase in the
+specific surface area and intermolecular interaction, which is very
+important for electrochemical performance.<sup><xref ref-type="bibr" rid="ref43">43</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup> This kind of optimized graphene/Si nanocomposite holds great promise
+for the future LIB application.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>Cycle performance of (a) P&#x02013;Si and
+RGO/Si composites under
+0.1 A/g and (b) 10RGO/Si and 10RGO/Si-600 under 2 A/g current.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02089_0008" id="gr7" position="float"/></fig><p>Furthermore, the 10RGO/Si-600 electrode also shows
+an excellent
+rate capability (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b02089/suppl_file/ao9b02089_si_001.pdf">Figure S7</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b02089/suppl_file/ao9b02089_si_001.pdf">Table S4</ext-link>), as estimated by varying the applied
+current densities of 0.1, 0.3, 0.5, and 1 A/g, respectively. When
+the current density is increased from 0.1 to 1 A/g, 70% of the initial
+reversible capacity (&#x0223c;1730 mA h/g) is maintained. Even though
+the 10RGO/Si-600 electrode reversible capacity is recovered to about
+2156 mA h/g and the capacity retention ratio is about 88%, when the
+current density is back to 0.1 A/g after 25 cycles.</p><p><xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref> shows the
+first three cyclic voltammetry (CV) curves of P&#x02013;Si, 10RGO/Si,
+and 10RGO/Si-600 electrodes at a scanning rate of 0.1 mV/s with a
+voltage range of 0.01&#x02013;1.5 V (vs Li/Li<sup>+</sup>). As shown
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b02089/suppl_file/ao9b02089_si_001.pdf">Figure S8</ext-link>, the typical lithiation/delithiation
+peaks of Si nanoparticles were exhibited in their CV curves. During
+the first discharge (lithiation), two cathodic peaks can be observed.
+One peak is around 0.8 V due to the formation of an SEI layer, which
+disappears in the following cycles, indicating that the SEI layer
+is stable. Another peak below 0.15 V is assigned to the preliminary
+conversion of crystalline Si transfer to an amorphous phase (Li<sub><italic>x</italic></sub>Si) and the ultimate formation of the crystalline
+phase (Li<sub>15</sub>Si<sub>4</sub>). For the first charge process
+(delithiation), two anodic peaks at 0.37 and 0.54 V are corresponding
+to the transformation from Li<sub>15</sub>Si<sub>4</sub> alloy to
+amorphous Si. With the subsequent cycling, the cathodic peak moves
+to about 0.1 V, indicating that only the amorphous phase (Li<sub><italic>x</italic></sub>Si) is formed, and two anodic peaks (0.37 and 0.54
+V) represent the extraction of Li<sup>+</sup> from Li<sub><italic>x</italic></sub>Si to amorphous Si.<sup><xref ref-type="bibr" rid="ref45">45</xref>&#x02212;<xref ref-type="bibr" rid="ref47">47</xref></sup> Both the 10RGO/Si and
+10RGO/Si-600 electrodes exhibit similar CV behavior. For the 10RGO/Si-600
+composite, the second CV curve of the 10RGO/Si-600 electrode almost
+coincides with the third curve, and the decrease of the peak current
+below 0.1 mA in the cathodic curves is much less than that for the10RGO/Si
+electrode, indicating that the stability and good reversibility of
+the charging/discharging of the 10RGO/Si-600 (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a) electrode is better than that for the
+10RGO/Si (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>b)
+electrode.</p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>CV curves of (a) 10RGO/Si and (b) 10RGO/Si-600 at the first three
+cycles with the enlarged view in the inset.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02089_0009" id="gr8" position="float"/></fig><p>The electrochemical impedance spectroscopy (EIS) experiments of
+P&#x02013;Si, 10RGO/Si, and 10RGO/Si-600 were carried out to further
+discuss the electrical conductivity performance (<xref rid="fig9" ref-type="fig">Figure <xref rid="fig9" ref-type="fig">9</xref></xref>a). All Nyquist plots show
+similar shape with a semicircle in the high-frequency region and a
+straight line in the low-frequency region. The semicircle in the high-frequency
+region is assigned to the transportation barrier effect as a result
+of the confronted SEI and shows the presence of graphene, and a straight-line
+in the range from the medium to low frequency is a result of the diffusive
+behavior of Li<sup>+</sup> ions. These resistances included the resistance
+of ion transportation within the electrolyte solution (<italic>R</italic><sub>e</sub>) and the charge-transfer resistance (<italic>R</italic><sub>ct</sub>).<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> As we all know, the
+charge-transfer resistance of 10RGO/Si-600 electrode is 53.1 &#x003a9;,
+which I slower than the 124.2 &#x003a9; of the 10RGO/Si and 196 &#x003a9;
+of the P&#x02013;Si, indicating the higher electrochemical activity
+of 10RGO/Si-600 than that of other composites after 100 cycles (<xref rid="fig9" ref-type="fig">Figure <xref rid="fig9" ref-type="fig">9</xref></xref>b), which is consistent
+with the result of the cycling test.</p><fig id="fig9" position="float"><label>Figure 9</label><caption><p>EIS of P&#x02013;Si, 10RGO/Si, and 10RGO/Si-600
+electrodes (a) before
+and (b) after 100 cycles.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02089_0010" id="gr9" position="float"/></fig><p>The microstructures of P&#x02013;Si, 10RGO/Si, and 10RGO/Si-600
+electrodes were characterized by SEM after 100 cycles (<xref rid="fig10" ref-type="fig">Figure <xref rid="fig10" ref-type="fig">10</xref></xref>). Obviously, the microstructure
+of P&#x02013;Si has been severely damaged and pulverized, whereas the
+10RGO/Si and 10RGO/Si-600 electrodes showed better surface structure
+after 100 cycles. Especially, the microstructure of 10RGO/Si-600 was
+more integrated than 10RGO/Si due to the enhanced intermolecular interaction
+between graphene and Si nanoparticles after the calcination process,
+resulting in an increase of cycling stability.</p><fig id="fig10" position="float"><label>Figure 10</label><caption><p>SEM images of the (a)
+10RGO/Si and (b) 10RGO/Si-600 electrodes
+after 100 charge/discharge cycles at 0.1 A/g.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02089_0002" id="gr10" position="float"/></fig></sec></sec><sec id="sec3"><label>3</label><title>Conclusions</title><p>The optimized RGO/Si composite
+has been successfully prepared by
+an effective method for high-performance LIB application. TEM and
+EDS measurements showed that the silicon nanoparticles were uniformly
+distributed on the surface of RGO, which can form a 3D network resulting
+in an increase of the electronic conductivity and structural stability
+for the anode material. The 10RGO/Si-600 composite shows excellent
+initial special capacity of 2317 mA h/g with initial Coulombic efficiency
+of about 93.2% at a current density of 0.1 A/g. The special capacity
+remains at 728 mA h/g after 100 cycles at 2 A/g, indicating a high
+rate cycle stability. The remarkable electrochemical performance can
+be attributed to the stable 3D structure, which can effectively improve
+the electroperformance and buffer the volume expansion during the
+cycling process. This work opens up a new method for making advanced
+graphene/Si nanocomposites for high stability LIBs.</p></sec><sec id="sec4"><label>4</label><title>Experimental Section</title><sec id="sec4.1"><label>4.1</label><title>Sample Preparation</title><p>All reagents,
+unless otherwise stated, were obtained from commercial sources (Sigma-Aldrich)
+and used without further purification. Graphene oxide was synthesized
+by the modified Hummers method.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> The preparation
+process of the optimized RGO/Si nanocomposite is as follows. First,
+the as-prepared graphene oxide (0.05, 0.1, 0.15 g) was dispersed in
+50 mL of absolute ethanol under high-power ultrasonic stirring technology
+for 1 h at room temperature. Then, the preprocessed silicon (0.95,
+0.90, 0.85 g) was slowly added into the above solution under magnetic
+stirring. After that, the self-assembled RGO/Si solution was acquired
+by mild stirring for 2 h and dialysis in absolute ethanol several
+times (12 h per time) at room temperature to remove the unassembled
+Si particles.<sup><xref ref-type="bibr" rid="ref50">50</xref>,<xref ref-type="bibr" rid="ref51">51</xref></sup> Then, the self-assembled solution
+was transferred to the reaction still for hydrothermal reduction for
+3 h at 80 &#x000b0;C by a certain amount of sodium borohydride to obtain
+RGO/Si. In the experiment, the different quality ratios of the RGO/Si
+samples were denoted as <italic>x</italic>RGO/Si (<italic>x</italic> = 5, 10, 15). In addition, the 10RGO/Si composite was calcined at
+600 &#x000b0;C for 4 h with argon atmosphere in a tube furnace to further
+optimize the nanostructure and enhance the interactions, which was
+marked as 10RGO/Si-600. Finally, the optimized RGO/Si composites as
+the working electrode were assembled into half coin cell. In contrast,
+the unmodified silicon was marked as P&#x02013;Si. The whole preparation
+process of the optimized RGO/Si composite can be defined as the templated
+assembly method, which can be applied for similar nanotemplated platform
+and Si composite.</p></sec><sec id="sec4.2"><label>4.2</label><title>Materials Characterization</title><p>X-ray
+diffraction (D/MAX-Ultima IV, Japan) was carried out with Cu K&#x003b1;
+radiation in the 2&#x003b8; range from 10&#x000b0; to 80&#x000b0;. The particle
+morphology and microstructure were characterized by field emission
+SEM (S-3400, Japan), TEM (FEI Tecnai G2 F20 s-twin 200 kV) with an
+energy dispersive spectroscopy (EDS) analyzer. The chemical oxidation
+valence states of the samples were performed through X-ray photoelectron
+spectroscopy (XPS, Thermo Scientific ESCALAB 250Xi). The BET (3H-2000PS1,
+Beishide Instrument) test was applied for the specific surface area.</p></sec><sec id="sec4.3"><label>4.3</label><title>Electrochemical Analysis</title><p>The prepared
+RGO/Si composite materials were mixed with carbon black and a binder
+(sodium carboxymethyl cellulose) with a mass ratio of 70:15:15 for
+several hours. Then, the slurry was coated on a copper foil at a mass
+loading of around 1.5 mg/cm<sup>2</sup>. The prepared electrodes were
+vacuum dried at 80 &#x000b0;C for 10 h. Finally, the electrodes were
+cut into disk shape; a CR2032 cell was assembled in an argon-filled
+glove box, taking lithium metal as the counter and reference electrodes
+and microporous polypropylene (Celgard 2400) as the separator. The
+electrolyte of half cells was 1 M LiPF<sub>6</sub> in a mixture of
+ethylene carbonate/dimethyl carbonate with a volume ratio of 1:1,
+and adding 5% fluoroethylene carbonate. Half coin-cells were assembled
+in an Ar-filled glove box with the moisture and oxygen level below
+0.1 ppm and then rested for 24 h. The galvanostatic charge&#x02013;discharge
+tests were measured on a battery testing system (Neware, BTS7.5, China)
+at room temperature (25 &#x000b0;C &#x000b1; 1 &#x000b0;C) under a voltage
+range of 0.01&#x02013;1.5 V versus Li/Li<sup>+</sup>. CV measurements
+were carried out on an electrochemical workstation (CHI670D, CH Instruments)
+at a scanning rate of 0.1 mV/s in a voltage range of 0.01&#x02013;1.5
+V. The EIS measurements were also conducted by electrochemical workstation
+CHI670D with an amplitude of 5 mV at the frequency range from 0.01
+Hz to 100 kHz.</p></sec></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acsomega.9b02089">10.1021/acsomega.9b02089</ext-link>.<list id="silist" list-type="simple"><list-item><p>XPS spectra of
+P-Si; adsorption/desorption of 10RGO/Si-600;
+SEM images of 5RGO/Si and 15RGO/Si; TEM image of graphene nanosheet;
+EDS of the 10RGO/Si-600 composite; first charge-discharge capacity
+of 10RGO/Si at 0.1 A/g; rate performance of P-Si and RGO/Si composites
+at various current densities; CV curves of P-Si electrode at the first
+three cycles; SEM images of the P-Si after 100 charge/discharge cycles;
+BET data; ; EDS analysis of each element; initial charge-discharge
+capacities and corresponding coulombic efficiency of the P-Si and
+RGO/Si; cycle performance of P-Si and RGO/Si at different current;
+electrochemical performance of 10RGO/Si-600 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.9b02089/suppl_file/ao9b02089_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02089_si_001.pdf"><caption><p>ao9b02089_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes2"><title>Author Contributions</title><p><sup>&#x000a7;</sup> X.L. and
+W.L. contributed equally to this work.</p></notes><notes notes-type="COI-statement" id="NOTES-d7e693-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This
+work was supported by the National Natural
+Science Foundation of China (grant no. 21875046, no. 51803036, and
+no. 51876044), Technology Plan Scientific Research Project of Guangzhou
+city (no. 201607010259), and Science and Technology Innovation Project
+of Foshan city (no. 2017IT100143).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Qiu</surname><given-names>X.</given-names></name>; <name><surname>Kong</surname><given-names>D.</given-names></name>; <name><surname>Zhou</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Zhi</surname><given-names>L.</given-names></name>
+<article-title>Silicene Flowers:
+A Dual Stabilized Silicon Building Block for High-Performance
+Lithium Battery Anodes</article-title>. <source>ACS Nano</source>
+<year>2017</year>, <volume>11</volume>, <fpage>7476</fpage>&#x02013;<lpage>7484</lpage>. <pub-id pub-id-type="doi">10.1021/acsnano.7b03942</pub-id>.<pub-id pub-id-type="pmid">28692250</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Choi</surname><given-names>M.</given-names></name>; <name><surname>Kim</surname><given-names>J. C.</given-names></name>; <name><surname>Kim</surname><given-names>D. W.</given-names></name>
+<article-title>Waste Windshield-Derived
+Silicon/Carbon
+Nanocomposites as High-Performance Lithium-Ion Battery Anodes</article-title>. <source>Sci. Rep.</source>
+<year>2018</year>, <volume>8</volume>, <fpage>960</fpage><pub-id pub-id-type="doi">10.1038/s41598-018-19529-1</pub-id>.<pub-id pub-id-type="pmid">29343780</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Ma</surname><given-names>X.</given-names></name>; <name><surname>Gao</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>M.</given-names></name>; <name><surname>Wu</surname><given-names>L.</given-names></name>
+<article-title>Synthesis of Robust Silicon Nanoparticles@Void@Graphitic
+Carbon Spheres for High-Performance Lithium-Ion-Battery Anodes</article-title>. <source>ChemElectroChem</source>
+<year>2017</year>, <volume>4</volume>, <fpage>1463</fpage>&#x02013;<lpage>1469</lpage>. <pub-id pub-id-type="doi">10.1002/celc.201700173</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Jansen</surname><given-names>A. N.</given-names></name>; <name><surname>Kahaian</surname><given-names>A. J.</given-names></name>; <name><surname>Kepler</surname><given-names>K. D.</given-names></name>; <name><surname>Nelson</surname><given-names>P. A.</given-names></name>; <name><surname>Amine</surname><given-names>K.</given-names></name>; <name><surname>Dees</surname><given-names>D. W.</given-names></name>; <name><surname>Vissers</surname><given-names>D. R.</given-names></name>; <name><surname>Thackeray</surname><given-names>M. M.</given-names></name>
+<article-title>Development
+of a High-Power Lithium-Ion Battery</article-title>. <source>J. Power
+Sources</source>
+<year>1999</year>, <volume>81&#x02013;82</volume>, <fpage>902</fpage>&#x02013;<lpage>905</lpage>. <pub-id pub-id-type="doi">10.1016/s0378-7753(99)00268-2</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Casimir</surname><given-names>A.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Ogoke</surname><given-names>O.</given-names></name>; <name><surname>Amine</surname><given-names>J. C.</given-names></name>; <name><surname>Lu</surname><given-names>J.</given-names></name>; <name><surname>Wu</surname><given-names>G.</given-names></name>
+<article-title>Silicon-Based Anodes
+for Lithium-Ion Batteries: Effectiveness of
+Materials Synthesis and Electrode Preparation</article-title>. <source>Nano Energy</source>
+<year>2016</year>, <volume>27</volume>, <fpage>359</fpage>&#x02013;<lpage>376</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2016.07.023</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Park</surname><given-names>J. H.</given-names></name>; <name><surname>Moon</surname><given-names>J.</given-names></name>; <name><surname>Han</surname><given-names>S.</given-names></name>; <name><surname>Park</surname><given-names>S.</given-names></name>; <name><surname>Lim</surname><given-names>J. W.</given-names></name>; <name><surname>Yun</surname><given-names>D.-J.</given-names></name>; <name><surname>Kim</surname><given-names>D. Y.</given-names></name>; <name><surname>Park</surname><given-names>K.</given-names></name>; <name><surname>Son</surname><given-names>I. H.</given-names></name>
+<article-title>Formation
+of Stable Solid-Electrolyte Interphase Layer on Few-Layer Graphene-Coated
+Silicon Nanoparticles for High-Capacity Li-ion Battery Anodes</article-title>. <source>J. Phys. Chem. C</source>
+<year>2017</year>, <volume>121</volume>, <fpage>26155</fpage>&#x02013;<lpage>26162</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.7b05876</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Hu</surname><given-names>Y.</given-names></name>; <name><surname>Shen</surname><given-names>Z.</given-names></name>; <name><surname>Chen</surname><given-names>R.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>K.</given-names></name>
+<article-title>Sandwich Structure of Graphene-Protected
+Silicon/Carbon Nanofibers for Lithium-Ion Battery Anodes</article-title>. <source>Electrochim. Acta</source>
+<year>2016</year>, <volume>210</volume>, <fpage>53</fpage>&#x02013;<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2016.05.086</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Ye</surname><given-names>Q.</given-names></name>; <name><surname>Zheng</surname><given-names>P.</given-names></name>; <name><surname>Ao</surname><given-names>X.</given-names></name>; <name><surname>Yao</surname><given-names>D.</given-names></name>; <name><surname>Lei</surname><given-names>Z.</given-names></name>; <name><surname>Deng</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>
+<article-title>Novel Multi-Block Conductive
+Binder
+with Polybutadiene for Si Anodes in Lithium-Ion Batteries</article-title>. <source>Electrochim. Acta</source>
+<year>2019</year>, <volume>315</volume>, <fpage>58</fpage>&#x02013;<lpage>66</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2019.05.093</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Kovalenko</surname><given-names>I.</given-names></name>; <name><surname>Zdyrko</surname><given-names>B.</given-names></name>; <name><surname>Magasinski</surname><given-names>A.</given-names></name>; <name><surname>Hertzberg</surname><given-names>B.</given-names></name>; <name><surname>Milicev</surname><given-names>Z.</given-names></name>; <name><surname>Burtovyy</surname><given-names>R.</given-names></name>; <name><surname>Luzinov</surname><given-names>I.</given-names></name>; <name><surname>Yushin</surname><given-names>G.</given-names></name>
+<article-title>A Major Constituent
+of Brown Algae for Use in High-Capacity Li-ion Batteries</article-title>. <source>Science</source>
+<year>2011</year>, <volume>334</volume>, <fpage>75</fpage>&#x02013;<lpage>79</lpage>. <pub-id pub-id-type="doi">10.1126/science.1209150</pub-id>.<pub-id pub-id-type="pmid">21903777</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Choi</surname><given-names>S.</given-names></name>; <name><surname>Kwon</surname><given-names>T.-w.</given-names></name>; <name><surname>Coskun</surname><given-names>A.</given-names></name>; <name><surname>Choi</surname><given-names>J. W.</given-names></name>
+<article-title>Highly Elastic Binders
+Integrating Polyrotaxanes for Silicon Microparticle Anodes in Lithium-Ion
+Batteries</article-title>. <source>Science</source>
+<year>2017</year>, <volume>357</volume>, <fpage>279</fpage>&#x02013;<lpage>283</lpage>. <pub-id pub-id-type="doi">10.1126/science.aal4373</pub-id>.<pub-id pub-id-type="pmid">28729506</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Wu</surname><given-names>H.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>McDowell</surname><given-names>M. T.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Bao</surname><given-names>Z.</given-names></name>
+<article-title>Self-Healing
+Chemistry Enables the Stable Operation of Silicon Microparticle Anodes
+for High-Energy Lithium-Ion Batteries</article-title>. <source>Nat.
+Chem.</source>
+<year>2013</year>, <volume>5</volume>, <fpage>1042</fpage>&#x02013;<lpage>1048</lpage>. <pub-id pub-id-type="doi">10.1038/nchem.1802</pub-id>.<pub-id pub-id-type="pmid">24256869</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Dalavi</surname><given-names>S.</given-names></name>; <name><surname>Guduru</surname><given-names>P.</given-names></name>; <name><surname>Lucht</surname><given-names>B. L.</given-names></name>
+<article-title>Performance
+Enhancing Electrolyte
+Additives for Lithium-Ion Batteries with Silicon Anodes</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2012</year>, <volume>159</volume>, <fpage>A642</fpage>&#x02013;<lpage>A646</lpage>. <pub-id pub-id-type="doi">10.1149/2.076205jes</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Xu</surname><given-names>C.</given-names></name>; <name><surname>Lindgren</surname><given-names>F.</given-names></name>; <name><surname>Philippe</surname><given-names>B.</given-names></name>; <name><surname>Gorgoi</surname><given-names>M.</given-names></name>; <name><surname>Bj&#x000f6;refors</surname><given-names>F.</given-names></name>; <name><surname>Edstr&#x000f6;m</surname><given-names>K.</given-names></name>; <name><surname>Gustafsson</surname><given-names>T.</given-names></name>
+<article-title>Improved Performance of Silicon Anode
+for Li-ion Batteries: Understanding the Surface Modification Mechanism
+of Fluoroethylene Carbonate as an Effective Electrolyte Additive</article-title>. <source>Chem. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>2591</fpage>&#x02013;<lpage>2599</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.5b00339</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Mei</surname><given-names>D.</given-names></name>; <name><surname>Feng</surname><given-names>J.</given-names></name>; <name><surname>Hu</surname><given-names>M. Y.</given-names></name>; <name><surname>Hu</surname><given-names>J.</given-names></name>; <name><surname>Engelhard</surname><given-names>M.</given-names></name>; <name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Xiao</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>
+<article-title>Reduction Mechanism of Fluoroethylene Carbonate for
+Stable Solid-Electrolyte Interphase Film on Silicon Anode</article-title>. <source>ChemSusChem</source>
+<year>2014</year>, <volume>7</volume>, <fpage>549</fpage>&#x02013;<lpage>554</lpage>. <pub-id pub-id-type="doi">10.1002/cssc.201300770</pub-id>.<pub-id pub-id-type="pmid">24634952</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Jin</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>Kushima</surname><given-names>A.</given-names></name>; <name><surname>Zheng</surname><given-names>X. Q.</given-names></name>; <name><surname>Sun</surname><given-names>Y. M.</given-names></name>; <name><surname>Xie</surname><given-names>J.</given-names></name>; <name><surname>Sun</surname><given-names>J.</given-names></name>; <name><surname>Xue</surname><given-names>W. J.</given-names></name>; <name><surname>Zhou</surname><given-names>G. M.</given-names></name>; <name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Shi</surname><given-names>F. F.</given-names></name>; <name><surname>Zhang</surname><given-names>R. F.</given-names></name>; <name><surname>Zhu</surname><given-names>Z.</given-names></name>; <name><surname>So</surname><given-names>K. P.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>
+<article-title>Self-Healing SEI Enables Full-Cell Cycling of a Silicon-Majority
+Anode with A Coulombic Efficiency Exceeding 99.9%</article-title>. <source>Energy Environ. Sci.</source>
+<year>2017</year>, <volume>10</volume>, <fpage>580</fpage>&#x02013;<lpage>592</lpage>. <pub-id pub-id-type="doi">10.1039/c6ee02685k</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>An</surname><given-names>W.</given-names></name>; <name><surname>Fu</surname><given-names>J.</given-names></name>; <name><surname>Su</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Peng</surname><given-names>X.</given-names></name>; <name><surname>Wu</surname><given-names>K.</given-names></name>; <name><surname>Chen</surname><given-names>Q.</given-names></name>; <name><surname>Bi</surname><given-names>Y.</given-names></name>; <name><surname>Gao</surname><given-names>B.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>
+<article-title>Mesoporous
+Hollow Nanospheres Consisting of Carbon Coated Silica Nanoparticles
+for Robust Lithium-Ion Battery Anodes</article-title>. <source>J. Power
+Sources</source>
+<year>2017</year>, <volume>345</volume>, <fpage>227</fpage>&#x02013;<lpage>236</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2017.01.125</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Yan</surname><given-names>P.</given-names></name>; <name><surname>Arey</surname><given-names>B. W.</given-names></name>; <name><surname>Luo</surname><given-names>W.</given-names></name>; <name><surname>Ji</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>
+<article-title>A Stable
+Nanoporous Silicon Anode Prepared by Modified
+Magnesiothermic Reactions</article-title>. <source>Nano Energy</source>
+<year>2016</year>, <volume>20</volume>, <fpage>68</fpage>&#x02013;<lpage>75</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2015.12.011</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Gu</surname><given-names>M.</given-names></name>; <name><surname>Hu</surname><given-names>S. Y.</given-names></name>; <name><surname>Kennard</surname><given-names>R.</given-names></name>; <name><surname>Yan</surname><given-names>P. F.</given-names></name>; <name><surname>Chen</surname><given-names>X. L.</given-names></name>; <name><surname>Wang</surname><given-names>C. M.</given-names></name>; <name><surname>Sailor</surname><given-names>M. J.</given-names></name>; <name><surname>Zhang</surname><given-names>J. G.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>
+<article-title>Mesoporous
+Silicon Sponge as an Anti-Pulverization Structure for High-Performance
+Lithium-Ion Battery Anodes</article-title>. <source>Nat. Commun.</source>
+<year>2014</year>, <volume>5</volume>, <fpage>4105</fpage><pub-id pub-id-type="doi">10.1038/ncomms5105</pub-id>.<pub-id pub-id-type="pmid">25001098</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>An</surname><given-names>W. L.</given-names></name>; <name><surname>Gao</surname><given-names>B.</given-names></name>; <name><surname>Mei</surname><given-names>S. X.</given-names></name>; <name><surname>Xiang</surname><given-names>B.</given-names></name>; <name><surname>Fu</surname><given-names>J. J.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>Q. B.</given-names></name>; <name><surname>Chu</surname><given-names>P. K.</given-names></name>; <name><surname>Huo</surname><given-names>K. F.</given-names></name>
+<article-title>Scalable Synthesis
+of Ant-Nest-Like Bulk Porous Silicon for High-Performance Lithium-Ion
+Battery Anodes</article-title>. <source>Nat. Commun.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>1447</fpage><pub-id pub-id-type="doi">10.1038/s41467-019-09510-5</pub-id>.<pub-id pub-id-type="pmid">30926799</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Wang</surname><given-names>W.</given-names></name>; <name><surname>Kumta</surname><given-names>P. N.</given-names></name>
+<article-title>Nanostructured Hybrid Silicon/Carbon Nanotube Heterostructures:
+Reversible High-Capacity Lithium-Ion Anodes</article-title>. <source>ACS Nano</source>
+<year>2010</year>, <volume>4</volume>, <fpage>2233</fpage>&#x02013;<lpage>2241</lpage>. <pub-id pub-id-type="doi">10.1021/nn901632g</pub-id>.<pub-id pub-id-type="pmid">20364846</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Ryou</surname><given-names>M.-H.</given-names></name>; <name><surname>Kim</surname><given-names>J.</given-names></name>; <name><surname>Lee</surname><given-names>I.</given-names></name>; <name><surname>Kim</surname><given-names>S.</given-names></name>; <name><surname>Jeong</surname><given-names>Y. K.</given-names></name>; <name><surname>Hong</surname><given-names>S.</given-names></name>; <name><surname>Ryu</surname><given-names>J. H.</given-names></name>; <name><surname>Kim</surname><given-names>T.-S.</given-names></name>; <name><surname>Park</surname><given-names>J.-K.</given-names></name>; <name><surname>Lee</surname><given-names>H.</given-names></name>; <name><surname>Choi</surname><given-names>J. W.</given-names></name>
+<article-title>Mussel-Inspired
+Adhesive Binders for High-Performance
+Silicon Nanoparticle Anodes in Lithium-Ion Batteries</article-title>. <source>Adv. Mater.</source>
+<year>2013</year>, <volume>25</volume>, <fpage>1570</fpage><pub-id pub-id-type="doi">10.1002/adma.201370074</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Roginskaya</surname><given-names>Y. E.</given-names></name>; <name><surname>Kulova</surname><given-names>T. L.</given-names></name>; <name><surname>Skundin</surname><given-names>A. M.</given-names></name>; <name><surname>Bruk</surname><given-names>M. A.</given-names></name>; <name><surname>Zhikharev</surname><given-names>E. N.</given-names></name>; <name><surname>Kal&#x02019;nov</surname><given-names>V. A.</given-names></name>
+<article-title>Lithium
+Insertion into Silicon Films Produced by Magnetron
+Sputtering</article-title>. <source>Russ. J. Electrochem.</source>
+<year>2008</year>, <volume>44</volume>, <fpage>992</fpage>&#x02013;<lpage>1001</lpage>. <pub-id pub-id-type="doi">10.1134/s1023193508090024</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Zhang</surname><given-names>X.-W.</given-names></name>; <name><surname>Patil</surname><given-names>P. K.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Appleby</surname><given-names>A. J.</given-names></name>; <name><surname>Little</surname><given-names>F. E.</given-names></name>; <name><surname>Cocke</surname><given-names>D. L.</given-names></name>
+<article-title>Electrochemical
+Performance of Lithium-Ion Battery,
+Nano-Silicon-Based, Disordered Carbon Composite Anodes with Different
+Microstructures</article-title>. <source>J. Power Sources</source>
+<year>2004</year>, <volume>125</volume>, <fpage>206</fpage>&#x02013;<lpage>213</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2003.07.019</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Wang</surname><given-names>B.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Luo</surname><given-names>B.</given-names></name>; <name><surname>Jin</surname><given-names>M.</given-names></name>; <name><surname>Liang</surname><given-names>M.</given-names></name>; <name><surname>Dayeh</surname><given-names>S. A.</given-names></name>; <name><surname>Picraux</surname><given-names>S. T.</given-names></name>; <name><surname>Zhi</surname><given-names>L.</given-names></name>
+<article-title>Adaptable Silicon-Carbon
+Nanocables Sandwiched between Reduced Graphene Oxide Sheets as Lithium
+Ion Battery Anodes</article-title>. <source>ACS Nano</source>
+<year>2013</year>, <volume>7</volume>, <fpage>1437</fpage>&#x02013;<lpage>1445</lpage>. <pub-id pub-id-type="doi">10.1021/nn3052023</pub-id>.<pub-id pub-id-type="pmid">23281801</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>An</surname><given-names>W.</given-names></name>; <name><surname>Xiang</surname><given-names>B.</given-names></name>; <name><surname>Fu</surname><given-names>J.</given-names></name>; <name><surname>Mei</surname><given-names>S.</given-names></name>; <name><surname>Guo</surname><given-names>S.</given-names></name>; <name><surname>Huo</surname><given-names>K.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Gao</surname><given-names>B.</given-names></name>; <name><surname>Chu</surname><given-names>P. K.</given-names></name>
+<article-title>Three-Dimensional
+Carbon-Coating Silicon Nanoparticles Welded on Carbon Nanotubes Composites
+for High-Stability Lithium-Ion Battery Anodes</article-title>. <source>Appl. Surf. Sci.</source>
+<year>2019</year>, <volume>479</volume>, <fpage>896</fpage>&#x02013;<lpage>902</lpage>. <pub-id pub-id-type="doi">10.1016/j.apsusc.2019.02.145</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>An</surname><given-names>W.</given-names></name>; <name><surname>Fu</surname><given-names>J.</given-names></name>; <name><surname>Mei</surname><given-names>S.</given-names></name>; <name><surname>Xia</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Gu</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Gao</surname><given-names>B.</given-names></name>; <name><surname>Chu</surname><given-names>P. K.</given-names></name>; <name><surname>Huo</surname><given-names>K.</given-names></name>
+<article-title>Dual Carbon
+Layer Hybridized Mesoporous Tin Hollow Spheres for Fast-Rechargeable
+and Highly-Stable Lithium-Ion Battery Anodes</article-title>. <source>J. Mater. Chem. A</source>
+<year>2017</year>, <volume>5</volume>, <fpage>14422</fpage>&#x02013;<lpage>14429</lpage>. <pub-id pub-id-type="doi">10.1039/c7ta01399j</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Chou</surname><given-names>S.-L.</given-names></name>; <name><surname>Wang</surname><given-names>J.-Z.</given-names></name>; <name><surname>Choucair</surname><given-names>M.</given-names></name>; <name><surname>Liu</surname><given-names>H.-K.</given-names></name>; <name><surname>Stride</surname><given-names>J. A.</given-names></name>; <name><surname>Dou</surname><given-names>S.-X.</given-names></name>
+<article-title>Enhanced Reversible
+Lithium Storage in a Nanosize Silicon/Graphene
+Composite</article-title>. <source>Electrochem. Commun.</source>
+<year>2010</year>, <volume>12</volume>, <fpage>303</fpage>&#x02013;<lpage>306</lpage>. <pub-id pub-id-type="doi">10.1016/j.elecom.2009.12.024</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Chang</surname><given-names>J.</given-names></name>; <name><surname>Huang</surname><given-names>X.</given-names></name>; <name><surname>Zhou</surname><given-names>G.</given-names></name>; <name><surname>Cui</surname><given-names>S.</given-names></name>; <name><surname>Hallac</surname><given-names>P. B.</given-names></name>; <name><surname>Jiang</surname><given-names>J.</given-names></name>; <name><surname>Hurley</surname><given-names>P. T.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>
+<article-title>Multilayered
+Si Nanoparticle/Reduced
+Graphene Oxide Hybrid as a High-Performance Lithium-Ion Battery Anode</article-title>. <source>Adv. Mater.</source>
+<year>2014</year>, <volume>26</volume>, <fpage>758</fpage>&#x02013;<lpage>764</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201302757</pub-id>.<pub-id pub-id-type="pmid">24115353</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Park</surname><given-names>S.-H.</given-names></name>; <name><surname>Kim</surname><given-names>H.-K.</given-names></name>; <name><surname>Ahn</surname><given-names>D.-J.</given-names></name>; <name><surname>Lee</surname><given-names>S.-I.</given-names></name>; <name><surname>Roh</surname><given-names>K. C.</given-names></name>; <name><surname>Kim</surname><given-names>K.-B.</given-names></name>
+<article-title>Self-Assembly of
+Si Entrapped Graphene Architecture
+for High-Performance Li-ion Batteries</article-title>. <source>Electrochem.
+Commun.</source>
+<year>2013</year>, <volume>34</volume>, <fpage>117</fpage>&#x02013;<lpage>120</lpage>. <pub-id pub-id-type="doi">10.1016/j.elecom.2013.05.028</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Son</surname><given-names>I. H.</given-names></name>; <name><surname>Park</surname><given-names>J. H.</given-names></name>; <name><surname>Kwon</surname><given-names>S.</given-names></name>; <name><surname>Park</surname><given-names>S.</given-names></name>; <name><surname>Rummeli</surname><given-names>M. H.</given-names></name>; <name><surname>Bachmatiuk</surname><given-names>A.</given-names></name>; <name><surname>Song</surname><given-names>H. J.</given-names></name>; <name><surname>Ku</surname><given-names>J.</given-names></name>; <name><surname>Choi</surname><given-names>J. W.</given-names></name>; <name><surname>Choi</surname><given-names>J. M.</given-names></name>; <name><surname>Doo</surname><given-names>S. G.</given-names></name>; <name><surname>Chang</surname><given-names>H.</given-names></name>
+<article-title>Silicon Carbide-Free
+Graphene Growth on Silicon for Lithium-Ion Battery with High Volumetric
+Energy Density</article-title>. <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>7393</fpage><pub-id pub-id-type="doi">10.1038/ncomms8393</pub-id>.<pub-id pub-id-type="pmid">26109057</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Zhou</surname><given-names>M.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>B.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Ning</surname><given-names>J.</given-names></name>; <name><surname>Xiao</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Chang</surname><given-names>Y.</given-names></name>; <name><surname>Zhi</surname><given-names>L.</given-names></name>
+<article-title>High-Performance Silicon
+Battery Anodes Enabled by Engineering Graphene Assemblies</article-title>. <source>Nano Lett.</source>
+<year>2015</year>, <volume>15</volume>, <fpage>6222</fpage>&#x02013;<lpage>6228</lpage>. <pub-id pub-id-type="doi">10.1021/acs.nanolett.5b02697</pub-id>.<pub-id pub-id-type="pmid">26308100</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Zhang</surname><given-names>K.</given-names></name>; <name><surname>Xia</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>Z.</given-names></name>; <name><surname>Fu</surname><given-names>R.</given-names></name>; <name><surname>Shen</surname><given-names>C.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>
+<article-title>Structure-Preserved
+3D Porous Silicon/Reduced Graphene Oxide Materials as Anodes for Li-ion
+Batteries</article-title>. <source>RSC Adv.</source>
+<year>2017</year>, <volume>7</volume>, <fpage>24305</fpage>&#x02013;<lpage>24311</lpage>. <pub-id pub-id-type="doi">10.1039/c7ra02240a</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Zhang</surname><given-names>R.</given-names></name>; <name><surname>Du</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>D.</given-names></name>; <name><surname>Shen</surname><given-names>D.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Guo</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>H. K.</given-names></name>; <name><surname>Elzatahry</surname><given-names>A. A.</given-names></name>; <name><surname>Zhao</surname><given-names>D.</given-names></name>
+<article-title>Highly Reversible and
+Large Lithium Storage in Mesoporous Si/C Nanocomposite Anodes with
+Silicon Nanoparticles Embedded in a Carbon Framework</article-title>. <source>Adv. Mater.</source>
+<year>2014</year>, <volume>26</volume>, <fpage>6749</fpage>&#x02013;<lpage>6755</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201402813</pub-id>.<pub-id pub-id-type="pmid">25164312</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>He</surname><given-names>Z.</given-names></name>; <name><surname>Wu</surname><given-names>X.</given-names></name>; <name><surname>Yi</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Xiang</surname><given-names>Y.</given-names></name>
+<article-title>Silicon/Graphene/Carbon
+Hierarchical Structure Nanofibers for High Performance Lithium Ion
+Batteries</article-title>. <source>Mater. Lett.</source>
+<year>2017</year>, <volume>200</volume>, <fpage>128</fpage>&#x02013;<lpage>131</lpage>. <pub-id pub-id-type="doi">10.1016/j.matlet.2017.04.118</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>D.</given-names></name>; <name><surname>Jiang</surname><given-names>J.</given-names></name>; <name><surname>Mai</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>F.</given-names></name>; <name><surname>Pan</surname><given-names>H.</given-names></name>; <name><surname>Feng</surname><given-names>X.</given-names></name>
+<article-title>Highly Oriented Macroporous
+Graphene Hybrid Monoliths for Lithium
+Ion Battery Electrodes with Ultrahigh Capacity and Rate Capability</article-title>. <source>Nano Energy</source>
+<year>2015</year>, <volume>12</volume>, <fpage>287</fpage>&#x02013;<lpage>295</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2014.12.034</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Zhao</surname><given-names>Q.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Hu</surname><given-names>X.</given-names></name>
+<article-title>A Si/C Nanocomposite
+Anode by Ball
+Milling for Highly Reversible Sodium Storage</article-title>. <source>Electrochem. Commun.</source>
+<year>2016</year>, <volume>70</volume>, <fpage>8</fpage>&#x02013;<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1016/j.elecom.2016.06.012</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Chang</surname><given-names>P.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Zhao</surname><given-names>Q.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Hu</surname><given-names>X.</given-names></name>
+<article-title>Constructing
+Three-Dimensional Honeycombed Graphene/Silicon Skeletons for High-Performance
+Li-ion Batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2017</year>, <volume>9</volume>, <fpage>31879</fpage>&#x02013;<lpage>31886</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.7b09169</pub-id>.<pub-id pub-id-type="pmid">28840710</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Fang</surname><given-names>M.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Guan</surname><given-names>S.</given-names></name>
+<article-title>Sponge-Like
+Reduced
+Graphene Oxide/Silicon/Carbon Nanotube Composites for Lithium Ion
+Batteries</article-title>. <source>Appl. Surf. Sci.</source>
+<year>2018</year>, <volume>436</volume>, <fpage>345</fpage>&#x02013;<lpage>353</lpage>. <pub-id pub-id-type="doi">10.1016/j.apsusc.2017.11.070</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Wang</surname><given-names>M.-S.</given-names></name>; <name><surname>Wang</surname><given-names>Z.-Q.</given-names></name>; <name><surname>Jia</surname><given-names>R.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Zhu</surname><given-names>F.-Y.</given-names></name>; <name><surname>Yang</surname><given-names>Z.-L.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>
+<article-title>Facile Electrostatic
+Self-Assembly of Silicon/Reduced Graphene Oxide Porous Composite by
+Silica Assist as High Performance Anode for Li-ion Battery</article-title>. <source>Appl. Surf. Sci.</source>
+<year>2018</year>, <volume>456</volume>, <fpage>379</fpage>&#x02013;<lpage>389</lpage>. <pub-id pub-id-type="doi">10.1016/j.apsusc.2018.06.147</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Yue</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>Q.</given-names></name>; <name><surname>Liu</surname><given-names>D.</given-names></name>; <name><surname>Hou</surname><given-names>X.</given-names></name>; <name><surname>Bai</surname><given-names>S.</given-names></name>; <name><surname>Lin</surname><given-names>S.</given-names></name>; <name><surname>He</surname><given-names>D.</given-names></name>
+<article-title>High-Yield Fabrication
+of Graphene-Wrapped Silicon Nanoparticles
+for Self-Support and Binder-Free Anodes of Lithium-Ion Batteries</article-title>. <source>J. Alloys Compd.</source>
+<year>2018</year>, <volume>744</volume>, <fpage>243</fpage>&#x02013;<lpage>251</lpage>. <pub-id pub-id-type="doi">10.1016/j.jallcom.2018.02.066</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Fu</surname><given-names>K.</given-names></name>; <name><surname>Danner</surname><given-names>V. A.</given-names></name>; <name><surname>Dai</surname><given-names>J.</given-names></name>; <name><surname>Lacey</surname><given-names>S. D.</given-names></name>; <name><surname>Yao</surname><given-names>Y.</given-names></name>; <name><surname>Hu</surname><given-names>L.</given-names></name>
+<article-title>Rapid, in Situ Synthesis
+of High Capacity Battery Anodes through High Temperature Radiation-Based
+Thermal Shock</article-title>. <source>Nano Lett.</source>
+<year>2016</year>, <volume>16</volume>, <fpage>5553</fpage>&#x02013;<lpage>5558</lpage>. <pub-id pub-id-type="doi">10.1021/acs.nanolett.6b02096</pub-id>.<pub-id pub-id-type="pmid">27505433</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Si</surname><given-names>W.</given-names></name>; <name><surname>Xi</surname><given-names>L.</given-names></name>; <name><surname>Eichler</surname><given-names>B.</given-names></name>; <name><surname>Yan</surname><given-names>C.</given-names></name>; <name><surname>Schmidt</surname><given-names>O. G.</given-names></name>
+<article-title>Sandwich Nano Architecture of Si/Reduced Graphene Oxide
+Bilayer Nanomembranes for Li-ion Batteries with Long Cycle Life</article-title>. <source>ACS Nano</source>
+<year>2015</year>, <volume>9</volume>, <fpage>1198</fpage>&#x02013;<lpage>1205</lpage>. <pub-id pub-id-type="doi">10.1021/nn5048052</pub-id>.<pub-id pub-id-type="pmid">25646575</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Sun</surname><given-names>W.</given-names></name>; <name><surname>Hu</surname><given-names>R.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Zeng</surname><given-names>M.</given-names></name>; <name><surname>Yang</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Zhu</surname><given-names>M.</given-names></name>
+<article-title>Embedding
+Nano-Silicon in Graphene Nanosheets by Plasma Assisted
+Milling for High Capacity Anode Materials in Lithium-Ion Batteries</article-title>. <source>J. Power Sources</source>
+<year>2014</year>, <volume>268</volume>, <fpage>610</fpage>&#x02013;<lpage>618</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.06.039</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Sun</surname><given-names>W.</given-names></name>; <name><surname>Hu</surname><given-names>R.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>L.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Zhu</surname><given-names>M.</given-names></name>
+<article-title>A Long-Life
+Nano-Silicon Anode for Lithium-Ion Batteries: Supporting
+of Graphene Nanosheets Exfoliated from Expanded Graphite by Plasma-Assisted
+Milling</article-title>. <source>Electrochim. Acta</source>
+<year>2016</year>, <volume>187</volume>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2015.11.020</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Yao</surname><given-names>M.</given-names></name>; <name><surname>Zeng</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Yan</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Electrophoretic
+Deposition of Carbon Nanofibers/Silicon Film with Honeycomb Structure
+As Integrated Anode Electrode for Lithium-Ion Batteries</article-title>. <source>Electrochim. Acta</source>
+<year>2018</year>, <volume>281</volume>, <fpage>312</fpage>&#x02013;<lpage>322</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2018.05.173</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Qin</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>He</surname><given-names>Y.-B.</given-names></name>; <name><surname>Li</surname><given-names>B.</given-names></name>; <name><surname>Ke</surname><given-names>L.</given-names></name>; <name><surname>Lv</surname><given-names>W.</given-names></name>; <name><surname>Du</surname><given-names>H.</given-names></name>; <name><surname>Yang</surname><given-names>Q.-H.</given-names></name>; <name><surname>Kang</surname><given-names>F.</given-names></name>
+<article-title>Multilayered Silicon
+Embedded Porous Carbon/Graphene Hybrid Film as A High Performance
+Anode</article-title>. <source>Carbon</source>
+<year>2015</year>, <volume>84</volume>, <fpage>434</fpage>&#x02013;<lpage>443</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2014.12.036</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Hassan</surname><given-names>F. M.</given-names></name>; <name><surname>Chabot</surname><given-names>V.</given-names></name>; <name><surname>Elsayed</surname><given-names>A. R.</given-names></name>; <name><surname>Xiao</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>
+<article-title>Engineered
+Si Electrode Nanoarchitecture: A Scalable Postfabrication Treatment
+for the Production of Next-Generation Li-ion Batteries</article-title>. <source>Nano Lett.</source>
+<year>2014</year>, <volume>14</volume>, <fpage>277</fpage>&#x02013;<lpage>283</lpage>. <pub-id pub-id-type="doi">10.1021/nl403943g</pub-id>.<pub-id pub-id-type="pmid">24329030</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Tao</surname><given-names>H.</given-names></name>; <name><surname>Xiong</surname><given-names>L.</given-names></name>; <name><surname>Zhu</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Yang</surname><given-names>X.</given-names></name>
+<article-title>Porous Si/C/Reduced
+Graphene Oxide Microspheres by Spray Drying as Anode for Li-ion Batteries</article-title>. <source>J. Electroanal. Chem.</source>
+<year>2017</year>, <volume>797</volume>, <fpage>16</fpage>&#x02013;<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1016/j.jelechem.2017.05.010</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Park</surname><given-names>S.</given-names></name>; <name><surname>An</surname><given-names>J.</given-names></name>; <name><surname>Potts</surname><given-names>J. R.</given-names></name>; <name><surname>Velamakanni</surname><given-names>A.</given-names></name>; <name><surname>Murali</surname><given-names>S.</given-names></name>; <name><surname>Ruoff</surname><given-names>R. S.</given-names></name>
+<article-title>Hydrazine-Reduction
+of Graphite- and Graphene Oxide</article-title>. <source>Carbon</source>
+<year>2011</year>, <volume>49</volume>, <fpage>3019</fpage>&#x02013;<lpage>3023</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2011.02.071</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Luo</surname><given-names>W.</given-names></name>; <name><surname>Feng</surname><given-names>Y.</given-names></name>; <name><surname>Cao</surname><given-names>C.</given-names></name>; <name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Liu</surname><given-names>E.</given-names></name>; <name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>Qin</surname><given-names>C.</given-names></name>; <name><surname>Hu</surname><given-names>W.</given-names></name>; <name><surname>Feng</surname><given-names>W.</given-names></name>
+<article-title>A high energy density
+azobenzene/graphene hybrid: a nano-templated platform for solar thermal
+storage</article-title>. <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>11787</fpage>&#x02013;<lpage>11795</lpage>. <pub-id pub-id-type="doi">10.1039/c5ta01263e</pub-id>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Kucharski</surname><given-names>T. J.</given-names></name>; <name><surname>Ferralis</surname><given-names>N.</given-names></name>; <name><surname>Kolpak</surname><given-names>A. M.</given-names></name>; <name><surname>Zheng</surname><given-names>J. O.</given-names></name>; <name><surname>Nocera</surname><given-names>D. G.</given-names></name>; <name><surname>Grossman</surname><given-names>J. C.</given-names></name>
+<article-title>Templated assembly of photoswitches significantly increases
+the energy-storage capacity of solar thermal fuels</article-title>. <source>Nat. Chem.</source>
+<year>2014</year>, <volume>6</volume>, <fpage>441</fpage><pub-id pub-id-type="doi">10.1038/nchem.1918</pub-id>.<pub-id pub-id-type="pmid">24755597</pub-id></mixed-citation></ref></ref-list></back></article>

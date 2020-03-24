@@ -1,0 +1,429 @@
+{
+  "id": [
+    "31848415"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31848415"
+  ],
+  "pmcid": [
+    "PMC6917766"
+  ],
+  "doi": [
+    "10.1038/s41598-019-55865-6"
+  ],
+  "title": [
+    "A facile non-solvent induced phase separation process for preparation of highly porous polybenzimidazole separator for lithium metal battery application."
+  ],
+  "authorString": [
+    "Wang J, He Y, Wu Q, Zhang Y, Li Z, Liu Z, Huo S, Dong J, Zeng D, Cheng H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jiaying"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Sustainable Energy Laboratory, Faculty of Material Science and Chemistry, China University of Geosciences (Wuhan), 388 Lumo RD, Wuhan, 430074, China."
+          ]
+        },
+        {
+          "fullName": [
+            "He Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Sustainable Energy Laboratory, Faculty of Material Science and Chemistry, China University of Geosciences (Wuhan), 388 Lumo RD, Wuhan, 430074, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Q"
+          ],
+          "firstName": [
+            "Quan"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Sustainable Energy Laboratory, Faculty of Material Science and Chemistry, China University of Geosciences (Wuhan), 388 Lumo RD, Wuhan, 430074, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yunfeng"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Sustainable Energy Laboratory, Faculty of Material Science and Chemistry, China University of Geosciences (Wuhan), 388 Lumo RD, Wuhan, 430074, China. zhangyf329@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Zhiyuan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "National Quality Supervision & Inspection Center of Lithium Battery Products (Shandong), Intelligent Manufacturing Town, Fuyuan 3rd Road, National High-tech Zone, Zaozhuang, Shandong, 277800, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Z"
+          ],
+          "firstName": [
+            "Zhihong"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Environment and Civil Engineering, Dongguan University of Technology, No.1, Daxue Road, Songshan Lake, Dongguan, Guangdong Province, 523808, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huo S"
+          ],
+          "firstName": [
+            "Shikang"
+          ],
+          "lastName": [
+            "Huo"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Sustainable Energy Laboratory, Faculty of Material Science and Chemistry, China University of Geosciences (Wuhan), 388 Lumo RD, Wuhan, 430074, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dong J"
+          ],
+          "firstName": [
+            "Jiaming"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Sustainable Energy Laboratory, Faculty of Material Science and Chemistry, China University of Geosciences (Wuhan), 388 Lumo RD, Wuhan, 430074, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zeng D"
+          ],
+          "firstName": [
+            "Danli"
+          ],
+          "lastName": [
+            "Zeng"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Sustainable Energy Laboratory, Faculty of Material Science and Chemistry, China University of Geosciences (Wuhan), 388 Lumo RD, Wuhan, 430074, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng H"
+          ],
+          "firstName": [
+            "Hansong"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Sustainable Energy Laboratory, Faculty of Material Science and Chemistry, China University of Geosciences (Wuhan), 388 Lumo RD, Wuhan, 430074, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2887502"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "19320"
+  ],
+  "abstractText": [
+    "The drawbacks of low porosity, inferior electrolyte wettability, low thermal dimensional stability and permissive lithium dendrite growth of the conventional microporous polyolefin-based separators hinder their widely application in the high power density and safe Lithium ion batteries. Herein, highly porous polybenzimidazole-based separator is prepared by a facile non-solvent induced phase separation process (NIPS) using water, ethanol, chloroform and ethyl acetate as the coagulation bath solvent, respectively. It was found that the ethanol is suitable to fabricate uniform morphology macroporous separator with the porosity of 92%, electrolyte uptake of 594 wt.%, and strong mechanical strength of 15.9 MPa. In addition, the experimental tests (electrochemical analysis and XPS test) and density functional theory calculation suggest that the electron-rich imidazole ring of polybenzimidazle can enhance Li+ mobility electrostatic attraction interaction while the block the PF6- mobility via electrostatic repulsion interaction. Therefore, high Li+ transference number of 0.76 was obtained for the neat polybenzimidazole-based polymer electrolyte. As a proof of concept, the Li/LiFePO4 cell with the polybenzimidazole-based polymer electrolyte/1.0 M LiPF6- ethylene carbonate/dimethyl carbonate (v:v = 1:1) electrolyte exhibits excellent rate capability of >100 mAh g-1 at 6 C (1 C = 170 mA g-1) and superior cycle stability of 1000 cycles."
+  ],
+  "affiliation": [
+    "Sustainable Energy Laboratory, Faculty of Material Science and Chemistry, China University of Geosciences (Wuhan), 388 Lumo RD, Wuhan, 430074, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "21603197"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China (National Science Foundation of China)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-55865-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6917766"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6917766?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-19"
+  ],
+  "firstIndexDate": [
+    "2019-12-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-23"
+  ],
+  "dateOfRevision": [
+    "2020-03-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-17"
+  ],
+  "firstPublicationDate": [
+    "2019-12-17"
+  ]
+}

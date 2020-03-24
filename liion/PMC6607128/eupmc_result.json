@@ -1,0 +1,375 @@
+{
+  "id": [
+    "31565288"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31565288"
+  ],
+  "pmcid": [
+    "PMC6607128"
+  ],
+  "doi": [
+    "10.1002/gch2.201700050"
+  ],
+  "title": [
+    "Constructing MoO2 Porous Architectures Using Graphene Oxide Flexible Supports for Lithium Ion Battery Anodes."
+  ],
+  "authorString": [
+    "Xu Z, Yao K, Fu H, Shen X, Duan X, Cao L, Huang J, Wang H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xu Z"
+          ],
+          "firstName": [
+            "Zhanwei"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering Shaanxi University of Science and Technology Xi'an 710021 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yao K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering Shaanxi University of Science and Technology Xi'an 710021 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering Shaanxi University of Science and Technology Xi'an 710021 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shen X"
+          ],
+          "firstName": [
+            "Xuetao"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering Shaanxi University of Science and Technology Xi'an 710021 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Duan X"
+          ],
+          "firstName": [
+            "Xintong"
+          ],
+          "lastName": [
+            "Duan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering Shaanxi University of Science and Technology Xi'an 710021 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cao L"
+          ],
+          "firstName": [
+            "Liyun"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering Shaanxi University of Science and Technology Xi'an 710021 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang J"
+          ],
+          "firstName": [
+            "Jianfeng"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering Shaanxi University of Science and Technology Xi'an 710021 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Huanlei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Institute of Materials Science and Engineering Ocean University of China Qingdao 266100 China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2864818"
+      ],
+      "dateOfPublication": [
+        "2017 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Global challenges (Hoboken, NJ)"
+          ],
+          "ISOAbbreviation": [
+            "Glob Chall"
+          ],
+          "medlineAbbreviation": [
+            "Glob Chall"
+          ],
+          "NLMid": [
+            "101705641"
+          ],
+          "ISSN": [
+            "2056-6646"
+          ],
+          "ESSN": [
+            "2056-6646"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1700050"
+  ],
+  "abstractText": [
+    "Graphene oxide flexibly supported MoO2 porous architectures (MoO2/GO) by decomposition of the prepared ammonium molybdate/GO preforms is fabricated. Focused ion beam microscope analysis shows that the inside structures of the architectures strongly depend on the percentages of the GO used as flexible supports: micrometer scale MoO2 particulates growing on the GO (micrometer MoO2/GO), 3D honeycomb-like nanoarchitectures (MoO2/GO nanohoneycomb), and layered MoO2/GO architectures are achieved at the percentage of GO at 4.3, 15.2, and 20.8 wt%, respectively. The lithium storage performance of the MoO2/GO architectures strongly depends on their inside structures. At the current density of 100 mA g-1, the capacities of the micrometer MoO2/GO, MoO2/GO nanohoneycomb, and layered MoO2/GO remain at 901, 1127, and 967 mAh g-1 after 100 cycles. The average coulombic efficiencies of micrometer MoO2/GO, MoO2/GO nanohoneycomb, and layered MoO2/GO electrodes are 97.6%, 99.3%, and 99.0%. Moreover, the rate performance shows even cycled at a high current density of 5000 mA g-1, the MoO2/GO nanohoneycomb can deliver the capacity as high as 461 mAh g-1. The MoO2/GO nanohoneycomb exhibits best performance attributed to its unique nanohoneycomb structure constructed with ultrafine MoO2 fixed on the GO flexible supports."
+  ],
+  "affiliation": [
+    "School of Materials Science and Engineering Shaanxi University of Science and Technology Xi'an 710021 China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Graphene Oxide",
+        "Nanoarchitecture",
+        "Molybdenum Dioxide",
+        "Lithium Battery Anode",
+        "Preform"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/gch2.201700050"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6607128"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6607128?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-01"
+  ],
+  "firstIndexDate": [
+    "2019-10-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-28"
+  ],
+  "firstPublicationDate": [
+    "2017-08-28"
+  ]
+}

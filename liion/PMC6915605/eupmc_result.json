@@ -1,0 +1,359 @@
+{
+  "id": [
+    "31703446"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31703446"
+  ],
+  "pmcid": [
+    "PMC6915605"
+  ],
+  "doi": [
+    "10.3390/nano9111581"
+  ],
+  "title": [
+    "Preparation of Highly Porous PAN-LATP Membranes as Separators for Lithium Ion Batteries."
+  ],
+  "authorString": [
+    "Mohanta J, Kwon OH, Choi JH, Yun YM, Kim JK, Jeong SM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mohanta J"
+          ],
+          "firstName": [
+            "Jagdeep"
+          ],
+          "lastName": [
+            "Mohanta"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7789-0054",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Chungbuk National University,1 Chungdae-ro, Seowon-gu, Cheongju, Chungbuk 28644, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kwon OH"
+          ],
+          "firstName": [
+            "O Hyeon"
+          ],
+          "lastName": [
+            "Kwon"
+          ],
+          "initials": [
+            "OH"
+          ],
+          "affiliation": [
+            "Department of Solar & Energy Engineering, Cheongju University, Cheongju, Chungbuk 28503, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Choi JH"
+          ],
+          "firstName": [
+            "Jong Hyeok"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Chungbuk National University,1 Chungdae-ro, Seowon-gu, Cheongju, Chungbuk 28644, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Yun YM"
+          ],
+          "firstName": [
+            "Yeo-Myeong"
+          ],
+          "lastName": [
+            "Yun"
+          ],
+          "initials": [
+            "YM"
+          ],
+          "affiliation": [
+            "Department of Environmental Engineering, Chungbuk National University, 1 Chungdae-ro, Seowon-gu, Cheongju, Chungbuk 28644, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim JK"
+          ],
+          "firstName": [
+            "Jae-Kwang"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "JK"
+          ],
+          "affiliation": [
+            "Department of Solar & Energy Engineering, Cheongju University, Cheongju, Chungbuk 28503, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jeong SM"
+          ],
+          "firstName": [
+            "Sang Mun"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Chungbuk National University,1 Chungdae-ro, Seowon-gu, Cheongju, Chungbuk 28644, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7789-0054",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2877567"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomaterials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "NLMid": [
+            "101610216"
+          ],
+          "ISSN": [
+            "2079-4991"
+          ],
+          "ESSN": [
+            "2079-4991"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Separators are a vital component to ensure the safety of lithium-ion batteries. However, the commercial separators employed in lithium ion batteries are inefficient due to their low porosity. In the present study, a simple electrospinning technique is adopted to prepare highly porous polyacrylonitrile (PAN)-based membranes with a higher concentration of lithium aluminum titanium phosphate (LATP) ceramic particles, as a viable alternative to the commercialized separators used in lithium ion batteries. The effect of the LATP particles on the morphology of the porous membranes is demonstrated through Field emission scattering electron microscopy. X-ray diffraction and Fourier transform infrared spectra studies suitably demonstrate the mixing of PAN and LATP particles in the polymer matrix. PAN with 30 wt% LATP (P-L30) exhibits an enhanced porosity of 90% and is more thermally stable, with the highest electrolyte uptake among all the prepared membranes. Due to better electrolyte uptake, the P-L30 membrane demonstrates an improved ionic conductivity of 1.7 mS/cm. A coin cell prepared with a P-L30 membrane and a LiFePO4 cathode demonstrates the highest discharge capacity of 158 mAh/g at 0.5 C-rate. The coin cell with the P-L30 membrane also displays good cycling stability by retaining 97.5% of the initial discharge capacity after 200 cycles of charging and discharging at a 1C rate."
+  ],
+  "affiliation": [
+    "Department of Chemical Engineering, Chungbuk National University,1 Chungdae-ro, Seowon-gu, Cheongju, Chungbuk 28644, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium ion battery",
+        "Separator",
+        "Electrospinning",
+        "Pan",
+        "Electrochemical Characteristics",
+        "Latp"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nano9111581"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6915605"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6915605?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-10"
+  ],
+  "firstIndexDate": [
+    "2019-11-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-27"
+  ],
+  "dateOfRevision": [
+    "2019-12-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-07"
+  ],
+  "firstPublicationDate": [
+    "2019-11-07"
+  ]
+}

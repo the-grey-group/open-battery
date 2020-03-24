@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6714605/results/search/funders/results.xml">
+  <result pre="italic;} ACS Omega ACS Omega ao acsodf ACS Omega 2470-1343" exact="American Chemical Society" post="pmcid: 6714605 pmid: 31497715 doi: 10.1021/acsomega.9b01706 : Article Performance"/>
+  <result pre="† Li Yangxing * ‡ Lai Zhiping * † [†]," exact="King Abdullah University of Science and Technology" post="(KAUST) Saudi Arabia [‡], Huawei Technologies Company Limited China"/>
+  <result pre="Abdullah University of Science and Technology (KAUST) Saudi Arabia [‡]," exact="Huawei Technologies" post="Company Limited China [§], King Abdullah University of Science"/>
+  <result pre="(KAUST) Saudi Arabia [‡], Huawei Technologies Company Limited China [§]," exact="King Abdullah University of Science and Technology" post="(KAUST) Saudi Arabia *E-mail: Kuo-wei.huang@kaust.edu.sa (K.-W.H.). *E-mail: Li.yangxing@huawei.com (Y.L.)."/>
+  <result pre="2019-08-08 4 9 13972 13980 received: 2019-06-10 accepted: 2019-08-01 (C)" exact="American Chemical Society" post=", 2019 This is an open access article published"/>
+  <result pre="which consists of the NCM-622 cathode, lithium or graphite anode," exact="Celgard" post="2320 separator (USA), and 1.0 M LiPF 6 in"/>
+ </snippets>
+</snippetsTree>

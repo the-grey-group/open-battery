@@ -1,0 +1,344 @@
+{
+  "id": [
+    "31457356"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31457356"
+  ],
+  "pmcid": [
+    "PMC6645351"
+  ],
+  "doi": [
+    "10.1021/acsomega.7b01462"
+  ],
+  "title": [
+    "Preparation and Capacity-Fading Investigation of Polymer-Derived Silicon Carbonitride Anode for Lithium-Ion Battery."
+  ],
+  "authorString": [
+    "Feng Y, Dou S, Wei Y, Zhang Y, Song X, Li X, Battaglia VS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Feng Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Chemistry and College of Physics and Materials Science, Tianjin Normal University, Tianjin 300387, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dou S"
+          ],
+          "firstName": [
+            "Shuming"
+          ],
+          "lastName": [
+            "Dou"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "College of Chemistry and College of Physics and Materials Science, Tianjin Normal University, Tianjin 300387, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wei Y"
+          ],
+          "firstName": [
+            "Yuzhen"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Chemistry and College of Physics and Materials Science, Tianjin Normal University, Tianjin 300387, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yuliang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Chemistry and College of Physics and Materials Science, Tianjin Normal University, Tianjin 300387, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Song X"
+          ],
+          "firstName": [
+            "Xiangyun"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Energy Storage and Distributed Resources Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xifei"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Chemistry and College of Physics and Materials Science, Tianjin Normal University, Tianjin 300387, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Battaglia VS"
+          ],
+          "firstName": [
+            "Vincent S"
+          ],
+          "lastName": [
+            "Battaglia"
+          ],
+          "initials": [
+            "VS"
+          ],
+          "affiliation": [
+            "Energy Storage and Distributed Resources Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2625907"
+      ],
+      "dateOfPublication": [
+        "2017 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "8075-8085"
+  ],
+  "abstractText": [
+    "Polymer-derived silicon carbonitride (SiCN) materials have been synthesized via pyrolyzing from five poly(silylcarbondiimide)s with different contents of carbon (labeled as 1-5#). The morphological and structural measurements show that the SiCN materials are mixtures of nanocrystals of SiC, Si3N4, and graphite. The SiCN materials have been used as anodes for lithium-ion batteries. Among the five polymer-derived SiCN materials, 5#SiCN, derived from dichloromethylvinylsilane and di-n-octyldichlorosilane, has the best cycle stability and a high-rate performance at the low cutoff voltage of 0.01-1.0 V. In lithium-ion half-cells, the specific delithiation capacity of 5#SiCN anode still remains at 826.7 mA h g-1 after 100 charge/discharge cycles; it can even deliver the capacity above 550 mA h g-1 at high current densities of 1.6 and 2 A g-1. In lithium-ion full cells, 5#SiCN anode works well with LiNi0.6Co0.2Mn0.2O2 commercial cathode. The outstanding electrochemical performance of 5#SiCN anode is attributed to two factors: (1) the formation of a stable and compact solid electrolyte interface layer on the anode surface anode, which protects the electrode from cracking during the charge/discharge cycle; and (2) a large amount of carbon component and the less Si3N4 phase in the 5#SiCN structure, which provides an electrochemical reactive and conductive environment in the SiCN structure, benefit the lithiation/delithiation process. In addition, we explore the reason for the capacity fading of these SiCN anodes."
+  ],
+  "affiliation": [
+    "College of Chemistry and College of Physics and Materials Science, Tianjin Normal University, Tianjin 300387, P. R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.7b01462"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6645351"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6645351?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-29"
+  ],
+  "firstIndexDate": [
+    "2019-08-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-29"
+  ],
+  "dateOfRevision": [
+    "2019-09-01"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-17"
+  ],
+  "firstPublicationDate": [
+    "2017-11-17"
+  ]
+}

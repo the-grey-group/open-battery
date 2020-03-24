@@ -1,0 +1,423 @@
+{
+  "id": [
+    "30261632"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30261632"
+  ],
+  "pmcid": [
+    "PMC6215149"
+  ],
+  "doi": [
+    "10.3390/nano8100760"
+  ],
+  "title": [
+    "Carbon Wrapped Ni₃S₂ Nanocrystals Anchored on Graphene Sheets as Anode Materials for Lithium-Ion Battery and the Study on Their Capacity Evolution."
+  ],
+  "authorString": [
+    "Guan X, Liu X, Xu B, Liu X, Kong Z, Song M, Fu A, Li Y, Guo P, Li H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Guan X"
+          ],
+          "firstName": [
+            "Xianggang"
+          ],
+          "lastName": [
+            "Guan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Materials for Energy and Environment, Qingdao University, Qingdao 266071, China. wl_gxg@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xuehua"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Materials for Energy and Environment, Qingdao University, Qingdao 266071, China. liuxuehua@qdu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu B"
+          ],
+          "firstName": [
+            "Binghui"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Institute of Materials for Energy and Environment, Qingdao University, Qingdao 266071, China. xubinghuiqdu@qdu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xiaowei"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Materials for Energy and Environment, Qingdao University, Qingdao 266071, China. xiaoweiliu1120@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kong Z"
+          ],
+          "firstName": [
+            "Zhen"
+          ],
+          "lastName": [
+            "Kong"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Institute of Materials for Energy and Environment, Qingdao University, Qingdao 266071, China. KZ577718484@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Song M"
+          ],
+          "firstName": [
+            "Meiyun"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Qingdao University, Qingdao 266071, China. m13021668805@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu A"
+          ],
+          "firstName": [
+            "Aiping"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Qingdao University, Qingdao 266071, China. apfu@qdu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yanhui"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Electromechanic Engineering, Qingdao University, Qingdao 266071, China. liyanhui@qdu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo P"
+          ],
+          "firstName": [
+            "Peizhi"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Institute of Materials for Energy and Environment, Qingdao University, Qingdao 266071, China. pzguo@qdu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Hongliang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Institute of Materials for Energy and Environment, Qingdao University, Qingdao 266071, China. lhl@qdu.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2730047"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomaterials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "NLMid": [
+            "101610216"
+          ],
+          "ISSN": [
+            "2079-4991"
+          ],
+          "ESSN": [
+            "2079-4991"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Ni₃S₂ nanocrystals wrapped by thin carbon layer and anchored on the sheets of reduced graphene oxide (Ni₃S₂@C/RGO) have been synthesized by a spray-coagulation assisted hydrothermal method and combined with a calcination process. Cellulose, dissolved in Thiourea/NaOH aqueous solution is chosen as carbon sources and mixed with graphene oxide via a spray-coagulation method using graphene suspension as coagulation bath. The resulted cellulose/graphene suspension is utilized as solvent for dissolving of Ni(NO₃)₂ and then used as raw materials for hydrothermal preparation of the Ni₃S₂@C/RGO composites. The structure of the composites has been investigated and their electrochemical properties are evaluated as anode material for lithium-ion batteries. The Ni₃S₂@C/RGO sample exhibits increasing reversible capacities upon cycles and shows a superior rate performance as well. Such kinds of promising performance have been ascribed to the wrapping effect of carbon layer which confines the dislocation of the polycrystals formed upon cycles and the enhanced conductivity as the integration of RGO conductive substrate. Discharge capacities up to 850 and 630 mAh·g-1 at current densities of 200 and 5000 mA·g-1, respectively, are obtained. The evolution of electrochemical performance of the composites with structure variation of the encapsulated Ni₃S₂ nanocrystals has been revealed by ex-situ TEM and XRD measurements."
+  ],
+  "affiliation": [
+    "Institute of Materials for Energy and Environment, Qingdao University, Qingdao 266071, China. wl_gxg@163.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "201511029"
+          ],
+          "agency": [
+            "Taishan Scholar Foundation of Shandong Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "nickel sulfide",
+        "Carbon Coating",
+        "Graphene",
+        "Ex-situ Tem",
+        "Wrapping Effect"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nano8100760"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6215149"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6215149?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-29"
+  ],
+  "firstIndexDate": [
+    "2018-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-18"
+  ],
+  "dateOfRevision": [
+    "2018-11-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-26"
+  ],
+  "firstPublicationDate": [
+    "2018-09-26"
+  ]
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="elements">
+ <result pre="platform voltages to be higher than 4.5 V on charge." exact="Lithium" post="nickel manganese spinel LiNi 0.5Mn 1.5O 4 (LNMO) cathode"/>
+ <result pre="Zhang Y Liu H Chen B Wu N Wang S" exact="Cerium" post="fluoride coated layered oxide Li 1.2Mn 0.54Ni 0.13Co 0.13O"/>
+</results>

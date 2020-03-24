@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC7022756/results/word/frequencies/results.xml">
+  <result title="frequency" word="surface" count="74"/>
+  <result title="frequency" word="separator" count="57"/>
+  <result title="frequency" word="electrolyte" count="55"/>
+  <result title="frequency" word="coating" count="34"/>
+  <result title="frequency" word="WPS" count="33"/>
+  <result title="frequency" word="energy" count="30"/>
+  <result title="frequency" word="membrane" count="27"/>
+  <result title="frequency" word="APS" count="26"/>
+  <result title="frequency" word="layer" count="26"/>
+  <result title="frequency" word="shows" count="25"/>
+  <result title="frequency" word="free" count="23"/>
+ </snippets>
+</snippetsTree>

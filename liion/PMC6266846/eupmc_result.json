@@ -1,0 +1,416 @@
+{
+  "id": [
+    "30424540"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30424540"
+  ],
+  "pmcid": [
+    "PMC6266846"
+  ],
+  "doi": [
+    "10.3390/ma11112251"
+  ],
+  "title": [
+    "Preparation of LiFePO₄/C Cathode Materials via a Green Synthesis Route for Lithium-Ion Battery Applications."
+  ],
+  "authorString": [
+    "Liu R, Chen J, Li Z, Ding Q, An X, Pan Y, Zheng Z, Yang M, Fu D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu R"
+          ],
+          "firstName": [
+            "Rongyue"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Research Institute of Tsinghua University in Shenzhen, High-Tech Industry Park, Nanshan District, Shenzhen 518057, China. liuryu@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jianjun"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Research Institute of Tsinghua University in Shenzhen, High-Tech Industry Park, Nanshan District, Shenzhen 518057, China. chenjj08@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Zhiwen"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Research Institute of Tsinghua University in Shenzhen, High-Tech Industry Park, Nanshan District, Shenzhen 518057, China. zwlihit@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ding Q"
+          ],
+          "firstName": [
+            "Qing"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Shenzhen Institute of THz Technology and Innovation, Xixiang, Bao'an District, Shenzhen 518102, China. dingqing@huaxunchina.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "An X"
+          ],
+          "firstName": [
+            "Xiaoshuai"
+          ],
+          "lastName": [
+            "An"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Shenzhen Graduate School, Harbin Institute of Technology, Shenzhen University Town, Xili, Shenzhen 518055, China. anxiaoshuai@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Pan Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Shenzhen Institute of THz Technology and Innovation, Xixiang, Bao'an District, Shenzhen 518102, China. panyi@huaxunchina.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng Z"
+          ],
+          "firstName": [
+            "Zhu"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Shenzhen Institute of THz Technology and Innovation, Xixiang, Bao'an District, Shenzhen 518102, China. zzealot99@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang M"
+          ],
+          "firstName": [
+            "Minwei"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Shenzhen Institute of THz Technology and Innovation, Xixiang, Bao'an District, Shenzhen 518102, China. yangpound@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu D"
+          ],
+          "firstName": [
+            "Dongju"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Research Institute of Tsinghua University in Shenzhen, High-Tech Industry Park, Nanshan District, Shenzhen 518057, China. youyou.orange23@163.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2744453"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "In this work, LiFePO₄/C composite were synthesized via a green route by using Iron (III) oxide (Fe₂O₃) nanoparticles, Lithium carbonate (Li₂CO₃), glucose powder and phosphoric acid (H₃PO₄) solution as raw materials. The reaction principles for the synthesis of LiFePO₄/C composite were analyzed, suggesting that almost no wastewater and air polluted gases are discharged into the environment. The morphological, structural and compositional properties of the LiFePO₄/C composite were characterized by X-ray diffraction (XRD), scanning electron microscope (SEM), transmission electron microscopy (TEM), Raman and X-ray photoelectron spectroscopy (XPS) spectra coupled with thermogravimetry/Differential scanning calorimetry (TG/DSC) thermal analysis in detail. Lithium-ion batteries using such LiFePO₄/C composite as cathode materials, where the loading level is 2.2 mg/cm², exhibited excellent electrochemical performances, with a discharge capability of 161 mA h/g at 0.1 C, 119 mA h/g at 10 C and 93 mA h/g at 20 C, and a cycling stability with 98.0% capacity retention at 1 C after 100 cycles and 95.1% at 5 C after 200 cycles. These results provide a valuable approach to reduce the manufacturing costs of LiFePO₄/C cathode materials due to the reduced process for the polluted exhaust purification and wastewater treatment."
+  ],
+  "affiliation": [
+    "Research Institute of Tsinghua University in Shenzhen, High-Tech Industry Park, Nanshan District, Shenzhen 518057, China. liuryu@163.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "JCYJ2017030714570"
+          ],
+          "agency": [
+            "Research Program of Shenzhen"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U1601216, 61505183"
+          ],
+          "agency": [
+            "Chinese National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cathode Material",
+        "Lithium-ion Batteries",
+        "Lifepo4/c Composite",
+        "Green Synthesis Route"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma11112251"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6266846"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6266846?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-15"
+  ],
+  "firstIndexDate": [
+    "2018-11-14"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-21"
+  ],
+  "dateOfRevision": [
+    "2018-12-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-12"
+  ],
+  "firstPublicationDate": [
+    "2018-11-12"
+  ]
+}

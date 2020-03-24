@@ -1,0 +1,392 @@
+{
+  "id": [
+    "31963257"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31963257"
+  ],
+  "pmcid": [
+    "PMC7013668"
+  ],
+  "doi": [
+    "10.3390/ma13020425"
+  ],
+  "title": [
+    "Beyond Lithium-Based Batteries."
+  ],
+  "authorString": [
+    "Biemolt J, Jungbacker P, van Teijlingen T, Yan N, Rothenberg G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Biemolt J"
+          ],
+          "firstName": [
+            "Jasper"
+          ],
+          "lastName": [
+            "Biemolt"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8566-4989",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Van 't Hoff Institute for Molecular Sciences, University of Amsterdam, Science Park 904, 1098XH Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Jungbacker P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Jungbacker"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3467-0937",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Van 't Hoff Institute for Molecular Sciences, University of Amsterdam, Science Park 904, 1098XH Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van Teijlingen T"
+          ],
+          "firstName": [
+            "Tess"
+          ],
+          "lastName": [
+            "van Teijlingen"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Van 't Hoff Institute for Molecular Sciences, University of Amsterdam, Science Park 904, 1098XH Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan N"
+          ],
+          "firstName": [
+            "Ning"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Van 't Hoff Institute for Molecular Sciences, University of Amsterdam, Science Park 904, 1098XH Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Rothenberg G"
+          ],
+          "firstName": [
+            "Gadi"
+          ],
+          "lastName": [
+            "Rothenberg"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1286-4474",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Van 't Hoff Institute for Molecular Sciences, University of Amsterdam, Science Park 904, 1098XH Amsterdam, The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3467-0937",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8566-4989",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1286-4474",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2902146"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "We discuss the latest developments in alternative battery systems based on sodium, magnesium, zinc and aluminum. In each case, we categorize the individual metals by the overarching cathode material type, focusing on the energy storage mechanism. Specifically, sodium-ion batteries are the closest in technology and chemistry to today's lithium-ion batteries. This lowers the technology transition barrier in the short term, but their low specific capacity creates a long-term problem. The lower reactivity of magnesium makes pure Mg metal anodes much safer than alkali ones. However, these are still reactive enough to be deactivated over time. Alloying magnesium with different metals can solve this problem. Combining this with different cathodes gives good specific capacities, but with a lower voltage (<1.3 V, compared with 3.8 V for Li-ion batteries). Zinc has the lowest theoretical specific capacity, but zinc metal anodes are so stable that they can be used without alterations. This results in comparable capacities to the other materials and can be immediately used in systems where weight is not a problem. Theoretically, aluminum is the most promising alternative, with its high specific capacity thanks to its three-electron redox reaction. However, the trade-off between stability and specific capacity is a problem. After analyzing each option separately, we compare them all via a political, economic, socio-cultural and technological (PEST) analysis. The review concludes with recommendations for future applications in the mobile and stationary power sectors."
+  ],
+  "affiliation": [
+    "Van 't Hoff Institute for Molecular Sciences, University of Amsterdam, Science Park 904, 1098XH Amsterdam, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "729.001.022"
+          ],
+          "agency": [
+            "Nederlandse Organisatie voor Wetenschappelijk Onderzoek"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sulfur",
+        "Sodium",
+        "Electrochemistry",
+        "Circular economy",
+        "Energy Storage",
+        "Supercapacitors",
+        "Redox Reaction",
+        "Rechargeable Batteries",
+        "Low-carbon Technologies",
+        "Pest Analysis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma13020425"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7013668"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7013668?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-23"
+  ],
+  "firstIndexDate": [
+    "2020-01-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-12"
+  ],
+  "dateOfRevision": [
+    "2020-03-12"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-16"
+  ],
+  "firstPublicationDate": [
+    "2020-01-16"
+  ]
+}

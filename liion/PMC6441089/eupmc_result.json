@@ -1,0 +1,433 @@
+{
+  "id": [
+    "30926799"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30926799"
+  ],
+  "pmcid": [
+    "PMC6441089"
+  ],
+  "doi": [
+    "10.1038/s41467-019-09510-5"
+  ],
+  "title": [
+    "Scalable synthesis of ant-nest-like bulk porous silicon for high-performance lithium-ion battery anodes."
+  ],
+  "authorString": [
+    "An W, Gao B, Mei S, Xiang B, Fu J, Wang L, Zhang Q, Chu PK, Huo K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "An W"
+          ],
+          "firstName": [
+            "Weili"
+          ],
+          "lastName": [
+            "An"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9275-8457",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The State Key Laboratory of Refractories and Metallurgy and Institute of Advanced Materials and Nanotechnology, Wuhan University of Science and Technology, 430081, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao B"
+          ],
+          "firstName": [
+            "Biao"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "The State Key Laboratory of Refractories and Metallurgy and Institute of Advanced Materials and Nanotechnology, Wuhan University of Science and Technology, 430081, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Mei S"
+          ],
+          "firstName": [
+            "Shixiong"
+          ],
+          "lastName": [
+            "Mei"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "The State Key Laboratory of Refractories and Metallurgy and Institute of Advanced Materials and Nanotechnology, Wuhan University of Science and Technology, 430081, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiang B"
+          ],
+          "firstName": [
+            "Ben"
+          ],
+          "lastName": [
+            "Xiang"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "The State Key Laboratory of Refractories and Metallurgy and Institute of Advanced Materials and Nanotechnology, Wuhan University of Science and Technology, 430081, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu J"
+          ],
+          "firstName": [
+            "Jijiang"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "The State Key Laboratory of Refractories and Metallurgy and Institute of Advanced Materials and Nanotechnology, Wuhan University of Science and Technology, 430081, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Wuhan National Laboratory for Optoelectronics (WNLO), Huazhong University of Science and Technology, 430074, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Q"
+          ],
+          "firstName": [
+            "Qiaobao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, College of Materials, Xiamen University, 361005, Xiamen, Fujian, China. zhangqiaobao@xmu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Chu PK"
+          ],
+          "firstName": [
+            "Paul K"
+          ],
+          "lastName": [
+            "Chu"
+          ],
+          "initials": [
+            "PK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5581-4883",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physics and Department of Materials Science and Engineering, City University of Hong Kong, Tat Chee Avenue, Kowloon, 999077, Hong Kong, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huo K"
+          ],
+          "firstName": [
+            "Kaifu"
+          ],
+          "lastName": [
+            "Huo"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5670-8233",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wuhan National Laboratory for Optoelectronics (WNLO), Huazhong University of Science and Technology, 430074, Wuhan, China. kfhuo@hust.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9275-8457",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5581-4883",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5670-8233",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2787934"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1447"
+  ],
+  "abstractText": [
+    "Although silicon is a promising anode material for lithium-ion batteries, scalable synthesis of silicon anodes with good cyclability and low electrode swelling remains a significant challenge. Herein, we report a scalable top-down technique to produce ant-nest-like porous silicon from magnesium-silicon alloy. The ant-nest-like porous silicon comprising three-dimensional interconnected silicon nanoligaments and bicontinuous nanopores can prevent pulverization and accommodate volume expansion during cycling resulting in negligible particle-level outward expansion. The carbon-coated porous silicon anode delivers a high capacity of 1,271 mAh g-1 at 2,100 mA g-1 with 90% capacity retention after 1,000 cycles and has a low electrode swelling of 17.8% at a high areal capacity of 5.1 mAh cm-2. The full cell with the prelithiated silicon anode and Li(Ni1/3Co1/3Mn1/3)O2 cathode boasts a high energy density of 502 Wh Kg-1 and 84% capacity retention after 400 cycles. This work provides insights into the rational design of alloy anodes for high-energy batteries."
+  ],
+  "affiliation": [
+    "The State Key Laboratory of Refractories and Metallurgy and Institute of Advanced Materials and Nanotechnology, Wuhan University of Science and Technology, 430081, Wuhan, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-09510-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6441089"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6441089?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-10"
+  ],
+  "dateOfCreation": [
+    "2019-03-31"
+  ],
+  "firstIndexDate": [
+    "2019-03-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-05"
+  ],
+  "dateOfRevision": [
+    "2020-03-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-29"
+  ],
+  "firstPublicationDate": [
+    "2019-03-29"
+  ]
+}

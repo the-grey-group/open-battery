@@ -1,0 +1,399 @@
+{
+  "id": [
+    "25363317"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25363317"
+  ],
+  "pmcid": [
+    "PMC4217107"
+  ],
+  "doi": [
+    "10.1038/srep06883"
+  ],
+  "title": [
+    "Germanium microflower-on-nanostem as a high-performance lithium ion battery electrode."
+  ],
+  "authorString": [
+    "Lee GH, Kwon SJ, Park KS, Kang JG, Park JG, Lee S, Kim JC, Shim HW, Kim DW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lee GH"
+          ],
+          "firstName": [
+            "Gwang-Hee"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "GH"
+          ],
+          "affiliation": [
+            "1] Institute for Multi-Convergence of Matter (IMCM), Korea Institute of Science and Technology (KIST), Seoul 136-791, Korea [2] School of Civil, Environmental and Architectural Engineering, Korea University, Seoul 136-713, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kwon SJ"
+          ],
+          "firstName": [
+            "S Joon"
+          ],
+          "lastName": [
+            "Kwon"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Institute for Multi-Convergence of Matter (IMCM), Korea Institute of Science and Technology (KIST), Seoul 136-791, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park KS"
+          ],
+          "firstName": [
+            "Kyung-Soo"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "Institute for Multi-Convergence of Matter (IMCM), Korea Institute of Science and Technology (KIST), Seoul 136-791, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kang JG"
+          ],
+          "firstName": [
+            "Jin-Gu"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "JG"
+          ],
+          "affiliation": [
+            "Institute for Multi-Convergence of Matter (IMCM), Korea Institute of Science and Technology (KIST), Seoul 136-791, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park JG"
+          ],
+          "firstName": [
+            "Jae-Gwan"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "JG"
+          ],
+          "affiliation": [
+            "Institute for Multi-Convergence of Matter (IMCM), Korea Institute of Science and Technology (KIST), Seoul 136-791, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee S"
+          ],
+          "firstName": [
+            "Sungjun"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Division of Physical Metrology, Korea Research Institute of Standards and Science, Daejeon 305-340, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim JC"
+          ],
+          "firstName": [
+            "Jae-Chan"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "School of Civil, Environmental and Architectural Engineering, Korea University, Seoul 136-713, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Shim HW"
+          ],
+          "firstName": [
+            "Hyun-Woo"
+          ],
+          "lastName": [
+            "Shim"
+          ],
+          "initials": [
+            "HW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6745-9663",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Civil, Environmental and Architectural Engineering, Korea University, Seoul 136-713, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim DW"
+          ],
+          "firstName": [
+            "Dong-Wan"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "DW"
+          ],
+          "affiliation": [
+            "School of Civil, Environmental and Architectural Engineering, Korea University, Seoul 136-713, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6745-9663",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2111186"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "6883"
+  ],
+  "abstractText": [
+    "We demonstrate a new design of Ge-based electrodes comprising three-dimensional (3-D) spherical microflowers containing crystalline nanorod networks on sturdy 1-D nanostems directly grown on a metallic current collector by facile thermal evaporation. The Ge nanorod networks were observed to self-replicate their tetrahedron structures and form a diamond cubic lattice-like inner network. After etching and subsequent carbon coating, the treated Ge nanostructures provide good electrical conductivity and are resistant to gradual deterioration, resulting in superior electrochemical performance as anode materials for LIBs, with a charge capacity retention of 96% after 100 cycles and a high specific capacity of 1360 mA h g(-1) at 1 C and a high-rate capability with reversible capacities of 1080 and 850 mA h g(-1) at the rates of 5 and 10 C, respectively. The improved electrochemical performance can be attributed to the fast electron transport and good strain accommodation of the carbon-filled Ge microflower-on-nanostem hybrid electrode."
+  ],
+  "affiliation": [
+    "1] Institute for Multi-Convergence of Matter (IMCM), Korea Institute of Science and Technology (KIST), Seoul 136-791, Korea [2] School of Civil, Environmental and Architectural Engineering, Korea University, Seoul 136-713, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep06883"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4217107"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4217107?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-05-12"
+  ],
+  "dateOfCreation": [
+    "2014-11-03"
+  ],
+  "firstIndexDate": [
+    "2014-11-04"
+  ],
+  "fullTextReceivedDate": [
+    "2014-11-10"
+  ],
+  "electronicPublicationDate": [
+    "2014-11-03"
+  ],
+  "firstPublicationDate": [
+    "2014-11-03"
+  ]
+}

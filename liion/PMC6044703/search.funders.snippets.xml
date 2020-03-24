@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6044703/results/search/funders/results.xml">
+  <result pre="italic;} ACS Omega ACS Omega ao acsodf ACS Omega 2470-1343" exact="American Chemical Society" post="pmcid: 6044703 pmid: 30023809 doi: 10.1021/acsomega.7b01950 : Article Core–Shell"/>
+  <result pre="2018-02-02 3 2 1609 1613 received: 2018-01-15 accepted: 2018-01-23 (C)" exact="American Chemical Society," post="2018 This is an open access article published under"/>
+  <result pre="Energy Science, an Energy Frontier Research Center funded by the" exact="U.S. Department of Energy," post="Office of Science, Basic Energy Sciences. The authors thank"/>
+  <result pre="Frontier Research Center funded by the U.S. Department of Energy," exact="Office of Science," post="Basic Energy Sciences. The authors thank Dr. Josh Kaitz"/>
+  <result pre="funded by the U.S. Department of Energy, Office of Science," exact="Basic Energy Sciences." post="The authors thank Dr. Josh Kaitz for his help"/>
+  <result pre="with NMR spectroscopy. M.B. would also like to acknowledge the" exact="National Science Foundation" post="for support on a Graduate Research Fellowship. References References"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,306 @@
+{
+  "id": [
+    "30411163"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30411163"
+  ],
+  "pmcid": [
+    "PMC6223392"
+  ],
+  "doi": [
+    "10.1186/s11671-018-2770-4"
+  ],
+  "title": [
+    "Facile Solution Synthesis of Red Phosphorus Nanoparticles for Lithium Ion Battery Anodes."
+  ],
+  "authorString": [
+    "Wang F, Zi W, Zhao BX, Du HB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Coordination Chemistry, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing, 210023, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zi W"
+          ],
+          "firstName": [
+            "Wenwen"
+          ],
+          "lastName": [
+            "Zi"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Coordination Chemistry, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing, 210023, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao BX"
+          ],
+          "firstName": [
+            "Bao Xun"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "BX"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Coordination Chemistry, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing, 210023, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Du HB"
+          ],
+          "firstName": [
+            "Hong Bin"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "HB"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Coordination Chemistry, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing, 210023, China. hbdu@nju.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2745055"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanoscale research letters"
+          ],
+          "ISOAbbreviation": [
+            "Nanoscale Res Lett"
+          ],
+          "medlineAbbreviation": [
+            "Nanoscale Res Lett"
+          ],
+          "NLMid": [
+            "101279750"
+          ],
+          "ISSN": [
+            "1931-7573"
+          ],
+          "ESSN": [
+            "1556-276X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "356"
+  ],
+  "abstractText": [
+    "Red phosphorus (RP) has attracted extensive attention as an anodic material for lithium-ion batteries (LIBs) due to its high theoretical specific capacity of 2596 mA h g- 1 and earth abundance. However, the facile and large-scale preparation of the red phosphorus nanomaterials via a solution synthesis remains a challenge. Herein, we develop a simple and facile solution method to prepare red phosphorus nanoparticles (RP NPs). PCl3 readily reacts with HSiCl3 in the presence of amines at room temperature to produce amorphous RP NPs with sizes about 100-200 nm in high yields. When used as an anode for rechargeable lithium ion battery, the RP NP electrode exhibits good electrochemical performance with a reversible capacity of 1380 mA h g- 1 after 100 cycles at a current density of 100 mA g- 1, and Coulombic efficiencies reaching almost 100% for each cycle. The study shows that this solution synthesis is a facile and convenient approach for large-scale production of RP NP materials for use in high-performance Li-ion batteries."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Coordination Chemistry, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing, 210023, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium ion battery",
+        "Anode material",
+        "Solution Method",
+        "Red Phosphorous"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s11671-018-2770-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6223392"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6223392?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-10"
+  ],
+  "firstIndexDate": [
+    "2018-11-10"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-27"
+  ],
+  "dateOfRevision": [
+    "2018-11-25"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-08"
+  ],
+  "firstPublicationDate": [
+    "2018-11-08"
+  ]
+}

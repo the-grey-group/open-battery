@@ -1,0 +1,293 @@
+{
+  "id": [
+    "31858056"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31858056"
+  ],
+  "pmcid": [
+    "PMC6906938"
+  ],
+  "doi": [
+    "10.1021/acsomega.9b02941"
+  ],
+  "title": [
+    "LiTFSI Concentration Optimization in TEGDME Solvent for Lithium-Oxygen Batteries."
+  ],
+  "authorString": [
+    "Chen J, Chen C, Huang T, Yu A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jingwen"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Laboratory of Advanced Materials and Department of Chemistry, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Collaborative Innovation Center of Chemistry for Energy Materials, Fudan University, Shanghai 200438, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen C"
+          ],
+          "firstName": [
+            "Chunguang"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Laboratory of Advanced Materials and Department of Chemistry, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Collaborative Innovation Center of Chemistry for Energy Materials, Fudan University, Shanghai 200438, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Laboratory of Advanced Materials and Department of Chemistry, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Collaborative Innovation Center of Chemistry for Energy Materials, Fudan University, Shanghai 200438, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu A"
+          ],
+          "firstName": [
+            "Aishui"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Laboratory of Advanced Materials and Department of Chemistry, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Collaborative Innovation Center of Chemistry for Energy Materials, Fudan University, Shanghai 200438, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "24"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2892673"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "20708-20714"
+  ],
+  "abstractText": [
+    "Focus on lithium-oxygen batteries is growing due to their various advantages, such as their high theoretical energy densities and renewable and environmentally friendly characteristics. Nonaqueous organic electrolytes play a key role in lithium-oxygen batteries, allowing the conduction of lithium ions and oxygen transfer in the three phase boundaries (cathode-gas-electrolyte). Herein, we report the effect of lithium salt concentrations in single-solvent lithium-oxygen battery systems systematically (using bis(trifluoromethanesulfonyl)imide (LiTFSI) in tetraethylene glycol dimethyl ether (TEGDME)) on their electrochemical performances. The first discharge capacities and cyclabilities exhibit favorable correlations with the lithium salt concentration, of which using 0.4 and 1.5 M LiTFSI show the best discharge capacities and cyclabilities. The specific capacity of the 0.4 M LiTFSI system reaches 7000 mAh g-1, about 1.3 times that of the commonly used 1 M LiTFSI in TEGDME. Cyclic voltammetry with slow scan speeds further investigates the system stability and reaction mechanism. The surface morphology after the discharge and interface impedance after charging, which are examined using scanning electron microscopy (SEM) and electrochemical impedance spectroscopy (EIS), have significant effects on the comprehensive performances. Conductivity and viscosity play mutual roles in the lithium-oxygen battery performance, while the oxygen solvation has little effect."
+  ],
+  "affiliation": [
+    "Laboratory of Advanced Materials and Department of Chemistry, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Collaborative Innovation Center of Chemistry for Energy Materials, Fudan University, Shanghai 200438, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.9b02941"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6906938"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6906938?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-21"
+  ],
+  "firstIndexDate": [
+    "2019-12-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-23"
+  ],
+  "dateOfRevision": [
+    "2019-12-22"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-26"
+  ],
+  "firstPublicationDate": [
+    "2019-11-26"
+  ]
+}

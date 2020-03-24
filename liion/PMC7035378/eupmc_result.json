@@ -1,0 +1,388 @@
+{
+  "id": [
+    "32081860"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32081860"
+  ],
+  "pmcid": [
+    "PMC7035378"
+  ],
+  "doi": [
+    "10.1038/s41598-020-59913-4"
+  ],
+  "title": [
+    "High-energy, Long-cycle-life Secondary Battery with Electrochemically Pre-doped Silicon Anode."
+  ],
+  "authorString": [
+    "Wang Y, Satoh M, Arao M, Matsumoto M, Imai H, Nishihara H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Chemistry, School of Science, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Satoh M"
+          ],
+          "firstName": [
+            "Masaharu"
+          ],
+          "lastName": [
+            "Satoh"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Chemistry, School of Science, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan. m-satoh@chem.s.u-tokyo.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Arao M"
+          ],
+          "firstName": [
+            "Masazumi"
+          ],
+          "lastName": [
+            "Arao"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Analysis Platform Department, NISSAN ARC, LTD., 1 Natsushima-cho, Yokosuka, 237-0061, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Matsumoto M"
+          ],
+          "firstName": [
+            "Masashi"
+          ],
+          "lastName": [
+            "Matsumoto"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Analysis Platform Department, NISSAN ARC, LTD., 1 Natsushima-cho, Yokosuka, 237-0061, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Imai H"
+          ],
+          "firstName": [
+            "Hideto"
+          ],
+          "lastName": [
+            "Imai"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9434-1492",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Analysis Platform Department, NISSAN ARC, LTD., 1 Natsushima-cho, Yokosuka, 237-0061, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nishihara H"
+          ],
+          "firstName": [
+            "Hiroshi"
+          ],
+          "lastName": [
+            "Nishihara"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Chemistry, School of Science, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan. nisihara@chem.s.u-tokyo.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9434-1492",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2908367"
+      ],
+      "dateOfPublication": [
+        "2020 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "3208"
+  ],
+  "abstractText": [
+    "Electrochemical pre-doping of a silicon electrode was investigated to create a new class of rechargeable battery with higher energy density. The electrochemical reaction during pre-doping formed a high-quality solid electrolyte interface (SEI) on the surface of silicon particles, which improved the charge and discharge cycle life with a small irreversible capacity. The surface composition of the pre-doped silicon particles was characterized using transmission electron microscopy (TEM), solid state magic-angle-spinning (MAS) nuclear magnetic resonance (NMR) and X-ray diffraction analysis (XRD). Pressurization promoted SEI growth and lithium binding with silicon to form Li15Si4 accompanied by the reductive reaction product of Li2CO3 originated from electrolyte. The Li15Si4 was highly stable when the silicon anode was used in a full cell, thus resulting in a silicon anode with a long cycle life."
+  ],
+  "affiliation": [
+    "Department of Chemistry, School of Science, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "17938465"
+          ],
+          "agency": [
+            "MEXT | Japan Science and Technology Agency (JST)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-59913-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7035378"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7035378?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-02-22"
+  ],
+  "firstIndexDate": [
+    "2020-02-22"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-01"
+  ],
+  "dateOfRevision": [
+    "2020-03-01"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-21"
+  ],
+  "firstPublicationDate": [
+    "2020-02-21"
+  ]
+}

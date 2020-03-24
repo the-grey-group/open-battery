@@ -1,0 +1,341 @@
+{
+  "id": [
+    "25332885"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25332885"
+  ],
+  "pmcid": [
+    "PMC4198478"
+  ],
+  "doi": [
+    "10.1186/2193-1801-3-585"
+  ],
+  "title": [
+    "The application of graphene in lithium ion battery electrode materials."
+  ],
+  "authorString": [
+    "Zhu J, Duan R, Zhang S, Jiang N, Zhang Y, Zhu J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhu J"
+          ],
+          "firstName": [
+            "Jiping"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Hefei University of Technology, Hefei, Anhui 230009 P R China."
+          ]
+        },
+        {
+          "fullName": [
+            "Duan R"
+          ],
+          "firstName": [
+            "Rui"
+          ],
+          "lastName": [
+            "Duan"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Hefei University of Technology, Hefei, Anhui 230009 P R China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang S"
+          ],
+          "firstName": [
+            "Sheng"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Hefei University of Technology, Hefei, Anhui 230009 P R China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang N"
+          ],
+          "firstName": [
+            "Nan"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Hefei University of Technology, Hefei, Anhui 230009 P R China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yangyang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Hefei University of Technology, Hefei, Anhui 230009 P R China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Hefei University of Technology, Hefei, Anhui 230009 P R China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2115187"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "SpringerPlus"
+          ],
+          "ISOAbbreviation": [
+            "Springerplus"
+          ],
+          "medlineAbbreviation": [
+            "Springerplus"
+          ],
+          "NLMid": [
+            "101597967"
+          ],
+          "ISSN": [
+            "2193-1801"
+          ],
+          "ESSN": [
+            "2193-1801"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "585"
+  ],
+  "abstractText": [
+    "Graphene is composed of a single atomic layer of carbon which has excellent mechanical, electrical and optical properties. It has the potential to be widely used in the fields of physics, chemistry, information, energy and device manufacturing. In this paper, we briefly review the concept, structure, properties, preparation methods of graphene and its application in lithium ion batteries. A continuous 3D conductive network formed by graphene can effectively improve the electron and ion transportation of the electrode materials, so the addition of graphene can greatly enhance lithium ion battery's properties and provide better chemical stability, higher electrical conductivity and higher capacity. In this review, some recent advances in the graphene-containing materials used in lithium ion batteries are summarized and future prospects are highlighted."
+  ],
+  "affiliation": [
+    "School of Materials Science and Engineering, Hefei University of Technology, Hefei, Anhui 230009 P R China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium ion battery",
+        "Graphene",
+        "Electrode Materials",
+        "Electrochemical Characterizations"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/2193-1801-3-585"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4198478"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4198478?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-10-21"
+  ],
+  "dateOfCreation": [
+    "2014-10-21"
+  ],
+  "firstIndexDate": [
+    "2014-10-22"
+  ],
+  "fullTextReceivedDate": [
+    "2014-10-22"
+  ],
+  "dateOfRevision": [
+    "2014-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2014-10-08"
+  ],
+  "firstPublicationDate": [
+    "2014-10-08"
+  ]
+}

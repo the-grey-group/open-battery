@@ -1,0 +1,580 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6787888</article-id><article-id pub-id-type="pmid">31616808</article-id><article-id pub-id-type="doi">10.1021/acsomega.9b01541</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Ceramic Nanoparticle-Decorated Melt-Electrospun
+PVDF Nanofiber Membrane with Enhanced Performance as a Lithium-Ion
+Battery Separator</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Wu</surname><given-names>Shuanglin</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Ning</surname><given-names>Jingxia</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Jiang</surname><given-names>Feng</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Shi</surname><given-names>Jiayi</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><name><surname>Huang</surname><given-names>Fenglin</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Key Laboratory of
+Eco-Textiles, Ministry of Education, <institution>Jiangnan
+University</institution>, Wuxi 214122, <country>China</country></aff><aff id="aff2"><label>&#x02021;</label>Department
+of Wood Science, <institution>University of British Columbia</institution>, Vancouver V6T 1Z4, <country>Canada</country></aff><aff id="aff3"><label>&#x000a7;</label><institution>Jiangsu Anreda New Materials Limited Company</institution>, Changzhou 21300, <country>China</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>flhuang@jiangnan.edu.cn</email>.</corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>09</month><year>2019</year></pub-date><pub-date pub-type="collection"><day>08</day><month>10</month><year>2019</year></pub-date><volume>4</volume><issue>15</issue><fpage>16309</fpage><lpage>16317</lpage><history><date date-type="received"><day>27</day><month>05</month><year>2019</year></date><date date-type="accepted"><day>19</day><month>09</month><year>2019</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2019 American Chemical Society</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01541_0004" id="ab-tgr1"/></p><p>Designing a composite
+separator that can withstand high temperature, deliver high capacity,
+and offer fast charge&#x02013;discharge capability is imperative for
+developing a high-performance lithium-ion battery. Here, a series
+of ceramic nanoparticle-coated nanofiber membranes, including Al<sub>2</sub>O<sub>3</sub>/poly(vinylidene fluoride) (PVDF), SiO<sub>2</sub>/PVDF, and Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, were
+prepared by melt-electrospinning and magnetron sputtering deposition.
+Among all of these composite separators, Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF showed several advantages including excellent
+thermal stability (no dimensional shrinkage at temperature up to 130
+&#x000b0;C and an onset degradation temperature of 445 &#x000b0;C) and superb
+electrolyte compatibility (340% electrolyte uptake). In addition,
+the &#x003b2; phase of the fibrous PVDF membrane as well as the presence
+of polar ceramic nanoparticles on the fiber surface can synergistically
+improve the ion conductivity to 2.055 mS/cm at room temperature, which
+is more than 8 times higher than that of the commercial polyethylene
+(PE) separator. Performance of these ceramic nanoparticle-coated separators
+in a lithium-ion battery demonstrated an improved discharge capacity
+of 161.5 mAh/g and more than 84.3% capacity retention rate after 100
+cycles. The ceramic nanoparticle-coated PVDF separators also maintained
+58.4% capacity at a high current density of 8C, which is better than
+the 49.8% capacity for the commercial PE separator. Therefore, the
+ceramic nanoparticle-coated PVDF membrane proves to be a promising
+separator for a high-power and more secure lithium-ion battery.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao9b01541</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao-2019-01541c</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>The lithium-ion battery has witnessed widespread applications ranging
+from portable electronics to electric vehicles or even electric grids,
+all benefiting from its high energy density, high power density, long
+cycle life, and environmental friendliness.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> The design of the lithium-ion battery includes a cathode, an anode,
+and a separator, where the separator is a critical component that
+separates the anode from the cathode to prevent short circuit while
+allowing rapid transport of lithium ions in the liquid electrolyte.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> To date, most commercial separators are made
+from polyolefin membranes. Although these membranes are characterized
+with excellent mechanical strength and chemical stability, they also
+suffer from severe disadvantages such as low porosity (about 40%),
+poor electrolyte wettability, low thermal stability, and unidirectional
+mechanical integrity.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref3">3</xref></sup></p><p>Poly(vinylidene fluoride)
+(PVDF) has recently been investigated for a lithium-ion separator
+due to its superior film properties as compared to polyolefin ones,
+including good electrolyte affinity, excellent thermal stability,
+and superb electrochemical performances.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Other than these excellent physical properties, the &#x003b2; phase
+(TTTT) of the PVDF crystal shows the highest polarity and dielectric
+constant among all five crystal phases of PVDF,<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> which can benefit the ionization of lithium salt in the
+electrolyte, thereby increasing the lithium ion concentration in the
+electrolyte and improving the ionic conductivity. It has also been
+reported that both strong electric field and high temperature are
+favorable for the growth of the &#x003b2; phase.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> Therefore,
+it is significant to explore a film-forming strategy that can provide
+both high temperature and strong
+electric field.</p><p>Recently, electrospinning has been widely used
+in fabricating nanofibrous membranes for lithium-ion battery separator
+applications,<sup><xref ref-type="bibr" rid="ref8">8</xref>&#x02212;<xref ref-type="bibr" rid="ref10">10</xref></sup> as
+electrospinning can offer membranes with favorable characteristics
+such as controllable fiber diameter, large specific surface area,
+and high porosity, which will necessarily lead to high electrolyte
+absorption and retention rate, as well as improved lithium ion conductivity.
+In general, electrospinning can be performed using either polymer
+melts or polymer solutions.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> In comparison,
+melt-electrospinning (ME) is more economical and environmentally friendly
+due to the absence of organic solvents and the simplicity of the process.<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup> In addition, as introduced previously, the high temperature and
+strong electric field during melt-electrospinning can favor the growth
+of the &#x003b2; phase of PVDF, which is hypothesized to improve the
+electrochemical performance of the PVDF separator.</p><p>Coating commercial
+lithium-ion battery separators with ceramic layers, such as SiO<sub>2</sub>, Al<sub>2</sub>O<sub>3</sub>, ZrO2, TiO<sub>2</sub>, and
+CeO<sub>2</sub>,<sup><xref ref-type="bibr" rid="ref14">14</xref>&#x02212;<xref ref-type="bibr" rid="ref19">19</xref></sup> has been extensively explored as an effective and
+economic way to improve the thermal stability and wettability of the
+separator. However, the conventional ceramic coating can also lead
+to several intrinsic disadvantages. First, the ceramic coating can
+block separator pores, resulting in poor electrolyte permeability
+and increased internal resistance of batteries.<sup><xref ref-type="bibr" rid="ref20">20</xref>&#x02212;<xref ref-type="bibr" rid="ref22">22</xref></sup> Second, the ceramic-coated separator consumes
+more than 20% binders that leads to increased production cost.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> In addition, the large thickness of the ceramic
+layer, ranging from 3 to 20 &#x003bc;m, can increase the transfer resistance
+of the composite separator.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> To address
+these problems, we propose a simple and feasible method, magnetron
+sputtering, to deposit ceramic nanoparticles onto the surface of the
+separator. Magnetron sputtering deposition (MSD) has been demonstrated
+as an effective surface modification method with a precise control
+of the nanoparticle shape, size, and distribution by adjusting the
+process parameters, such as power, pressure, and deposition time.<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup></p><p>Herein, we successfully fabricate a novel fibrous separator
+by melt-electrospinning and magnetron sputtering. It is hypothesized
+that melt-electrospinning can introduce both high temperature and
+strong electric field to induce the growth of the &#x003b2; phase in
+the PVDF membrane. In addition, magnetron sputtering can grow nanometer-thick
+ceramic nanoparticle layers on PVDF fibers, which can further enhance
+electrolyte and lithium electrode affinity. By means of melt-electrospinning
+and magnetron sputtering, the as-fabricated ceramic nanoparticle-coated
+membrane showed improved thermal stability, electrolyte uptake and
+affinity, lowered impedance, and interfacial resistance, as well as
+enhanced discharge capacity and cycling performance in the lithium-ion
+battery.</p></sec><sec id="sec2"><label>2</label><title>Results and
+Discussion</title><sec id="sec2.1"><label>2.1</label><title>Morphological
+and Chemical Analyses of Membranes</title><p>Fourier transform infrared
+(FTIR) spectra of both the PVDF pellet and melt-electrospun membrane
+were acquired to investigate the effect of temperature and electric
+field on the crystalline-phase transformation. Both spectra showed
+the characteristic absorption peaks at 1186, 976, 876, 796, 765, and
+615 cm<sup>&#x02013;1</sup>, associated with the &#x003b1; crystalline
+phase of PVDF, as well as those at 1279, 1074, and 840 cm<sup>&#x02013;1</sup>, associated with the &#x003b2; phase of PVDF.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> Compared to the spectrum of the PVDF pellet, the peaks at 1148 and
+850 cm<sup>&#x02013;1</sup> associated with the &#x003b1; phase disappeared
+in ME-PVDF, whereas the intensities of other &#x003b1;-phase peaks at
+976, 796, 765, and 615 cm<sup>&#x02013;1</sup> decreased significantly.
+In addition, it clearly showed that the &#x003b2;-phase peaks at 1279
+and 840 cm<sup>&#x02013;1</sup> increased significantly after the melt-electrospun
+treatment. At operating temperature above the melting point of PVDF,
+the crystal phase in PVDF pellets starts to melt and the molecular
+chain mobility increases with the increase of temperature;<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> under the action of the electric field, the
+rotation of the molecular chain and the orientation of the intrinsic
+dipoles lead to the all-trans plane zigzag conformation, thereby increasing
+the PVDF &#x003b2;-phase content as fibers cool down.<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup> The
+change of these peaks indicates that both the high temperature and
+strong electric field can synergistically increase the &#x003b2;-phase
+content of the ME-PVDF.</p><p>The &#x003b2;-phase content of each membrane
+was calculated from the FTIR spectra by applying<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01541_m001" position="anchor"/><label>1</label></disp-formula>where <italic>F</italic>(&#x003b2;) represents the &#x003b2;-phase content; <italic>A</italic><sub>&#x003b1;</sub> and <italic>A</italic><sub>&#x003b2;</sub> are the absorbances at 765 and 840 cm<sup>&#x02013;1</sup>, respectively,
+corresponding to the &#x003b1;- and &#x003b2;-phase material; and <italic>K</italic><sub>&#x003b1;</sub> and <italic>K</italic><sub>&#x003b2;</sub> are the absorption coefficients at the respective wavenumber. The
+value of <italic>K</italic><sub>&#x003b1;</sub> is 6.1 &#x000d7; 10<sup>4</sup> cm<sup>2</sup>/mol and that of <italic>K</italic><sub>&#x003b2;</sub> is 7.7 &#x000d7; 10<sup>4</sup> cm<sup>2</sup>/mol.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> The <italic>F</italic>(&#x003b2;) values of the PVDF pellet
+and ME-PVDF are 0.36 &#x000b1; 0.01 and 0.61 &#x000b1; 0.04, respectively.
+Therefore, the significant increase of the <italic>F</italic>(&#x003b2;)
+value in the melt-eletrospun membrane suggests that the melt-electrospinning
+process can promote the crystal formation of the
+&#x003b2; phase (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>FTIR spectra of ME-PVDF
+and PVDF pellets.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01541_0009" id="gr1" position="float"/></fig><p>The morphologies and porous structure of the polyethylene
+(PE) membrane, ME-PVDF, and ceramic nanoparticle-coated membranes
+were demonstrated by scanning electron microscopy (SEM) images (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>). The PE membrane
+with a typical porous structure is shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>e. The as-spun PVDF membrane presents a three-dimensional
+network structure with abundant open pores among the fibers (the inset
+in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a). ME-PVDF
+fibers show a rather smooth surface with an average diameter of 3.18
+&#x000b1; 0.63 &#x003bc;m. After sputter-coating, the PVDF fibers clearly
+showed increased roughness and the surface becomes more corrugated
+(<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b&#x02013;d).
+The increased surface roughness is hypothesized to be beneficial to
+the liquid electrolyte absorption, which will be further discussed
+in the latter part. As expected, the average fiber diameters increased
+to 3.28 &#x000b1; 0.04, 3.25 &#x000b1; 0.08, and 3.26 &#x000b1; 0.02 &#x003bc;m
+for the Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF, and SiO<sub>2</sub>/PVDF membranes, respectively,
+corresponding to respective ca. 50, 35, and 40 nm ceramic nanoparticle
+coating layers. Although the fiber diameters increased after sputter-coating,
+all of the ceramic nanoparticle-coated membranes remain porous, suggesting
+that the open pores were unaffected by the deposition of nanoparticles
+(the inset in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b&#x02013;d). The presence of ceramic nanoparticles on the surface
+of ME-PVDF fibers was verified from the energy-dispersive spectrum
+(EDS) (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>). The
+uncoated PVDF membrane showed only signals for C and F, whereas Al
+and Si atoms can be observed from the Al<sub>2</sub>O<sub>3</sub>-
+and SiO<sub>2</sub>-coated membrane with respective 0.12 and 0.32
+wt % content (inset table in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>). The less Al content on the membrane could be due
+to the low-power setup during coating. As expected, both Al and Si
+atoms could be observed from the Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF composite membrane, with respective 0.04 and 0.12 wt
+% content. Overall, the Al and Si contents on the Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF composite membrane are less than those
+on the respective Al<sub>2</sub>O<sub>3</sub>/PVDF and SiO<sub>2</sub>/PVDF membrane, as the coating time was halved for the Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF membrane.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>SEM images of (a) ME-PVDF, (b) Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, (c) Al<sub>2</sub>O<sub>3</sub>/PVDF, (d)
+SiO<sub>2</sub>/PVDF composite membrane, and (e) PE membrane. Insets
+are low-magnification
+SEM images.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01541_0001" id="gr2" position="float"/></fig><fig id="fig3" position="float"><label>Figure 3</label><caption><p>EDS elemental
+analysis of ME-PVDF, Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF,
+Al<sub>2</sub>O<sub>3</sub>/PVDF, and SiO<sub>2</sub>/PVDF composite
+nanofiber membranes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01541_0006" id="gr3" position="float"/></fig></sec><sec id="sec2.2"><label>2.2</label><title>Thermal Stability of the Membranes</title><p>The thermal stability of the separator membrane is a critical safety
+factor for lithium-ion batteries, as heat can be generated from continuous
+electrochemical reactions during charging and discharging within the
+battery. In addition, LIB has also been used at elevated temperature
+and/or at excessive discharge current, which requires high thermal
+stability that can withstand the temperature rise during service.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> Separators without satisfying thermal stability
+tend to shrink or melt as the temperature increases, which can lead
+to short circuit or even explosion. The dimensional changes of polyethylene
+(PE) and ME-PVDF membranes after heating at 130 &#x000b0;C for 0.5 h
+are presented in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a. At a starting diameter of 18 mm, the PE membrane shrank drastically
+with more than 47% areal shrinkage, whereas the ME-PVDF membrane only
+showed approximately 11% areal shrinkage. The higher thermal stability
+of the ME-PVDF membrane is expected considering its higher melting
+point of 170 &#x000b0;C as compared to the 130 &#x000b0;C for PE. After
+coating with ceramic nanoparticles, no obvious shrinkage could be
+observed, which demonstrates that the deposited ceramic nanoparticles
+can significantly improve the thermal stability of the ME-PVDF membranes.
+The uniformly deposited ceramic nanoparticles can serve as a thermostable
+framework to resist the dimensional variation of PVDF separators at
+high temperatures.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(a) Photographs of PE and ME-PVDF, Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF, and
+SiO<sub>2</sub>/PVDF separator membranes before and after thermal
+treatment at 130
+&#x000b0;C for 2 h. (b) Thermogravimetric (TG) and (c) differential scanning
+calorimetry (DSC) curves of ME-PVDF, Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF, and SiO<sub>2</sub>/PVDF membranes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01541_0002" id="gr4" position="float"/></fig><p>The thermal stabilities of the ME-PVDF, Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF, and SiO<sub>2</sub>/PVDF composite membranes were further
+characterized by thermogravimetric (TG) curves under a nitrogen atmosphere
+from 200 to 700 &#x000b0;C (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b). The TG curves of all four membranes showed almost
+no mass loss at temperatures below 400 &#x000b0;C, indicating high thermal
+stability of the PVDF fibrous membrane. The onset degradation temperature
+was used to identify the temperature at which the membranes start
+to degrade, which showed increased values from 415 &#x000b0;C for the
+uncoated membrane to 421 &#x000b0;C for both Al<sub>2</sub>O<sub>3</sub>/PVDF and SiO<sub>2</sub>/PVDF membranes and 445 &#x000b0;C for the
+Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF membrane. The increased
+onset temperature after ceramic nanoparticle coating indicates improved
+thermal stability, which is caused by the more thermally stable outer
+inorganic layer. However, the char residues at 700 &#x000b0;C decreased
+with ceramic nanoparticle coating, showing respective values of 33.18,
+29.41, 27.97, and 24.63% for ME-PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF,
+SiO<sub>2</sub>/PVDF, and Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF membranes. The decreased char residues might be due to the
+generation of hydrogen fluoride during the decomposition of PVDF,<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> which can easily react with Al<sub>2</sub>O<sub>3</sub> and SiO<sub>2</sub> to lead to greater weight loss on the
+residual portion of the membranes. The melting temperature of all
+four PVDF membrane was investigated from DSC curves (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c), showing slightly increased
+values from 168.6 &#x000b0;C for the pure ME-PVDF separator to 169.8,
+169.7, and 169.7 &#x000b0;C for Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF, and SiO<sub>2</sub>/PVDF,
+respectively. The slightly increased melting temperature by the ceramic
+nanoparticle coating can be attributed to its interaction with PVDF
+fibers, which could restrict the polymer chain mobility.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup></p><p>In essence, ceramic nanoparticle coating
+can significantly improve the thermal stability of the ME-PVDF membranes,
+as indicated by less thermal shrinkage at 130 &#x000b0;C, increased melting
+temperature, and increased onset degradation temperature. Therefore,
+the ceramic nanoparticle-coated PVDF membrane can be better suited
+for lithium-ion battery applications.</p></sec><sec id="sec2.3"><label>2.3</label><title>Porosity and Electrolyte Uptake of Membranes</title><p>Ionic conductivity represents the rate of lithium-ion transportation
+between the cathode and anode and is essential to the LIB performance.
+It is highly dependent on the porosity and affinity toward electrolyte.
+Compared to the commercial PE separator, the ME-PVDF separator showed
+much higher porosity (74.8 vs 46.2%) (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). The high porosity of the melt-electrospun
+membrane is expected due to the large interfiber spacings as previously
+observed from SEM imaging. In contrast, pores on the commercial PE
+separator were generated by hot stretching of the PE film, which can
+only create a limited number of open pores within the film structure.
+It is therefore concluded that melt-electrospinning can effectively
+fabricate highly porous membranes for LIB separators. Ceramic nanoparticle
+coating can slightly lower the porosity to around 62&#x02013;69% due
+to the increased fiber diameters, but it is still significantly higher
+than the porosity of the PE membrane.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Performance
+of ME-PVDF,
+Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF, SiO<sub>2</sub>/PVDF, and PE Membranes</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">sample</th><th style="border:none;" align="center">thickness (&#x003bc;m)</th><th style="border:none;" align="center" char=".">bulk
+resistance (&#x003a9;)</th><th style="border:none;" align="center" char=".">ion conductivity (mS/cm,&#x000a0;25&#x000a0;&#x000b0;C)</th><th style="border:none;" align="center" char=".">electrolyte uptake (%)</th><th style="border:none;" align="center" char=".">porosity (%)</th></tr></thead><tbody><tr><td style="border:none;" align="left">ME-PVDF</td><td style="border:none;" align="left">50</td><td style="border:none;" align="char" char=".">3.30</td><td style="border:none;" align="char" char=".">0.754</td><td style="border:none;" align="char" char=".">339.9</td><td style="border:none;" align="char" char=".">74.8</td></tr><tr><td style="border:none;" align="left">Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF</td><td style="border:none;" align="left">50.1</td><td style="border:none;" align="char" char=".">1.21</td><td style="border:none;" align="char" char=".">2.055</td><td style="border:none;" align="char" char=".">366.2</td><td style="border:none;" align="char" char=".">61.8</td></tr><tr><td style="border:none;" align="left">Al<sub>2</sub>O<sub>3</sub>/PVDF</td><td style="border:none;" align="left">50.1</td><td style="border:none;" align="char" char=".">1.90</td><td style="border:none;" align="char" char=".">1.309</td><td style="border:none;" align="char" char=".">346.6</td><td style="border:none;" align="char" char=".">69.2</td></tr><tr><td style="border:none;" align="left">SiO<sub>2</sub>/PVDF</td><td style="border:none;" align="left">50.1</td><td style="border:none;" align="char" char=".">2.63</td><td style="border:none;" align="char" char=".">0.946</td><td style="border:none;" align="char" char=".">369.6</td><td style="border:none;" align="char" char=".">62.4</td></tr><tr><td style="border:none;" align="left">PE</td><td style="border:none;" align="left">25</td><td style="border:none;" align="char" char=".">5.14</td><td style="border:none;" align="char" char=".">0.242</td><td style="border:none;" align="char" char=".">155.6</td><td style="border:none;" align="char" char=".">46.2</td></tr></tbody></table></table-wrap><p>Apart from high porosity,
+good affinity between the separator and electrolyte is also critical
+for its electrochemical performance, as good wetting performance can
+facilitate the fast lithium-ion transport through a membrane. The
+wetting properties of the four membranes were evaluated by the liquid
+electrolyte spreading test (with 10 &#x003bc;L of electrolyte) and contact
+angle measurement (with 5 &#x003bc;L of electrolyte). The spreading
+of a drop of liquid electrolyte on the surface of ME-PVDF, Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF, SiO<sub>2</sub>/PVDF, and PE membranes was recorded in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a, showing limited
+wetting on the PE membrane and fast spreading through the whole ME-PVDF,
+Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF, and SiO<sub>2</sub>/PVDF membranes within 2 s. In addition,
+the liquid electrolyte contact angles (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b) on ME-PVDF, Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF, SiO<sub>2</sub>/PVDF, and PE membranes were quantified as 25.1, 18.3, 20.7,
+16.0, and 46.3&#x000b0;, respectively. It is clear that the PVDF membrane
+showed much better wetting behavior than that of the PE membrane.
+This could be due to the existence of the polar bonds (C&#x02013;F)
+in the PVDF separator, therefore generating strong interaction with
+the polar electrolyte. In contrast, the PE membrane was made from
+hydrophobic polyolefin, which resulted in poor wettability with the
+polar liquid electrolyte.<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> As expected, coating
+of the PVDF membrane with ceramic nanoparticles can further lower
+the contact angle due to the more polar Si&#x02013;O and Al&#x02013;O
+bonds. An electrolyte update test was conducted to further confirm
+the porosity and wettability of the membranes. Due to its low porosity
+and poor wettability with the liquid electrolyte, the PE membrane
+only showed 155.6% electrolyte uptake, which is less than half of
+the electrolyte uptake for the uncoated and coated PVDF membranes
+(346.6&#x02013;369.6%) (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). Combining with high porosity, high electrolyte uptake,
+and better wettability, the ceramic nanoparticle-coated membranes
+were expected to demonstrate improved electrochemical performance
+as compared to that of the commercial PE membrane or uncoated PVDF
+membrane.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>(a) Photographs of the wetting behavior. (b) Initial contact
+angles
+of the ME-PVDF, Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF,
+Al<sub>2</sub>O<sub>3</sub>/PVDF, SiO<sub>2</sub>/PVDF, and PE membranes
+with the liquid electrolyte.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01541_0007" id="gr5" position="float"/></fig></sec><sec id="sec2.4"><label>2.4</label><title>Electrochemical
+Performance of Membranes</title><p>To determine the electrochemical
+performance of ME-PVDF and ceramic nanoparticle-coated membranes,
+electrochemical impedance spectra (EIS) were used to measure their
+ionic conductivity (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a,b). Based on <xref rid="eq4" ref-type="disp-formula">eq <xref rid="eq4" ref-type="disp-formula">4</xref></xref>, the ionic conductivities of the PE, ME-PVDF,
+Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF, and SiO<sub>2</sub>/PVDF separators were calculated
+to be 0.242, 0.754, 2.055, 1.309, and 0.946 at room temperature, respectively.
+The ionic conductivity of the PVDF membrane is more than 3 times of
+that of the PE membrane, which can be explained by its higher porosity
+and better electrolyte affinity. The ceramic nanoparticle coating
+can further enhance the ionic conductivity due to the improved liquid
+electrolyte affinity by the more polar inorganic oxide nanoparticles.
+The compatibility of the lithium electrode with these membranes was
+also evaluated by EIS using a Li/membrane/Li symmetric cell. <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>c shows the Nyquist
+plots of the Li/separator/Li cell at the open-circuit potential. The
+interfacial impedance between the lithium electrode and PE membrane
+was 83 &#x003a9;, which can be significantly reduced to 33, 29, 30,
+and 26 &#x003a9; for ME-PVDF, Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF, and SiO<sub>2</sub>/PVDF
+membranes, respectively. The cell using ceramic nanoparticle-modified
+separators showed a reduced electrochemical resistance than that of
+the ME-PVDF separator, indicating smooth ion transport between the
+ceramic nanoparticle-coated separators and electrodes. Moreover, the
+SiO<sub>2</sub>/PVDF membrane exhibited the smallest interfacial impedance
+and therefore had the best separator&#x02013;electrode compatibility.
+This is consistent with a previous research that a very thin inorganic
+oxide layer can negate the interfacial impedance between the solid-state
+electrolyte and lithium metal, owing to the high binding energy between
+lithium and the alumina layer.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup></p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>(a) Electrochemical impedance
+spectroscopy (EIS) profiles
+of ME- PVDF, Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF, SiO<sub>2</sub>/PVDF, and PE membranes
+at 25 &#x000b0;C; (b) magnified image of the EIS profile; (c) AC impedance
+spectra, and (d) linear sweep voltammograms (LSV) of the different
+separators.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01541_0008" id="gr6" position="float"/></fig><p>The electrochemical stability of the composite membranes was investigated
+by the linear sweep voltammetry (LSV) method. The electrochemical
+operating window of membranes is described in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>d. The obtained result for the PE separator
+saturated with the liquid electrolyte indicated that oxidative decomposition
+happens at the potential of about 4.5 V (vs Li/Li<sup>+</sup>), which
+was ascribed to the low oxidative stability of the solvent components
+in the organic liquid electrolyte. Much higher oxidative potentials
+can be observed for the ceramic-modified separators. The Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF separator was stable up to about
+5.7 V electrochemically.</p></sec><sec id="sec2.5"><label>2.5</label><title>Battery Performance Analysis</title><p>The charge&#x02013;discharge
+measurement can directly assess the effect of the ceramic nanoparticle-coated
+separators on the electrochemical performance of batteries. <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a displays the initial
+charge&#x02013;discharge profiles of Li/separator/LiNiCoMn cells cycled
+at 0.5C. The initial discharge capacities for the battery using PE
+and ME-PVDF membranes as separators were 153.0 and 156.1 mAh/g, respectively,
+which slightly increased to 161.5, 159.8, and 158.8 mAh/g for Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF, and SiO<sub>2</sub>/PVDF separators, respectively. It can
+be observed that the LiNiCoMn electrode using the ceramic nanoparticle-coated
+separators exhibited a slightly higher initial reversible capacity
+and lower charge&#x02013;discharge potential gap compared with those
+of the one using the PE separator, possibly due to the higher ionic
+conductivity of the ceramic nanoparticle-coated membranes (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a).</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>(a) Initial
+discharge capacity of the cells. (b) Battery cycle performance under
+100 cycles of the 0.5C charge/discharge rate. (c) Rate capacity tests
+using the ME-PVDF, Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF,
+Al<sub>2</sub>O<sub>3</sub>/PVDF, SiO<sub>2</sub>/PVDF, and PE separators.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01541_0003" id="gr7" position="float"/></fig><p><xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b presents the cyclic
+stability of the LiNiCoMn cathode using various separators in the
+voltage range of 2.8&#x02013;4.2 V under 0.5C rate at room temperature.
+Other than the slightly different initial capacity of the LiNiCoMn
+cathode for all five separators, as in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a, the fading rate also varies for these
+separators upon cycling. After 100 cycles, the discharge capacities
+of PE, ME-PVDF, Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF,
+Al<sub>2</sub>O<sub>3</sub>/PVDF, and SiO<sub>2</sub>/PVDF separators
+decreased to 120.5, 126.9, 135.6, 133.8, and 130.2 mAh/g, with specific
+capacity retention rates of 78.4, 81.3, 84.3, 83.7, and 82.0%, respectively.
+These results indicated that the Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF separator had the best performance in the lithium-ion
+battery, which indicated that the affinity of the ceramic nanoparticles
+to the electrolyte and the increased &#x003b2; phase of PVDF can improve
+the electrochemical performance of separators.</p><p><xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c depicts the rate capability
+of LiNiCoMn/separator/Li cells with PE, ME-PVDF, Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF, Al<sub>2</sub>O<sub>3</sub>/PVDF, and
+SiO<sub>2</sub>/PVDF separators at discharge currents from 0.2C to
+8C. With the increase of the current rate, the ceramic nanoparticle-coated
+separators exhibited improved capacity retention compared with that
+of the PE separator. For instance, at the current density of 8C, the
+cell assembled with the PE separator maintained 49.8% capacity relative
+to the capacity at 0.2C, whereas the cell containing the Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF separator maintained 58.4%. The
+superior rate performance of the Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF separator can be attributed to better wetting ability
+and higher ion conductivity. In addition, the binder-free, thin-layer
+ceramic nanoparticles facilitated efficient ion transport without
+affecting the pore structure.</p></sec></sec><sec id="sec3"><label>3</label><title>Conclusions</title><p>In summary, we prepared a ceramic
+nanoparticle-coated PVDF fiber membrane for lithium-ion batteries
+through melt-electrospinning (ME) and magnetron sputtering deposition
+(MSD). Under the synergistic effect of electric field and temperature
+of melt-electrospinning, the &#x003b2; phase of PVDF could improve effectively,
+thereby improving the ion conductivity. Compared to a commercial PE
+separator, the ceramic nanoparticle-coated separator exhibited good
+wettability, high ionic conductivity, and excellent thermal stability
+at high temperatures. The resulting lithium-ion battery containing
+the Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF composite separator
+exhibited high discharge capacity of 161.5 mAh/g and excellent cycling
+stability that retained a capacity of 135.6 mAh/g after 100 cycles,
+corresponding to 84.3% specific capacity retention rate. It is therefore
+concluded that the ceramic nanoparticle-coated ME-PVDF composite membranes
+are superior to PE membranes to be used as separators in lithium-ion
+batteries.</p></sec><sec id="sec4"><label>4</label><title>Experimental
+Section</title><sec id="sec4.1"><label>4.1</label><title>Melt-Electrospinning
+and Ceramic Nanoparticle Coating of the PVDF Membrane</title><p>PVDF
+with a number-average molecular weight (<italic>M</italic><sub>n</sub>) of 5.5 &#x000d7; 10<sup>4</sup> g/mol and low viscosity (melt flow
+index (MFI) of 100 g/10 min at 230 &#x000b0;C) was purchased from Yijia
+Plastic Materials Co., Ltd. A homemade melt-electrospinning instrument
+(<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a) was used
+to fabricate the PVDF nanofiber membrane. For a typical spinning experiment,
+a portion of 2.16 kg of PVDF pellets was loaded into a copper syringe
+(&#x003a6; = 24 mm) with a blunt 0.8 mm spinneret. Melt-electrospinning
+was conducted at 220 &#x000b0;C to melt the PVDF in the syringe. A voltage
+of 20 kV was applied to the spinneret, and the spinning speed was
+set to 5 mL/h. A collecting plate covered by a piece of aluminum foil
+was used as a collector for fiber deposition.</p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>Schematics
+of (a) melt-electrospinning
+device and (b) magnetron sputtering deposition setup.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01541_0005" id="gr8" position="float"/></fig><p>After electrospinning,
+the melt-electrospun PVDF (ME-PVDF) separator was dried at 60 &#x000b0;C
+and then sputter-coated with ceramic nanoparticles using a magnetron
+sputtering setup (JZCK-420B, Shenyang Jingyi Research Technology Co.
+Ltd., China) (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>b) from both silicon and aluminum targets (99.9% purity, Hefei Crystal
+Materials Technology Co., Ltd.). Direct current and radio-frequency
+magnetron sputtering deposition techniques were used to deposit Al<sub>2</sub>O<sub>3</sub> and SiO<sub>2</sub> layers, respectively. The
+sputter chamber was first vacuumed to 8.9 &#x000d7; 10<sup>&#x02013;5</sup> Pa before purging with working (Ar) and reactive (O<sub>2</sub>)
+gases of 99.99% purity at different proportions (<xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>). Sputter-coating was carried
+out under a gas pressure of 0.8 Pa with respective power listed in <xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>, and the coated ME-PVDF
+was named as SiO<sub>2</sub>/PVDF and Al<sub>2</sub>O<sub>3</sub>/PVDF.
+For the composite ceramic nanoparticle-coated PVDF membrane (SiO<sub>2</sub>/Al<sub>2</sub>O<sub>3</sub>/PVDF), the magnetron cosputtering
+method with two individual sputtering guns for SiO<sub>2</sub> and
+Al<sub>2</sub>O<sub>3</sub> was employed. The specific sputtering
+parameters in <xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref> were selected based on the different oxidation properties of the
+silicon and aluminum targets. The thickness of the sputter-coated
+layer was determined using a quartz crystal microbalance (FTM107-A,
+Shanghai Taiyao Co. Ltd., China) as a catcher, and the thickness of
+the coated ceramic nanoparticle layers of all three membranes is around
+200 nm. Immediately after sputter-coating, the ceramic nanoparticle-coated
+ME-PVDF membrane was further pressed using a hot press (Carver 4128,
+Carver Company, USA) at 75 &#x000b0;C and 10&#x0202f;000 psi for 10 min
+to ensure a flat surface for the lithium-ion battery separator application.</p><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Specific Sputtering Parameters Used
+for the Three ME-PVDF Membranes</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char=":"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">sample</th><th style="border:none;" align="center" char=":">Ar/O<sub>2</sub></th><th style="border:none;" align="center">power
+(W)</th></tr></thead><tbody><tr><td style="border:none;" align="left">SiO<sub>2</sub>/PVDF</td><td style="border:none;" align="char" char=":">4:1</td><td style="border:none;" align="left">45</td></tr><tr><td style="border:none;" align="left">Al<sub>2</sub>O<sub>3</sub>/PVDF</td><td style="border:none;" align="char" char=":">10:1</td><td style="border:none;" align="left">24</td></tr><tr><td rowspan="2" style="border:none;" align="left">SiO<sub>2</sub>/Al<sub>2</sub>O<sub>3</sub>/PVDF</td><td rowspan="2" style="border:none;" align="char" char=":">7:1</td><td style="border:none;" align="left">SiO<sub>2</sub>: 45</td></tr><tr><td style="border:none;" align="left">Al<sub>2</sub>O<sub>3</sub>: 24</td></tr></tbody></table></table-wrap></sec><sec id="sec4.2"><label>4.2</label><title>Characterization of
+the Ceramic Nanoparticle-Coated Membrane</title><p>Both melt-electrospun
+membranes and pellets were analyzed by Fourier transform infrared
+(FTIR) spectroscopy (Nicoletis10, Thermo Fisher Scientific Technology
+Co., Ltd., China) in the range of 600&#x02013;4000 cm<sup>&#x02013;1</sup> to verify the PVDF crystalline-phase transformation. The membrane
+was sputter-coated with gold and examined by scanning electron microscopy
+(SU1510, Hitachi, Japan) at an accelerating voltage of 10 kV for the
+microscopic structure and morphology. The presence of inorganic elements
+of coated ceramic nanoparticles on the ME-PVDF membrane was investigated
+using energy-dispersive spectroscopy (EDS) (Quantax400, Bruker, German).</p><p>All membranes were thermally treated at 130 &#x000b0;C for 0.5 h to
+determine their respective areal thermal shrinkage (<italic>A</italic>), which was calculated using the following equation<disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01541_m002" position="anchor"/><label>2</label></disp-formula>where <italic>S</italic><sub>0</sub> and <italic>S</italic><sub>T</sub> refer to the area of the membrane before and after thermal treatment,
+respectively.</p><p>Differential scanning calorimetry (DSC) (TA-Q200,
+Waters, China) was used to measure the thermal stability of membranes
+from 20 to 200 &#x000b0;C with a heating rate of 10 &#x000b0;C/min under
+a nitrogen atmosphere at a flow rate of 20 mL/min. Thermal gravimetric
+analysis (TGA Q500, USA Waters Industry) of the membranes was conducted
+from 20 to 700 &#x000b0;C under a N<sub>2</sub> atmosphere at a heating
+rate of 10 &#x000b0;C/min.</p><p>The porosity of the membrane was calculated
+according to the following equation<disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01541_m003" position="anchor"/><label>3</label></disp-formula>where <italic>M</italic><sub>m</sub> and <italic>M</italic><sub>BuOH</sub> represent the masses of the membrane before
+and after absorbing <italic>n</italic>-butanol, respectively, while
+&#x003c1;<sub>BuOH</sub> and &#x003c1;<sub>P</sub> represent the densities
+of <italic>n</italic>-butanol and PVDF, respectively.</p><p>The electrolyte
+wettability of the membranes was examined by the electrolyte spreading
+test. About 10 &#x003bc;L of electrolyte (1 M LiPF<sub>6</sub> in ethylene
+carbonate, dimethyl carbonate, methyl ethyl carbonate EC/DMC/EMC,
+1:1:1, by volume) was dropped onto the membrane in an argon-filled
+glovebox, and the electrolyte spreading was captured after 15 s. An
+optical contact angle meter (DCAT-21, GER Dataphysica Industry) was
+used to quantify the spreadability by taking the droplet contact angle
+of liquid electrolyte (with 5 &#x003bc;L of electrolyte) just dripped
+onto the membranes at room temperature. The electrolyte uptake was
+determined according to the following equation<disp-formula id="eq4"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01541_m004" position="anchor"/><label>4</label></disp-formula>where <italic>W</italic><sub>0</sub> and <italic>W</italic> are the wet weights of the membrane before and after completely
+absorbing liquid electrolyte.</p></sec><sec id="sec4.3"><label>4.3</label><title>Electrochemical Performance of the Ceramic Nanoparticle-Coated
+Membrane</title><p>The ionic conductivity of membranes was determined
+by electrochemical impedance spectroscopy (EIS) using a CHI 660E electrochemical
+workstation (CH Instruments, Shanghai, China). The membranes were
+saturated with about 30 &#x003bc;L of liquid electrolyte, sandwiched
+between two stainless steel plates, and assembled as a coin cell (CR2032).
+EIS analysis was performed at a frequency range of 0.1&#x02013;10<sup>6</sup> Hz. The ionic conductivities were calculated by the following
+equation<disp-formula id="ueq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b01541_m005" position="anchor"/><label>5</label></disp-formula>where <italic>L</italic> and <italic>R</italic><sub>b</sub> represent the thickness and bulk resistance
+of the membrane, respectively, and <italic>S</italic> is the area
+of the stainless steel electrode.</p><p>A lithium symmetric cell was
+assembled by sandwiching the electrolyte-saturated membrane between
+two lithium electrodes in a coin cell and was used to characterize
+the LIB interfacial charge-transfer resistance by EIS at a frequency
+range of 0.01&#x02013;10<sup>6</sup> Hz. The electrochemical stability
+window of the membranes was measured by linear sweep voltammetry (LSV).
+The membrane was sandwiched between a stainless steel working electrode
+and a lithium metal counterelectrode. The LSV test was carried out
+at a scan rate of 10 mV/s over a voltage range 2.5&#x02013;6.0 V vs
+Li<sup>+</sup>/Li.</p><p>The performance of the PVDF membrane as a
+lithium-ion battery separator was tested in a coin cell assembly using
+metallic Li (Shenzhen Kejing Zhida Technology Co. Ltd., China) as
+an anode, an active material composition of 94.2 wt % LiNiCoMnO<sub>2</sub> (Shenzhen kejing Zhida Technology Co. Ltd, China) as a cathode,
+and approximately 30 &#x003bc;L of electrolyte solution (1 M LiPF<sub>6</sub> in EC/DMC/EMC, 1:1:1, by volume). Five different membranes
+were tested for comparison: separator PE as a control (20 &#x003bc;m
+thick) and ME-PVDF, Al<sub>2</sub>O<sub>3</sub>/SiO<sub>2</sub>/PVDF,
+Al<sub>2</sub>O<sub>3</sub>/PVDF, and SiO<sub>2</sub>/PVDF (the
+thickness for all PDVF membranes is 25 &#x003bc;m). The coin cells were
+assembled in a glovebox (Mbraun, Germany) filled with argon gas. The
+charge and discharge cycling tests on cells were performed at 0.5C
+with a battery test equipment (CT-3008W-5V1nA-S4, Shenzhen Neware
+Technology Limited, China). Cells were charged to 4.2 V and discharged
+to 2.8 V at current rates of 0.5C, 1.0C, 2.0C, 5.0C, 8.0C, and 10.0C
+for the measurement of rate capacity.</p></sec></sec></body><back><notes notes-type="COI-statement" id="NOTES-d7e1793-autogenerated"><p>The authors declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We are grateful to the Jiangsu Key R&#x00026;D Program (BE2017060,
+BE2016707), the China Postdoctoral Science Foundation (169483), and
+the 111 Project (B17021).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Tarascon</surname><given-names>J.-M.</given-names></name>; <name><surname>Armand</surname><given-names>M.</given-names></name>
+<article-title>Issues and challenges
+facing rechargeable lithium batteries</article-title>. <source>Mater.
+Sustainable Energy</source>
+<year>2010</year>, <fpage>171</fpage>&#x02013;<lpage>179</lpage>. <pub-id pub-id-type="doi">10.1142/9789814317665_0024</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Zhang</surname><given-names>S. S.</given-names></name>
+<article-title>A review
+on the separators of liquid electrolyte Li-ion batteries</article-title>. <source>J. Power Sources</source>
+<year>2007</year>, <volume>164</volume>, <fpage>351</fpage>&#x02013;<lpage>364</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2006.10.065;</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Fu</surname><given-names>K.</given-names></name>; <name><surname>Cheng</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>T.</given-names></name>; <name><surname>Hu</surname><given-names>L.</given-names></name>
+<article-title>Flexible Batteries: From Mechanics to Devices</article-title>. <source>ACS Energy Lett.</source>
+<year>2016</year>, <volume>1</volume>, <fpage>1065</fpage>&#x02013;<lpage>1079</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.6b00401</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Hwang</surname><given-names>K.</given-names></name>; <name><surname>Kwon</surname><given-names>B.</given-names></name>; <name><surname>Byun</surname><given-names>H.</given-names></name>
+<article-title>Preparation
+of PVdF nanofiber membranes by electrospinning and their use as secondary
+battery separators</article-title>. <source>J. Membr. Sci.</source>
+<year>2011</year>, <volume>378</volume>, <fpage>111</fpage>&#x02013;<lpage>116</lpage>. <pub-id pub-id-type="doi">10.1016/j.memsci.2011.06.005</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Tang</surname><given-names>S.</given-names></name>; <name><surname>Pan</surname><given-names>M.-W.</given-names></name>; <name><surname>Zhu</surname><given-names>L.</given-names></name>; <name><surname>Zhong</surname><given-names>G.-J.</given-names></name>; <name><surname>Li</surname><given-names>Z.-M.</given-names></name>
+<article-title>Polymorphic extended-chain and folded-chain crystals in poly (vinylidene
+fluoride) achieved by combination of high pressure and ion&#x02013;dipole
+interaction</article-title>. <source>Macromolecules</source>
+<year>2015</year>, <volume>48</volume>, <fpage>8565</fpage>&#x02013;<lpage>8573</lpage>. <pub-id pub-id-type="doi">10.1021/acs.macromol.5b01895</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Satyanarayana</surname><given-names>K. C.</given-names></name>; <name><surname>Bolton</surname><given-names>K.</given-names></name>
+<article-title>Molecular dynamics simulations of &#x003b1;-to &#x003b2;-poly
+(vinylidene fluoride) phase change by stretching and poling</article-title>. <source>Polymer</source>
+<year>2012</year>, <volume>53</volume>, <fpage>2927</fpage>&#x02013;<lpage>2934</lpage>. <pub-id pub-id-type="doi">10.1016/j.polymer.2012.04.008</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Lu</surname><given-names>F.</given-names></name>; <name><surname>Hsu</surname><given-names>S.</given-names></name>
+<article-title>Study of the crystallization
+behavior of poly (vinylidene fluoride) from melt under the effect
+of an electric field</article-title>. <source>Macromolecules</source>
+<year>1986</year>, <volume>19</volume>, <fpage>326</fpage>&#x02013;<lpage>329</lpage>. <pub-id pub-id-type="doi">10.1021/ma00156a013</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Pan</surname><given-names>J.-L.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Zhu</surname><given-names>P.-P.</given-names></name>; <name><surname>Wei</surname><given-names>J.-C.</given-names></name>; <name><surname>Cai</surname><given-names>J.-X.</given-names></name>; <name><surname>Yu</surname><given-names>J.</given-names></name>; <name><surname>Koratkar</surname><given-names>N.</given-names></name>; <name><surname>Yang</surname><given-names>Z.-Y.</given-names></name>
+<article-title>Ultrathin
+and Strong Electrospun Porous Fiber Separator</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2018</year>, <volume>1</volume>, <fpage>4794</fpage>&#x02013;<lpage>4803</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.8b00855</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Miao</surname><given-names>Y.-E.</given-names></name>; <name><surname>Zhu</surname><given-names>G.-N.</given-names></name>; <name><surname>Hou</surname><given-names>H.</given-names></name>; <name><surname>Xia</surname><given-names>Y.-Y.</given-names></name>; <name><surname>Liu</surname><given-names>T.</given-names></name>
+<article-title>Electrospun polyimide nanofiber-based
+nonwoven separators for lithium-ion batteries</article-title>. <source>J. Power Sources</source>
+<year>2013</year>, <volume>226</volume>, <fpage>82</fpage>&#x02013;<lpage>86</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2012.10.027</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Kang</surname><given-names>D.-W.</given-names></name>; <name><surname>Kim</surname><given-names>J.-K.</given-names></name>
+<article-title>Characterization
+of fibrous gel polymer electrolyte for lithium polymer batteries with
+enhanced electrochemical properties</article-title>. <source>J. Electroanal.
+Chem.</source>
+<year>2016</year>, <volume>775</volume>, <fpage>37</fpage>&#x02013;<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1016/j.jelechem.2016.05.029</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Subbiah</surname><given-names>T.</given-names></name>; <name><surname>Bhat</surname><given-names>G.</given-names></name>; <name><surname>Tock</surname><given-names>R.</given-names></name>; <name><surname>Parameswaran</surname><given-names>S.</given-names></name>; <name><surname>Ramkumar</surname><given-names>S.</given-names></name>
+<article-title>Electrospinning of nanofibers</article-title>. <source>J. Appl. Polym. Sci.</source>
+<year>2005</year>, <volume>96</volume>, <fpage>557</fpage>&#x02013;<lpage>569</lpage>. <pub-id pub-id-type="doi">10.1002/app.21481</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Lyons</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Ko</surname><given-names>F.</given-names></name>
+<article-title>Melt-electrospinning
+part I: processing parameters and geometric properties</article-title>. <source>Polymer</source>
+<year>2004</year>, <volume>45</volume>, <fpage>7597</fpage>&#x02013;<lpage>7603</lpage>. <pub-id pub-id-type="doi">10.1016/j.polymer.2004.08.071</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Hutmacher</surname><given-names>D. W.</given-names></name>; <name><surname>Dalton</surname><given-names>P. D.</given-names></name>
+<article-title>Melt electrospinning</article-title>. <source>Chem. - Asian J.</source>
+<year>2011</year>, <volume>6</volume>, <fpage>44</fpage>&#x02013;<lpage>56</lpage>. <pub-id pub-id-type="doi">10.1002/asia.201000436</pub-id>.<pub-id pub-id-type="pmid">21080400</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Fu</surname><given-names>Q.</given-names></name>; <name><surname>Lin</surname><given-names>G.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Yu</surname><given-names>Z.</given-names></name>; <name><surname>Yang</surname><given-names>R.</given-names></name>; <name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Zeng</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>
+<article-title>Mechanically
+Reinforced PVdF/PMMA/SiO2 Composite Membrane and Its Electrochemical
+Properties as a Separator in Lithium-Ion Batteries</article-title>. <source>Energy Technol.</source>
+<year>2018</year>, <volume>6</volume>, <fpage>144</fpage>&#x02013;<lpage>152</lpage>. <pub-id pub-id-type="doi">10.1002/ente.201700347</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Nho</surname><given-names>Y.-C.</given-names></name>; <name><surname>Sohn</surname><given-names>J.-Y.</given-names></name>; <name><surname>Shin</surname><given-names>J.</given-names></name>; <name><surname>Park</surname><given-names>J.-S.</given-names></name>; <name><surname>Lim</surname><given-names>Y.-M.</given-names></name>; <name><surname>Kang</surname><given-names>P.-H.</given-names></name>
+<article-title>Preparation of nanocomposite
+&#x003b3;-Al2O3/polyethylene separator crosslinked by electron beam
+irradiation for lithium secondary battery</article-title>. <source>Radiat.
+Phys. Chem.</source>
+<year>2017</year>, <volume>132</volume>, <fpage>65</fpage>&#x02013;<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1016/j.radphyschem.2016.12.002</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Xue</surname><given-names>L.</given-names></name>; <name><surname>Xu</surname><given-names>G.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>Fu</surname><given-names>K.</given-names></name>; <name><surname>Shi</surname><given-names>Q.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>
+<article-title>Carbon-Coated Si Nanoparticles
+Dispersed in Carbon Nanotube Networks As Anode Material for Lithium-Ion
+Batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2013</year>, <volume>5</volume>, <fpage>21</fpage>&#x02013;<lpage>25</lpage>. <pub-id pub-id-type="doi">10.1021/am3027597</pub-id>.<pub-id pub-id-type="pmid">23206443</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Yang</surname><given-names>C.</given-names></name>; <name><surname>Tong</surname><given-names>H.</given-names></name>; <name><surname>Luo</surname><given-names>C.</given-names></name>; <name><surname>Yuan</surname><given-names>S.</given-names></name>; <name><surname>Chen</surname><given-names>G.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>
+<article-title>Boehmite particle coating modified microporous polyethylene membrane:
+a promising separator for lithium ion batteries</article-title>. <source>J. Power Sources</source>
+<year>2017</year>, <volume>348</volume>, <fpage>80</fpage>&#x02013;<lpage>86</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2017.02.078</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Zhu</surname><given-names>X.</given-names></name>; <name><surname>Jiang</surname><given-names>X.</given-names></name>; <name><surname>Ai</surname><given-names>X.</given-names></name>; <name><surname>Yang</surname><given-names>H.</given-names></name>; <name><surname>Cao</surname><given-names>Y.</given-names></name>
+<article-title>TiO2 ceramic-grafted polyethylene
+separators for enhanced thermostability and electrochemical performance
+of lithium-ion batteries</article-title>. <source>J. Membr. Sci.</source>
+<year>2016</year>, <volume>504</volume>, <fpage>97</fpage>&#x02013;<lpage>103</lpage>. <pub-id pub-id-type="doi">10.1016/j.memsci.2015.12.059</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Luo</surname><given-names>X.</given-names></name>; <name><surname>Liao</surname><given-names>Y.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Chen</surname><given-names>F.</given-names></name>; <name><surname>Huang</surname><given-names>Q.</given-names></name>; <name><surname>Li</surname><given-names>W.</given-names></name>
+<article-title>Investigation of nano-CeO2 contents
+on the properties of polymer ceramic separator for high voltage lithium
+ion batteries</article-title>. <source>J. Power Sources</source>
+<year>2017</year>, <volume>348</volume>, <fpage>229</fpage>&#x02013;<lpage>238</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2017.02.085</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Song</surname><given-names>J.</given-names></name>; <name><surname>Ryou</surname><given-names>M.-H.</given-names></name>; <name><surname>Son</surname><given-names>B.</given-names></name>; <name><surname>Lee</surname><given-names>J.-N.</given-names></name>; <name><surname>Lee</surname><given-names>D. J.</given-names></name>; <name><surname>Lee</surname><given-names>Y. M.</given-names></name>; <name><surname>Choi</surname><given-names>J. W.</given-names></name>; <name><surname>Park</surname><given-names>J.-K.</given-names></name>
+<article-title>Co-polyimide-coated
+polyethylene separators for enhanced thermal stability of lithium
+ion batteries</article-title>. <source>Electrochim. Acta</source>
+<year>2012</year>, <volume>85</volume>, <fpage>524</fpage>&#x02013;<lpage>530</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2012.06.078</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Liang</surname><given-names>X.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Jin</surname><given-names>X.</given-names></name>; <name><surname>Cheng</surname><given-names>J.</given-names></name>
+<article-title>Polyethylene oxide-coated
+electrospun polyimide fibrous seperator for high-performance lithium-ion
+battery</article-title>. <source>J. Mater. Sci. Technol.</source>
+<year>2016</year>, <volume>32</volume>, <fpage>200</fpage>&#x02013;<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmst.2015.11.006</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Bicy</surname><given-names>K.</given-names></name>; <name><surname>Suriyakumar</surname><given-names>S.</given-names></name>; <name><surname>Anu</surname><given-names>A.</given-names></name>; <name><surname>Kalarikkal</surname><given-names>N.</given-names></name>; <name><surname>Stephen</surname><given-names>A. M.</given-names></name>; <name><surname>Geethamma</surname><given-names>V.</given-names></name>; <name><surname>Rouxel</surname><given-names>D.</given-names></name>; <name><surname>Thomas</surname><given-names>S.</given-names></name>; et al. <article-title>Highly lithium ion conductive, Al2O3 decorated electrospun P (VDF-TrFE)
+membranes for lithium ion battery separators</article-title>. <source>New J. Chem.</source>
+<year>2018</year>, <volume>42</volume>, <fpage>19505</fpage>&#x02013;<lpage>19520</lpage>. <pub-id pub-id-type="doi">10.1039/C8NJ01907J</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Jeong</surname><given-names>H.-S.</given-names></name>; <name><surname>Hong</surname><given-names>S. C.</given-names></name>; <name><surname>Lee</surname><given-names>S.-Y.</given-names></name>
+<article-title>Effect
+of microporous structure on thermal shrinkage and electrochemical
+performance of Al2O3/poly (vinylidene fluoride-hexafluoropropylene)
+composite separators for lithium-ion batteries</article-title>. <source>J. Membr. Sci.</source>
+<year>2010</year>, <volume>364</volume>, <fpage>177</fpage>&#x02013;<lpage>182</lpage>. <pub-id pub-id-type="doi">10.1016/j.memsci.2010.08.012</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Shin</surname><given-names>W.-K.</given-names></name>; <name><surname>Kim</surname><given-names>D.-W.</given-names></name>
+<article-title>High performance
+ceramic-coated separators prepared with lithium ion-containing SiO2
+particles for lithium-ion batteries</article-title>. <source>J. Power
+Sources</source>
+<year>2013</year>, <volume>226</volume>, <fpage>54</fpage>&#x02013;<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2012.10.082</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Zuo</surname><given-names>J.</given-names></name>; <name><surname>Keil</surname><given-names>P.</given-names></name>; <name><surname>Grundmeier</surname><given-names>G.</given-names></name>
+<article-title>Synthesis and characterization of
+photochromic Ag-embedded TiO2 nanocomposite thin films by non-reactive
+RF-magnetron sputter deposition</article-title>. <source>Appl. Surf.
+Sci.</source>
+<year>2012</year>, <volume>258</volume>, <fpage>7231</fpage>&#x02013;<lpage>7237</lpage>. <pub-id pub-id-type="doi">10.1016/j.apsusc.2012.04.054</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Qiu</surname><given-names>Y.</given-names></name>; <name><surname>Tan</surname><given-names>Z.</given-names></name>; <name><surname>Lin</surname><given-names>J.</given-names></name>; <name><surname>Xu</surname><given-names>A.</given-names></name>; <name><surname>Zeng</surname><given-names>Y.</given-names></name>; <name><surname>Moore</surname><given-names>J.</given-names></name>; <name><surname>Jiang</surname><given-names>J.</given-names></name>
+<article-title>Effect of
+Al content on structure and properties of TiAlCN coatings prepared
+by magnetron sputtering</article-title>. <source>J. Alloys Compd.</source>
+<year>2014</year>, <volume>617</volume>, <fpage>81</fpage>&#x02013;<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1016/j.jallcom.2014.08.009</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Feng</surname><given-names>F.</given-names></name>; <name><surname>Shi</surname><given-names>K.</given-names></name>; <name><surname>Lu</surname><given-names>H.</given-names></name>; <name><surname>Xiao</surname><given-names>S.</given-names></name>; <name><surname>Wu</surname><given-names>W.</given-names></name>; <name><surname>Huang</surname><given-names>R.</given-names></name>; <name><surname>Qu</surname><given-names>T.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Han</surname><given-names>Z. H.</given-names></name>
+<article-title>Surface morphology evolution of CeO2/YSZ (001) buffer
+layers fabricated via magnetron sputtering</article-title>. <source>Appl. Surf. Sci.</source>
+<year>2013</year>, <volume>284</volume>, <fpage>150</fpage>&#x02013;<lpage>154</lpage>. <pub-id pub-id-type="doi">10.1016/j.apsusc.2013.07.072</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Meng</surname><given-names>Q.</given-names></name>; <name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>
+<article-title>Influence of crystalline properties on the dielectric and energy
+storage properties of poly (vinylidene fluoride)</article-title>. <source>J. Appl. Polym. Sci.</source>
+<year>2011</year>, <volume>122</volume>, <fpage>1659</fpage>&#x02013;<lpage>1668</lpage>. <pub-id pub-id-type="doi">10.1002/app.34020</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Janakiraman</surname><given-names>S.</given-names></name>; <name><surname>Surendran</surname><given-names>A.</given-names></name>; <name><surname>Ghosh</surname><given-names>S.</given-names></name>; <name><surname>Anandhan</surname><given-names>S.</given-names></name>; <name><surname>Venimadhav</surname><given-names>A.</given-names></name>
+<article-title>A new strategy
+of PVDF based Li-salt polymer electrolyte through electrospinning
+for lithium battery application</article-title>. <source>Mater. Res.
+Express</source>
+<year>2019</year>, <volume>6</volume>, <elocation-id>035303</elocation-id><pub-id pub-id-type="doi">10.1088/2053-1591/aaf369</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Sajkiewicz</surname><given-names>P.</given-names></name>; <name><surname>Wasiak</surname><given-names>A.</given-names></name>; <name><surname>Goc&#x00142;owski</surname><given-names>Z.</given-names></name>
+<article-title>Phase transitions
+during stretching of poly (vinylidene fluoride)</article-title>. <source>Eur. Polym. J.</source>
+<year>1999</year>, <volume>35</volume>, <fpage>423</fpage>&#x02013;<lpage>429</lpage>. <pub-id pub-id-type="doi">10.1016/S0014-3057(98)00136-0</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Kundu</surname><given-names>M.</given-names></name>; <name><surname>Costa</surname><given-names>C. M.</given-names></name>; <name><surname>Dias</surname><given-names>J.</given-names></name>; <name><surname>Maceiras</surname><given-names>A.</given-names></name>; <name><surname>Vilas</surname><given-names>J. L.</given-names></name>; <name><surname>Lanceros-Me&#x02032;ndez</surname><given-names>S.</given-names></name>
+<article-title>On the relevance
+of the polar &#x003b2;-phase of poly (vinylidene fluoride) for high
+performance lithium-ion battery separators</article-title>. <source>J. Phys. Chem. C</source>
+<year>2017</year>, <volume>121</volume>, <fpage>26216</fpage>&#x02013;<lpage>26225</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.7b09227</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Baginska</surname><given-names>M.</given-names></name>; <name><surname>Blaiszik</surname><given-names>B. J.</given-names></name>; <name><surname>Merriman</surname><given-names>R. J.</given-names></name>; <name><surname>Sottos</surname><given-names>N. R.</given-names></name>; <name><surname>Moore</surname><given-names>J. S.</given-names></name>; <name><surname>White</surname><given-names>S. R.</given-names></name>
+<article-title>Autonomic shutdown
+of lithium-ion batteries using thermoresponsive microspheres</article-title>. <source>Adv. Energy Mater.</source>
+<year>2012</year>, <volume>2</volume>, <fpage>583</fpage>&#x02013;<lpage>590</lpage>. <pub-id pub-id-type="doi">10.1002/aenm.201100683</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Campos</surname><given-names>J. S. C.</given-names></name>; <name><surname>Ribeiro</surname><given-names>A. A.</given-names></name>; <name><surname>Cardoso</surname><given-names>C. X.</given-names></name>
+<article-title>Preparation
+and characterization of PVDF/CaCO3 composites</article-title>. <source>Mater. Sci. Eng., B</source>
+<year>2007</year>, <volume>136</volume>, <fpage>123</fpage>&#x02013;<lpage>128</lpage>. <pub-id pub-id-type="doi">10.1016/j.mseb.2006.09.017</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Bhute</surname><given-names>M. V.</given-names></name>; <name><surname>Kondawar</surname><given-names>S. B.</given-names></name>
+<article-title>Electrospun poly (vinylidene fluoride)/cellulose acetate/AgTiO2
+nanofibers polymer electrolyte membrane for lithium ion battery</article-title>. <source>Solid State Ionics</source>
+<year>2019</year>, <volume>333</volume>, <fpage>38</fpage>&#x02013;<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2019.01.019</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Han</surname><given-names>X.</given-names></name>; <name><surname>Gong</surname><given-names>Y.</given-names></name>; <name><surname>Fu</surname><given-names>K. K.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>; <name><surname>Hitz</surname><given-names>G. T.</given-names></name>; <name><surname>Dai</surname><given-names>J.</given-names></name>; <name><surname>Pearse</surname><given-names>A.</given-names></name>; <name><surname>Liu</surname><given-names>B.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Rubloff</surname><given-names>G.</given-names></name>; et al. <article-title>Negating interfacial
+impedance in garnet-based solid-state Li metal batteries</article-title>. <source>Nat. Mater.</source>
+<year>2017</year>, <volume>16</volume>, <fpage>572</fpage>&#x02013;<lpage>579</lpage>. <pub-id pub-id-type="doi">10.1038/nmat4821</pub-id>.<pub-id pub-id-type="pmid">27992420</pub-id></mixed-citation></ref></ref-list></back></article>

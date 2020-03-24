@@ -1,0 +1,434 @@
+{
+  "id": [
+    "30960560"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30960560"
+  ],
+  "pmcid": [
+    "PMC6523519"
+  ],
+  "doi": [
+    "10.3390/polym11040576"
+  ],
+  "title": [
+    "POSS-Derived Synthesis and Full Life Structural Analysis of Si@C as Anode Material in Lithium Ion Battery."
+  ],
+  "authorString": [
+    "Bai Z, Tu W, Zhu J, Li J, Deng Z, Li D, Tang H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bai Z"
+          ],
+          "firstName": [
+            "Ziyu"
+          ],
+          "lastName": [
+            "Bai"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, Wuhan University of Technology, Wuhan 430070, China. 18971142560@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Tu W"
+          ],
+          "firstName": [
+            "Wenmao"
+          ],
+          "lastName": [
+            "Tu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, Wuhan University of Technology, Wuhan 430070, China. tuwm@whut.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu J"
+          ],
+          "firstName": [
+            "Junke"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, Wuhan University of Technology, Wuhan 430070, China. bebetterzjk@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Junsheng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9265-2951",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Chemistry, Chemical Engineering and Life Sciences, Wuhan University of Technology, Wuhan 430070, China. li_j@whut.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng Z"
+          ],
+          "firstName": [
+            "Zhao"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, Wuhan University of Technology, Wuhan 430070, China. dengzhao@whut.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Li D"
+          ],
+          "firstName": [
+            "Danpeng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, Wuhan University of Technology, Wuhan 430070, China. 18435138790@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang H"
+          ],
+          "firstName": [
+            "Haolin"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1041-5376",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, Wuhan University of Technology, Wuhan 430070, China. thln@whut.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1041-5376",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9265-2951",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2803911"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Polymers"
+          ],
+          "ISOAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "NLMid": [
+            "101545357"
+          ],
+          "ISSN": [
+            "2073-4360"
+          ],
+          "ESSN": [
+            "2073-4360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Polyhedral oligomeric silsesquioxane (POSS)-derived Si@C anode material is prepared by the copolymerization of octavinyl-polyhedral oligomeric silsesquioxane (octavinyl-POSS) and styrene. Octavinyl-polyhedral oligomeric silsesquioxane has an inorganic core (-Si₈O12) and an organic vinyl shell. Carbonization of the core-shell structured organic-inorganic hybrid precursor results in the formation of carbon protected Si-based anode material applicable for lithium ion battery. The initial discharge capacity of the battery based on the as-obtained Si@C material Si reaches 1500 mAh g-1. After 550 charge-discharge cycles, a high capacity of 1430 mAh g-1 was maintained. A combined XRD, XPS and TEM analysis was performed to investigate the variation of the discharge performance during the cycling experiments. The results show that the decrease in discharge capacity in the first few cycles is related to the formation of solid electrolyte interphase (SEI). The subsequent rise in the capacity can be ascribed to the gradual morphology evolution of the anode material and the loss of capacity after long-term cycles is due to the structural pulverization of silicon within the electrode. Our results not only show the high potential of the novel electrode material but also provide insight into the dynamic features of the material during battery cycling, which is useful for the future design of high-performance electrode material."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, Wuhan University of Technology, Wuhan 430070, China. 18971142560@163.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MR/R024227/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "acronym": [
+            "MRC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MR/S011676/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "acronym": [
+            "MRC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "51472187"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium ion battery",
+        "Mechanism Analysis",
+        "Octavinyl-poss",
+        "Si@c Anode",
+        "Organic-inorganic Crosslinking"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/polym11040576"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6523519"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6523519?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-10"
+  ],
+  "firstIndexDate": [
+    "2019-04-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-06"
+  ],
+  "dateOfRevision": [
+    "2020-03-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-29"
+  ],
+  "firstPublicationDate": [
+    "2019-03-29"
+  ]
+}

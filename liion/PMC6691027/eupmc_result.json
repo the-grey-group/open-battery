@@ -1,0 +1,304 @@
+{
+  "id": [
+    "31448262"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31448262"
+  ],
+  "pmcid": [
+    "PMC6691027"
+  ],
+  "doi": [
+    "10.3389/fchem.2019.00555"
+  ],
+  "title": [
+    "Flexible Li[Li0.2Ni0.13Co0.13Mn0.54]O2/Carbon Nanotubes/Nanofibrillated Celluloses Composite Electrode for High-Performance Lithium-Ion Battery."
+  ],
+  "authorString": [
+    "Li Y, Zhang H, Xiao Z, Wang R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "International Collaborative Laboratory of 2D Materials for Optoelectronics Science and Technology of Ministry of Education, Institute of Microscale Optoelectronics, Shenzhen University, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Han"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "International Collaborative Laboratory of 2D Materials for Optoelectronics Science and Technology of Ministry of Education, Institute of Microscale Optoelectronics, Shenzhen University, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao Z"
+          ],
+          "firstName": [
+            "Zhe"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "International Collaborative Laboratory of 2D Materials for Optoelectronics Science and Technology of Ministry of Education, Institute of Microscale Optoelectronics, Shenzhen University, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang R"
+          ],
+          "firstName": [
+            "Renheng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "International Collaborative Laboratory of 2D Materials for Optoelectronics Science and Technology of Ministry of Education, Institute of Microscale Optoelectronics, Shenzhen University, Shenzhen, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2779332"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Front Chem"
+          ],
+          "medlineAbbreviation": [
+            "Front Chem"
+          ],
+          "NLMid": [
+            "101627988"
+          ],
+          "ISSN": [
+            "2296-2646"
+          ],
+          "ESSN": [
+            "2296-2646"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "555"
+  ],
+  "abstractText": [
+    "Rapidly-growing demand for wearable and flexible devices is boosting the development of flexible lithium ion batteries (LIBs). The exploitation of flexible electrodes with high mechanical properties and superior electrochemical performances has been a key challenge for the rapid practical application of flexible LIBs. Herein, a flexible composite electrode was prepared from the mixed solutions of Li[Li0.2Ni0.13Co0.13Mn0.54]O2 (LLOs), carbon nanotubes(CNTs), and nanofibrillated celluloses (NFCs) via a vacuum filtration method. The resulting LLOs/CNTs/NFCs electrode delivered an initial discharge capacity of 253 mAh g-1 at 0.1 C in the voltage range from 2.0 to 4.6 V, and retained a reversible capacity of 178 mAh g-1 with 83% capacity retention after 100 cycles at 1 C. The LLOs/CNTs/NFCs electrode exhibited excellent flexibility along with repeated bending in the bending test. The LLOs/CNTs/NFCs electrode after bending test remained a discharge capacity of 149 mAh g-1 after 100 cycles at 1 C, and the corresponding capacity retentions was 76%. The excellent electrochemical performance and high flexibility can be ascribed to the framework formed by CNTs with high conductivity and NFCs with good mechanical properties. The results imply that the as-fabricated electrode can be a promising candidate for the flexible LIBs."
+  ],
+  "affiliation": [
+    "International Collaborative Laboratory of 2D Materials for Optoelectronics Science and Technology of Ministry of Education, Institute of Microscale Optoelectronics, Shenzhen University, Shenzhen, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Carbon nanotubes",
+        "Lithium ion battery",
+        "Flexible Electrode",
+        "Nanofibrillated Celluloses",
+        "Li[li0.2ni0.13co0.13mn0.54]o2"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fchem.2019.00555"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6691027"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6691027?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-27"
+  ],
+  "firstIndexDate": [
+    "2019-08-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-25"
+  ],
+  "dateOfRevision": [
+    "2019-08-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-06"
+  ],
+  "firstPublicationDate": [
+    "2019-08-06"
+  ]
+}

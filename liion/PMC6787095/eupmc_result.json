@@ -1,0 +1,550 @@
+{
+  "id": [
+    "31601812"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31601812"
+  ],
+  "pmcid": [
+    "PMC6787095"
+  ],
+  "doi": [
+    "10.1038/s41467-019-12542-6"
+  ],
+  "title": [
+    "Cathode porosity is a missing key parameter to optimize lithium-sulfur battery energy density."
+  ],
+  "authorString": [
+    "Kang N, Lin Y, Yang L, Lu D, Xiao J, Qi Y, Cai M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kang N"
+          ],
+          "firstName": [
+            "Ning"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Optimal CAE, Inc, Plymouth, MI, 48170, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin Y"
+          ],
+          "firstName": [
+            "Yuxiao"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering and Materials Science, Michigan State University, East Lansing, MI, 48824, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Chemical and Materials Systems Laboratory, General Motors Global R&D Center, Warren, MI, 48092, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu D"
+          ],
+          "firstName": [
+            "Dongping"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Pacific Northwest National Laboratory, Richland, WA, 99352, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5520-5439",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pacific Northwest National Laboratory, Richland, WA, 99352, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Qi Y"
+          ],
+          "firstName": [
+            "Yue"
+          ],
+          "lastName": [
+            "Qi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering and Materials Science, Michigan State University, East Lansing, MI, 48824, USA. yueqi@egr.msu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Cai M"
+          ],
+          "firstName": [
+            "Mei"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8631-8471",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chemical and Materials Systems Laboratory, General Motors Global R&D Center, Warren, MI, 48092, USA. mei.cai@gm.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5520-5439",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8631-8471",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2866016"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4597"
+  ],
+  "abstractText": [
+    "While high sulfur loading has been pursued as a key parameter to build realistic high-energy lithium-sulfur batteries, less attention has been paid to the cathode porosity, which is much higher in sulfur/carbon composite cathodes than in traditional lithium-ion battery electrodes. For high-energy lithium-sulfur batteries, a dense electrode with low porosity is desired to minimize electrolyte intake, parasitic weight, and cost. Here we report the profound impact on the discharge polarization, reversible capacity, and cell cycling life of lithium-sulfur batteries by decreasing cathode porosities from 70 to 40%. According to the developed mechanism-based analytical model, we demonstrate that sulfur utilization is limited by the solubility of lithium-polysulfides and further conversion from lithium-polysulfides to Li2S is limited by the electronically accessible surface area of the carbon matrix. Finally, we predict an optimized cathode porosity to maximize the cell level volumetric energy density without sacrificing the sulfur utilization."
+  ],
+  "affiliation": [
+    "Optimal CAE, Inc, Plymouth, MI, 48170, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sulfides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Sulfur"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Lithium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electrodes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electrochemistry"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Porosity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Electric Power Supplies"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "polysulfide"
+          ],
+          "registryNumber": [
+            "9080-49-3"
+          ]
+        },
+        {
+          "name": [
+            "Sulfides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Lithium"
+          ],
+          "registryNumber": [
+            "9FN79X2M3F"
+          ]
+        },
+        {
+          "name": [
+            "Sulfur"
+          ],
+          "registryNumber": [
+            "70FD1KFU70"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-12542-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6787095"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6787095?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-01-24"
+  ],
+  "dateOfCreation": [
+    "2019-10-12"
+  ],
+  "firstIndexDate": [
+    "2019-10-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-17"
+  ],
+  "dateOfRevision": [
+    "2020-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-10"
+  ],
+  "firstPublicationDate": [
+    "2019-10-10"
+  ]
+}

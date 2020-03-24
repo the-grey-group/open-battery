@@ -1,0 +1,348 @@
+{
+  "id": [
+    "25653104"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25653104"
+  ],
+  "pmcid": [
+    "PMC4317688"
+  ],
+  "doi": [
+    "10.1038/srep08255"
+  ],
+  "title": [
+    "Porous membrane with high curvature, three-dimensional heat-resistance skeleton: a new and practical separator candidate for high safety lithium ion battery."
+  ],
+  "authorString": [
+    "Shi J, Xia Y, Yuan Z, Hu H, Li X, Zhang H, Liu Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shi J"
+          ],
+          "firstName": [
+            "Junli"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Ningbo Institute of Materials Technology Engineering (NIMTE), Chinese Academy of Sciences, Zhejiang 315201, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xia Y"
+          ],
+          "firstName": [
+            "Yonggao"
+          ],
+          "lastName": [
+            "Xia"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Ningbo Institute of Materials Technology Engineering (NIMTE), Chinese Academy of Sciences, Zhejiang 315201, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan Z"
+          ],
+          "firstName": [
+            "Zhizhang"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Division of energy storage, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian 116023, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu H"
+          ],
+          "firstName": [
+            "Huasheng"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Ningbo Institute of Materials Technology Engineering (NIMTE), Chinese Academy of Sciences, Zhejiang 315201, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xianfeng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Division of energy storage, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian 116023, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Huamin"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Division of energy storage, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian 116023, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Z"
+          ],
+          "firstName": [
+            "Zhaoping"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Ningbo Institute of Materials Technology Engineering (NIMTE), Chinese Academy of Sciences, Zhejiang 315201, P. R. China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2243512"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "8255"
+  ],
+  "abstractText": [
+    "Separators with high reliability and security are in urgent demand for the advancement of high performance lithium ion batteries. Here, we present a new and practical porous membrane with three-dimension (3D) heat-resistant skeleton and high curvature pore structure as a promising separator candidate to facilitate advances in battery safety and performances beyond those obtained from the conventional separators. The unique material properties combining with the well-developed structural characteristics enable the 3D porous skeleton to own several favorable properties, including superior thermal stability, good wettability with liquid electrolyte, high ion conductivity and internal short-circuit protection function, etc. which give rise to acceptable battery performances. Considering the simply and cost-effective preparation process, the porous membrane is deemed to be an interesting direction for the future lithium ion battery separator."
+  ],
+  "affiliation": [
+    "Ningbo Institute of Materials Technology Engineering (NIMTE), Chinese Academy of Sciences, Zhejiang 315201, P. R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep08255"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4317688"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4317688?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-05-11"
+  ],
+  "dateOfCreation": [
+    "2015-02-05"
+  ],
+  "firstIndexDate": [
+    "2015-02-06"
+  ],
+  "fullTextReceivedDate": [
+    "2015-02-13"
+  ],
+  "dateOfRevision": [
+    "2015-02-12"
+  ],
+  "electronicPublicationDate": [
+    "2015-02-05"
+  ],
+  "firstPublicationDate": [
+    "2015-02-05"
+  ]
+}

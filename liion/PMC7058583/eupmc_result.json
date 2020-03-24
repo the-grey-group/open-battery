@@ -1,0 +1,338 @@
+{
+  "id": [
+    "32185158"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32185158"
+  ],
+  "pmcid": [
+    "PMC7058583"
+  ],
+  "doi": [
+    "10.3389/fchem.2020.00094"
+  ],
+  "title": [
+    "Three-Dimensional PrGO-Based Sandwich Composites With MoS2 Flowers as Stuffings for Superior Lithium Storage."
+  ],
+  "authorString": [
+    "Zhao Y, Zhang Z, Zhang H, Zhou Y, Weng Y, Xiong S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yangqiang"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Materials Engineering, Shanghai University of Engineering Science, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Z"
+          ],
+          "firstName": [
+            "Ziying"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Materials Engineering, Shanghai University of Engineering Science, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Huizhen"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "School of Management, University of Shanghai for Science and Technology, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou Y"
+          ],
+          "firstName": [
+            "Yangyang"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Materials Engineering, Shanghai University of Engineering Science, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Weng Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Weng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Materials Engineering, Shanghai University of Engineering Science, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiong S"
+          ],
+          "firstName": [
+            "Shisheng"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School of Information Science and Engineering, Fudan University, Shanghai, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2911888"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Front Chem"
+          ],
+          "medlineAbbreviation": [
+            "Front Chem"
+          ],
+          "NLMid": [
+            "101627988"
+          ],
+          "ISSN": [
+            "2296-2646"
+          ],
+          "ESSN": [
+            "2296-2646"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "94"
+  ],
+  "abstractText": [
+    "Graphene-based MoS2 nanocomposites are expected to be promising anode materials for lithium ion batteries because of their large specific capacity and high conductivity. However, the aggregation of graphene and the weak interaction between the two components hinder their practical application. Inspired by the sandwich structure, novel three-dimensional flower-like MoS2-PrGO sandwich composites were proposed as an advanced anode material for lithium-ion batteries. The separated 2D ultrathin rGO nano-sheets were connected by PEO chains and assembled into a well-organized 3D layered spatial structure, which not only avoids the aggregation of graphene but also accommodates a high mass loading of the micro-scale MoS2 nano-flowers. MoS2 nano-flowers with open architecture deliver large specific area. The rGO interlayers act as a conductive framework, making all flower-like MoS2 nano-stuffing electrochemically active. The ultra-thin 2D nano-sheets provide excellent cycle stability due to their neglectable volume changes during cycling. The 3D flower-like MoS2-PrGO sandwich composites deliver high energy density, excellent conductivity and stable cyclic performance during charge-discharge process. With a nearly 100% coulombic efficiency, their reversible capacity is retained at 1,036 mA h g-1 even after 500 cycles at current densities of 100 mA g-1. This novel design strategy provides a broad prospect for the development of advanced anode materials for superior lithium storage."
+  ],
+  "affiliation": [
+    "School of Materials Engineering, Shanghai University of Engineering Science, Shanghai, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Composites",
+        "Lithium ion batteries",
+        "Graphene Oxide",
+        "Anode",
+        "Molybdenum Sulfide"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fchem.2020.00094"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7058583"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7058583?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-19"
+  ],
+  "firstIndexDate": [
+    "2020-03-19"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-22"
+  ],
+  "dateOfRevision": [
+    "2020-03-20"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-28"
+  ],
+  "firstPublicationDate": [
+    "2020-02-28"
+  ]
+}

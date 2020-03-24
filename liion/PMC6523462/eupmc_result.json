@@ -1,0 +1,340 @@
+{
+  "id": [
+    "30970618"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30970618"
+  ],
+  "pmcid": [
+    "PMC6523462"
+  ],
+  "doi": [
+    "10.3390/polym11040645"
+  ],
+  "title": [
+    "High Capacity Nano-Sized Carbon Spheres for Lithium-Ion Battery Anode Materials."
+  ],
+  "authorString": [
+    "Wang Y, Yu G, Chen X, Wang A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Youliang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0337-0472",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Mechanical and Electrical Engineering, Lanzhou University of Technology, Lanzhou 730050, China. wangyouliang20@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu G"
+          ],
+          "firstName": [
+            "Guoyun"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Processing and Recycling of Non-ferrous Metals, Lanzhou University of Technology, Lanzhou 730050, China. ygywjj@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xiujuan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Mechanical and Electrical Engineering, Lanzhou University of Technology, Lanzhou 730050, China. chenxj@lut.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang A"
+          ],
+          "firstName": [
+            "Ansong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Processing and Recycling of Non-ferrous Metals, Lanzhou University of Technology, Lanzhou 730050, China. 17361558956@163.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0337-0472",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2803902"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Polymers"
+          ],
+          "ISOAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "NLMid": [
+            "101545357"
+          ],
+          "ISSN": [
+            "2073-4360"
+          ],
+          "ESSN": [
+            "2073-4360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "A one-step hydrothermal method is reported for synthesizing carbon spheres (Cs) with sucrose as the carbon resource for the anode materials in lithium-ion batteries (LIBs). Firstly, the influences of synthesis temperature and time on particle size and the morphology of the Cs were researched. Then, modified carbon spheres (MCs) were synthesized with some surfactants, such as hexadecyl trimethyl ammonium bromide (CTAB) and polyvinyl alcohol (PVA). Finally, nano-sized MCs with an average diameter of 70 nm, owning the smooth surface and uniform spherical morphology systematically investigated by X-ray diffraction (XRD), scanning electron microscope (SEM), and transmission electron microscope (TEM). The outstanding performances of nano-sized MCs synthesized with PVA were demonstrated as anode materials in LIBs. The higher initial discharge capacity of 1180 mAhg-1 and the excellent discharge capacity of 470 mAhg-1 were obtained respectively at 100 mAg-1 (0.27 C) over 50 cycles. The nano-sized MCs has also shown remarkable performance of rate capability of 284.6 mAhg-1 at 1.5 C. In addition, the cycling reversibility of the nano-sized MCs is more stable than that of the sub-micron sized MCs modified with CTAB and no surfactant respectively."
+  ],
+  "affiliation": [
+    "School of Mechanical and Electrical Engineering, Lanzhou University of Technology, Lanzhou 730050, China. wangyouliang20@163.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "17YF1GA020"
+          ],
+          "agency": [
+            "Key Research Projects in Gansu Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hydrothermal Method",
+        "Lithium-ion Batteries",
+        "Anode Materials",
+        "Carbon Sphere"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/polym11040645"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6523462"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6523462?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-12"
+  ],
+  "firstIndexDate": [
+    "2019-04-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-06"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-09"
+  ],
+  "firstPublicationDate": [
+    "2019-04-09"
+  ]
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC5503358/results/word/frequencies/results.xml">
+  <result title="frequency" word="thermal" count="79"/>
+  <result title="frequency" word="runaway" count="57"/>
+  <result title="frequency" word="temperature" count="57"/>
+  <result title="frequency" word="heating" count="56"/>
+  <result title="frequency" word="battery" count="55"/>
+  <result title="frequency" word="heat" count="41"/>
+  <result title="frequency" word="lithium-ion" count="38"/>
+  <result title="frequency" word="reaction" count="32"/>
+  <result title="frequency" word="charging" count="31"/>
+  <result title="frequency" word="initial" count="29"/>
+  <result title="frequency" word="power" count="27"/>
+  <result title="frequency" word="SOC" count="26"/>
+  <result title="frequency" word="Thermal" count="25"/>
+  <result title="frequency" word="Figure" count="23"/>
+  <result title="frequency" word="electrolyte" count="21"/>
+ </snippets>
+</snippetsTree>

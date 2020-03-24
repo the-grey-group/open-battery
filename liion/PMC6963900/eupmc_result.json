@@ -1,0 +1,328 @@
+{
+  "id": [
+    "31956753"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31956753"
+  ],
+  "pmcid": [
+    "PMC6963900"
+  ],
+  "doi": [
+    "10.1021/acsomega.9b03662"
+  ],
+  "title": [
+    "Recent Advances in MXenes for Lithium-Ion Capacitors."
+  ],
+  "authorString": [
+    "Zhang X, Wang L, Liu W, Li C, Wang K, Ma Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xiong"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Electrical Engineering, Chinese Academy of Sciences, No. 6 Beiertiao, Zhongguancun, Haidian District, Beijing 100190, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Electrical Engineering, Chinese Academy of Sciences, No. 6 Beiertiao, Zhongguancun, Haidian District, Beijing 100190, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu W"
+          ],
+          "firstName": [
+            "Wenjie"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Institute of Electrical Engineering, Chinese Academy of Sciences, No. 6 Beiertiao, Zhongguancun, Haidian District, Beijing 100190, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li C"
+          ],
+          "firstName": [
+            "Chen"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Institute of Electrical Engineering, Chinese Academy of Sciences, No. 6 Beiertiao, Zhongguancun, Haidian District, Beijing 100190, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Institute of Electrical Engineering, Chinese Academy of Sciences, No. 6 Beiertiao, Zhongguancun, Haidian District, Beijing 100190, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma Y"
+          ],
+          "firstName": [
+            "Yanwei"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Electrical Engineering, Chinese Academy of Sciences, No. 6 Beiertiao, Zhongguancun, Haidian District, Beijing 100190, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2903451"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "75-82"
+  ],
+  "abstractText": [
+    "Recently, two-dimensional MXenes and MXene-based nanocomposites have become the most important electrode materials because of their unique physical and chemical characteristics. As the electrode of a lithium-ion capacitor, MXenes have exhibited metallic conductivity and plastic layer structure that provide more chemically active interfaces and shortened ion-diffusion lengths, and thus the unbalanced ion kinetics between the anode and cathode can be effectively alleviated. In order to further improve the electrochemical performance of MXenes, the composition, morphology and texture, surface chemistry, and structural configuration of MXenes are extensively investigated. In this mini-review, some recent research and progress of MXenes and MXene-based nanocomposites in lithium-ion capacitors are summarized, which focus on their nanostructure designs and chemical preparation methods, such as prepillaring MXenes, delaminated MXenes, and MXene-based hybrids. Finally, some future perspectives and critical challenges of MXene-based material for lithium-ion capacitor application are also presented and briefly discussed."
+  ],
+  "affiliation": [
+    "Institute of Electrical Engineering, Chinese Academy of Sciences, No. 6 Beiertiao, Zhongguancun, Haidian District, Beijing 100190, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.9b03662"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6963900"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6963900?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-21"
+  ],
+  "firstIndexDate": [
+    "2020-01-21"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-20"
+  ],
+  "dateOfRevision": [
+    "2020-01-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-18"
+  ],
+  "firstPublicationDate": [
+    "2019-12-18"
+  ]
+}

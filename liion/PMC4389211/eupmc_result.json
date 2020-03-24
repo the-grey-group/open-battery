@@ -1,0 +1,296 @@
+{
+  "id": [
+    "25851595"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25851595"
+  ],
+  "pmcid": [
+    "PMC4389211"
+  ],
+  "doi": [
+    "10.1038/srep09792"
+  ],
+  "title": [
+    "Polymer-Derived Ceramic Functionalized MoS2 Composite Paper as a Stable Lithium-Ion Battery Electrode."
+  ],
+  "authorString": [
+    "David L, Bhandavat R, Barrera U, Singh G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "David L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "David"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Mechanical and Nuclear Engineering, Kansas State University, Manhattan, KS 66506, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bhandavat R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Bhandavat"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Mechanical and Nuclear Engineering, Kansas State University, Manhattan, KS 66506, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Barrera U"
+          ],
+          "firstName": [
+            "U"
+          ],
+          "lastName": [
+            "Barrera"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Department of Mechanical and Nuclear Engineering, Kansas State University, Manhattan, KS 66506, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Singh G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Mechanical and Nuclear Engineering, Kansas State University, Manhattan, KS 66506, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2243512"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "9792"
+  ],
+  "abstractText": [
+    "A facile process is demonstrated for the synthesis of layered SiCN-MoS2 structure via pyrolysis of polysilazane functionalized MoS2 flakes. The layered morphology and polymer to ceramic transformation on MoS2 surfaces was confirmed by use of electron microscopy and spectroscopic techniques. Tested as thick film electrode in a Li-ion battery half-cell, SiCN-MoS2 showed the classical three-stage reaction with improved cycling stability and capacity retention than neat MoS2. Contribution of conversion reaction of Li/MoS2 system on overall capacity was marginally affected by the presence of SiCN while Li-irreversibility arising from electrolyte decomposition was greatly suppressed. This is understood as one of the reasons for decreased first cycle loss and increased capacity retention. SiCN-MoS2 in the form of self-supporting paper electrode (at 6 mg·cm(-2)) exhibited even better performance, regaining initial charge capacity of approximately 530 mAh·g(-1) when the current density returned to 100 mA·g(-1) after continuous cycling at 2400 mA·g(-1) (192 mAh·g(-1)). MoS2 cycled electrode showed mud-cracks and film delamination whereas SiCN-MoS2 electrodes were intact and covered with a uniform solid electrolyte interphase coating. Taken together, our results suggest that molecular level interfacing with precursor-derived SiCN is an effective strategy for suppressing the metal-sulfide/electrolyte degradation reaction at low discharge potentials."
+  ],
+  "affiliation": [
+    "Department of Mechanical and Nuclear Engineering, Kansas State University, Manhattan, KS 66506, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep09792"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4389211"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4389211?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "14"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-06-11"
+  ],
+  "dateOfCreation": [
+    "2015-04-08"
+  ],
+  "firstIndexDate": [
+    "2015-04-08"
+  ],
+  "fullTextReceivedDate": [
+    "2015-04-10"
+  ],
+  "dateOfRevision": [
+    "2015-04-10"
+  ],
+  "electronicPublicationDate": [
+    "2015-04-08"
+  ],
+  "firstPublicationDate": [
+    "2015-04-08"
+  ]
+}

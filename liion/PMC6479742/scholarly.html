@@ -1,0 +1,977 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head> <style type="text/css">
+         	     		 
+         	    a                          {background : #ffffff; }
+         	    article                    {border-style : dotted; border-width : 2px; }
+         		 	
+         		 	div                        {background : #ffffcc;}
+         		 	div.abstract-title         {font-weight : bold ; font-size : 16pt;}
+         		 	div.ack                    {border-style : solid ; border-color : red; margin
+         : 2em; }
+         		 	div.article-meta           {border-style : solid; border-width : 1 pt; margin
+         1em;}
+         		 	div.boxed-text             {margin : 5em; border-style : solid;}
+         		 	div.contrib-group          {margin : 1em; }
+         		 	div.fig                    {border-style : solid; border-width : 2px; margin :
+         2em; }
+         		 	div.funding                {font-weight : bold ; font-size : 16pt;}
+         		 	div.given-names            {font-style : italic;}
+         		 	div.intro                  {border-style : inset; margin : 5px;}
+         		 	div.introduction           {border-style : inset; margin : 5px;}
+         		 	div.journal-meta           {border-style : solid; border-width : 1 pt; margin
+         1em;}
+         		 	div.journal-title-group    {background : #ffeeee;}
+         		 	div.article-title          {font-weight : bold ; font-size : 18pt;}
+         		 	div.kwd                    {font-style : italic}
+         		 	div.meta-name              {font-weight : bold ; font-size : 16pt;}
+         		 	div.name                   {font-weight : bold;}
+         		 	div.alt-title              {font-style : italic; font-size : 12px;}
+         		 	
+         		 	div.sec                    {border : 2px; margin 5px; padding 2px;}
+         		 	div.title                  {font-family : courier; font-weight : bold;
+         		 	                            font-size : 16pt; margin : 5px;}
+         		 	
+         		 	div.materials_methods      {border-style : double; margin : 5px; }
+         		 	div.methods                {border-style : double; margin : 5px; }
+         		 	
+         		 	div.results                {border-style : solid; margin : 5px;}
+         		 	div.background             {border-style : dotted; margin : 5px;}
+         		 	
+         		 	div.discussion             {border-style : groove; margin : 5px;}
+         		 	div.conclusion             {border-style : ridge; margin : 5px;}
+         		 	div.conclusions             {border-style : ridge; margin : 5px;}
+         		 	div.supplementary-material {border-style : inset; margin : 5px;}
+         		 	div.abbreviations          {border-style : double; border-color : red; margin
+         : 5px;}
+         		 	div.competinginterests     {border-style : double; border-color : blue; margin
+         : 5px;}
+         		 	div.acknowledgements       {border-style : double; border-color : green; margin
+         : 5px;}
+         		 	div.authors_contributions   {border-style : double; border-color : purple; margin
+         : 5px;}
+         		 	
+         		 	div.publisher              {border-style : outset; margin : 5px;}
+         		 	div.fn-type-conflict       {background : #f88; }
+         		 	div.fn-type-con            {background : #ddf; }
+         		 	div.fn-type-other          {background : #ddd; }
+         		 	
+         		 	div.unknown                {background : #ffd;
+         									 	  border-style : solid;
+         									 	  border-width : 1px;
+         									 	  padding : 2 px;}
+         		 	  
+         	    table                      {background : #ffffdd;}
+         		 	tr                         {background : #ddddff; padding : 1px;}
+         		 	
+         		 	span                       {background : #ffcccc;}
+         		 	
+         		 	span.citation-author       {font-family : helvetica; background : #ffeeee;}
+         		 	span.collab                {background : #ddffff; }
+         		 	span.comment               {font-family : courier; font-size : 6px; background
+         : #ffaaff;}
+         		 	span.contrib               {background : #ffffff;}
+         		 	span.corresp               {background : #ddffdd; }
+         		 	span.doi                   {background : #ffffff;}
+         		 	span.email                 {font-family : courier; }
+         		 	span.etal                  {font-style : italic;}
+         		 	span.fpage                 {font-family : courier;}
+         		 	span.given-names           {background : #ffffff;}
+         		 	span.iso-abbrev            {background : #ffffff;}
+         		 	span.issn-epub             {background : #ffffff;}
+         		 	span.issn-ppub             {background : #ffffff;}
+         		 	span.journal-title         {background : #ffffff;}
+         		 	span.lpage                 {font-family : courier;}
+         		 	span.mixed-article-title   {font-style : italic ;}
+         		 	span.nlm-ta                {background : #ffffff;}
+         		 	span.pmc                   {background : #ffffff;}
+         		 	span.pmcid                 {background : #ffffff;}
+         		 	span.pmid                  {background : #ffffff;}
+         		 	span.publisher             {background : #ffffff;}
+         		 	span.publisher-id          {background : #ffffff;}
+         		 	span.publisher-name        {background : #ffffff;}
+         		 	span.source                {background : #ffffff;}
+         		 	span.subject               {background : #ffffff;}
+         		 	span.surname               {background : #ffffff;}
+         		 	span.volume                {font-family : courier; font-weight : bold;}
+         		 	span.year                  {font-family : courier ; font-style : italic;}
+         			
+      </style> </head> <body> <div class="front" title="front"> <div class="journal-meta" tagx="journal-meta" title="journal-meta"> <span class="nlm-ta" title="nlm-ta">Materials (Basel)</span> <span class="iso-abbrev" title="iso-abbrev">Materials (Basel)</span> <span class="publisher-id" title="publisher-id">materials</span> <div class="journal-title-group" tagx="journal-title-group" title="journal-title-group"> <span class="journal-title" tagx="journal-title" title="journal-title">Materials</span> </div> <span class="issn-epub" tagx="issn" title="issn-epub">1996-1944</span> <div class="publisher" tagx="publisher" title="publisher"> <span class="publisher-name" tagx="publisher-name" title="publisher-name">MDPI</span> </div> </div> <div class="article-meta" tagx="article-meta" title="article-meta"> <span class="pmcid" title="pmcid"> pmcid: <a href="http://www.ncbi.nlm.nih.gov/pubmed/6479742">6479742</a> </span> <span class="doi" title="doi"> doi: <a href="https://dx.doi.org/10.3390/ma12071054">10.3390/ma12071054</a> </span> <span class="publisher-id" title="publisher-id">materials-12-01054</span> <div class="article-categories" title="article-categories">
+: <span class="subject" title="subject">Article</span> </div> <div class="title-group"> <div class="article-title" title="article-title">
+Reliability Modeling Method for Lithium-ion Battery Packs Considering the Dependency of Cell Degradations Based on a Regression Model and Copulas </div> </div> <div class="contrib-group" title="contrib-group"> <span class="contrib" title="contrib"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Wang</span> <span class="given-names" tagx="given-names" title="given-names">Lizhi</span> </span> <a href="#af1-materials-12-01054">1</a> <a href="#af2-materials-12-01054">2</a> </span> <span class="contrib" title="contrib"> <span class="contrib-id" tagx="contrib-id" title="contrib-id">https://orcid.org/0000-0002-7259-1407</span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Sun</span> <span class="given-names" tagx="given-names" title="given-names">Yusheng</span> </span> <a href="#af3-materials-12-01054">3</a> </span> <span class="contrib" title="contrib"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Wang</span> <span class="given-names" tagx="given-names" title="given-names">Xiaohong</span> </span> <a href="#af3-materials-12-01054">3</a> <a href="#c1-materials-12-01054">*</a> </span> <span class="contrib" title="contrib"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Wang</span> <span class="given-names" tagx="given-names" title="given-names">Zhuo</span> </span> <a href="#af3-materials-12-01054">3</a> </span> <span class="contrib" title="contrib"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Zhao</span> <span class="given-names" tagx="given-names" title="given-names">Xuejiao</span> </span> <a href="#af3-materials-12-01054">3</a> </span> </div> <span class="citation_author_institution" id="af1-materials-12-01054">[1], <span class="email" tagx="email" title="email">wanglizhi@buaa.edu.cn</span> </span> <span class="citation_author_institution" id="af2-materials-12-01054">[2], </span> <span class="citation_author_institution" id="af3-materials-12-01054">[3], <span class="email" tagx="email" title="email">sunyusheng@buaa.edu.cn</span> <span class="email" tagx="email" title="email">13121698585@163.com</span> <span class="email" tagx="email" title="email">zhaoxuejiao@buaa.edu.cn</span> </span> <div class="author-notes" title="author-notes"> <div class="corresp" title="corresp"> <span class="label" tagx="label" title="label">*</span>Correspondence: <span class="email" tagx="email" title="email">wxhong@buaa.edu.cn</span>; Tel.: +86-139-1051-8355 </div> </div> <span class="pub-date-epub" title="pub-date-epub">epub: <span>2019-3-3</span> </span> <span class="pub-date-collection" title="pub-date-collection">collection: <span>2019-4</span> </span> <span class="volume" tagx="volume" title="volume">12</span> <span class="issue" tagx="issue" title="issue">7</span> <span class="elocation-id" tagx="elocation-id" title="elocation-id">1054</span> <span class="history" title="history"> <span class="received" title="received">received: 2019-3-15</span> <span class="accepted" title="accepted">accepted: 2019-3-27</span> </span> <div class="permissions"> <span class="copyright" title="copyright">(C) , <span class="copyright-year" tagx="copyright-year" title="copyright-year">2019</span> </span> <span class="license" title="license"> <span class="license-p" title="license-p">Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( <a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>). </span> </span> </div> <div class="abstract" title="abstract"> <div class="abstract-title" title="abstract-title">
+Abstract</div> <p>Lithium-ion batteries are widely used as basic power supplies and storage units for large-scale electric drive products such as electric vehicles. Their reliability is directly related to the life and safe operation of the electric drive products. In fact, the cells have a dependent relationship with the degradation process and they affect the degradation rate of the entire battery pack, thereby affecting its reliability. At present, most research focuses on the reliability of battery packs and assumes that their cells are independent of each other, which may cause the reliability of the evaluation to deviate greatly from the actual level. In order to accurately assess the reliability of lithium-ion batteries, it is necessary to build a reliability model considering the dependency among cells for the overall degradation of lithium-ion battery packs. Therefore, in this study, based on a lithium-ion battery degradation test, the Wiener process is used to analyze the reliability of four basic configurations of lithium-ion battery packs. According to the degradation data of the battery packs, the Copula function is used to quantitatively describe the dependent relationship in the degradation process of a single battery, and the quantitative dependent relationship is combined with the reliability model to form a new reliability model. Finally, taking the battery system of Tesla S as an example, a feasible optimization method for battery pack design is provided based on the model constructed in this work. </p> </div> <div class="kwd-group"> <div class="kwd" title="kwd">
+lithium-ion battery pack</div> <div class="kwd" title="kwd">
+dependency</div> <div class="kwd" title="kwd">
+reliability models considering dependency</div> <div class="kwd" title="kwd">
+copula function</div> </div> </div> </div> <div class="body" title="body"> <div class="intro" title="intro"> <div class="title" tagx="title" title="title">
+1. Introduction</div> <p>In recent years, lightweight energy storage devices such as lithium-ion batteries and supercapacitors have been widely utilized in electric vehicles, aerospace applications, submarines, and other power fields [ <a href="#B1-materials-12-01054">1</a>]. As an important clean energy source, lithium-ion batteries have advantages of high energy density, high capacity, low self-discharge rate, good safety, long life, and no pollution. Usually, hundreds of cells are connected, both in series and in parallel, to form battery packs in order to meet the voltage and energy requirements of electric drive products. The reliability of the battery packs is directly related to the overall performance of the electric drive products. For this reason, accurate knowledge of the reliability of the battery packs is vital in order to ensure the long life of the electric drive product. Previous studies have found that the dependency among cells during battery charging and discharging, as well as the degradation of each cell, will affect the degradation process of the associated single battery. Because of the dependency among cells, the degradation amount and the degradation rate of a battery pack are neither equal to those of the cells nor to the sum of those of cells [ <a href="#B2-materials-12-01054">2</a>]. Accordingly, the degradation process of a battery pack depends not only on the performance of a single battery, but also on the dependency among the individual cells. Therefore, it is necessary to reevaluate the failure law of lithium-ion battery packs under the influence of the dependency among cells and to conduct a reliability analysis of the battery packs. </p> <p>Currently, several studies on the reliability of lithium-ion batteries are based on the reliability analysis method, which assumes that the cells in a battery pack are independent of each other [ <a href="#B3-materials-12-01054">3</a>, <a href="#B4-materials-12-01054">4</a>]. Li et al. believe that this interrelationship among cells could affect the performance and lifetime of a battery pack [ <a href="#B5-materials-12-01054">5</a>]. Other scholars have discovered this inconsistency among cells in a lithium-ion battery pack and have studied its effects. Zheng et al. studied the influence of the inconsistency of the charging status on the safety and durability of lithium-ion batteries. The second-order RC model was chosen to represent the overall performance of the lithium-ion batteries and the inconsistency of the charging status of the lithium-ion batteries was estimated [ <a href="#B6-materials-12-01054">6</a>]. Wang et al. established a capacity degradation model for series battery packs in the case of inconsistent cell capacity [ <a href="#B7-materials-12-01054">7</a>]. Zhang et al. considered the influence of battery pack inconsistency caused by different operating temperatures and proposed a new method for estimating the residual discharge energy of battery packs using the recursive least squares unscented Kalman filter [ <a href="#B8-materials-12-01054">8</a>]. In order to improve the inconsistency of the series lithium-ion battery, Ma et al. proposed the use of fuzzy logic control (FLC) to reduce battery pack energy consumption and equalization time based on a non-dissipative equalization scheme [ <a href="#B9-materials-12-01054">9</a>]. Wang et al. carried out degradation tests on battery packs connected in series, in parallel, in series-parallel, and in parallel-series, and established a capacity degradation model considering the dependency of battery packs [ <a href="#B2-materials-12-01054">2</a>]. In summary, most of the existing work on the reliability of lithium-ion batteries does not consider the influence of dependency among cells, which leads to low accuracy of reliability estimation. Published research that considers the inconsistencies of battery packs are mostly related to specific battery pack configurations [ <a href="#B6-materials-12-01054">6</a>, <a href="#B7-materials-12-01054">7</a>, <a href="#B8-materials-12-01054">8</a>, <a href="#B9-materials-12-01054">9</a>]. These studies have built capacity degradation models, but they lack reliability models between cells and the entire battery pack that consider dependency [ <a href="#B2-materials-12-01054">2</a>, <a href="#B7-materials-12-01054">7</a>]. Hence, this work focuses on a reliability model that considers the dependency among cells for various battery pack configurations. </p> <p>In view of the aforementioned reliability modeling problem, Sarra et al. regarded windmills and gearboxes as multi-component systems. The behavior of one component affected the behavior of the other and the performance of the system [ <a href="#B10-materials-12-01054">10</a>], which is essentially similar to the dependency phenomenon among cells of the battery pack. Therefore, a lithium-ion battery pack can also be viewed as a multi-component system, in which each cell is regarded as a component. The dependency analysis method applied in a multi-component system can therefore be applied to the dependency modeling of a lithium-ion battery pack. By investigating the methods of dependency quantitative analysis, we found that the Copula function is a widely used statistical tool for describing the dependency and reliability of multi-component systems, and this function can be used in the research of dependency measurements [ <a href="#B11-materials-12-01054">11</a>]. Yi et al. first applied the Copula function to a discussion of the dependent relationship in reliability theory. The Copula function was used to clarify the dependency of each component of the system and the influence of dependency on the system [ <a href="#B12-materials-12-01054">12</a>]. Liu et al. presented a reliability evaluation based on the Copula function for an s-dependent degradation process system, and they used the inverse Gaussian process with a time-scale transformation to model the edge degradation process [ <a href="#B13-materials-12-01054">13</a>]. Hao et al. utilized the Copula function to represent the dependency of the two characteristic curves in a system [ <a href="#B14-materials-12-01054">14</a>]. The Copula function has also been successfully applied in correlation analysis of financial analysis and risk management [ <a href="#B15-materials-12-01054">15</a>, <a href="#B16-materials-12-01054">16</a>, <a href="#B17-materials-12-01054">17</a>], but it has rarely been applied to the study of dependency among cells of lithium-ion battery packs. </p> <p>In this work, a reliability model of a lithium-ion battery pack is constructed, considering the dependency among cells. Based on the capacity degradation data of the battery packs, the dependency effect on the reliability of the battery packs is verified by the calculation results of the reliability block diagram (RBD) model and the actual test data. Additionally, the Copula function is used to quantify the dependency among cells. Furthermore, a new model is formed by combining the quantified dependency with the RBD model, considering a structural relationship. Finally, the fitting effect of the proposed model is verified with linear regression analysis. </p> <p>The remaining paper is organized as follows. The reliability analysis of the lithium-ion battery pack with consideration of the influence of dependency among cells is given in <a href="#sec2-materials-12-01054">Section 2</a>. In <a href="#sec3-materials-12-01054">Section 3</a>, the dependency among cells is calculated based on the Copula function, and the reliability model that considers dependency among cells of a lithium-ion battery is established. <a href="#sec4-materials-12-01054">Section 4</a> shows the application of the reliability model in the group design of a lithium-ion battery pack. Conclusions are presented in <a href="#sec5-materials-12-01054">Section 5</a>. </p> </div> <div class="2.thedependencyphenomenonanditsinfluenceonalithium-ionbatterypack" title="sec"> <div class="title" tagx="title" title="title">
+2. The Dependency Phenomenon and its Influence on a Lithium-Ion Battery Pack</div> <div class="2.1.degradationtest" title="sec"> <div class="title" tagx="title" title="title">
+2.1. Degradation Test</div> <p>To study the dependency among cells, it is necessary to obtain the actual degradation data of cells and battery packs. In this work, the degradation test and the schematic diagram of battery packs were designed according to the degradation test platform in reference [ <a href="#B2-materials-12-01054">2</a>]. Degradation tests were carried out on the lithium-ion battery packs in the four battery packs of Pack A (series configuration), Pack B (parallel configuration), Pack C (series and parallel configuration), Pack D (parallel and series configuration), as shown in <a href="#materials-12-01054-f001">Figure 1</a>. Through analysis of the current and voltage data collected during the charging and discharging process, it was found that dependency results from the phenomena of overcharge, overcurrent, overvoltage, and circulating current for a single battery with an increasing number of cycles. The detailed mechanism discussion about the dependency analysis in the charge-discharge cycle and dependency analysis in the degradation process were shown in <a href="#sec3-materials-12-01054">Section 3</a> of reference [ <a href="#B2-materials-12-01054">2</a>]. In this work, capacity was taken as the characteristic quantity of the battery’s performance, and the capacity degradation increment curves of the four battery packs and of all cells after 100 cycles were obtained, as shown in <a href="#materials-12-01054-f002">Figure 2</a>. </p> <p> <a href="#materials-12-01054-f002">Figure 2</a> shows that the dependency degree among cells was positively correlated with the overall degradation rate of the battery pack, and that the more complex the structure of the battery pack, the greater the degree of dependency. The battery dependency accelerated the degradation of the whole battery pack, and the degradation process of the battery pack was directly related to its reliability. Therefore, our work re-studied the failure law and analyzed the reliability of a lithium-ion battery. </p> </div> <div class="2.2.reliabilityanalysisofalithiumionbatterypack" title="sec"> <div class="title" tagx="title" title="title">
+2.2. Reliability Analysis of a Lithium Ion Battery Pack</div> <p>According to the data obtained from the battery pack degradation test, the performance degradation of the lithium-ion battery pack and the single battery at a certain time was random; therefore, the Wiener process could be used to describe the trend of battery capacity degradation. Some studies have used the Wiener process to model and evaluate the degradation process of lithium-ion batteries. Tang used the non-linear Wiener process to predict the remaining useful life (RUL) of lithium-ion batteries by combining the classical Maximum Likelihood Estimate (MLE) and the Bayesian updating algorithm [ <a href="#B18-materials-12-01054">18</a>]. The Wiener process is a continuous-time stochastic process that can typically simulate the stochastic degradation process of lithium-ion batteries. The expression for the Wiener process is: </p><div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(1)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Y</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+σ</div> <div class="mi_UNKNOWN">
+B</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+λ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </div>where <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Y</div> </div> </div> </span> denotes the capacity degradation of a battery, <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+B</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </span> denotes the standard Brownian motion, <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+B</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+~</div> <div class="mi_UNKNOWN">
+N</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+0</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </span>, σ denotes the diffusion coefficient, σ &amp;gt; 0, <i>λ</i> denotes the drift coefficient, and <i>y</i> <sub>0</sub> denotes the capacity degradation value of the battery at initial time <i>t</i> <sub>0</sub>, which is generally assumed to be 0. If <i>w</i> is the failure threshold of the lithium-ion battery, the battery will cease to be effective when <i>Y</i> − <i>w</i> &amp;lt; 0. Generally, 80% of the rated capacity of a battery is taken as its failure threshold value. The failure thresholds of the four packs and the cell are given in <a href="#materials-12-01054-t001">Table 1</a>. The time (t) at which <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Y</div> </div> </div> </span> passes through <i>w</i> for the first time is subject to an inverse Gaussian distribution, so the distribution of the reliability probability is defined as: <div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(2)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+Φ</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+λ</div> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+σ</div> <div class="msqrt_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+exp</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+{</div> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+λ</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mi_UNKNOWN">
+w</div> </div> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+σ</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+}</div> </div> <div class="mi_UNKNOWN">
+Φ</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+λ</div> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+σ</div> <div class="msqrt_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </div> <p /> <p>The Wiener process can be used to calculate the reliability of battery packs and cells under actual conditions. However, in the design stage of battery packs, there is usually a lack of degradation data for the whole pack. When analyzing the reliability of the whole pack, the reliability model is typically constructed with a reliability block diagram (RBD). For example, Sun analyzed the reliability of the battery packs in series and in parallel with reliability theory, and it was concluded that the reliability of the battery pack increased with an increasing number of parallel cells [ <a href="#B19-materials-12-01054">19</a>]. Liu et al. used a reliability assessment model to estimate the Mean Time Between Failures (MTBF), and it was discovered that the reliability of a parallel-series battery pack was better than that of the series-parallel battery pack [ <a href="#B20-materials-12-01054">20</a>]. The reliability models of series and parallel structures are given in [ <a href="#B21-materials-12-01054">21</a>]: </p><div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(3)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Series</div> <div class="mo_UNKNOWN">
+:</div> <div class="mtext_UNKNOWN"> </div> <div class="mi_UNKNOWN">
+R</div> <div class="mo_UNKNOWN">
+=</div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∏</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </div> </div> </div> <div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(4)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Parallel</div> <div class="mo_UNKNOWN">
+:</div> <div class="mtext_UNKNOWN"> </div> <div class="mi_UNKNOWN">
+R</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∏</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+[</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mo_UNKNOWN">
+]</div> </div> </div> </div> </div> </div> </div> </div> <p /> <p>The reliability of complex grouped structures can be calculated by a combination of series and parallel reliability Equations. Using the reliability function in <a href="#materials-12-01054-t002">Table 2</a>, the reliability of the four battery packs (Pack A, Pack B, Pack C, and Pack D) without consideration of the dependency among cells can be obtained. The RBD model assumes that the individual cells are independent of each other, regardless of the internal dependency among cells or the overall reliability of the battery pack. Based on the obtained test data of the cell, the reliabilities of Pack A, Pack B, Pack C, and Pack D battery packs were estimated with the RBD model. At the same time, the real reliability of the four battery packs was obtained according to the degradation data of the whole battery packs monitored in practice. The results of the reliability block diagram model and the actual reliability are shown in <a href="#materials-12-01054-f003">Figure 3</a>. </p> <p>In <a href="#materials-12-01054-f003">Figure 3</a>, the reliabilities of the four lithium-ion battery packs obtained with the RBD model are compared with those obtained by the actual whole battery pack test data. The actual reliability of the four battery packs was different than the reliability obtained with the RBD method, indicating that the dependency between the capacity degradation processes of the individual cells had a significant impact on the reliability of the battery pack. The difference between the "R Experiment capacity" curve and the "R Reliability diagram capacity" curve represents the influence of the dependency among cells on the reliability of the battery packs. <a href="#materials-12-01054-t003">Table 3</a> compares the RMSE values of the reliability estimated by the test data with values estimated by the RBD model. The RMSE values of the series-parallel structure and the parallel-series structure estimated by the RBD model were larger in the four battery pack configurations. It can also be determined that the more complex the pack structure, the greater the degree of dependency, and the larger the error value of the battery reliability estimation. The RBD model is a simple calculation method that considers the structural relationship between the individual cells without considering the dependency among cells. However, the reliability results obtained from the RBD model were quite different from the actual reliability, which could not accurately evaluate the real reliability of the battery packs or affect the reliability design of the follow-up system (including the lithium-ion battery pack) and the health management of the battery packs. Therefore, we had to quantify the degree of dependency and establish a reliability model that considered the dependency among cells based on the quantified results. </p> </div> </div> <div class="3.methodofmodelingthereliabilitywhileconsideringthedependency" title="sec"> <div class="title" tagx="title" title="title">
+3. Method of Modeling the Reliability While Considering the Dependency</div> <p>Based on the Copula function, the degree of dependency among cells was quantitatively described in order to establish a model that accurately depicted the reliability of the battery pack. Based on this, dependency models of the lithium-ion battery packs with various structures were constructed, and the optimal expression of the model was studied and determined. </p> <div class="3.1.acopula-basedapproachtoquantifyingdependency" title="sec"> <div class="title" tagx="title" title="title">
+3.1. A Copula-Based Approach to Quantifying Dependency</div> <p>The concept of a "Copula" was first proposed by Abe Sklar [ <a href="#B22-materials-12-01054">22</a>], which is a mathematical tool that joins a marginal distribution with a joint distribution. The Copula function is a connection function of standard uniform random variables: </p><div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(5)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+Pr</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+{</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+≤</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+≤</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+}</div> </div> </div> </div> </div> </div>where <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+∼</div> <div class="mi_UNKNOWN">
+U</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+2</div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="mi_UNKNOWN">
+n</div> <div class="mo_UNKNOWN">
+,</div> </div> </div> </div> </span> is a standard uniform distribution. The Copula function obeys the Sklar theorem. For the marginal distribution function <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </div> </span>, there is an n-dimensional Copula function <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> </div> </div> </span> that is satisfied [ <a href="#B22-materials-12-01054">22</a>]: <div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(6)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+C</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </div> <p /> <p>If <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </div> </span> are continuous functions, then there exists a unique <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> </div> </div> </span>. If <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </div> </span> represents the marginal distribution function and <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> </div> </div> </span> is the corresponding Copula function, then the function <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> </div> </div> </span> defined by Equation (6) is the joint distribution function of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </div> </span>. The joint probability density function can be obtained by taking the derivative of Equation (7): </p><div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(7)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+c</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∏</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </div>where <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mi_UNKNOWN">
+C</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+⋯</div> <div class="mo_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </div> </div> </div> </span>, <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </span>, and <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </span> is the marginal probability density function of <i>x <sub>i</sub> </i>. It can be seen from the Sklar theorem that if the specific form of the Copula function is known, the multidimensional joint distribution function can be constructed flexibly. Several works have studied the forms of the Copula function, among which the Archimedes Copula is one of the most important forms. The Archimedes Copula has advantages of a simple form, symmetry, and combination; therefore, it has been widely used [ <a href="#B11-materials-12-01054">11</a>]. The Archimedes Copula contains a variety of function types according to the generator elements, which are used to describe different dependent structures, such as the Clayton Copula, Frank Copula, and Gumbel-Hougaard Copula, among others. The Clayton Copula is simple in construction and it can describe a wide range of correlations. Therefore, the Clayton Copula was selected to quantify the dependency among cells of the lithium-ion battery packs. <p /> <p>Assuming that a battery pack is composed of n cells, and that the life of each cell is a random variable, there are <i>n</i> marginal cumulative distribution functions (CDF): <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+2</div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+…</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </span>, and a joint CDF: <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+…</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </span>. The marginal CDF of the random variable is connected to its associated CDF by the Copula function, as shown in Equation (8) [ <a href="#B23-materials-12-01054">23</a>]: </p><div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(8)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+…</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+C</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+…</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </div> <p /> <p>If <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> </div> </div> </span> is continuous, Copula <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> </div> </div> </span> is uniquely determined. Letting <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </span>, then the Copula function can be expressed as: </p><div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(9)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+…</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+1</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+2</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+…</div> <div class="mo_UNKNOWN">
+,</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+n</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </div>where <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+…</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+∈</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </span>. According to the Archimedes Copula, the following specific expressions are obtained: <div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(10)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+…</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+[</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+]</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+φ</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+φ</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </div>where <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> </div> </div> </span> is the Archimedes Copula’s Generator. Supposing that <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> <div class="mi_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+θ</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </span> and <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> <div class="mo_UNKNOWN">
+&amp;gt;</div> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </span>, <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> <div class="mi_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </span> is completely monotonous on <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+[</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+∞</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </span>. For <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mo_UNKNOWN">
+≥</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </span>, the Clayton Copula function can be expressed as: <div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(11)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+θ</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+u</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN" /> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+θ</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN" /> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+θ</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mo_UNKNOWN">
+⋯</div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN" /> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+θ</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+n</div> <div class="mo_UNKNOWN">
++</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+θ</div> </div> </div> </div> </div> </div> </div> </div>where <i>θ</i> denotes the Copula parameters, which can be solved by the Inference Functions for Margins (IFM) [ <a href="#B24-materials-12-01054">24</a>, <a href="#B25-materials-12-01054">25</a>]. Compared with the maximum likelihood estimation, the IFM has more advantages for numerical calculations and the progressive effect. <p /> <p>After estimating the parameter <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> </div> </div> </span>, the joint probability cumulative distribution <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </span> (hereinafter referred to as the dependent term) of the degradation data of the battery packs under dependency is obtained. The dependency degree between n cells is included in parameter <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </span>, and the reliability of the battery packs can be obtained from <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </span>. </p> <p>According to the battery degradation data obtained in <a href="#sec2dot1-materials-12-01054">Section 2.1</a>, the joint probability cumulative distribution of the two cell degradation data in Pack A and Pack B was regarded as a two-dimensional variable. The degrees of dependency for Pack A and Pack B were calculated using the Copula function. At the same time, the actual joint probability cumulative distributions of Pack A and Pack B were calculated using the data for the whole battery pack degradation. The results are shown in <a href="#materials-12-01054-f004">Figure 4</a>a,b. Similarly, the joint probability cumulative distributions of the data for the four cell degradations in Pack C and Pack D were regarded as four-dimensional variables. The dependencies among Pack C and among Pack D were obtained. The results were compared with the actual joint probability cumulative distribution of the battery packs. The results are shown in <a href="#materials-12-01054-f004">Figure 4</a>c,d. </p> </div> <div class="3.2.reliabilitymodelsofthelithium-ionbatteryconsideringthedependency" title="sec"> <div class="title" tagx="title" title="title">
+3.2. Reliability Models of the Lithium-ion Battery Considering the Dependency</div> <p>As described in <a href="#sec3dot1-materials-12-01054">Section 3.1</a>, the degradation data of the cell was connected with Copula function to measure the degree of dependency in the overall degradation process of the battery, as well as compared with the actual joint probability cumulative distribution obtained from the battery as a whole. The joint probability cumulative distribution obtained by concatenating the unit cells while simultaneously considering the dependent relationship did not accurately represent the actual degradation of the entire battery pack. Schmalstieg and Wang et al. demonstrated that the trend of capacity degradation of lithium-ion batteries could be described by a linear model [ <a href="#B2-materials-12-01054">2</a>, <a href="#B26-materials-12-01054">26</a>]; therefore, this study considered establishing a linear model to depict the reliability level of the battery pack. </p> <p>First, as described in <a href="#sec2dot2-materials-12-01054">Section 2.2</a>, the RBD model was used to obtain the joint probability cumulative distribution of the four battery pack configurations. According to a general linear model structure [ <a href="#B27-materials-12-01054">27</a>, <a href="#B28-materials-12-01054">28</a>], a linear model (Model 1) was established and only considered the internal structural relationship of the battery packs <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+a</div> </div> </div> </div> </div> </span> (hereinafter referred to as the structural term). The expression for this relationship is as follows: </p><div class="disp-formula" title="disp-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+a</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+c</div> </div> </div> </div> </div>where <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> </div> </div> </span> is the joint cumulative probability distribution function that was constructed, and simultaneously considers the internal structural relationship of the battery pack. <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+a</div> </div> </div> </div> </div> </span> is the structural term obtained by the RBD model, <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> </div> </div> </span> denotes a weight coefficient term, and <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> </div> </div> </span> denotes a constant term. <p /> <p>Next, based on the dependent term obtained by the Copula function in <a href="#sec3dot1-materials-12-01054">Section 3.1</a>, a linear model (Model 2) that considered only the internal dependency among cells was established. The expression for this linear model is: </p><div class="disp-formula" title="disp-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+a</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+c</div> </div> </div> </div> </div>where <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> </div> </div> </span> is the joint cumulative probability distribution function that was constructed considering the dependency among cells, <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </span> is the dependent term obtained by the Copula function, <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> </div> </div> </span> denotes a weight coefficient term, and <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> </div> </div> </span> denotes a constant term. <p /> <p>In order to verify the ability of the model to describe the degradation law of lithium-ion battery packs under the influence of dependency, the regression analyses of Model 1 and Model 2 were carried out based on the actual test data. The <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> </div> </div> </span> and <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> </div> </div> </span> parameters were estimated by the least squares method to obtain the regression model. The significance of the regression equation was tested by the F test. There was a hypothesis H <sub>0</sub>: the model could be expressed in linear form. The alternative hypothesis was H <sub>1</sub>: the model could not be expressed in linear form. When the significance of F was lower than the significance level <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0.01</div> </div> </div> </div> </span> ( <i>p</i>-value <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+&amp;lt;</div> <div class="mn_UNKNOWN">
+0.01</div> </div> </div> </div> </span>), the hypothesis H <sub>0</sub> was rejected, and the alternative hypothesis, H <sub>1,</sub> was supported. In addition, <i>R</i> <sup>2</sup> (the regression coefficient) for the goodness of fit was used to test the fitting degree of the actual test data [ <a href="#B29-materials-12-01054">29</a>]. The larger <i>R</i> <sup>2</sup> value, the greater the proportion of the total variance of the dependent variable was "explained" by the linear regression model. <a href="#materials-12-01054-t004">Table 4</a> provides the parameters and significance of the linear regression models for the four battery packs under Model 1 and Model 2. In order to make the comparison clearer, the regression coefficients of the two models are compared in <a href="#materials-12-01054-f005">Figure 5</a>. </p> <p>The fitting results of Model 1 for Pack A, Pack B, and Pack D was better than that of Model 2, while the fitting result for Pack C was worse than that of Model 2. In Model 2, the regression results obtained by the Copula function were slightly worse, but there were clear advantages in quantifying the degree of dependency of the degradation data of the cells. Therefore, considering the advantages of the Copula function at the level of quantitative dependency and in combination with the RBD model, a new Model 3 was constructed that not only included dependency, but also considered the structure of the battery packs. </p> <p>In Model 3, the dependent term and the structural term were simultaneously considered as variables affecting the battery pack dependency model; thus, Model 3 had the following three forms of expression: </p><div class="disp-formula" title="disp-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Model</div> <div class="mo_UNKNOWN"> </div> <div class="mtext_UNKNOWN">
+3-1</div> <div class="mo_UNKNOWN">
+:</div> <div class="mo_UNKNOWN">
+ </div> <div class="mi_UNKNOWN">
+F</div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+a</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+c</div> </div> <div class="mspace_UNKNOWN" /> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Model</div> <div class="mo_UNKNOWN"> </div> <div class="mtext_UNKNOWN">
+3-2</div> <div class="mo_UNKNOWN">
+:</div> <div class="mo_UNKNOWN">
+ </div> <div class="mi_UNKNOWN">
+F</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+a</div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+c</div> </div> <div class="mspace_UNKNOWN" /> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Model</div> <div class="mo_UNKNOWN"> </div> <div class="mtext_UNKNOWN">
+3-3</div> <div class="mo_UNKNOWN">
+:</div> <div class="mo_UNKNOWN">
+ </div> <div class="mi_UNKNOWN">
+F</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+a</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+b</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+c</div> </div> </div> </div> </div> </div> <p /> <p>Model 3-1 only considered the weight of the joint cumulative probability distribution function obtained by adjusting the Copula function. Model 3-2 considered the notion that the structural term <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+a</div> </div> </div> </div> </div> </span> and the dependent term <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </span> had the same weight coefficients. Model 3-3 gave different weights to the structural and dependent terms. The three models listed above only used the Copula function to find the dependent term. In order to understand whether the dependent term <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </span> and the structural term <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+a</div> </div> </div> </div> </div> </span> had an interactive relationship, the Copula function was used to link the dependent and structural terms to form the following two model structures: </p><div class="disp-formula" title="disp-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Model</div> <div class="mo_UNKNOWN"> </div> <div class="mtext_UNKNOWN">
+3-4</div> <div class="mo_UNKNOWN">
+:</div> <div class="mo_UNKNOWN">
+ </div> <div class="mi_UNKNOWN">
+F</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+C</div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+c</div> </div> <div class="mspace_UNKNOWN" /> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Model</div> <div class="mo_UNKNOWN"> </div> <div class="mtext_UNKNOWN">
+3-5</div> <div class="mo_UNKNOWN">
+:</div> <div class="mo_UNKNOWN">
+ </div> <div class="mi_UNKNOWN">
+F</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+a</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+b</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+C</div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+c</div> </div> </div> </div> </div> </div> <p /> <p>Model 3-4 was a linear model that used the Copula function twice to construct the dependent term as a variable, whereas Model 3-5 regarded the combination of the structural term, the dependent term, and the combination term as multiple variables of the linear model. </p> <p>The regression analyses of the multiple dependent models of Model 3 were carried out according to the actual experimental data. The dependent models were fitted and their parameters were determined. Additionally, Model 1 and Model 2 were also compared to the modeling effects of the five expression structures of Model 1, Model 2, and Model 3. The best regression model was selected as the lithium-ion battery pack model that considers dependency among cells. </p> </div> <div class="3.3.modelcomparisonanddiscussion" title="sec"> <div class="title" tagx="title" title="title">
+3.3. Model Comparison and Discussion</div> <p>The five expression structures of Model 3 were analyzed with regression analysis. The model parameters of Pack A, Pack B, Pack C, and Pack D were estimated, and the model was tested for significance and goodness of fit, as shown in <a href="#materials-12-01054-t005">Table 5</a>. </p> <p>In order to visually illustrate the ability of each model to fit the actual battery pack degradation data, the regression results of the seven models were compared according to the configurations of the battery packs. The comparison results are shown in <a href="#materials-12-01054-f006">Figure 6</a>. </p> <p>By comparing the graphs in <a href="#materials-12-01054-f006">Figure 6</a>, it can be seen that the multivariate linear models (Model 3-2 and Model 3-3) that considered both the dependent and structural terms had a better fitting effect than Model 1 and Model 2. Models 3-2 and 3-3 also had high regression coefficients ( <i>R</i> <sup>2</sup>&amp;gt;0.9) and low <i>p</i>-values (&amp;lt;0.0001) for the four battery pack configurations. The regression effect was remarkable, which suggests that the model structure containing the dependent term and the battery pack structural term was more suitable for expressing the dependent relationship among cells. The fitting result of Model 3-3 was better than that of Model 3-2 in Pack A, Pack B, and Pack D, and second only to Model 3-2 in Pack C. From these results, it is clear that the model with different weight coefficients for the dependent and structural terms was more reasonable. Therefore, the final reliability dependency model of the lithium-ion battery pack was obtained by choosing the expression of Model 3-3, i.e.,: </p><div class="disp-formula" title="disp-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+a</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+b</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+c</div> </div> </div> </div> </div> <p /> <p>This model described the reliability level of the entire battery pack by combining the reliability of a single battery with the dependency among cells into the model, which more accurately indicated the reliability of the entire pack. The model construction idea presented in this work provided a new solution for the reliability evaluation of a system with a dependent relationship. The state of the entire system can be represented in combination with the state of each component, especially for a system in which the state of each component is easy to obtain and the overall state of the system is difficult to acquire. </p> </div> </div> <div class="4.applicationinbatterygroupdesign" title="sec"> <div class="title" tagx="title" title="title">
+4. Application in Battery Group Design</div> <p>The reliability model that considers dependency among cells presented in <a href="#sec3-materials-12-01054">Section 3</a> can provide guidance for scheme optimization, adjustment, and the reliability evaluation of battery packs in the reliability design stage of electric drive products. </p> <p>As an example, the battery system of the Tesla Model S consists of a large number of 18,650 lithium-ion batteries in series and in parallel. The typical grouping structure is shown in <a href="#materials-12-01054-f007">Figure 7</a>. A number of N cells are connected in parallel to form a Brick, a number of M Bricks are connected in series to form a Module, and a number of i Modules are connected in series to form a Pack. </p> <p>In the design phase, our goal was to select a group of cells with the least dependency and highest reliability to form a pack structure, based on the premise of meeting the overall output voltage and energy requirements. The preferred method for the battery pack structure is to obtain the capacity degradation data of a set of Bricks and calculate the reliability of each Brick according to the reliability dependency model in <a href="#sec3dot3-materials-12-01054">Section 3.3</a>. Due to the existence of the equalizer, and assuming that there is no dependency between Bricks, the reliability of the overall Pack can be calculated by the reliability model. The calculation equations are as follows: </p><div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(12)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+B</div> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+i</div> <div class="mi_UNKNOWN">
+c</div> <div class="mi_UNKNOWN">
+k</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+a</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∏</div> <div class="mn_UNKNOWN">
+1</div> <div class="mi_UNKNOWN">
+N</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mi_UNKNOWN">
+j</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+b</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+c</div> </div> </div> </div> </div> <div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(13)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+P</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+c</div> <div class="mi_UNKNOWN">
+k</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∏</div> <div class="mn_UNKNOWN">
+1</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mrow_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∏</div> <div class="mn_UNKNOWN">
+1</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+B</div> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+i</div> <div class="mi_UNKNOWN">
+c</div> <div class="mi_UNKNOWN">
+k</div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> <p /> <p>The numbers of N, M, and i are changed to achieve the battery group structure with the highest reliability that accounts for dependency among cells. At the same time, in the usage phase, the reliability level of the battery pack can be accurately evaluated based on the accumulated battery degradation data. Due to various restrictions on the operating environment as well as cost, this study only tested the battery packs of the basic group structure. For the complex structure ( <a href="#materials-12-01054-f007">Figure 7</a>), we propose a possible solution. The testing and verification of similar complex groups will be the focus of future research. </p> </div> <div class="conclusions" title="conclusions"> <div class="title" tagx="title" title="title">
+5. Conclusions</div> <p>This work researched a reliability model for lithium-ion battery packs that considers dependency among cells. Based on existing research [ <a href="#B2-materials-12-01054">2</a>], the reliability of a lithium-ion battery pack was analyzed by obtaining test data. The influence of dependency on the reliability of the battery pack was verified and quantified. The reliability model of a battery pack that considers dependency was constructed. The proposed model provided a viable optimization idea for battery group design. The main conclusions were as follows: </p> <p>(1) For the four battery pack configurations, there was a significant difference between the reliability obtained using the RBD model of the cells and the reliability obtained using the actual battery pack test data. The dependency among cells for the overall degradation process accelerated the degradation rate of the entire battery pack and affected the reliability of the entire battery pack. </p> <p>(2) Linear models, Model 1, Model 2, and Model 3 (including the five sub-models), were established. Three types of models were compared in the four groups of structures according to the fitting effect. The expression of Model 3-3 was more capable of describing the dependent relationship. Therefore, based on Model 3-3, the final battery pack reliability model was established. </p> <p>(3) Based on the model described in this paper, a feasible optimization idea for battery group design of large electric drive products is provided. However, only four battery pack configurations were tested in this study. Additional testing and verification of complex battery packs will be carried out in future work. </p> </div> </div> <div class="back" title="back"> <div class="ack" title="ack"> <div class="title" tagx="title" title="title">
+Acknowledgments</div> <p>The authors extend their appreciation to the National Natural Science Foundation of China, grant number 51805016 and the Intelligent Drilling Technologies, Systems and Theories of Strategic Priority Research Program (Class A) of the Chinese Academy of Sciences Project No. XDA14000000. </p> </div> <div class="title" tagx="title" title="title">
+Author Contributions</div> <p>Data curation, L.W. and Y.S.; Formal analysis, L.W. and Y.S.; Funding acquisition, L.W. and X.W.; Methodology, L.W., Y.S. and X.W.; Resources, Z.W.; investigation, X.Z.; Writing—original draft, L.W. and Y.S.; Writing—review &amp;amp; editing, X.W. and Z.W. </p> <div class="title" tagx="title" title="title">
+Funding</div> <p>This research was funded by the National Natural Science Foundation of China, grant number 51805016. This research was also supported by the Intelligent Drilling Technologies, Systems and Theories of Strategic Priority Research Program (Class A) of the Chinese Academy of Sciences (Project No. XDA14000000). </p> <div class="title" tagx="title" title="title">
+Conflicts of Interest</div> <p>The authors declare no conflict of interest.</p> <div class="references">
+References</div> <div tag="ref-list"> <ul> <div class="title" tagx="title" title="title">
+References</div> <li tag="ref"> <a name="B1-materials-12-01054" /> <span class="label" tagx="label" title="label">1.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Tyagi</span> <span class="given-names" tagx="given-names" title="given-names">A.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Tripathi</span> <span class="given-names" tagx="given-names" title="given-names">K.M.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Gupta</span> <span class="given-names" tagx="given-names" title="given-names">R.K.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Recent progress in micro-scale energy storage devices and future aspects</span> <span class="source" tagx="source" title="source">J. Mater. Chem. A</span> <span class="year" tagx="year" title="year">2015</span> <span class="volume" tagx="volume" title="volume">3</span> <span class="fpage" tagx="fpage" title="fpage">22507</span> <span class="lpage" tagx="lpage" title="lpage">22541</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1039/C5TA05666G">10.1039/C5TA05666G</a> </span> </span> </li> <li tag="ref"> <a name="B2-materials-12-01054" /> <span class="label" tagx="label" title="label">2.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Wang</span> <span class="given-names" tagx="given-names" title="given-names">X.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Wang</span> <span class="given-names" tagx="given-names" title="given-names">Z.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Wang</span> <span class="given-names" tagx="given-names" title="given-names">L.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Wang</span> <span class="given-names" tagx="given-names" title="given-names">Z.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Guo</span> <span class="given-names" tagx="given-names" title="given-names">H.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Dependency analysis and degradation process-dependent modeling of lithium-ion battery packs </span> <span class="source" tagx="source" title="source">J. Power Sources</span> <span class="year" tagx="year" title="year">2019</span> <span class="volume" tagx="volume" title="volume">414</span> <span class="fpage" tagx="fpage" title="fpage">318</span> <span class="lpage" tagx="lpage" title="lpage">326</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1016/j.jpowsour.2019.01.021">10.1016/j.jpowsour.2019.01.021</a> </span> </span> </li> <li tag="ref"> <a name="B3-materials-12-01054" /> <span class="label" tagx="label" title="label">3.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Hendricks</span> <span class="given-names" tagx="given-names" title="given-names">C.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Williard</span> <span class="given-names" tagx="given-names" title="given-names">N.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Mathew</span> <span class="given-names" tagx="given-names" title="given-names">S.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Pecht</span> <span class="given-names" tagx="given-names" title="given-names">M.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">A failure modes, mechanisms, and effects analysis (FMMEA) of lithium-ion batteries</span> <span class="source" tagx="source" title="source">J. Power Sources</span> <span class="year" tagx="year" title="year">2015</span> <span class="volume" tagx="volume" title="volume">297</span> <span class="fpage" tagx="fpage" title="fpage">113</span> <span class="lpage" tagx="lpage" title="lpage">120</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1016/j.jpowsour.2015.07.100">10.1016/j.jpowsour.2015.07.100</a> </span> </span> </li> <li tag="ref"> <a name="B4-materials-12-01054" /> <span class="label" tagx="label" title="label">4.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Liu</span> <span class="given-names" tagx="given-names" title="given-names">M.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Li</span> <span class="given-names" tagx="given-names" title="given-names">W.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Wang</span> <span class="given-names" tagx="given-names" title="given-names">C.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Polis</span> <span class="given-names" tagx="given-names" title="given-names">M.P.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Wang</span> <span class="given-names" tagx="given-names" title="given-names">L.Y.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Li</span> <span class="given-names" tagx="given-names" title="given-names">J.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Reliability evaluation of large scale battery energy storage systems</span> <span class="source" tagx="source" title="source">IEEE Trans. Smart Grid</span> <span class="year" tagx="year" title="year">2017</span> <span class="volume" tagx="volume" title="volume">8</span> <span class="fpage" tagx="fpage" title="fpage">2733</span> <span class="lpage" tagx="lpage" title="lpage">2743</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1109/TSG.2016.2536688">10.1109/TSG.2016.2536688</a> </span> </span> </li> <li tag="ref"> <a name="B5-materials-12-01054" /> <span class="label" tagx="label" title="label">5.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Li</span> <span class="given-names" tagx="given-names" title="given-names">J.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Tan</span> <span class="given-names" tagx="given-names" title="given-names">F.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Zhang</span> <span class="given-names" tagx="given-names" title="given-names">C.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Sun</span> <span class="given-names" tagx="given-names" title="given-names">F.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Capacity fade diagnosis of Lithium ion battery pack in electric vehicle base on fuzzy neural network </span> <span class="source" tagx="source" title="source">Energy Procedia</span> <span class="year" tagx="year" title="year">2014</span> <span class="volume" tagx="volume" title="volume">61</span> <span class="fpage" tagx="fpage" title="fpage">2066</span> <span class="lpage" tagx="lpage" title="lpage">2070</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1016/j.egypro.2014.12.077">10.1016/j.egypro.2014.12.077</a> </span> </span> </li> <li tag="ref"> <a name="B6-materials-12-01054" /> <span class="label" tagx="label" title="label">6.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Zheng</span> <span class="given-names" tagx="given-names" title="given-names">Y.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Gao</span> <span class="given-names" tagx="given-names" title="given-names">W.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Ouyang</span> <span class="given-names" tagx="given-names" title="given-names">M.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Lu</span> <span class="given-names" tagx="given-names" title="given-names">L.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Zhou</span> <span class="given-names" tagx="given-names" title="given-names">L.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Han</span> <span class="given-names" tagx="given-names" title="given-names">X.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">State-of-charge inconsistency estimation of lithium-ion battery pack using mean-difference model and extended kalman filter </span> <span class="source" tagx="source" title="source">J. Power Sources</span> <span class="year" tagx="year" title="year">2018</span> <span class="volume" tagx="volume" title="volume">383</span> <span class="fpage" tagx="fpage" title="fpage">50</span> <span class="lpage" tagx="lpage" title="lpage">58</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1016/j.jpowsour.2018.02.058">10.1016/j.jpowsour.2018.02.058</a> </span> </span> </li> <li tag="ref"> <a name="B7-materials-12-01054" /> <span class="label" tagx="label" title="label">7.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Zhen-Po</span> <span class="given-names" tagx="given-names" title="given-names">W.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Peng</span> <span class="given-names" tagx="given-names" title="given-names">L.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Li-Fang</span> <span class="given-names" tagx="given-names" title="given-names">W.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Analysis on the capacity degradation mechanism of a series lithium-ion power battery pack based on inconsistency of capacity </span> <span class="source" tagx="source" title="source">Chin. Phys. B</span> <span class="year" tagx="year" title="year">2013</span> <span class="volume" tagx="volume" title="volume">22</span> <span class="fpage" tagx="fpage" title="fpage">746</span> <span class="lpage" tagx="lpage" title="lpage">755</span> </span> </li> <li tag="ref"> <a name="B8-materials-12-01054" /> <span class="label" tagx="label" title="label">8.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Zhang</span> <span class="given-names" tagx="given-names" title="given-names">X.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Wang</span> <span class="given-names" tagx="given-names" title="given-names">Y.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Liu</span> <span class="given-names" tagx="given-names" title="given-names">C.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Chen</span> <span class="given-names" tagx="given-names" title="given-names">Z.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">A novel approach of remaining discharge energy prediction for large format lithium-ion battery pack </span> <span class="source" tagx="source" title="source">J. Power Sources</span> <span class="year" tagx="year" title="year">2017</span> <span class="volume" tagx="volume" title="volume">343</span> <span class="fpage" tagx="fpage" title="fpage">216</span> <span class="lpage" tagx="lpage" title="lpage">225</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1016/j.jpowsour.2017.01.054">10.1016/j.jpowsour.2017.01.054</a> </span> </span> </li> <li tag="ref"> <a name="B9-materials-12-01054" /> <span class="label" tagx="label" title="label">9.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Ma</span> <span class="given-names" tagx="given-names" title="given-names">Y.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Duan</span> <span class="given-names" tagx="given-names" title="given-names">P.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Sun</span> <span class="given-names" tagx="given-names" title="given-names">Y.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Chen</span> <span class="given-names" tagx="given-names" title="given-names">H.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Equalization of lithium-ion battery pack based on fuzzy logic control in electric vehicle </span> <span class="source" tagx="source" title="source">IEEE Tran. Ind. Electron.</span> <span class="year" tagx="year" title="year">2018</span> <span class="volume" tagx="volume" title="volume">65</span> <span class="fpage" tagx="fpage" title="fpage">6762</span> <span class="lpage" tagx="lpage" title="lpage">6771</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1109/TIE.2018.2795578">10.1109/TIE.2018.2795578</a> </span> </span> </li> <li tag="ref"> <a name="B10-materials-12-01054" /> <span class="label" tagx="label" title="label">10.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Sakji-Nsibi</span> <span class="given-names" tagx="given-names" title="given-names">S.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Benazza-Benyahia</span> <span class="given-names" tagx="given-names" title="given-names">A.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Copula-based statistical models for multicomponent image retrieval in thewavelet transform domain </span> <span class="source" tagx="source" title="source">Proceedings of the 16th IEEE International Conference on Image Processing (ICIP)</span> <span class="conf-loc" tagx="conf-loc" title="conf-loc">Cairo, Egypt</span> <span class="conf-date" tagx="conf-date" title="conf-date">7–10 November 2009</span> </span> </li> <li tag="ref"> <a name="B11-materials-12-01054" /> <span class="label" tagx="label" title="label">11.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Nelsen</span> <span class="given-names" tagx="given-names" title="given-names">R.B.</span> </span> </span> <span class="source" tagx="source" title="source">An Introduction to Copulas</span> <span class="publisher-name" tagx="publisher-name" title="publisher-name">Springer Science &amp;amp; Business Media</span> <span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">Berlin, Germany</span> <span class="year" tagx="year" title="year">2007</span> </span> </li> <li tag="ref"> <a name="B12-materials-12-01054" /> <span class="label" tagx="label" title="label">12.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Yi</span> <span class="given-names" tagx="given-names" title="given-names">W.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Applying Copula to Study the Dependence of Reliability</span> <span class="source" tagx="source" title="source">Master’s Thesis</span> <span class="publisher-name" tagx="publisher-name" title="publisher-name">Southwest Jiaotong University</span> <span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">Chengdu, China</span> <span class="year" tagx="year" title="year">2005</span> </span> </li> <li tag="ref"> <a name="B13-materials-12-01054" /> <span class="label" tagx="label" title="label">13.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Liu</span> <span class="given-names" tagx="given-names" title="given-names">Z.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Ma</span> <span class="given-names" tagx="given-names" title="given-names">X.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Yang</span> <span class="given-names" tagx="given-names" title="given-names">J.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Zhao</span> <span class="given-names" tagx="given-names" title="given-names">Y.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Reliability modeling for systems with multiple degradation processes using inverse Gaussian process and copulas </span> <span class="source" tagx="source" title="source">Math. Probl. Eng.</span> <span class="year" tagx="year" title="year">2014</span> <span class="volume" tagx="volume" title="volume">2014</span> <span class="fpage" tagx="fpage" title="fpage">1</span> <span class="lpage" tagx="lpage" title="lpage">10</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1155/2014/829597">10.1155/2014/829597</a> </span> </span> </li> <li tag="ref"> <a name="B14-materials-12-01054" /> <span class="label" tagx="label" title="label">14.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Hao</span> <span class="given-names" tagx="given-names" title="given-names">H.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Su</span> <span class="given-names" tagx="given-names" title="given-names">C.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Bivariate Nonlinear Diffusion Degradation Process Modeling via Copula and MCMC</span> <span class="source" tagx="source" title="source">Math. Probl. Eng.</span> <span class="year" tagx="year" title="year">2014</span> <span class="volume" tagx="volume" title="volume">2014</span> <span class="fpage" tagx="fpage" title="fpage">1</span> <span class="lpage" tagx="lpage" title="lpage">11</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1155/2014/510929">10.1155/2014/510929</a> </span> </span> </li> <li tag="ref"> <a name="B15-materials-12-01054" /> <span class="label" tagx="label" title="label">15.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Luo</span> <span class="given-names" tagx="given-names" title="given-names">X.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Shevchenko</span> <span class="given-names" tagx="given-names" title="given-names">P.V.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">The t copula with multiple parameters of degrees of freedom: Bivariate characteristics and application to risk management </span> <span class="source" tagx="source" title="source">Quant. Financ.</span> <span class="year" tagx="year" title="year">2010</span> <span class="volume" tagx="volume" title="volume">10</span> <span class="fpage" tagx="fpage" title="fpage">1039</span> <span class="lpage" tagx="lpage" title="lpage">1054</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1080/14697680903085544">10.1080/14697680903085544</a> </span> </span> </li> <li tag="ref"> <a name="B16-materials-12-01054" /> <span class="label" tagx="label" title="label">16.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Bee</span> <span class="given-names" tagx="given-names" title="given-names">M.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Copula-based multivariate models with applications to risk management and insurance</span> <span class="source" tagx="source" title="source">SSRN Electron. J.</span> <span class="year" tagx="year" title="year">2005</span> <span class="pub-id"> <a href="https://dx.doi.org/10.2139/ssrn.795964">10.2139/ssrn.795964</a> </span> </span> </li> <li tag="ref"> <a name="B17-materials-12-01054" /> <span class="label" tagx="label" title="label">17.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Ghosh</span> <span class="given-names" tagx="given-names" title="given-names">I.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Ray</span> <span class="given-names" tagx="given-names" title="given-names">S.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Some alternative bivariate Kumaraswamy-type distributions via copula with application in risk management </span> <span class="source" tagx="source" title="source">J. Stat. Theory Pract.</span> <span class="year" tagx="year" title="year">2016</span> <span class="volume" tagx="volume" title="volume">10</span> <span class="fpage" tagx="fpage" title="fpage">693</span> <span class="lpage" tagx="lpage" title="lpage">706</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1080/15598608.2016.1215943">10.1080/15598608.2016.1215943</a> </span> </span> </li> <li tag="ref"> <a name="B18-materials-12-01054" /> <span class="label" tagx="label" title="label">18.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Tang</span> <span class="given-names" tagx="given-names" title="given-names">S.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Yu</span> <span class="given-names" tagx="given-names" title="given-names">C.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Wang</span> <span class="given-names" tagx="given-names" title="given-names">X.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Guo</span> <span class="given-names" tagx="given-names" title="given-names">X.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Si</span> <span class="given-names" tagx="given-names" title="given-names">X.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Remaining useful life prediction of lithium-ion batteries based on the wiener process with measurement error </span> <span class="source" tagx="source" title="source">Energies</span> <span class="year" tagx="year" title="year">2014</span> <span class="volume" tagx="volume" title="volume">7</span> <span class="fpage" tagx="fpage" title="fpage">520</span> <span class="lpage" tagx="lpage" title="lpage">547</span> <span class="pub-id"> <a href="https://dx.doi.org/10.3390/en7020520">10.3390/en7020520</a> </span> </span> </li> <li tag="ref"> <a name="B19-materials-12-01054" /> <span class="label" tagx="label" title="label">19.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Sun</span> <span class="given-names" tagx="given-names" title="given-names">Y.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Research on Equilibrium Control Based on SOC Estimation for Battery Pack of Electric Vehicle </span> <span class="source" tagx="source" title="source">Master’s thesis</span> <span class="publisher-name" tagx="publisher-name" title="publisher-name">Jilin University</span> <span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">Changchun, China</span> <span class="year" tagx="year" title="year">2017</span> </span> </li> <li tag="ref"> <a name="B20-materials-12-01054" /> <span class="label" tagx="label" title="label">20.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Liu</span> <span class="given-names" tagx="given-names" title="given-names">X.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Zou</span> <span class="given-names" tagx="given-names" title="given-names">J.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Zhang</span> <span class="given-names" tagx="given-names" title="given-names">X.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Investigations on the reliability of storage battery array with high capability</span> <span class="source" tagx="source" title="source">Proceedings of the International Conference on Condition Monitoring and Diagnosis</span> <span class="conf-loc" tagx="conf-loc" title="conf-loc">Beijing, China</span> <span class="conf-date" tagx="conf-date" title="conf-date">21–24 April 2008</span> </span> </li> <li tag="ref"> <a name="B21-materials-12-01054" /> <span class="label" tagx="label" title="label">21.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Zeng</span> <span class="given-names" tagx="given-names" title="given-names">S.</span> </span> </span> <span class="source" tagx="source" title="source">Reliability Design and Analysis</span> <span class="publisher-name" tagx="publisher-name" title="publisher-name">National Defence Industry Press</span> <span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">Beijing, China</span> <span class="year" tagx="year" title="year">2011</span> </span> </li> <li tag="ref"> <a name="B22-materials-12-01054" /> <span class="label" tagx="label" title="label">22.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Luciano</span> <span class="given-names" tagx="given-names" title="given-names">E.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Semeraro</span> <span class="given-names" tagx="given-names" title="given-names">P.</span> </span> </span> <span class="source" tagx="source" title="source">Multivariate Variance Gamma and Gaussian Dependence: A Study with Copulas</span> <span class="publisher-name" tagx="publisher-name" title="publisher-name">Mathematical and Statistical Methods for Actuarial Sciences and Finance</span> <span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">Milano, Italy</span> <span class="year" tagx="year" title="year">2010</span> <span class="fpage" tagx="fpage" title="fpage">193</span> <span class="lpage" tagx="lpage" title="lpage">203</span> </span> </li> <li tag="ref"> <a name="B23-materials-12-01054" /> <span class="label" tagx="label" title="label">23.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Sklar</span> <span class="given-names" tagx="given-names" title="given-names">M.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Fonctions de repartition an dimensions et leurs marges</span> <span class="source" tagx="source" title="source">Publ. Inst. Statist. Univ. Paris</span> <span class="year" tagx="year" title="year">1959</span> <span class="volume" tagx="volume" title="volume">8</span> <span class="fpage" tagx="fpage" title="fpage">229</span> <span class="lpage" tagx="lpage" title="lpage">231</span> </span> </li> <li tag="ref"> <a name="B24-materials-12-01054" /> <span class="label" tagx="label" title="label">24.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Louzada</span> <span class="given-names" tagx="given-names" title="given-names">F.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Ferreira</span> <span class="given-names" tagx="given-names" title="given-names">P.H.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Modified inference function for margins for the bivariate clayton copula-based SUN Tobit Model </span> <span class="source" tagx="source" title="source">J. Appl. Stat.</span> <span class="year" tagx="year" title="year">2016</span> <span class="volume" tagx="volume" title="volume">43</span> <span class="fpage" tagx="fpage" title="fpage">1</span> <span class="lpage" tagx="lpage" title="lpage">21</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1080/02664763.2016.1155204">10.1080/02664763.2016.1155204</a> </span> </span> </li> <li tag="ref"> <a name="B25-materials-12-01054" /> <span class="label" tagx="label" title="label">25.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Abdi</span> <span class="given-names" tagx="given-names" title="given-names">A.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Hassanzadeh</span> <span class="given-names" tagx="given-names" title="given-names">Y.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Talatahari</span> <span class="given-names" tagx="given-names" title="given-names">S.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Fakheri-Fard</span> <span class="given-names" tagx="given-names" title="given-names">A.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Mirabbasi</span> <span class="given-names" tagx="given-names" title="given-names">R.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Parameter estimation of copula functions using an optimization-based method</span> <span class="source" tagx="source" title="source">Theor. Appl. Climatol.</span> <span class="year" tagx="year" title="year">2017</span> <span class="volume" tagx="volume" title="volume">129</span> <span class="fpage" tagx="fpage" title="fpage">21</span> <span class="lpage" tagx="lpage" title="lpage">32</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1007/s00704-016-1757-2">10.1007/s00704-016-1757-2</a> </span> </span> </li> <li tag="ref"> <a name="B26-materials-12-01054" /> <span class="label" tagx="label" title="label">26.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Schmalstieg</span> <span class="given-names" tagx="given-names" title="given-names">J.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Käbitz</span> <span class="given-names" tagx="given-names" title="given-names">S.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Ecker</span> <span class="given-names" tagx="given-names" title="given-names">M.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Sauer</span> <span class="given-names" tagx="given-names" title="given-names">D.U.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">A holistic aging model for Li (NiMnCo) O2 based 18650 lithium-ion batteries</span> <span class="source" tagx="source" title="source">J. Power Sources</span> <span class="year" tagx="year" title="year">2014</span> <span class="volume" tagx="volume" title="volume">257</span> <span class="fpage" tagx="fpage" title="fpage">325</span> <span class="lpage" tagx="lpage" title="lpage">334</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1016/j.jpowsour.2014.02.012">10.1016/j.jpowsour.2014.02.012</a> </span> </span> </li> <li tag="ref"> <a name="B27-materials-12-01054" /> <span class="label" tagx="label" title="label">27.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Nelder</span> <span class="given-names" tagx="given-names" title="given-names">J.A.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Wedderburn</span> <span class="given-names" tagx="given-names" title="given-names">R.W.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Generalized linear models</span> <span class="source" tagx="source" title="source">J. R. Stat. Soc. Ser. A (Gen.)</span> <span class="year" tagx="year" title="year">1972</span> <span class="volume" tagx="volume" title="volume">135</span> <span class="fpage" tagx="fpage" title="fpage">370</span> <span class="lpage" tagx="lpage" title="lpage">384</span> <span class="pub-id"> <a href="https://dx.doi.org/10.2307/2344614">10.2307/2344614</a> </span> </span> </li> <li tag="ref"> <a name="B28-materials-12-01054" /> <span class="label" tagx="label" title="label">28.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Hocking</span> <span class="given-names" tagx="given-names" title="given-names">R.R.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Hocking</span> <span class="given-names" tagx="given-names" title="given-names">R.R.</span> </span> </span> <span class="source" tagx="source" title="source">The Analysis of Linear Models</span> <span class="publisher-name" tagx="publisher-name" title="publisher-name">Brooks/Cole</span> <span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">Beijing, China</span> <span class="year" tagx="year" title="year">1985</span> </span> </li> <li tag="ref"> <a name="B29-materials-12-01054" /> <span class="label" tagx="label" title="label">29.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Beninger</span> <span class="given-names" tagx="given-names" title="given-names">P.G.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Boldina</span> <span class="given-names" tagx="given-names" title="given-names">I.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Katsanevakis</span> <span class="given-names" tagx="given-names" title="given-names">S.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Strengthening statistical usage in marine ecology</span> <span class="source" tagx="source" title="source">J. Exp. Mar. Biol. Ecol.</span> <span class="year" tagx="year" title="year">2012</span> <span class="volume" tagx="volume" title="volume">426</span> <span class="fpage" tagx="fpage" title="fpage">97</span> <span class="lpage" tagx="lpage" title="lpage">108</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1016/j.jembe.2012.05.020">10.1016/j.jembe.2012.05.020</a> </span> </span> </li> </ul> </div> </div> <div class="floats-group" title="floats-group"> <div class="fig" title="fig"> <div class="figure" title="figure"> <a href="http://doi.org/"> <span class="label" tagx="label" title="label">Figure 1</span> </a> </div>   <p>Configurations of the four battery packs.</p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"> <a href="http://doi.org/"> <span class="label" tagx="label" title="label">Figure 2</span> </a> </div>   <p>Capacity degradation increment curves of the four battery packs: ( <b>a</b>) Pack A, ( <b>b</b>) Pack B, ( <b>c</b>) Pack C, ( <b>d</b>) Pack D. </p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"> <a href="http://doi.org/"> <span class="label" tagx="label" title="label">Figure 3</span> </a> </div>   <p>Comparison of reliability of the RBD model with the real reliability of the four battery packs: ( <b>a</b>) Pack A, ( <b>b</b>) Pack B, ( <b>c</b>) Pack C, ( <b>d</b>) Pack D. </p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"> <a href="http://doi.org/"> <span class="label" tagx="label" title="label">Figure 4</span> </a> </div>   <p>The dependency among individual batteries of four battery packs: ( <b>a</b>) Pack A, <b>(b</b>) Pack B, ( <b>c</b>) Pack C, ( <b>d</b>) Pack D. </p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"> <a href="http://doi.org/"> <span class="label" tagx="label" title="label">Figure 5</span> </a> </div>   <p>The regression coefficients of Model 1 and Model 2.</p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"> <a href="http://doi.org/"> <span class="label" tagx="label" title="label">Figure 6</span> </a> </div>   <p>The results of the fitting effects of each model for the four battery packs: ( <b>a</b>) Pack A, ( <b>b</b>) Pack B, ( <b>c</b>) Pack C, ( <b>d</b>) Pack D. </p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"> <a href="http://doi.org/"> <span class="label" tagx="label" title="label">Figure 7</span> </a> </div>   <p>The structure of the battery system of the Tesla Model S.</p>   </div> <div class="table-wrap_UNKNOWN" id="materials-12-01054-t001" orientation="portrait" position="float">
+materials-12-01054-t001_Table 1 <span class="label" tagx="label" title="label">Table 1</span>  <p>The failure threshold for the cell and the four battery packs.</p>  <table frame="hsides" rules="groups"> <thead> <tr> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Cell and Packs</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Rated Capacity (Ah) </th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Failure Threshold Value <i>w</i> (Ah) </th> </tr> </thead> <tbody> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Cell</td> <td align="center" valign="middle" rowspan="1" colspan="1">2.15</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.43</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack A</td> <td align="center" valign="middle" rowspan="1" colspan="1">2.15</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.43</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack B</td> <td align="center" valign="middle" rowspan="1" colspan="1">4.30</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.86</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack C</td> <td align="center" valign="middle" rowspan="1" colspan="1">4.30</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.86</td> </tr> <tr> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pack D</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.30</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.86</td> </tr> </tbody> </table> </div> <div class="table-wrap_UNKNOWN" id="materials-12-01054-t002" orientation="portrait" position="float">
+materials-12-01054-t002_Table 2 <span class="label" tagx="label" title="label">Table 2</span>  <p>Reliability functions of the four battery packs.</p>  <table frame="hsides" rules="groups"> <thead> <tr> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Pack</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1"> <i>R</i> </th> </tr> </thead> <tbody> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack A</td> <td align="center" valign="middle" rowspan="1" colspan="1"> <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+·</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> </span> </td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack B</td> <td align="center" valign="middle" rowspan="1" colspan="1"> <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+3</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+·</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+4</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </span> </td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack C</td> <td align="center" valign="middle" rowspan="1" colspan="1"> <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+5</div> </div> <div class="mo_UNKNOWN">
+·</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+6</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+·</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+7</div> </div> <div class="mo_UNKNOWN">
+·</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+8</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </span> </td> </tr> <tr> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pack D</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mo_UNKNOWN">
+=</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+9</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+·</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+10</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+·</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+·</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+12</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </span> </td> </tr> </tbody> </table> </div> <div class="table-wrap_UNKNOWN" id="materials-12-01054-t003" orientation="portrait" position="float">
+materials-12-01054-t003_Table 3 <span class="label" tagx="label" title="label">Table 3</span>  <p>The RMSE values of the reliability estimated by the test data and the reliability estimated by the RBD model. </p>  <table frame="hsides" rules="groups"> <thead> <tr> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Pack</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Pack A</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Pack B</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Pack C</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Pack D</th> </tr> </thead> <tbody> <tr> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RMSE</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.0674</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.0648</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.0821</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1377</td> </tr> </tbody> </table> </div> <div class="table-wrap_UNKNOWN" id="materials-12-01054-t004" orientation="portrait" position="float">
+materials-12-01054-t004_Table 4 <span class="label" tagx="label" title="label">Table 4</span>  <p>Parameters and significance of the linear regression models for the four battery packs under Model 1 and Model 2. </p>  <table frame="hsides" rules="groups"> <thead> <tr> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Models</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Pack</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">a</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">c</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1"> <i>R</i> <sup>2</sup> </th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">p-Value</th> </tr> </thead> <tbody> <tr> <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Model 1</td> <td align="center" valign="middle" rowspan="1" colspan="1">Pack A</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.953</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.061</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.983</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack B</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.119</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.004</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.9975</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack C</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.984</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.047</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.978</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pack D</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.927</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.121</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.936</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Model 2</td> <td align="center" valign="middle" rowspan="1" colspan="1">Pack A</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.02</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.139</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.901</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.001</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack B</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.101</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.074</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.968</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.001</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack C</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.301</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.033</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.981</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.001</td> </tr> <tr> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pack D</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.13</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.142</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.884</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&amp;lt;0.001</td> </tr> </tbody> </table> </div> <div class="table-wrap_UNKNOWN" id="materials-12-01054-t005" orientation="portrait" position="float">
+materials-12-01054-t005_Table 5 <span class="label" tagx="label" title="label">Table 5</span>  <p>Parameters and significance of the linear regression model of the four battery packs under Model 3. </p>  <table frame="hsides" rules="groups"> <thead> <tr> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Model 3</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Pack</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1"> <i>a</i> </th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1"> <i>b</i> </th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1"> <i>c</i> </th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1"> <i>R</i> <sup>2</sup> </th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">p-Value</th> </tr> </thead> <tbody> <tr> <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Model 3-1</td> <td align="center" valign="middle" rowspan="1" colspan="1">Pack A</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.068</td> <td align="center" valign="middle" rowspan="1" colspan="1">/</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.065</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.211</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack B</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.121</td> <td align="center" valign="middle" rowspan="1" colspan="1">/</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.007</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.848</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack C</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.007</td> <td align="center" valign="middle" rowspan="1" colspan="1">/</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.06</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.001</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pack D</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">−0.1</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.124</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Model 3-2</td> <td align="center" valign="middle" rowspan="1" colspan="1">Pack A</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.5</td> <td align="center" valign="middle" rowspan="1" colspan="1">/</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.092</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.957</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack B</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.56</td> <td align="center" valign="middle" rowspan="1" colspan="1">/</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.04</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.992</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack C</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.566</td> <td align="center" valign="middle" rowspan="1" colspan="1">/</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.47</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.989</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pack D</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.514</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.126</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.922</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Model 3-3</td> <td align="center" valign="middle" rowspan="1" colspan="1">Pack A</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.229</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.317</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.048</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.988</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack B</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.003</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.117</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.006</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.998</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack C</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.401</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.732</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.046</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.984</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pack D</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.181</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">−0.328</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.121</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.94</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Model 3-4</td> <td align="center" valign="middle" rowspan="1" colspan="1">Pack A</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.017</td> <td align="center" valign="middle" rowspan="1" colspan="1">/</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.148</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.888</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack B</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.261</td> <td align="center" valign="middle" rowspan="1" colspan="1">/</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.014</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.988</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack C</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.291</td> <td align="center" valign="middle" rowspan="1" colspan="1">/</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.011</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.982</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pack D</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.102</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.169</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.859</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Model 3-5</td> <td align="center" valign="middle" rowspan="1" colspan="1">Pack A</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.197</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.001</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.011</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.934</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack B</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.018</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.26</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.011</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.866</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Pack C</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.507</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.363</td> <td align="center" valign="middle" rowspan="1" colspan="1">−0.03</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.893</td> <td align="center" valign="middle" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> <tr> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pack D</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.187</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">−1.338</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.139</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.464</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&amp;lt;0.01</td> </tr> </tbody> </table> </div> </div>  </body></html>

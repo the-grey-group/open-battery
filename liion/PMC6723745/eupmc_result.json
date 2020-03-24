@@ -1,0 +1,375 @@
+{
+  "id": [
+    "31426595"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31426595"
+  ],
+  "pmcid": [
+    "PMC6723745"
+  ],
+  "doi": [
+    "10.3390/polym11081362"
+  ],
+  "title": [
+    "Water-Dispersed Poly(p-Phenylene Terephthamide) Boosting Nano-Al2O3-Coated Polyethylene Separator with Enhanced Thermal Stability and Ion Diffusion for Lithium-Ion Batteries."
+  ],
+  "authorString": [
+    "Cai H, Yang G, Meng Z, Yin X, Zhang H, Tang H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cai H"
+          ],
+          "firstName": [
+            "Haopeng"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Wuhan University of Technology, Wuhan 430070, China. cai_haopeng@whut.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang G"
+          ],
+          "firstName": [
+            "Guoping"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Wuhan University of Technology, Wuhan 430070, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Meng Z"
+          ],
+          "firstName": [
+            "Zihan"
+          ],
+          "lastName": [
+            "Meng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, Wuhan University of Technology, Wuhan 430070, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yin X"
+          ],
+          "firstName": [
+            "Xue"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Wuhan University of Technology, Wuhan 430070, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Haining"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, Wuhan University of Technology, Wuhan 430070, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang H"
+          ],
+          "firstName": [
+            "Haolin"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1041-5376",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, Wuhan University of Technology, Wuhan 430070, China. thln@whut.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1041-5376",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2844565"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Polymers"
+          ],
+          "ISOAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "NLMid": [
+            "101545357"
+          ],
+          "ISSN": [
+            "2073-4360"
+          ],
+          "ESSN": [
+            "2073-4360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Polyethylene (PE) membranes coated with nano-Al2O3 have been improved with water-dispersed poly(p-phenylene terephthamide) (PPTA). From the scanning electron microscope (SEM) images, it can be seen that a layer with a honeycombed porous structure is formed on the membrane. The thus-formed composite separator imbibed with the electrolyte solution has an ionic conductivity of 0.474 mS/cm with an electrolyte uptake of 335%. At 175 °C, the assembled battery from the synthesized composite separator explodes at 3200 s, which is five times longer than the battery assembled from an Al2O3-coated polyethylene (PE) membrane. The open circuit voltage of the assembled battery using a composite separator drops to zero at 600 s at an operating temperature of 185 °C, while the explosion of the battery with Al2O3-coated PE occurs at 250 s. More importantly, the interface resistance of the cell assembled from the composite separator decreases to 65 Ω. Hence, as the discharge rate increases from 0.2 to 1.0 C, the discharge capacity of the battery using composite separator retains 93.5%. Under 0.5 C, the discharge capacity retention remains 99.4% of its initial discharge capacity after 50 charge-discharge cycles. The results described here demonstrate that Al2O3/PPTA-coated polyethylene membranes have superior thermal stability and ion diffusion."
+  ],
+  "affiliation": [
+    "School of Materials Science and Engineering, Wuhan University of Technology, Wuhan 430070, China. cai_haopeng@whut.edu.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "61376064"
+          ],
+          "agency": [
+            "National Nature Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Thermal stability",
+        "Lithium-ion Batteries",
+        "Ion Diffusion",
+        "Nano-al2o3",
+        "Poly(p-phenylene Terephthamide)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/polym11081362"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6723745"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6723745?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-21"
+  ],
+  "firstIndexDate": [
+    "2019-08-20"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-12"
+  ],
+  "dateOfRevision": [
+    "2019-09-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-18"
+  ],
+  "firstPublicationDate": [
+    "2019-08-18"
+  ]
+}

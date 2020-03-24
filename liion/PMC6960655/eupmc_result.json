@@ -1,0 +1,352 @@
+{
+  "id": [
+    "31842395"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31842395"
+  ],
+  "pmcid": [
+    "PMC6960655"
+  ],
+  "doi": [
+    "10.3390/polym11122076"
+  ],
+  "title": [
+    "Synthesis of a TEMPO-Substituted Polyacrylamide Bearing a Sulfonate Sodium Pendant and Its Properties in an Organic Radical Battery."
+  ],
+  "authorString": [
+    "Zhu J, Zhu T, Tuo H, Zhang W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhu J"
+          ],
+          "firstName": [
+            "Junfeng"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5262-9092",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shaanxi Key Laboratory of Chemical Additives for Industry, College of Chemistry and Chemical Engineering, Shaanxi University of Science and Technology, Xi'an 710021, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu T"
+          ],
+          "firstName": [
+            "Ting"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Shaanxi Key Laboratory of Chemical Additives for Industry, College of Chemistry and Chemical Engineering, Shaanxi University of Science and Technology, Xi'an 710021, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tuo H"
+          ],
+          "firstName": [
+            "Huan"
+          ],
+          "lastName": [
+            "Tuo"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Shaanxi Key Laboratory of Chemical Additives for Industry, College of Chemistry and Chemical Engineering, Shaanxi University of Science and Technology, Xi'an 710021, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang W"
+          ],
+          "firstName": [
+            "Wanbin"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Shaanxi Collaborative Innovation Center of Industrial Auxiliary Chemistry and Technology, Shaanxi University of Science & Technology, Xi'an 710021, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5262-9092",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2889544"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Polymers"
+          ],
+          "ISOAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "NLMid": [
+            "101545357"
+          ],
+          "ISSN": [
+            "2073-4360"
+          ],
+          "ESSN": [
+            "2073-4360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "A novel nitroxyl radical polymer poly(TEMPO-acrylamide-co-sodium styrene sulfonate) (abbreviated as poly(TAm-co-SSS)) was synthesized using 4-acrylamido-2,2,6,6- tetramethylpiperidine (AATP) copolymerized with styrene sulfonate sodium (SSS). AATP was synthesized through a substitution reaction of acryloyl chloride. Meanwhile, poly(4-acrylamido-2,2,6,6-tetramethylpiperidine-1-nitroxyl radical) (PTAm) was prepared as a control sample. Then, the structures of products were characterized by nuclear magnetic resonance spectroscopy (1H-NMR), Fourier transform infrared spectroscopy (FT-IR), high performance liquid chromatography-mass spectrometry (HPLC-MS), differential scanning calorimetry (DSC), X-Ray photoelectron spectroscopy (XPS), and electron paramagnetic resonance (EPR), respectively. Additionally, the electrochemical impedance spectra (EIS) and the charge-discharge cycling properties were studied. The results demonstrated that the poly(TAm-co-SSS) with the side group of sodium sulfonate adjacent to TEMPO group exhibits a better charge-discharge cycling stability than that of the PTAm. Moreover, the charge specific capacity of the poly(TAm-co-SSS) is larger than that of the PTAm. Besides, the first coulombic efficiency of poly(TAm-co-SSS) is higher in comparison with that of PTAm. These superior electrochemical performances were ascribed to the synergistic effect of sulfonate ions group and nitroxyl radical structure, which benefits the improvement of charge carrier transportation of the nitroxyl radical polymers. Consequently, the nitroxyl radical poly(TAm-co-SSS) is promising for use in organic radical battery materials, based on the good electrochemical properties."
+  ],
+  "affiliation": [
+    "Shaanxi Key Laboratory of Chemical Additives for Industry, College of Chemistry and Chemical Engineering, Shaanxi University of Science and Technology, Xi'an 710021, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "No.18JS014"
+          ],
+          "agency": [
+            "Key Laboratory Scientific Research Project of Shaanxi Provincial Education Department"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "No. 2018JM2023"
+          ],
+          "agency": [
+            "Natural Science Foundation of Shaanxi Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electrochemical properties",
+        "Cathode Material",
+        "Organic Radical Battery",
+        "Nitroxyl Radical Polymer",
+        "Poly(tempo-acrylamide-co-sodium Styrene Sulfonate)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/polym11122076"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6960655"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6960655?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-18"
+  ],
+  "firstIndexDate": [
+    "2019-12-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-26"
+  ],
+  "dateOfRevision": [
+    "2020-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-12"
+  ],
+  "firstPublicationDate": [
+    "2019-12-12"
+  ]
+}

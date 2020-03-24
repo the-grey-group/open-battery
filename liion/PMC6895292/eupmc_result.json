@@ -1,0 +1,273 @@
+{
+  "id": [
+    "31807969"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31807969"
+  ],
+  "pmcid": [
+    "PMC6895292"
+  ],
+  "doi": [
+    "10.1186/s11671-019-3210-9"
+  ],
+  "title": [
+    "Tailored Solid Polymer Electrolytes by Montmorillonite with High Ionic Conductivity for Lithium-Ion Batteries."
+  ],
+  "authorString": [
+    "Zhao Y, Wang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yingjian"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Electronic Thin Films and Integrated Devices, University of Electronic Science and Technology of China, Chengdu, 610054, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Electronic Thin Films and Integrated Devices, University of Electronic Science and Technology of China, Chengdu, 610054, China. ywang@uestc.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2887579"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanoscale research letters"
+          ],
+          "ISOAbbreviation": [
+            "Nanoscale Res Lett"
+          ],
+          "medlineAbbreviation": [
+            "Nanoscale Res Lett"
+          ],
+          "NLMid": [
+            "101279750"
+          ],
+          "ISSN": [
+            "1931-7573"
+          ],
+          "ESSN": [
+            "1556-276X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "366"
+  ],
+  "abstractText": [
+    "Polyethylene oxide (PEO)-based solid polymer electrolytes (SPEs) have important significance for the development of next-generation rechargeable lithium-ion batteries. However, strong coordination between lithium ions and PEO chains results the ion conductivity usually lower than the expectation. In this study, sub-micron montmorillonite is incorporated into the PEO frames as Lewis base center which enables the lithium ions to escape the restraint of PEO chains. After involving montmorillonite (MMT) into the SPEs, the ionic conductivity of SPEs is 4.7 mS cm- 1 at 70 °C which shows a comparable value with that of liquid electrolyte. As coupling with LiFePO4 material, the battery delivers a high discharge capacity of 150.3 mAh g- 1 and an excellent rate performance with a capacity of 111.8 mAh g- 1 at 0.16 C and maintains 58.2 mAh g- 1 at 0.8 C. This study suggests that the customized incorporation of Lewis base materials could offer a promising solution for achieving high-performance PEO-based solid-state electrolyte."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Electronic Thin Films and Integrated Devices, University of Electronic Science and Technology of China, Chengdu, 610054, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium-ion battery",
+        "montmorillonite",
+        "Solid Polymer Electrolyte",
+        "Electrochemical Window",
+        "Lewis Acid-base Theory"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s11671-019-3210-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6895292"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6895292?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-07"
+  ],
+  "firstIndexDate": [
+    "2019-12-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-22"
+  ],
+  "dateOfRevision": [
+    "2019-12-06"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-05"
+  ],
+  "firstPublicationDate": [
+    "2019-12-05"
+  ]
+}

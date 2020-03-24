@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC5666002/results/word/frequencies/results.xml">
+  <result title="frequency" word="graphite" count="70"/>
+  <result title="frequency" word="LMO" count="56"/>
+  <result title="frequency" word="lithium" count="55"/>
+  <result title="frequency" word="capacity" count="42"/>
+  <result title="frequency" word="Fig." count="30"/>
+  <result title="frequency" word="used" count="29"/>
+  <result title="frequency" word="cell" count="25"/>
+  <result title="frequency" word="LiC" count="23"/>
+  <result title="frequency" word="lithiated" count="23"/>
+  <result title="frequency" word="amphi-redox" count="22"/>
+  <result title="frequency" word="cathode" count="22"/>
+  <result title="frequency" word="mAh" count="22"/>
+  <result title="frequency" word="potential" count="22"/>
+  <result title="frequency" word="\documentclass[pt]{minimal}" count="21"/>
+  <result title="frequency" word="\setlength{\oddsidemargin}{-pt}" count="21"/>
+  <result title="frequency" word="\usepackage{amsbsy}" count="21"/>
+  <result title="frequency" word="\usepackage{amsfonts}" count="21"/>
+  <result title="frequency" word="\usepackage{amsmath}" count="21"/>
+  <result title="frequency" word="\usepackage{amssymb}" count="21"/>
+  <result title="frequency" word="\usepackage{mathrsfs}" count="21"/>
+  <result title="frequency" word="\usepackage{upgreek}" count="21"/>
+  <result title="frequency" word="\usepackage{wasysym}" count="21"/>
+ </snippets>
+</snippetsTree>

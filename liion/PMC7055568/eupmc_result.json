@@ -1,0 +1,395 @@
+{
+  "id": [
+    "32154083"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32154083"
+  ],
+  "pmcid": [
+    "PMC7055568"
+  ],
+  "doi": [
+    "10.1002/advs.201903088"
+  ],
+  "title": [
+    "Progress and Perspective of Ceramic/Polymer Composite Solid Electrolytes for Lithium Batteries."
+  ],
+  "authorString": [
+    "Li S, Zhang SQ, Shen L, Liu Q, Ma JB, Lv W, He YB, Yang QH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li S"
+          ],
+          "firstName": [
+            "Song"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Shenzhen Geim Graphene Center Tsinghua Shenzhen International Graduate School Tsinghua University Shenzhen 518055 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang SQ"
+          ],
+          "firstName": [
+            "Shi-Qi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "SQ"
+          ],
+          "affiliation": [
+            "Shenzhen Geim Graphene Center Tsinghua Shenzhen International Graduate School Tsinghua University Shenzhen 518055 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shen L"
+          ],
+          "firstName": [
+            "Lu"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Shenzhen Geim Graphene Center Tsinghua Shenzhen International Graduate School Tsinghua University Shenzhen 518055 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Q"
+          ],
+          "firstName": [
+            "Qi"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Shenzhen Geim Graphene Center Tsinghua Shenzhen International Graduate School Tsinghua University Shenzhen 518055 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma JB"
+          ],
+          "firstName": [
+            "Jia-Bin"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "JB"
+          ],
+          "affiliation": [
+            "Shenzhen Geim Graphene Center Tsinghua Shenzhen International Graduate School Tsinghua University Shenzhen 518055 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lv W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Lv"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Shenzhen Geim Graphene Center Tsinghua Shenzhen International Graduate School Tsinghua University Shenzhen 518055 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "He YB"
+          ],
+          "firstName": [
+            "Yan-Bing"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "YB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5787-5498",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shenzhen Geim Graphene Center Tsinghua Shenzhen International Graduate School Tsinghua University Shenzhen 518055 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang QH"
+          ],
+          "firstName": [
+            "Quan-Hong"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "QH"
+          ],
+          "affiliation": [
+            "Nanoyang Group School of Chemical Engineering and Technology Tianjin University Tianjin 300072 P. R. China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5787-5498",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2922913"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+          ],
+          "ISOAbbreviation": [
+            "Adv Sci (Weinh)"
+          ],
+          "medlineAbbreviation": [
+            "Adv Sci (Weinh)"
+          ],
+          "NLMid": [
+            "101664569"
+          ],
+          "ISSN": [
+            "2198-3844"
+          ],
+          "ESSN": [
+            "2198-3844"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1903088"
+  ],
+  "abstractText": [
+    "Solid composite electrolytes (SCEs) that combine the advantages of solid polymer electrolytes (SPEs) and inorganic ceramic electrolytes (ICEs) present acceptable ionic conductivity, high mechanical strength, and favorable interfacial contact with electrodes, which greatly improve the electrochemical performance of all-solid-state batteries compared to single SPEs and ICEs. However, there are many challenges to overcome before the practical application of SCEs, including the low ionic conductivity less than 10-3 S cm-1 at ambient temperature, poor interfacial stability, and high interfacial resistance, which greatly restrict the room temperature performance. Herein, the advances of SCEs applied in all-solid-state lithium batteries are presented, including the Li ion migration mechanism of SCEs, the strategies to enhance the ionic conductivity of SCEs by various morphologies of ICEs, and construction methods of the low resistance and stable interfaces of SCEs with both cathode and anode. Finally, some typical applications of SCEs in lithium batteries are summarized and future development directions are prospected. This work presents how it is quite significant to further enhance the ionic conductivity of SCEs by developing the novel SPEs with the special morphology of ICEs for advanced all-solid-state lithium batteries."
+  ],
+  "affiliation": [
+    "Shenzhen Geim Graphene Center Tsinghua Shenzhen International Graduate School Tsinghua University Shenzhen 518055 P. R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ionic conductivity",
+        "Interfaces",
+        "Lithium Batteries",
+        "Solid Composite Electrolytes"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/advs.201903088"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7055568"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7055568?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-11"
+  ],
+  "firstIndexDate": [
+    "2020-03-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-22"
+  ],
+  "dateOfRevision": [
+    "2020-03-20"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-21"
+  ],
+  "firstPublicationDate": [
+    "2020-01-21"
+  ]
+}

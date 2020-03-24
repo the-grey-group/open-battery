@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC7055569/results/word/frequencies/results.xml">
+  <result title="frequency" word="hybrid" count="89"/>
+  <result title="frequency" word="Na–air" count="80"/>
+  <result title="frequency" word="air" count="73"/>
+  <result title="frequency" word="cell" count="66"/>
+  <result title="frequency" word="discharge" count="65"/>
+  <result title="frequency" word="Na–O" count="57"/>
+  <result title="frequency" word="electrode" count="57"/>
+  <result title="frequency" word="electrolyte" count="56"/>
+  <result title="frequency" word="Chem." count="42"/>
+  <result title="frequency" word="energy" count="42"/>
+  <result title="frequency" word="Mater." count="41"/>
+  <result title="frequency" word="battery" count="38"/>
+  <result title="frequency" word="batteries" count="34"/>
+  <result title="frequency" word="Kim" count="32"/>
+  <result title="frequency" word="NASICON" count="32"/>
+  <result title="frequency" word="nonaqueous" count="32"/>
+  <result title="frequency" word="NaO" count="31"/>
+  <result title="frequency" word="organic" count="29"/>
+  <result title="frequency" word="sodium" count="29"/>
+  <result title="frequency" word="product" count="28"/>
+  <result title="frequency" word="Figure" count="27"/>
+  <result title="frequency" word="cell." count="27"/>
+  <result title="frequency" word="oxygen" count="27"/>
+  <result title="frequency" word="Sun" count="26"/>
+  <result title="frequency" word="carbon" count="25"/>
+  <result title="frequency" word="high" count="25"/>
+  <result title="frequency" word="formation" count="24"/>
+  <result title="frequency" word="using" count="23"/>
+  <result title="frequency" word="solid" count="22"/>
+  <result title="frequency" word="Zhang" count="21"/>
+  <result title="frequency" word="performance" count="21"/>
+ </snippets>
+</snippetsTree>

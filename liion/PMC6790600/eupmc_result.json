@@ -1,0 +1,364 @@
+{
+  "id": [
+    "31297974"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31297974"
+  ],
+  "pmcid": [
+    "PMC6790600"
+  ],
+  "doi": [
+    "10.1002/cssc.201901545"
+  ],
+  "title": [
+    "Sustainable Energy Storage: Recent Trends and Developments toward Fully Organic Batteries."
+  ],
+  "authorString": [
+    "Friebe C, Lex-Balducci A, Schubert US."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Friebe C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Friebe"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743, Jena, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Lex-Balducci A"
+          ],
+          "firstName": [
+            "Alexandra"
+          ],
+          "lastName": [
+            "Lex-Balducci"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743, Jena, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Schubert US"
+          ],
+          "firstName": [
+            "Ulrich S"
+          ],
+          "lastName": [
+            "Schubert"
+          ],
+          "initials": [
+            "US"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4978-4670",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743, Jena, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4978-4670",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "18"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2860466"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ChemSusChem"
+          ],
+          "ISOAbbreviation": [
+            "ChemSusChem"
+          ],
+          "medlineAbbreviation": [
+            "ChemSusChem"
+          ],
+          "NLMid": [
+            "101319536"
+          ],
+          "ISSN": [
+            "1864-5631"
+          ],
+          "ESSN": [
+            "1864-564X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4093-4115"
+  ],
+  "abstractText": [
+    "In times of spreading mobile devices, organic batteries represent a promising approach to replace the well-established lithium-ion technology to fulfill the growing demand for small, flexible, safe, as well as sustainable energy storage solutions. In the last years, large efforts have been made regarding the investigation and development of batteries that use organic active materials since they feature superior properties compared to metal-based, in particular lithium-based, energy-storage systems in terms of flexibility and safety as well as with regard to resource availability and disposal. This Review compiles an overview over the most recent studies on the topic. It focuses on the different types of applied active materials, covering both known systems that are optimized and novel structures that aim at being established."
+  ],
+  "affiliation": [
+    "Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743, Jena, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "X"
+          ],
+          "agency": [
+            "Thüringer Ministerium für Wirtschaft, Wissenschaft und Digitale Gesellschaft"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "X"
+          ],
+          "agency": [
+            "Thüringer Aufbaubank"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "European Regional Development Fund"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electrochemistry",
+        "Redox Chemistry",
+        "Energy Storage",
+        "Organic Batteries",
+        "Hybrid Metal-organic Batteries"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/cssc.201901545"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6790600"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6790600?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-09-24"
+  ],
+  "dateOfCreation": [
+    "2019-07-13"
+  ],
+  "firstIndexDate": [
+    "2019-07-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-22"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-22"
+  ],
+  "firstPublicationDate": [
+    "2019-08-22"
+  ]
+}

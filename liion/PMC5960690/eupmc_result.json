@@ -1,0 +1,338 @@
+{
+  "id": [
+    "29868567"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29868567"
+  ],
+  "pmcid": [
+    "PMC5960690"
+  ],
+  "doi": [
+    "10.3389/fchem.2018.00166"
+  ],
+  "title": [
+    "SiC Nanofibers as Long-Life Lithium-Ion Battery Anode Materials."
+  ],
+  "authorString": [
+    "Sun X, Shao C, Zhang F, Li Y, Wu QH, Yang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sun X"
+          ],
+          "firstName": [
+            "Xuejiao"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Materials Chemistry, School of Chemical Engineering and Materials Science, Quanzhou Normal University, Quanzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shao C"
+          ],
+          "firstName": [
+            "Changzhen"
+          ],
+          "lastName": [
+            "Shao"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Jiangsu Key Laboratory of Advanced Functional Polymer Designand Application, Department of Polymer Science and Engineering, College of Chemistry, Chemical Engineering and Materials Science, Soochow University, Suzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Jiangsu Key Laboratory of Advanced Functional Polymer Designand Application, Department of Polymer Science and Engineering, College of Chemistry, Chemical Engineering and Materials Science, Soochow University, Suzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Jiangsu Key Laboratory of Advanced Functional Polymer Designand Application, Department of Polymer Science and Engineering, College of Chemistry, Chemical Engineering and Materials Science, Soochow University, Suzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu QH"
+          ],
+          "firstName": [
+            "Qi-Hui"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "QH"
+          ],
+          "affiliation": [
+            "Department of Materials Chemistry, School of Chemical Engineering and Materials Science, Quanzhou Normal University, Quanzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang Y"
+          ],
+          "firstName": [
+            "Yonggang"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Jiangsu Key Laboratory of Advanced Functional Polymer Designand Application, Department of Polymer Science and Engineering, College of Chemistry, Chemical Engineering and Materials Science, Soochow University, Suzhou, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2651544"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Front Chem"
+          ],
+          "medlineAbbreviation": [
+            "Front Chem"
+          ],
+          "NLMid": [
+            "101627988"
+          ],
+          "ISSN": [
+            "2296-2646"
+          ],
+          "ESSN": [
+            "2296-2646"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "166"
+  ],
+  "abstractText": [
+    "The development of high energy lithium-ion batteries (LIBs) has spurred the designing and production of novel anode materials to substitute currently commercial using graphitic materials. Herein, twisted SiC nanofibers toward LIBs anode materials, containing 92.5 wt% cubic β-SiC and 7.5 wt% amorphous C, were successfully synthesized from resin-silica composites. The electrochemical measurements showed that the SiC-based electrode delivered a stable reversible capacity of 254.5 mAh g-1 after 250 cycles at a current density of 0.1 A g-1. It is interesting that a high discharge capacity of 540.1 mAh g-1 was achieved after 500 cycles at an even higher current density of 0.3 A g-1, which is higher than the theoretical capacity of graphite. The results imply that SiC nanomaterials are potential anode candidate for LIBs with high stability due to their high structure stability as supported with the transmission electron microscopy images."
+  ],
+  "affiliation": [
+    "Department of Materials Chemistry, School of Chemical Engineering and Materials Science, Quanzhou Normal University, Quanzhou, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Silicon carbide",
+        "Nanofibers",
+        "Anode",
+        "Lithium-ion Batteries",
+        "Long-life"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fchem.2018.00166"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5960690"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5960690?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-06"
+  ],
+  "firstIndexDate": [
+    "2018-06-06"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-06"
+  ],
+  "dateOfRevision": [
+    "2018-06-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-14"
+  ],
+  "firstPublicationDate": [
+    "2018-05-14"
+  ]
+}

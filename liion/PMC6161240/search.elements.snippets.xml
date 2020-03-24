@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6161240/results/search/elements/results.xml">
+  <result pre="concepts, the main trend for current technological evolution [ 2]." exact="Lithium" post="ion batteries can also power electric and hybrid vehicles,"/>
+  <result pre="a critical issue for lithium ion batteries [ 3, 4]." exact="Lithium" post="ion batteries are very suitable for the aforementioned applications"/>
+  <result pre="of crystallinity, and enhance mechanical properties and ionic conductivity value." exact="Carbon" post="materials (CNF, Graphene, rGO) improve safety and interfacial stability"/>
+  <result pre="BC Boron-containing cross-linker CA Cellulose acetate CMC carboxymethyl cellulose CNF" exact="Carbon" post="nanofiber DEC Diethyl carbonate DEM Diethoxymethane DMAc Dimethyl acetamide"/>
+  <result pre="Hollow mesoporous silica spheres HTPB-g-MPEG Hydroxyl-terminated polybutadiene-grafted-methoxyl polyethylene glycol KOH" exact="Potassium" post="hydroxide LiClO 4 Lithium percholorate LiCoO 2 Lithium cobalt"/>
+  <result pre="HTPB-g-MPEG Hydroxyl-terminated polybutadiene-grafted-methoxyl polyethylene glycol KOH Potassium hydroxide LiClO 4" exact="Lithium" post="percholorate LiCoO 2 Lithium cobalt oxide LiFAP Lithium Tris(pentafluoroethane)-trifluorophosphate"/>
+  <result pre="glycol KOH Potassium hydroxide LiClO 4 Lithium percholorate LiCoO 2" exact="Lithium" post="cobalt oxide LiFAP Lithium Tris(pentafluoroethane)-trifluorophosphate LiNfO/BMImNfO Lithium nonafluorobutanesulfonate/1-butyl-3-me-thylimidazolium nonafluorobutanesulfonate"/>
+  <result pre="LiClO 4 Lithium percholorate LiCoO 2 Lithium cobalt oxide LiFAP" exact="Lithium" post="Tris(pentafluoroethane)-trifluorophosphate LiNfO/BMImNfO Lithium nonafluorobutanesulfonate/1-butyl-3-me-thylimidazolium nonafluorobutanesulfonate LiNO 3 Lithium nitrate"/>
+  <result pre="percholorate LiCoO 2 Lithium cobalt oxide LiFAP Lithium Tris(pentafluoroethane)-trifluorophosphate LiNfO/BMImNfO" exact="Lithium" post="nonafluorobutanesulfonate/1-butyl-3-me-thylimidazolium nonafluorobutanesulfonate LiNO 3 Lithium nitrate LiPF 6 Lithium"/>
+  <result pre="oxide LiFAP Lithium Tris(pentafluoroethane)-trifluorophosphate LiNfO/BMImNfO Lithium nonafluorobutanesulfonate/1-butyl-3-me-thylimidazolium nonafluorobutanesulfonate LiNO 3" exact="Lithium" post="nitrate LiPF 6 Lithium hexafluorophosphate LiPVAOB Lithium polyvinyl alcohol"/>
+  <result pre="LiNfO/BMImNfO Lithium nonafluorobutanesulfonate/1-butyl-3-me-thylimidazolium nonafluorobutanesulfonate LiNO 3 Lithium nitrate LiPF 6" exact="Lithium" post="hexafluorophosphate LiPVAOB Lithium polyvinyl alcohol oxalate borate Li-S Lithium-sulfur"/>
+  <result pre="nonafluorobutanesulfonate LiNO 3 Lithium nitrate LiPF 6 Lithium hexafluorophosphate LiPVAOB" exact="Lithium" post="polyvinyl alcohol oxalate borate Li-S Lithium-sulfur LiTFSI lithium bis(trifluoromethanesulfonyl)imide"/>
+  <result pre="acid MC Methyl cellulose MEP Ethylene oxide-propylene oxide Mg(OH) 2" exact="Magnesium" post="hydroxide MgAl 2O 4 Magnesium aluminate MMT Montmorillonite MOF-808"/>
+  <result pre="Ethylene oxide-propylene oxide Mg(OH) 2 Magnesium hydroxide MgAl 2O 4" exact="Magnesium" post="aluminate MMT Montmorillonite MOF-808 Zirconium (IV) metal-organic framework m-SBA"/>
+  <result pre="Magnesium hydroxide MgAl 2O 4 Magnesium aluminate MMT Montmorillonite MOF-808" exact="Zirconium" post="(IV) metal-organic framework m-SBA 15 Mesoporous silica NaA NaA"/>
+  <result pre="framework m-SBA 15 Mesoporous silica NaA NaA zeolite NaClO 4" exact="Sodium" post="perchlorate NaTf Sodium trifluoromethane sulfonate NCC Nanocrystalline cellulose NIPS"/>
+  <result pre="Mesoporous silica NaA NaA zeolite NaClO 4 Sodium perchlorate NaTf" exact="Sodium" post="trifluoromethane sulfonate NCC Nanocrystalline cellulose NIPS Non-solvent induced phase"/>
+  <result pre="rGO Reduced graphene oxide SCPC Self-charging power cell SiO 2" exact="Silicon" post="dioxide SN Succinonitrile SnO 2 Tin oxide TAIC Triallyl"/>
+  <result pre="power cell SiO 2 Silicon dioxide SN Succinonitrile SnO 2" exact="Tin" post="oxide TAIC Triallyl isocyanurate TEABF 4 Tetraethyl ammonium tetrafluoroborate"/>
+  <result pre="TAIC Triallyl isocyanurate TEABF 4 Tetraethyl ammonium tetrafluoroborate TiO 2" exact="Titanium" post="dioxide TIPS Thermal-induced phase separation TTT 1,3,5-trially-1,3,5-triazine-2,4,6(1 H,3 H,5"/>
+  <result pre="H,5 H)-trione VC Vinylene carbonate x-PEGDA x-polyethylene glycol diacrylate ZnO" exact="Zinc" post="oxide ZrO2 Zirconium dioxide Funding Portuguese Foundation for Science"/>
+  <result pre="Vinylene carbonate x-PEGDA x-polyethylene glycol diacrylate ZnO Zinc oxide ZrO2" exact="Zirconium" post="dioxide Funding Portuguese Foundation for Science and Technology (FCT):"/>
+  <result pre="cross-linkers; High ionic conductivity and thermal stability. [ 68] PVDF" exact="Carbon" post="1 M LiTFSI and 0.1 M LiNO 3 in"/>
+ </snippets>
+</snippetsTree>

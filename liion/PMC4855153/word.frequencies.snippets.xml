@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC4855153/results/word/frequencies/results.xml">
+  <result title="frequency" word="iron" count="73"/>
+  <result title="frequency" word="oxide" count="65"/>
+  <result title="frequency" word="ALD" count="46"/>
+  <result title="frequency" word="coated" count="41"/>
+  <result title="frequency" word="coating" count="39"/>
+  <result title="frequency" word="film" count="37"/>
+  <result title="frequency" word="LMNO" count="35"/>
+  <result title="frequency" word="capacity" count="33"/>
+  <result title="frequency" word="Fe," count="32"/>
+  <result title="frequency" word="LiMn" count="30"/>
+  <result title="frequency" word="temperature" count="30"/>
+  <result title="frequency" word="sample" count="28"/>
+  <result title="frequency" word="particles" count="27"/>
+  <result title="frequency" word="using" count="27"/>
+  <result title="frequency" word="resistance" count="25"/>
+  <result title="frequency" word="impedance" count="24"/>
+  <result title="frequency" word=".Ni" count="23"/>
+  <result title="frequency" word="films" count="22"/>
+  <result title="frequency" word="Fig." count="21"/>
+  <result title="frequency" word="particle" count="21"/>
+ </snippets>
+</snippetsTree>

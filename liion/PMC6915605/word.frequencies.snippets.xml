@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6915605/results/word/frequencies/results.xml">
+  <result title="frequency" word="membranes" count="80"/>
+  <result title="frequency" word="membrane" count="58"/>
+  <result title="frequency" word="P-L" count="56"/>
+  <result title="frequency" word="lithium" count="50"/>
+  <result title="frequency" word="electrolyte" count="48"/>
+  <result title="frequency" word="LATP" count="47"/>
+  <result title="frequency" word="battery" count="39"/>
+  <result title="frequency" word="ion" count="35"/>
+  <result title="frequency" word="separator" count="33"/>
+  <result title="frequency" word="PAN" count="32"/>
+  <result title="frequency" word="batteries" count="32"/>
+  <result title="frequency" word="lithium-ion" count="31"/>
+  <result title="frequency" word="Figure" count="30"/>
+  <result title="frequency" word="separators" count="30"/>
+  <result title="frequency" word="polymer" count="26"/>
+  <result title="frequency" word="porosity" count="25"/>
+  <result title="frequency" word="conductivity" count="22"/>
+  <result title="frequency" word="Kim" count="21"/>
+  <result title="frequency" word="ionic" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,343 @@
+{
+  "id": [
+    "28855553"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28855553"
+  ],
+  "pmcid": [
+    "PMC5577247"
+  ],
+  "doi": [
+    "10.1038/s41598-017-09784-z"
+  ],
+  "title": [
+    "Toxic fluoride gas emissions from lithium-ion battery fires."
+  ],
+  "authorString": [
+    "Larsson F, Andersson P, Blomqvist P, Mellander BE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Larsson F"
+          ],
+          "firstName": [
+            "Fredrik"
+          ],
+          "lastName": [
+            "Larsson"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Physics, Chalmers University of Technology, Kemivagen 9, SE-41296, Gothenburg, Sweden. vegan@chalmers.se."
+          ]
+        },
+        {
+          "fullName": [
+            "Andersson P"
+          ],
+          "firstName": [
+            "Petra"
+          ],
+          "lastName": [
+            "Andersson"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Safety and Transport, RISE Research Institutes of Sweden, Brinellgatan 4, SE-50115, Boras, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Blomqvist P"
+          ],
+          "firstName": [
+            "Per"
+          ],
+          "lastName": [
+            "Blomqvist"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Safety and Transport, RISE Research Institutes of Sweden, Brinellgatan 4, SE-50115, Boras, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Mellander BE"
+          ],
+          "firstName": [
+            "Bengt-Erik"
+          ],
+          "lastName": [
+            "Mellander"
+          ],
+          "initials": [
+            "BE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3623-2888",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physics, Chalmers University of Technology, Kemivagen 9, SE-41296, Gothenburg, Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3623-2888",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2582427"
+      ],
+      "dateOfPublication": [
+        "2017 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "10018"
+  ],
+  "abstractText": [
+    "Lithium-ion battery fires generate intense heat and considerable amounts of gas and smoke. Although the emission of toxic gases can be a larger threat than the heat, the knowledge of such emissions is limited. This paper presents quantitative measurements of heat release and fluoride gas emissions during battery fires for seven different types of commercial lithium-ion batteries. The results have been validated using two independent measurement techniques and show that large amounts of hydrogen fluoride (HF) may be generated, ranging between 20 and 200 mg/Wh of nominal battery energy capacity. In addition, 15-22 mg/Wh of another potentially toxic gas, phosphoryl fluoride (POF3), was measured in some of the fire tests. Gas emissions when using water mist as extinguishing agent were also investigated. Fluoride gas emission can pose a serious toxic threat and the results are crucial findings for risk assessment and management, especially for large Li-ion battery packs."
+  ],
+  "affiliation": [
+    "Department of Physics, Chalmers University of Technology, Kemivagen 9, SE-41296, Gothenburg, Sweden. vegan@chalmers.se."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-017-09784-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5577247"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5577247?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "29567983"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Sci Rep. 2018 Mar 22;8(1):5265"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-21"
+  ],
+  "dateOfCreation": [
+    "2017-09-01"
+  ],
+  "firstIndexDate": [
+    "2017-08-31"
+  ],
+  "fullTextReceivedDate": [
+    "2017-09-04"
+  ],
+  "dateOfRevision": [
+    "2019-03-21"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-30"
+  ],
+  "firstPublicationDate": [
+    "2017-08-30"
+  ]
+}

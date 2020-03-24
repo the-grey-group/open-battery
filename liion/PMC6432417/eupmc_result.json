@@ -1,0 +1,428 @@
+{
+  "id": [
+    "30970838"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30970838"
+  ],
+  "pmcid": [
+    "PMC6432417"
+  ],
+  "doi": [
+    "10.3390/polym9050159"
+  ],
+  "title": [
+    "A Modified Ceramic-Coating Separator with High-Temperature Stability for Lithium-Ion Battery."
+  ],
+  "authorString": [
+    "Shi C, Dai J, Li C, Shen X, Peng L, Zhang P, Wu D, Sun D, Zhao J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shi C"
+          ],
+          "firstName": [
+            "Chuan"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Industrial Research Institute of nonwovens & Technical Textiles, College of Textiles & Clothing, Qingdao University, 266071 Qingdao, China. chuanshi@qdu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Dai J"
+          ],
+          "firstName": [
+            "Jianhui"
+          ],
+          "lastName": [
+            "Dai"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Energy Research & School of Energy Research, Xiamen University, Xiamen 361102, China. daijh1992@stu.xmu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Li C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "College of Chemistry and Chemical Engineering, State key laboratory of Physical Chemistry of Solid Surfaces, Collaborative Innovative Center of Chemistry for Energy Materials, Xiamen University, 361005 Xiamen, China. leechao@stu.xmu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Shen X"
+          ],
+          "firstName": [
+            "Xiu"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Chemistry and Chemical Engineering, State key laboratory of Physical Chemistry of Solid Surfaces, Collaborative Innovative Center of Chemistry for Energy Materials, Xiamen University, 361005 Xiamen, China. xiushen@stu.xmu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Peng L"
+          ],
+          "firstName": [
+            "Longqing"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "College of Chemistry and Chemical Engineering, State key laboratory of Physical Chemistry of Solid Surfaces, Collaborative Innovative Center of Chemistry for Energy Materials, Xiamen University, 361005 Xiamen, China. 20520151152394@stu.xmu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang P"
+          ],
+          "firstName": [
+            "Peng"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "College of Energy Research & School of Energy Research, Xiamen University, Xiamen 361102, China. pengzhang@xmu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu D"
+          ],
+          "firstName": [
+            "Dezhi"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "School of Aerospace Engineering, Xiamen University, Xiamen 361005, China. wdz@xmu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun D"
+          ],
+          "firstName": [
+            "Daoheng"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "School of Aerospace Engineering, Xiamen University, Xiamen 361005, China. daohs@xmu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao J"
+          ],
+          "firstName": [
+            "Jinbao"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Chemistry and Chemical Engineering, State key laboratory of Physical Chemistry of Solid Surfaces, Collaborative Innovative Center of Chemistry for Energy Materials, Xiamen University, 361005 Xiamen, China. jbzhao@xmu.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2804628"
+      ],
+      "dateOfPublication": [
+        "2017 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Polymers"
+          ],
+          "ISOAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "NLMid": [
+            "101545357"
+          ],
+          "ISSN": [
+            "2073-4360"
+          ],
+          "ESSN": [
+            "2073-4360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "In this work, the ceramic coating separator (CCS-CS) prepared with polyethylene (PE) separator, Al₂O₃ inorganic particles, carboxymethyl cellulose sodium (CMC) and styrene-butadiene rubber (SBR) mix binders is further modified by coating with a thin polydopamine (PDA) layer through a simple chemical deposition method. Compared with the bare ceramic coating separator, the PDA-modified CCS-CS (CCS-CS-PDA) exhibits excellent thermal stability, which shows no thermal shrinkage after storing at 200 °C for 30 min. Compared with the PE separator, both the uptake and wettability with the electrolyte and water of CCS-CS-PDA are improved significantly. Meanwhile, when saturated with liquid electrolyte, the CCS-CS-PDA also shows enabled high ionic conductance. Furthermore, the test of the electrochemical impedances changing with the temperatures suggests that only the PE separator exhibits no thermal shutdown behaviors, and the CCS-CS separator only has a shutdown temperature range from 138 to 160 °C, while the CCS-CS-PDA shows a shutdown temperature range from 138 to more than 200 °C. The cells prepared with the CCS-CS-PDA also show stable repeated cycling performance and good rate capacity at room temperature."
+  ],
+  "affiliation": [
+    "Industrial Research Institute of nonwovens & Technical Textiles, College of Textiles & Clothing, Qingdao University, 266071 Qingdao, China. chuanshi@qdu.edu.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Grant Nos. 21503180, 21273185 and 21321062"
+          ],
+          "agency": [
+            "the National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "20720170037"
+          ],
+          "agency": [
+            "the Fundamental Research Funds for the Central Universities"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "20720140513"
+          ],
+          "agency": [
+            "the Fundamental Research Funds for the Central Universities"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium-ion battery",
+        "Separator",
+        "Polydopamine",
+        "Ceramic Coating",
+        "High Safety"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/polym9050159"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6432417"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6432417?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-12"
+  ],
+  "firstIndexDate": [
+    "2019-04-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-05"
+  ],
+  "dateOfRevision": [
+    "2019-04-14"
+  ],
+  "electronicPublicationDate": [
+    "2017-04-29"
+  ],
+  "firstPublicationDate": [
+    "2017-04-29"
+  ]
+}

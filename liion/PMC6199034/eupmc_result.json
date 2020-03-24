@@ -1,0 +1,290 @@
+{
+  "id": [
+    "30393736"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30393736"
+  ],
+  "pmcid": [
+    "PMC6199034"
+  ],
+  "doi": [
+    "10.1007/s40820-017-0142-8"
+  ],
+  "title": [
+    "Engineering and Optimization of Silicon-Iron-Manganese Nanoalloy Electrode for Enhanced Lithium-Ion Battery."
+  ],
+  "authorString": [
+    "Alaboina PK, Cho JS, Cho SJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Alaboina PK"
+          ],
+          "firstName": [
+            "Pankaj K"
+          ],
+          "lastName": [
+            "Alaboina"
+          ],
+          "initials": [
+            "PK"
+          ],
+          "affiliation": [
+            "Joint School of Nanoscience and Nanoengineering, North Carolina Agricultural and Technical State University, Greensboro, NC 27401 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cho JS"
+          ],
+          "firstName": [
+            "Jong-Soo"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "affiliation": [
+            "Joint School of Nanoscience and Nanoengineering, North Carolina Agricultural and Technical State University, Greensboro, NC 27401 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cho SJ"
+          ],
+          "firstName": [
+            "Sung-Jin"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Joint School of Nanoscience and Nanoengineering, North Carolina Agricultural and Technical State University, Greensboro, NC 27401 USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2744822"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nano-micro letters"
+          ],
+          "ISOAbbreviation": [
+            "Nanomicro Lett"
+          ],
+          "medlineAbbreviation": [
+            "Nanomicro Lett"
+          ],
+          "NLMid": [
+            "101727940"
+          ],
+          "ISSN": [
+            "2311-6706"
+          ],
+          "ESSN": [
+            "2150-5551"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "41"
+  ],
+  "abstractText": [
+    "The electrochemical performance of a battery is considered to be primarily dependent on the electrode material. However, engineering and optimization of electrodes also play a crucial role, and the same electrode material can be designed to offer significantly improved batteries. In this work, Si-Fe-Mn nanomaterial alloy (Si/alloy) and graphite composite electrodes were densified at different calendering conditions of 3, 5, and 8 tons, and its influence on electrode porosity, electrolyte wettability, and long-term cycling was investigated. The active material loading was maintained very high (~2 mg cm-2) to implement electrode engineering close to commercial loading scales. The densification was optimized to balance between the electrode thickness and wettability to enable the best electrochemical properties of the Si/alloy anodes. In this case, engineering and optimizing the Si/alloy composite electrodes to 3 ton calendering (electrode densification from 0.39 to 0.48 g cm-3) showed enhanced cycling stability with a high capacity retention of ~100% over 100 cycles."
+  ],
+  "affiliation": [
+    "Joint School of Nanoscience and Nanoengineering, North Carolina Agricultural and Technical State University, Greensboro, NC 27401 USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electrolyte Wettability",
+        "Electrode Engineering",
+        "Silicon Nanoalloy",
+        "Calendering Effect",
+        "High-density Silicon Anode"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s40820-017-0142-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6199034"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6199034?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-06"
+  ],
+  "firstIndexDate": [
+    "2018-11-05"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-05"
+  ],
+  "dateOfRevision": [
+    "2018-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-17"
+  ],
+  "firstPublicationDate": [
+    "2017-03-17"
+  ]
+}

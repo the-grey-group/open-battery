@@ -1,0 +1,364 @@
+{
+  "id": [
+    "30139990"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30139990"
+  ],
+  "pmcid": [
+    "PMC6107536"
+  ],
+  "doi": [
+    "10.1038/s41598-018-30703-3"
+  ],
+  "title": [
+    "Mechanochemical synthesis of Si/Cu3Si-based composite as negative electrode materials for lithium ion battery."
+  ],
+  "authorString": [
+    "Hou SC, Chen TY, Wu YH, Chen HY, Lin XD, Chen YQ, Huang JL, Chang CC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hou SC"
+          ],
+          "firstName": [
+            "Shang-Chieh"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, National Cheng Kung University, Tainan, 70101, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen TY"
+          ],
+          "firstName": [
+            "Tsan-Yao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "TY"
+          ],
+          "affiliation": [
+            "Department of Engineering and System Science, National Tsing Hua University, Hsinchu, 30013, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu YH"
+          ],
+          "firstName": [
+            "Yu-Hsien"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "affiliation": [
+            "Department of Greenergy, National University of Tainan, Tainan, 70005, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen HY"
+          ],
+          "firstName": [
+            "Hung-Yuan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "HY"
+          ],
+          "affiliation": [
+            "Department of Greenergy, National University of Tainan, Tainan, 70005, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin XD"
+          ],
+          "firstName": [
+            "Xin-Dian"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "XD"
+          ],
+          "affiliation": [
+            "Department of Greenergy, National University of Tainan, Tainan, 70005, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen YQ"
+          ],
+          "firstName": [
+            "Yu-Qi"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "YQ"
+          ],
+          "affiliation": [
+            "Department of Greenergy, National University of Tainan, Tainan, 70005, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang JL"
+          ],
+          "firstName": [
+            "Jow-Lay"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, National Cheng Kung University, Tainan, 70101, Taiwan. jlh888@mail.ncku.edu.tw."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang CC"
+          ],
+          "firstName": [
+            "Chia-Chin"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Department of Greenergy, National University of Tainan, Tainan, 70005, Taiwan. ccchang@mail.nutn.edu.tw."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2711288"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "12695"
+  ],
+  "abstractText": [
+    "Mechanochemical synthesis of Si/Cu3Si-based composite as negative electrode materials for lithium ion battery is investigated. Results indicate that CuO is decomposed and alloyed with Si forming amorphous Cu-Si solid solution due to high energy impacting during high energy mechanical milling (HEMM). Upon carbonization at 800 °C, heating energy induces Cu3Si to crystallize in nanocrystalline/amorphous Si-rich matrix enhancing composite rigidity and conductivity. In addition, residual carbon formed on outside surface of composite powder as a buff space further alleviates volume change upon lithiation/delithiation. Thus, coin cell made of C-coated Si/Cu3Si-based composite as negative electrode (active materials loading, 2.3 mg cm-2) conducted at 100 mA g-1 performs the initial charge capacity of 1812 mAh g-1 (4.08 mAh cm-2) columbic efficiency of 83.7% and retained charge capacity of 1470 mAh g-1 (3.31 mAh cm-2) at the end of the 100th cycle, opening a promised window as negative electrode materials for lithium ion batteries."
+  ],
+  "affiliation": [
+    "Department of Materials Science and Engineering, National Cheng Kung University, Tainan, 70101, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-30703-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6107536"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6107536?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-25"
+  ],
+  "firstIndexDate": [
+    "2018-08-25"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-30"
+  ],
+  "dateOfRevision": [
+    "2019-07-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-23"
+  ],
+  "firstPublicationDate": [
+    "2018-08-23"
+  ]
+}

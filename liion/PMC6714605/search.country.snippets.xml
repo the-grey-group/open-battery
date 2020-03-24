@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6714605/results/search/country/results.xml">
+  <result pre="† [†], King Abdullah University of Science and Technology (KAUST)" exact="Saudi Arabia" post="[‡], Huawei Technologies Company Limited China [§], King Abdullah"/>
+  <result pre="and Technology (KAUST) Saudi Arabia [‡], Huawei Technologies Company Limited" exact="China" post="[§], King Abdullah University of Science and Technology (KAUST)"/>
+  <result pre="China [§], King Abdullah University of Science and Technology (KAUST)" exact="Saudi Arabia" post="*E-mail: Kuo-wei.huang@kaust.edu.sa (K.-W.H.). *E-mail: Li.yangxing@huawei.com (Y.L.). *E-mail: Zhiping.lai@kaust.edu.sa (Z.L.)."/>
+ </snippets>
+</snippetsTree>

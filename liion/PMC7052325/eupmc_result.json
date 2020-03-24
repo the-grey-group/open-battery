@@ -1,0 +1,323 @@
+{
+  "id": [
+    "32158746"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32158746"
+  ],
+  "pmcid": [
+    "PMC7052325"
+  ],
+  "doi": [
+    "10.3389/fchem.2020.00125"
+  ],
+  "title": [
+    "Recent Development of Mg Ion Solid Electrolyte."
+  ],
+  "authorString": [
+    "Zhan Y, Zhang W, Lei B, Liu H, Li W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhan Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Zhan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Chemical Engineering and Technology, Sun Yat-sen University, Zhuhai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "School of Chemical Engineering and Technology, Sun Yat-sen University, Zhuhai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lei B"
+          ],
+          "firstName": [
+            "Bing"
+          ],
+          "lastName": [
+            "Lei"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "School of Chemical Engineering and Technology, Sun Yat-sen University, Zhuhai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu H"
+          ],
+          "firstName": [
+            "Hongwei"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "School of Chemical Engineering and Technology, Sun Yat-sen University, Zhuhai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li W"
+          ],
+          "firstName": [
+            "Weihua"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "School of Chemical Engineering and Technology, Sun Yat-sen University, Zhuhai, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2911888"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Front Chem"
+          ],
+          "medlineAbbreviation": [
+            "Front Chem"
+          ],
+          "NLMid": [
+            "101627988"
+          ],
+          "ISSN": [
+            "2296-2646"
+          ],
+          "ESSN": [
+            "2296-2646"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "125"
+  ],
+  "abstractText": [
+    "Although the successful deployment of lithium-ion batteries (LIBs) in various fields such as consumer electronics, electric vehicles and electric grid, the efforts are still ongoing to pursue the next-generation battery systems with higher energy densities. Interest has been increasing in the batteries relying on the multivalent-ions such as Mg2+, Zn2+, and Al3+, because of the higher volumetric energy densities than those of monovalent-ion batteries including LIBs and Na-ion batteries. Among them, magnesium batteries have attracted much attention due to the promising characteristics of Mg anode: a low redox potential (-2.356 V vs. SHE), a high volumetric energy density (3,833 mAh cm-3), atmospheric stability and the earth-abundance. However, the development of Mg batteries has progressed little since the first Mg-ion rechargeable battery was reported in 2000. A severe technological bottleneck concerns the organic electrolytes, which have limited compatibility with Mg anode and form an Mg-ion insulating passivation layer on the anode surface. Consequently, beneficial to the good chemical and mechanical stability, Mg-ion solid electrolyte should be a promising alternative to the liquid electrolyte. Herein, a mini review is presented to focus on the recent development of Mg-ion solid conductor. The performances and the limitations were also discussed in the review. We hope that the mini review could provide a quick grasp of the challenges in the area and inspire researchers to develop applicable solid electrolyte candidates for Mg batteries."
+  ],
+  "affiliation": [
+    "School of Chemical Engineering and Technology, Sun Yat-sen University, Zhuhai, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phosphate",
+        "Solid electrolyte",
+        "Chalcogenides",
+        "Mg Batteries",
+        "Metal-organic Frame (Mofs)",
+        "Borohydride"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fchem.2020.00125"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7052325"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7052325?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-12"
+  ],
+  "firstIndexDate": [
+    "2020-03-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-21"
+  ],
+  "dateOfRevision": [
+    "2020-03-13"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-25"
+  ],
+  "firstPublicationDate": [
+    "2020-02-25"
+  ]
+}

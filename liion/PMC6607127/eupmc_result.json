@@ -1,0 +1,301 @@
+{
+  "id": [
+    "PMC6607127"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC6607127"
+  ],
+  "doi": [
+    "10.1002/gch2.201870020"
+  ],
+  "title": [
+    "Lithium‐Ion Batteries: New Insights into the Application of Lithium‐Ion Battery Materials: Selective Extraction of Lithium from Brines via a Rocking‐Chair Lithium‐Ion Battery System (Global Challenges 2/2018)."
+  ],
+  "authorString": [
+    "He L, Xu W, Song Y, Luo Y, Liu X, Zhao Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "He L"
+          ],
+          "firstName": [
+            "Lihua"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Central South UniversityChangsha Hunan 410083 Beijing 100084 P. R. China"
+          ]
+        },
+        {
+          "fullName": [
+            "Xu W"
+          ],
+          "firstName": [
+            "Wenhua"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "W"
+          ]
+        },
+        {
+          "fullName": [
+            "Song Y"
+          ],
+          "firstName": [
+            "Yunfeng"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Luo Y"
+          ],
+          "firstName": [
+            "Yunze"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xuheng"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Z"
+          ],
+          "firstName": [
+            "Zhongwei"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Z"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2864823"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Global challenges (Hoboken, NJ)"
+          ],
+          "ISOAbbreviation": [
+            "Glob Chall"
+          ],
+          "medlineAbbreviation": [
+            "Glob Chall"
+          ],
+          "NLMid": [
+            "101705641"
+          ],
+          "ISSN": [
+            "2056-6646"
+          ],
+          "ESSN": [
+            "2056-6646"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "In order to meet the global demand for lithium‐ion batteries, salt lakes have been targeted as a source of lithium. However, extracting lithium from brine that contains a high Mg/Li ratio is a challenge due to the similar chemical properties of Mg and Li. In article number 1700079 by Zhongwei Zhao and co‐workers, a novel electrochemical cell is used to extract lithium from brine with high selectivity: LiFePO (anode) | NaCl solution | anion exchange membrane | brine |FePO (cathode). The system demonstrates good cycling performance, effective lithium enrichment, low cost, and use of environmentally friendly materials, making it a practical means to address the issue of lithium extraction."
+  ],
+  "affiliation": [
+    "Central South UniversityChangsha Hunan 410083 Beijing 100084 P. R. China"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Other"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Brine",
+        "Lithium Extraction",
+        "Lifepo",
+        "Rocking‐chair Lithium‐ion Batteries"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6607127/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6607127"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-06"
+  ],
+  "firstIndexDate": [
+    "2019-10-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-10-06"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-08"
+  ],
+  "firstPublicationDate": [
+    "2018-02-08"
+  ]
+}

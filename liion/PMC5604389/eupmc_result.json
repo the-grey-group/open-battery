@@ -1,0 +1,324 @@
+{
+  "id": [
+    "28932676"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28932676"
+  ],
+  "pmcid": [
+    "PMC5604389"
+  ],
+  "doi": [
+    "10.1002/advs.201700128"
+  ],
+  "title": [
+    "Carbon Nanofibers Heavy Laden with Li3V2(PO4)3 Particles Featuring Superb Kinetics for High-Power Lithium Ion Battery."
+  ],
+  "authorString": [
+    "Shin J, Yang J, Sergey C, Song MS, Kang YM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shin J"
+          ],
+          "firstName": [
+            "Jeongyim"
+          ],
+          "lastName": [
+            "Shin"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Energy and Materials Engineering Dongguk University Seoul 100-715 Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Junghoon"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Energy and Materials Engineering Dongguk University Seoul 100-715 Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Sergey C"
+          ],
+          "firstName": [
+            "Chernov"
+          ],
+          "lastName": [
+            "Sergey"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Energy and Materials Engineering Dongguk University Seoul 100-715 Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Song MS"
+          ],
+          "firstName": [
+            "Min-Sang"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Energy Material Lab Material Research Center Samsung Advanced Institute of Technology Samsung Electronics 130 Samsung-ro Yeongtong-gu, Suwon-si Gyeonggi-do 16678 Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kang YM"
+          ],
+          "firstName": [
+            "Yong-Mook"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "YM"
+          ],
+          "affiliation": [
+            "Department of Energy and Materials Engineering Dongguk University Seoul 100-715 Republic of Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2599773"
+      ],
+      "dateOfPublication": [
+        "2017 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+          ],
+          "ISOAbbreviation": [
+            "Adv Sci (Weinh)"
+          ],
+          "medlineAbbreviation": [
+            "Adv Sci (Weinh)"
+          ],
+          "NLMid": [
+            "101664569"
+          ],
+          "ISSN": [
+            "2198-3844"
+          ],
+          "ESSN": [
+            "2198-3844"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1700128"
+  ],
+  "abstractText": [
+    "Fast lithium ion and electron transport inside electrode materials are essential to realize its superb electrochemical performances for lithium rechargeable batteries. Herein, a distinctive structure of cathode material is proposed, which can simultaneously satisfy these requirements. Nanosized Li3V2(PO4)3 (LVP) particles can be successfully grown up on the carbon nanofiber via electrospinning method followed by a controlled heat-treatment. Herein, LVP particles are anchored onto the surface of carbon nanofiber, and with this growing process, the size of LVP particles as well as the thickness of carbon nanofiber can be regulated together. The morphological features of this composite structure enable not only direct contact between electrolytes and LVP particles that can enhance lithium ion diffusivity, but also fast electron transport through 1D carbon network along nanofibers simultaneously. Finally, it is demonstrated that this unique structure is an ideal one to realize high electron transport and ion diffusivity together, which are essential for enhancing the electrochemical performances of electrode materials."
+  ],
+  "affiliation": [
+    "Department of Energy and Materials Engineering Dongguk University Seoul 100-715 Republic of Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ostwald Ripening",
+        "Carbon Nanofibers",
+        "Li3v2(po4)3",
+        "Unique Structures",
+        "Lithium‐ion Batteries"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/advs.201700128"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5604389"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5604389?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-09-22"
+  ],
+  "firstIndexDate": [
+    "2017-09-21"
+  ],
+  "fullTextReceivedDate": [
+    "2017-09-22"
+  ],
+  "dateOfRevision": [
+    "2019-01-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-05-12"
+  ],
+  "firstPublicationDate": [
+    "2017-05-12"
+  ]
+}

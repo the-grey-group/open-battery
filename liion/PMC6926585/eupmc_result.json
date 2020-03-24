@@ -1,0 +1,326 @@
+{
+  "id": [
+    "31775348"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31775348"
+  ],
+  "pmcid": [
+    "PMC6926585"
+  ],
+  "doi": [
+    "10.3390/ma12233892"
+  ],
+  "title": [
+    "Building Better Batteries in the Solid State: A Review."
+  ],
+  "authorString": [
+    "Mauger A, Julien CM, Paolella A, Armand M, Zaghib K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mauger A"
+          ],
+          "firstName": [
+            "Alain"
+          ],
+          "lastName": [
+            "Mauger"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institut de Minéralogie, de Physique des Matériaux et de Cosmochimie (IMPMC), Sorbonne Université, UMR-CNRS 7590, 4 place Jussieu, 75005 Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Julien CM"
+          ],
+          "firstName": [
+            "Christian M"
+          ],
+          "lastName": [
+            "Julien"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Institut de Minéralogie, de Physique des Matériaux et de Cosmochimie (IMPMC), Sorbonne Université, UMR-CNRS 7590, 4 place Jussieu, 75005 Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Paolella A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Paolella"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Centre of Excellence in Transportation Electrification and Energy Storage (CETEES), Hydro-Québec, 1806, Lionel-Boulet blvd., Varennes, QC J3X 1S1, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Armand M"
+          ],
+          "firstName": [
+            "Michel"
+          ],
+          "lastName": [
+            "Armand"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "CIC Energigune, Parque Tecnol Alava, 01510 Minano, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Zaghib K"
+          ],
+          "firstName": [
+            "Karim"
+          ],
+          "lastName": [
+            "Zaghib"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Centre of Excellence in Transportation Electrification and Energy Storage (CETEES), Hydro-Québec, 1806, Lionel-Boulet blvd., Varennes, QC J3X 1S1, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "23"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2884456"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Most of the current commercialized lithium batteries employ liquid electrolytes, despite their vulnerability to battery fire hazards, because they avoid the formation of dendrites on the anode side, which is commonly encountered in solid-state batteries. In a review two years ago, we focused on the challenges and issues facing lithium metal for solid-state rechargeable batteries, pointed to the progress made in addressing this drawback, and concluded that a situation could be envisioned where solid-state batteries would again win over liquid batteries for different applications in the near future. However, an additional drawback of solid-state batteries is the lower ionic conductivity of the electrolyte. Therefore, extensive research efforts have been invested in the last few years to overcome this problem, the reward of which has been significant progress. It is the purpose of this review to report these recent works and the state of the art on solid electrolytes. In addition to solid electrolytes stricto sensu, there are other electrolytes that are mainly solids, but with some added liquid. In some cases, the amount of liquid added is only on the microliter scale; the addition of liquid is aimed at only improving the contact between a solid-state electrolyte and an electrode, for instance. In some other cases, the amount of liquid is larger, as in the case of gel polymers. It is also an acceptable solution if the amount of liquid is small enough to maintain the safety of the cell; such cases are also considered in this review. Different chemistries are examined, including not only Li-air, Li-O2, and Li-S, but also sodium-ion batteries, which are also subject to intensive research. The challenges toward commercialization are also considered."
+  ],
+  "affiliation": [
+    "Institut de Minéralogie, de Physique des Matériaux et de Cosmochimie (IMPMC), Sorbonne Université, UMR-CNRS 7590, 4 place Jussieu, 75005 Paris, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "polymers",
+        "Ceramics",
+        "Li-ion Batteries",
+        "Solid Electrolytes",
+        "Na-ion Batteries",
+        "Li-air Batteries",
+        "All-solid-state Batteries",
+        "Li–s Batteries",
+        "Fast-ion Conductors"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma12233892"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6926585"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6926585?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-29"
+  ],
+  "firstIndexDate": [
+    "2019-11-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-27"
+  ],
+  "dateOfRevision": [
+    "2019-12-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-25"
+  ],
+  "firstPublicationDate": [
+    "2019-11-25"
+  ]
+}

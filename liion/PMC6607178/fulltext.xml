@@ -1,0 +1,481 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Glob Chall</journal-id><journal-id journal-id-type="iso-abbrev">Glob Chall</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2056-6646</journal-id><journal-id journal-id-type="publisher-id">GCH2</journal-id><journal-title-group><journal-title>Global Challenges</journal-title></journal-title-group><issn pub-type="epub">2056-6646</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6607178</article-id><article-id pub-id-type="doi">10.1002/gch2.201700079</article-id><article-id pub-id-type="publisher-id">GCH2201700079</article-id><article-categories><subj-group subj-group-type="overline"><subject>Communication</subject></subj-group><subj-group subj-group-type="heading"><subject>Communications</subject></subj-group></article-categories><title-group><article-title>New Insights into the Application of Lithium&#x02010;Ion Battery Materials: Selective Extraction of Lithium from Brines via a Rocking&#x02010;Chair Lithium&#x02010;Ion Battery System</article-title></title-group><contrib-group><contrib id="gch2201700079-cr-0001" contrib-type="author"><name><surname>He</surname><given-names>Lihua</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2230-2136</contrib-id><xref ref-type="aff" rid="gch2201700079-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="gch2201700079-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="gch2201700079-cr-0002" contrib-type="author"><name><surname>Xu</surname><given-names>Wenhua</given-names></name><xref ref-type="aff" rid="gch2201700079-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="gch2201700079-cr-0003" contrib-type="author"><name><surname>Song</surname><given-names>Yunfeng</given-names></name><xref ref-type="aff" rid="gch2201700079-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="gch2201700079-cr-0004" contrib-type="author"><name><surname>Luo</surname><given-names>Yunze</given-names></name><xref ref-type="aff" rid="gch2201700079-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="gch2201700079-cr-0005" contrib-type="author"><name><surname>Liu</surname><given-names>Xuheng</given-names></name><xref ref-type="aff" rid="gch2201700079-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="gch2201700079-cr-0006" contrib-type="author" corresp="yes"><name><surname>Zhao</surname><given-names>Zhongwei</given-names></name><xref ref-type="aff" rid="gch2201700079-aff-0001">
+<sup>1</sup>
+</xref><address><email>zhaozw@csu.edu.cn</email></address></contrib></contrib-group><aff id="gch2201700079-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">School of Metallurgy and Environment</named-content>
+<institution>Central South University</institution>
+<named-content content-type="city">Changsha</named-content>
+<named-content content-type="country-part">Hunan</named-content>
+<named-content content-type="post-code">410083</named-content>
+<country country="CN">P. R. China</country>
+</aff><aff id="gch2201700079-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Institute of Nuclear and New Energy Technology</named-content>
+<institution>Tsinghua University</institution>
+<named-content content-type="city">Beijing</named-content>
+<named-content content-type="post-code">100084</named-content>
+<country country="CN">P. R. China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>zhaozw@csu.edu.cn</email></corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>1</month><year>2018</year></pub-date><pub-date pub-type="collection"><day>09</day><month>2</month><year>2018</year></pub-date><volume>2</volume><issue>2</issue><issue-id pub-id-type="doi">10.1002/gch2.v2.2</issue-id><elocation-id>1700079</elocation-id><history><date date-type="received"><day>01</day><month>9</month><year>2017</year></date><date date-type="rev-recd"><day>18</day><month>11</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 WILEY&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. Published by WILEY&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:GCH2-2-1700079.pdf"/><abstract><title>Abstract</title><p>Lithium extraction from high Mg/Li ratio brine is a key technical problem in the world. Based on the principle of rocking&#x02010;chair lithium&#x02010;ion batteries, cathode material LiFePO<sub>4</sub> is applied to extract lithium from brine, and a novel lithium&#x02010;ion battery system of LiFePO<sub>4</sub> | NaCl solution | anion&#x02010;exchange membrane | brine | FePO<sub>4</sub> is constructed. In this method, Li<sup>+</sup> is selectively absorbed from the brine by FePO<sub>4</sub> (Li<sup>+</sup> + e + FePO<sub>4</sub> = LiFePO<sub>4</sub>); meanwhile, Li<sup>+</sup> is desorbed from LiFePO<sub>4</sub> (LiFePO<sub>4</sub> &#x02212; e = Li<sup>+</sup> + FePO<sub>4</sub>) and enriched efficiently. To treat a raw brine solution, the Mg/Li ratio decreases from the initial 134.4 in the brine to 1.2 in the obtained anolyte and 83% lithium is extracted. For the treatment of an old brine solution, the Mg/Li ratio decreases from the initial 48.4 in the brine to 0.5 and the concentration of lithium in the anolyte is accumulated about six times (from the initial 0.51 g L<sup>&#x02212;1</sup> in the brine to 3.2 g L<sup>&#x02212;1</sup> in the anolyte), with the absorption capacity of about 25 mg (Li) g (LiFePO<sub>4</sub>)<sup>&#x02212;1</sup>. Additionally, it displays a great perspective on the application in light of its high selectively, good cycling performance, effective lithium enrichment, environmental friendliness, low cost, and avoidance of poisonous organic reagents and harmful acid or oxidant.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="gch2201700079-kwd-0001">brine</kwd><kwd id="gch2201700079-kwd-0002">LiFePO<sub>4</sub></kwd><kwd id="gch2201700079-kwd-0003">lithium extraction</kwd><kwd id="gch2201700079-kwd-0004">rocking&#x02010;chair lithium&#x02010;ion batteries</kwd></kwd-group><funding-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>51604160</award-id><award-id>U1407137</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="6"/><word-count count="3495"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>gch2201700079</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 9, 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.9 mode:remove_FC converted:26.09.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="gch2201700079-cit-0026">
+<string-name>
+<given-names>L.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <source xml:lang="en">Global Challenges</source>
+<year>2018</year>, <volume>2</volume>, <elocation-id>1700079</elocation-id>
+<pub-id pub-id-type="doi">10.1002/gch2.201700079</pub-id>
+</mixed-citation>
+</p></notes></front><body><p>In recent years, the increasing demands for portable electronic devices, hybrid and plug&#x02010;in electric vehicles, and storage of electricity from wind/solar energy promote the development of Li&#x02010;ion batteries. Meanwhile, the production of lithium and its compounds for lithium&#x02010;ion batteries has attracted more and more attention in the global lithium industry.<xref rid="gch2201700079-bib-0001" ref-type="ref">1</xref>, <xref rid="gch2201700079-bib-0002" ref-type="ref">2</xref>, <xref rid="gch2201700079-bib-0003" ref-type="ref">3</xref> Salt lake brines are considered as valuable resources having great potential for the development of the lithium industry in the world,<xref rid="gch2201700079-bib-0004" ref-type="ref">4</xref> and various methods such as chemical precipitation,<xref rid="gch2201700079-bib-0001" ref-type="ref">1</xref>, <xref rid="gch2201700079-bib-0005" ref-type="ref">5</xref> solvent extraction,<xref rid="gch2201700079-bib-0006" ref-type="ref">6</xref> and membrane separation<xref rid="gch2201700079-bib-0007" ref-type="ref">7</xref> have been developed for lithium extraction from brines. Nevertheless, the recovery of lithium from a high Mg/Li ratio brine has been a key technical problem in the world due to the similar chemical properties of Mg<sup>2+</sup> and Li<sup>+</sup>.<xref rid="gch2201700079-bib-0005" ref-type="ref">5</xref> Especially in some areas of the world, such as the Qinghai region in China, salt lakes exhibit a characteristically high mass ratio of Mg/Li (reaches 40&#x02013;200:1 and may be greater than 1800:1 in some cases).<xref rid="gch2201700079-bib-0008" ref-type="ref">8</xref> As another example, Uyuni Salar brine as the largest reserves of lithium lake on earth, has still not been economically developed on a large scale due to its high Mg/Li ratio (Mg/Li = 18&#x02013;22:1).<xref rid="gch2201700079-bib-0009" ref-type="ref">9</xref>
+</p><p>Ion&#x02010;sieve absorption method has been considered to be one of the promising approaches for lithium extraction from the high Mg/Li ratio brines since its high selectivity, low cost, and nontoxicity. Spinel&#x02010;type manganese oxide &#x003bb;&#x02010;MnO<sub>2</sub> as one of the typical Li&#x02010;ion sieves, which are generally prepared by using lithium manganese oxides LiMn<sub>2</sub>O<sub>4</sub>, was widely used to extract lithium from the salt lake brines and seawater.<xref rid="gch2201700079-bib-0010" ref-type="ref">10</xref> In the absorption process, Li<sup>+</sup> will insert into &#x003bb;&#x02010;MnO<sub>2</sub> to reform Li<sub><italic>x</italic></sub>Mn<sub>2</sub>O<sub>4</sub> (0 &#x0003c; <italic>x</italic> &#x0003c; 1), and in the desorption process, Li<sup>+</sup> will be extracted from Li<italic><sub>x</sub></italic>Mn<sub>2</sub>O<sub>4</sub> with an acid or an oxidizing agent, corresponding with the reformation of &#x003bb;&#x02010;MnO<sub>2</sub>. However, the ion&#x02010;sieve absorption method suffers from: (1) difficult preparation of the high absorption capacity absorbent; (2) serious capacity loss in the desorption process due to the use of acid or oxidizing agent as the desorption reagent; and (3) great challenges of absorbent granulation. All of these problems seriously prevent its use on a large scale.</p><p>Actually, LiMn<sub>2</sub>O<sub>4</sub> is not only an Li&#x02010;ion sieve material but also an important cathode material that is widely used in rechargeable lithium&#x02010;ion batteries.<xref rid="gch2201700079-bib-0011" ref-type="ref">11</xref> During the charge&#x02013;discharge cycles of batteries, lithium ion moves back and forth between the anode and the cathode. This process is similar to a rocking chair, so this system is termed as &#x0201c;rocking&#x02010;chair battery.&#x0201d;<xref rid="gch2201700079-bib-0012" ref-type="ref">12</xref> Obviously, the behavior of Li<sup>+</sup> intercalation/de&#x02010;intercalation into/from the electrode materials in charge&#x02013;discharge cycle can also be considered as an alternative lithium absorption/desorption process. The difference is that the traditional desorption is carried out by an acid or an oxidant, but in the battery cell, it is operated by an external circuit. But the cycling performance of LiMn<sub>2</sub>O<sub>4</sub> battery is much more excellent than that of the traditional absorption process. So, if we use the brines instead of the lithium electrolyte, it is possible to develop a new method for lithium extraction based on this battery's principle.</p><p>In theory, any cathode or anode material that can be used in rechargeable lithium&#x02010;ion batteries can possibly be used for the lithium extraction from brines. <bold>Figure</bold>
+<xref rid="gch2201700079-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref> and Tang et al<xref rid="gch2201700079-bib-0014" ref-type="ref">14</xref> show the main electrode materials that can be used for aqueous lithium&#x02010;ion batteries. Taking into consideration the stability, easy preparation, low cost, and environmentally friendly of LiFePO<sub>4</sub>, it can be chosen as the electrode materials for lithium recovery. More importantly, recent research studies have verified that LiFePO<sub>4</sub> has a great cycling performance in aqueous lithium&#x02010;ion batteries and its capacity retention is about 90% after 1000 cycles.<xref rid="gch2201700079-bib-0013" ref-type="ref">13</xref> Additionally, to reduce the cell voltage, FePO<sub>4</sub>, which is prepared by Li<sup>+</sup> deintercalation from LiFePO<sub>4</sub>, can be used as the cathode, because the reaction of Li<sup>+</sup> deintercalation and intercalation from/into the LiFePO<sub>4</sub>/FePO<sub>4</sub> structure is a reversible redox couple (Li<sup>+</sup> + e + FePO<sub>4</sub> &#x02194; LiFePO<sub>4</sub>, <italic>E</italic>
+<sup>&#x02296;</sup> = 0.45 V (vs SHE)), so the theoretical cell voltage of the cell LiFePO<sub>4</sub>/FePO<sub>4</sub> is zero.</p><fig fig-type="Figure" xml:lang="en" id="gch2201700079-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The intercalation potential of some electrode materials that can be used for aqueous lithium&#x02010;ion batteries. Left: O<sub>2</sub>/H<sub>2</sub> evolution potential versus normal hydrogen electrode (NHE) for different pH in 1 mol L<sup>&#x02212;1</sup> Li<sub>2</sub>SO<sub>4</sub> aqueous solution. Right: Lithium&#x02010;ion intercalation potential of various electrode materials versus NHE and Li/Li<sup>+</sup>. From Luo et al.<xref rid="gch2201700079-bib-0013" ref-type="ref">13</xref>
+</p></caption><graphic id="nlm-graphic-3" xlink:href="GCH2-2-1700079-g001"/></fig><p>The schematic of the electrolytic cell for lithium extraction from brines is shown in <bold>Figure</bold>
+<xref rid="gch2201700079-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref>. Based on this electrochemical system of &#x0201c;LiFePO<sub>4</sub> (anode) | supporting electrolyte | anion&#x02010;selective membrane | brine | FePO<sub>4</sub> (cathode),&#x0201d; Li<sup>+</sup> can be selectively absorbed from the brine in the cathode chamber (Li<sup>+</sup> + e + FePO<sub>4</sub> = LiFePO<sub>4</sub>); meanwhile, Li<sup>+</sup> is desorbed to the anode chamber from LiFePO<sub>4</sub> (LiFePO<sub>4</sub> &#x02212; e = Li<sup>+</sup> + FePO<sub>4</sub>). The anion&#x02010;exchange membrane prohibits the passage of Li<sup>+</sup> from the anode chamber to the cathode chamber, so Li<sup>+</sup> can be enriched in the supporting electrolyte. At the end of a cycle, exchanging the negative and positive electrodes and then restarting the electrolytic process, lithium can be extracted continually from the brine and be enriched in the anolyte (filled with a supporting electrolyte).</p><fig fig-type="Figure" xml:lang="en" id="gch2201700079-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Structure of the electrolytic cell for lithium extraction.</p></caption><graphic id="nlm-graphic-5" xlink:href="GCH2-2-1700079-g002"/></fig><p>Different from the traditional electrolytes of Li&#x02010;ion batteries (in nonaqueous lithium&#x02010;ion batteries, the electrolyte is usually an LiPF<sub>6</sub> solution with a mixture of ethylene carbonate, diethyl carbonate, and dimethyl carbonate; and for the aqueous lithium&#x02010;ion batteries, it is always a pure lithium salt solution, such as LiNO<sub>3</sub>, Li<sub>2</sub>SO<sub>4</sub>, and LiCl); however, salt&#x02010;lake brines contain much higher concentrations of impurities like Na<sup>+</sup>, Mg<sup>2+</sup>, and K<sup>+</sup>. Therefore, to verify the selectivity of LiFePO<sub>4</sub>/FePO<sub>4</sub> electrolytic cell, cyclic voltammograms (CV) of LiFePO<sub>4</sub> were measured in LiCl 0.5 mol L<sup>&#x02212;1</sup>, NaCl 0.5 mol L<sup>&#x02212;1</sup>, KCl 0.5 mol L<sup>&#x02212;1</sup>, MgCl<sub>2</sub> 0.5 mol L<sup>&#x02212;1</sup> solutions, respectively (<bold>Figure</bold>
+<xref rid="gch2201700079-fig-0003" ref-type="fig">
+<bold>3</bold>
+</xref>). It can be seen that only one redox couple was found at 0.27 and &#x02212;0.04 V (vs SCE) in the 0.5 mol L<sup>&#x02212;1</sup> LiCl solution, and it corresponded to the de&#x02010;intercalation and intercalation of Li<sup>+</sup> ion from/into the spinel LiFePO<sub>4</sub>/FePO<sub>4</sub> structure (Figure <xref rid="gch2201700079-fig-0003" ref-type="fig">3</xref>a). While in the 0.5 mol L<sup>&#x02212;1</sup> NaCl solution, except an anodic peak situated at 0.29 V (vs saturated calomel electrode (SCE)) which matched the de&#x02010;intercalation of Li<sup>+</sup> from LiFePO<sub>4</sub> structure in the first anodic sweep process, the other redox peaks reflected the de&#x02010;intercalation/intercalation of Na<sup>+</sup> from/into the NaFePO<sub>4</sub>/FePO<sub>4</sub> structure (Figure <xref rid="gch2201700079-fig-0003" ref-type="fig">3</xref>b). In the cases of 0.5 mol L<sup>&#x02212;1</sup> KCl and 0.5 mol L<sup>&#x02212;1</sup> MgCl solutions, except an anodic peak of Li<sup>+</sup> de&#x02010;intercalation from LiFePO<sub>4</sub> was found, no K<sup>+</sup> and Mg<sup>2+</sup> de&#x02010;intercalation and intercalation peaks were discovered (Figure <xref rid="gch2201700079-fig-0003" ref-type="fig">3</xref>c,d).</p><fig fig-type="Figure" xml:lang="en" id="gch2201700079-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Cyclic voltammograms of LiFePO<sub>4</sub> in a) 0.5 mol L<sup>&#x02212;1</sup> LiCl, b) 0.5 mol L<sup>&#x02212;1</sup> NaCl, c) 0.5 mol L<sup>&#x02212;1</sup> KCl, and d) 0.5 mol L<sup>&#x02212;1</sup> MgCl<sub>2</sub> solutions.</p></caption><graphic id="nlm-graphic-7" xlink:href="GCH2-2-1700079-g003"/></fig><p>Comparison with the intercalation behaviors of Li<sup>+</sup>, Na<sup>+</sup>, K<sup>+</sup>, and Mg<sup>2+</sup>, it can be seen that K<sup>+</sup> and Mg<sup>2+</sup> almost cannot insert into the FePO<sub>4</sub> structure and Na<sup>+</sup> is much more difficult than Li<sup>+</sup>, because the cathodic intercalation potential of Na<sup>+</sup> is much lower than that of Li<sup>+</sup>. This phenomenon just reveals the embodiment of the ion&#x02010;sieve effect, i.e., (1) FePO<sub>4</sub> is prepared from LiFePO<sub>4</sub> by an Li<sup>+</sup> deintercalation process, so the vacant site of FePO<sub>4</sub> is just suitable for the cation whose ionic radius is close to that of Li<sup>+</sup>. The ionic radii of Na<sup>+</sup> (1.02 &#x000c5;) and K<sup>+</sup> (1.38 &#x000c5;) are bigger than that of Li<sup>+</sup> (0.76 &#x000c5;), so it is difficult for them to insert. (2) Although ionic radius of Mg<sup>2+</sup> (0.72 &#x000c5;) is smaller than that of Li<sup>+</sup>, the vacant sites are fit for the monovalent cation, so Mg<sup>2+</sup> will suffer due to too strong Coulomb repulsion to insert into it.</p><p>To further investigate the different intercalation and deintercalation behaviors between Li<sup>+</sup> and the impurity ions, chronopotentiometry was used (<bold>Figure</bold>
+<xref rid="gch2201700079-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref>). Consistent with the results of cyclic voltammetry shown in Figure <xref rid="gch2201700079-fig-0003" ref-type="fig">3</xref>, FePO<sub>4</sub> shows a high absorption selectivity for lithium ions and the anodic intercalation sequence is Li<sup>+</sup> &#x0003e;&#x0003e; Na<sup>+</sup> &#x0003e; K<sup>+</sup> &#x0003e; Mg<sup>2+</sup> (Figure <xref rid="gch2201700079-fig-0004" ref-type="fig">4</xref>a). Conversely, the cathodic deintercalation sequence is Li<sup>+</sup> &#x0003c; Na<sup>+</sup> &#x0003c; K<sup>+</sup> &#x0003c; Mg<sup>2+</sup> (Figure <xref rid="gch2201700079-fig-0004" ref-type="fig">4</xref>b). In fact, it has a positive effect on the cycling performance, because if some impurity ions are unfortunately intercalated into the FePO<sub>4</sub> structure, it can be easier to be de&#x02010;intercalated from the structure, rather than block the channel and hinder the movement of Li<sup>+</sup> in LiFePO<sub>4</sub> and/or FePO<sub>4</sub>.</p><fig fig-type="Figure" xml:lang="en" id="gch2201700079-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Chronopotentiometric curves of the deintercalation and intercalation of Li<sup>+</sup>, Na<sup>+</sup>, K<sup>+</sup>, and Mg<sup>2+</sup> ions into/from FePO<sub>4</sub>/LiFePO<sub>4</sub>. a) Cathodic intercalation chronopotentiometric curves; b) Anodic deintercalation chronopotentiometric curves. The current density is 0.2 mA cm<sup>&#x02212;2</sup>, and the concentration of LiCl, NaCl, KCl, and MgCl<sub>2</sub> solution is 1.0 mol L<sup>&#x02212;1</sup>.</p></caption><graphic id="nlm-graphic-9" xlink:href="GCH2-2-1700079-g004"/></fig><p>To investigate the feasibility of this new lithium recovery method, the Yiliping salt lake brine (chemical compositions Li 97.5 mg L<sup>&#x02212;1</sup>, Mg 13.1 g L<sup>&#x02212;1</sup>, K 3.5 g L<sup>&#x02212;1</sup>, Na 100.4 g L<sup>&#x02212;1</sup>, Mg/Li = 134.4) was treated via an electrochemical separation system &#x0201c;LiFePO<sub>4</sub> (anode) | NaCl | anion&#x02010;selective membrane | Yiliping brine | FePO<sub>4</sub> (cathode),&#x0201d; and the results are shown in <bold>Figure</bold>
+<xref rid="gch2201700079-fig-0005" ref-type="fig">
+<bold>5</bold>
+</xref>. It can be seen that the recovery ratio of lithium increased with the electrolysis time, and it was raised to about 83% after four cycles (Figure <xref rid="gch2201700079-fig-0005" ref-type="fig">5</xref>a). The lithium concentration in the brine was reduced to about 18 mg L<sup>&#x02212;1</sup>; meanwhile, its concentration in the anolyte was enriched to about 80 mg L<sup>&#x02212;1</sup>. Especially, the Mg/Li ratio was decreased from the initial 134.4:1 in the brine to 1.2:1 in the anolyte. In addition, for each cycle, the current density decreased with the increasing electrolysis time (Figure <xref rid="gch2201700079-fig-0005" ref-type="fig">5</xref>b), and it can be ascribed to the increased ratio of lithium intercalation and deintercalation into/from FePO<sub>4</sub>/LiFePO<sub>4</sub>.</p><fig fig-type="Figure" xml:lang="en" id="gch2201700079-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>a) Lithium recovery and Mg/Li mass ratio of the anolyte; b) Current density for each cycle.</p></caption><graphic id="nlm-graphic-11" xlink:href="GCH2-2-1700079-g005"/></fig><p>Based on the experiences shown in Figure <xref rid="gch2201700079-fig-0005" ref-type="fig">5</xref>, a membrane&#x02010;stacked electrolytic bath was designed for the extraction of lithium from an old brine solution of China West Taijinar (Li 0.51 g L<sup>&#x02212;1</sup>, Mg 24.7 g L<sup>&#x02212;1</sup>, Mg/Li = 48.4), and the device and results are shown in <bold>Figure</bold>
+<xref rid="gch2201700079-fig-0006" ref-type="fig">
+<bold>6</bold>
+</xref>. It can be seen that the lithium concentration in the anolyte increased with the cycling, and it reached to about 3.2 g L<sup>&#x02212;1</sup> after eight cycles (lithium was enriched about six times). In addition, the Mg/Li ratio was almost maintained at 0.5&#x02013;0.6:1, which was much lower than that in the initial old brine solution at 48.4:1. Obviously, the new method expressed an excellent characteristic for Mg/Li separation and lithium enrichment.</p><fig fig-type="Figure" xml:lang="en" id="gch2201700079-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>a) Membrane&#x02010;stacked electrolytic bath and b) its performance for lithium extraction from the old brine solution (Li 0.51 g L<sup>&#x02212;1</sup>, Mg 24.7 g L<sup>&#x02212;1</sup>, K 5.4 g L<sup>&#x02212;1</sup>, Na 54.6 g L<sup>&#x02212;1</sup>, Mg/Li = 48.4).</p></caption><graphic id="nlm-graphic-13" xlink:href="GCH2-2-1700079-g006"/></fig><p>
+<bold>Figure</bold>
+<xref rid="gch2201700079-fig-0007" ref-type="fig">
+<bold>7</bold>
+</xref> shows the cycling performance of the lithium extraction system in a mixed electrolyte of Li<sup>+</sup> 2 g L<sup>&#x02212;1</sup>, Mg<sup>2+</sup> 40 g L<sup>&#x02212;1</sup>, NaCl 116 g L<sup>&#x02212;1</sup> under the conditions of current density 0.3 mA cm<sup>&#x02212;2</sup>, cutoff value 0.2 V. For the first cycle, the absorption capacity of lithium was about 32 mg (Li) g (LiFePO<sub>4</sub>)<sup>&#x02212;1</sup>, and &#x02248;84% of the maximal absorption capacity was maintained after 50 cycles. In addition, the cell voltage platform was about 0.05 V for each cycle; it was closed to the theoretical cell voltage of 0 V. Meanwhile, we also noticed that lithium absorption capacity faded slightly. We speculated that the reason can be attributed to the swelling and degumming of electrodes. Fortunately, this capacity fading can be ameliorated by adjusting the composition, i.e., the mixing ratio of LiFePO<sub>4</sub>, carbon black, and polyvinylidene fluoride (PVDF), to enhance the agglutinative property of the particle&#x02010;to&#x02010;particle and particle&#x02010;to&#x02010;carbon&#x02010;fiber cloth.</p><fig fig-type="Figure" xml:lang="en" id="gch2201700079-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Cycling performance of the electrolytic cell for lithium extraction in a mixed electrolyte of Li<sup>+</sup> 2 g L<sup>&#x02212;1</sup>, Mg<sup>2+</sup> 40 g L<sup>&#x02212;1</sup>, NaCl 116 g L<sup>&#x02212;1</sup>.</p></caption><graphic id="nlm-graphic-15" xlink:href="GCH2-2-1700079-g007"/></fig><p>In summary, an electrochemical system of &#x0201c;LiFePO<sub>4</sub> (anode) | supporting electrolyte | anion&#x02010;selective membrane | brine | FePO<sub>4</sub> (cathode)&#x0201d; was constructed for selective extraction and concentration of lithium from the brine by using the Li&#x02010;ion battery materials. It is a promising technology for lithium recovery from solutions in light of its high selectively, environmental friendliness, and low cost (inexpensive materials and easy assembly), and it avoids the use of poisonous organic reagents and harmful acid or oxidant. In addition, 83% lithium was recovered for the Yiliping brine by this method, with the Mg/Li ratio decreasing from the initial 134.4:1 in the brine to 1.2:1 in the anolyte. For the treatment of the old brine solution from West Taijinar, the Mg/Li ratio decreased from the initial 48.4:1 in the brine to 0.5:1 in the enrichment solution, and the concentration of lithium increased to about six times, corresponding with the lithium absorption capacity of about 25 mg (Li) g (LiFePO<sub>4</sub>)<sup>&#x02212;1</sup>. More importantly, this approach provides a new dimension to establish the other viable, practical, or more efficient electrochemical separation systems for lithium extraction by selecting more suitable battery materials as the positive and negative electrodes.</p><sec id="gch2201700079-sec-0020"><title>Experimental Section</title><p>
+<italic>Preparation of LiFePO<sub>4</sub>/FePO<sub>4</sub> Electrodes</italic>: LiFePO<sub>4</sub> electrode was prepared as follows: (1) mixed LiFeO<sub>4</sub>/C, carbon black, and PVDF thoroughly in <italic>N</italic>&#x02010;methyl&#x02010;2&#x02010;pyrrolidone at the mass ratio of 8:1:1; (2) coated the prepared mixture onto a carbon fiber cloth (material density was about 40 mg (LiFePO<sub>4</sub>) cm<sup>&#x02212;2</sup>); and (3) dried the electrode in a vacuum oven at 100 &#x000b0;C for 10 h. FePO<sub>4</sub> was prepared by using the prepared LiFePO<sub>4</sub> and carbon fiber cloth as the anode and the cathode, respectively. Both of them were placed into an electrolytic cell, which was filled with 0.5 mol L<sup>&#x02212;1</sup> NaCl solution, and a constant electrolysis potential of 1.0 V was applied until the current density was less than 0.05 mA cm<sup>&#x02212;2</sup>.</p><p>
+<italic>Experiments for Lithium Extraction from Brines</italic>: The prepared LiFePO<sub>4</sub> and FePO<sub>4</sub> electrodes were used as the cathode and the anode, respectively, IONAC MA&#x02010;3475 was used as the anion&#x02010;selective membrane. For the extraction of lithium from the Yiliping raw brine solution (chemical compositions Li 97.5 mg L<sup>&#x02212;1</sup>, Mg 13.1 g L<sup>&#x02212;1</sup>, K 3.5 g L<sup>&#x02212;1</sup>, Na 100.4 g L<sup>&#x02212;1</sup>, Mg/Li = 134.4), the size of both electrodes was 6 &#x000d7; 6 cm<sup>2</sup>. The cathode chamber and the anode chamber were filled with 600 mL of the brine solution and 600 mL 0.5 mol L<sup>&#x02212;1</sup> NaCl (supporting electrolyte). For the extraction of lithium from an old brine solution of the China West Taijinar salt lake (chemical compositions Li 0.51 g L<sup>&#x02212;1</sup>, Mg 24.7 g L<sup>&#x02212;1</sup>, K 5.4 g L<sup>&#x02212;1</sup>, Na 54.6 g L<sup>&#x02212;1</sup>, Mg/Li = 48.4), the size of both electrodes was 28 &#x000d7; 16 cm<sup>2</sup>, and the membrane&#x02010;stacked electrolytic bath comprised five pieces of LiFePO<sub>4</sub> and five pieces of FePO<sub>4</sub> electrodes. The volume of the brine and NaCl solutions was the same (5.5 L). The separation process was carried out under a constant cell voltage of 0.2 V until the current density reached to the cutoff value of 0.05 mA cm<sup>&#x02212;2</sup>. At the end of each cycle, the negative and positive electrodes were exchanged and then the electrolytic process was restarted. All the experiences were performed at room temperature.</p><p>
+<italic>Cycling Performance</italic>: The lithium extraction system was tested with Abin instrument BT&#x02010;2000 in a mixed electrolyte of Li<sup>+</sup> 2 g L<sup>&#x02212;1</sup>, Mg<sup>2+</sup> 40 g L<sup>&#x02212;1</sup>, NaCl 116 g L<sup>&#x02212;1</sup> under the conditions of current density 0.3 mA cm<sup>&#x02212;2</sup>, cutoff value 0.2 V. Cyclic voltammetry and chronopotentiometry were carried out with Versa&#x02010;STAT4 (Princeton Applied Research, America) at the scanning rate of 0.02 mV s<sup>&#x02212;1</sup> and current density of 0.2 mA cm<sup>&#x02212;2</sup>, respectively. The concentration of ions was determined by ICP&#x02010;AES (IRIS intrepid XSP, Thermo Electron Corporation).</p></sec><sec sec-type="COI-statement" id="gch2201700079-sec-0040"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec></body><back><ack id="gch2201700079-sec-0030"><title>Acknowledgements</title><p>This work was supported by the National Natural Science Foundation of China (Grant Nos. 51604160 and U1407137).</p></ack><ref-list id="gch2201700079-bibl-0001"><ref id="gch2201700079-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="gch2201700079-cit-0001">
+<string-name>
+<given-names>B.</given-names>
+<surname>Swain</surname>
+</string-name>, <source xml:lang="en">Sep. Purif. Technol.</source>
+<year>2017</year>, <volume>172</volume>, <fpage>388</fpage>.</mixed-citation></ref><ref id="gch2201700079-bib-0002"><label>2</label><mixed-citation publication-type="book" id="gch2201700079-cit-0002">
+<string-name>
+<given-names>E. R.</given-names>
+<surname>Anderson</surname>
+</string-name>, presented at <source xml:lang="en">TRU Group, Presentation to 3rd Lithium Supply and Markets Conf.</source>, <publisher-loc>Toronto, Canada</publisher-loc>
+<year>2011</year>.</mixed-citation></ref><ref id="gch2201700079-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="gch2201700079-cit-0003">
+<string-name>
+<given-names>G.</given-names>
+<surname>Martin</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Rentsch</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>H&#x000f6;ck</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Bertau</surname>
+</string-name>, <source xml:lang="en">Energy Storage Mater.</source>
+<year>2017</year>, <volume>6</volume>, <fpage>171</fpage>.</mixed-citation></ref><ref id="gch2201700079-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="gch2201700079-cit-0004">
+<string-name>
+<given-names>S. E.</given-names>
+<surname>Kesler</surname>
+</string-name>, <string-name>
+<given-names>P. W.</given-names>
+<surname>Gruber</surname>
+</string-name>, <string-name>
+<given-names>P. A.</given-names>
+<surname>Medina</surname>
+</string-name>, <string-name>
+<given-names>G. A.</given-names>
+<surname>Keoleian</surname>
+</string-name>, <string-name>
+<given-names>M. P.</given-names>
+<surname>Everson</surname>
+</string-name>, <string-name>
+<given-names>T. J.</given-names>
+<surname>Wallington</surname>
+</string-name>, <source xml:lang="en">Ore Geol. Rev.</source>
+<year>2012</year>, <volume>48</volume>, <fpage>55</fpage>.</mixed-citation></ref><ref id="gch2201700079-bib-0005"><label>5</label><mixed-citation publication-type="book" id="gch2201700079-cit-0005">
+<string-name>
+<given-names>A.</given-names>
+<surname>Chagnes</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Swiatowska</surname>
+</string-name>, <source xml:lang="en">Lithium Process Chemistry: Resources, Extraction, Batteries, and Recycling</source>, <publisher-name>Elsevier</publisher-name>, <publisher-loc>Amsterdam, Netherlands</publisher-loc>
+<year>2015</year>.</mixed-citation></ref><ref id="gch2201700079-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="gch2201700079-cit-0006">a) <string-name>
+<given-names>Z.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Fei</surname>
+</string-name>, <source xml:lang="en">Ind. Eng. Chem. Res.</source>
+<year>2013</year>, <volume>52</volume>, <fpage>7912</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="gch2201700079-cit-0007">b) <string-name>
+<given-names>C. L.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jing</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>X. Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>Y. Z.</given-names>
+<surname>Jia</surname>
+</string-name>, <source xml:lang="en">Sep. Purif. Technol.</source>
+<year>2017</year>, <volume>172</volume>, <fpage>473</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="gch2201700079-cit-0008">c) <string-name>
+<given-names>S. H.</given-names>
+<surname>Joo</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Oh</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Hydrometallurgy</source>
+<year>2015</year>, <volume>156</volume>, <fpage>136</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="gch2201700079-cit-0009">d) <string-name>
+<given-names>L. M.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>J. F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z. Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D. F.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>X. X.</given-names>
+<surname>Song</surname>
+</string-name>, <source xml:lang="en">Hydrometallurgy</source>
+<year>2016</year>, <volume>164</volume>, <fpage>304</fpage>.</mixed-citation></ref><ref id="gch2201700079-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="gch2201700079-cit-0010">a) <string-name>
+<given-names>Q.</given-names>
+<surname>Bi</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tao</surname>
+</string-name>, <source xml:lang="en">Water Sci. Technol.</source>
+<year>2014</year>, <volume>70</volume>, <fpage>1690</fpage>;<pub-id pub-id-type="pmid">25429459</pub-id></mixed-citation><mixed-citation publication-type="journal" id="gch2201700079-cit-0011">b) <string-name>
+<given-names>A.</given-names>
+<surname>Somrani</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Hamzaoui</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Pontie</surname>
+</string-name>, <source xml:lang="en">Desalination</source>
+<year>2013</year>, <volume>317</volume>, <fpage>184</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="gch2201700079-cit-0012">c) <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Desalination</source>
+<year>2015</year>, <volume>369</volume>, <fpage>26</fpage>.</mixed-citation></ref><ref id="gch2201700079-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="gch2201700079-cit-0013">a) <string-name>
+<given-names>M. P.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X. F.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Qi</surname>
+</string-name>, <string-name>
+<given-names>F. J.</given-names>
+<surname>Kong</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Nie</surname>
+</string-name>, <string-name>
+<given-names>L. Z.</given-names>
+<surname>Pu</surname>
+</string-name>, <string-name>
+<given-names>X. H.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>H. L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Kong</surname>
+</string-name>, <string-name>
+<given-names>Y. J.</given-names>
+<surname>Lin</surname>
+</string-name>, <source xml:lang="en">Acta Geol. Sin. Engl. Ed.</source>
+<year>2016</year>, <volume>90</volume>, <fpage>1195</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="gch2201700079-cit-0014">b) <string-name>
+<given-names>P. S.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yan</surname>
+</string-name>, <source xml:lang="en">Calphad</source>
+<year>2001</year>, <volume>25</volume>, <fpage>329</fpage>.</mixed-citation></ref><ref id="gch2201700079-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="gch2201700079-cit-0015">a) <string-name>
+<given-names>J. W.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>K. T.</given-names>
+<surname>Tran</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Tran</surname>
+</string-name>, <source xml:lang="en">Hydrometallurgy</source>
+<year>2012</year>, <volume>117</volume>, <fpage>64</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="gch2201700079-cit-0016">b) <string-name>
+<given-names>Y.</given-names>
+<surname>Ogawa</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Koibuchi</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Suto</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Inoue</surname>
+</string-name>, <source xml:lang="en">Resour. Geol.</source>
+<year>2014</year>, <volume>64</volume>, <fpage>91</fpage>.</mixed-citation></ref><ref id="gch2201700079-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="gch2201700079-cit-0017">a) <string-name>
+<given-names>K.</given-names>
+<surname>Ooi</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Miyai</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Katoh</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Maeda</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Abe</surname>
+</string-name>, <source xml:lang="en">Chem. Lett.</source>
+<year>1988</year>, <volume>17</volume>, <fpage>989</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="gch2201700079-cit-0018">b) <string-name>
+<given-names>K.</given-names>
+<surname>Ooi</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Miyai</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Katoh</surname>
+</string-name>, <source xml:lang="en">Solvent Extr. Ion Exch.</source>
+<year>1987</year>, <volume>5</volume>, <fpage>561</fpage>.</mixed-citation></ref><ref id="gch2201700079-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="gch2201700079-cit-0019">a) <string-name>
+<given-names>Q.</given-names>
+<surname>Qu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhan</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Samuelis</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Maier</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2011</year>, <volume>4</volume>, <fpage>3985</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="gch2201700079-cit-0020">b) <string-name>
+<given-names>L.</given-names>
+<surname>Suo</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Borodin</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Olguin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ho</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <source xml:lang="en">Science</source>
+<year>2015</year>, <volume>350</volume>, <fpage>938</fpage>;<pub-id pub-id-type="pmid">26586759</pub-id></mixed-citation><mixed-citation publication-type="journal" id="gch2201700079-cit-0021">c) <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Dahn</surname>
+</string-name>, <string-name>
+<given-names>D. S.</given-names>
+<surname>Wainwright</surname>
+</string-name>, <source xml:lang="en">Science</source>
+<year>1994</year>, <volume>264</volume>, <fpage>1115</fpage>.<pub-id pub-id-type="pmid">17744893</pub-id></mixed-citation></ref><ref id="gch2201700079-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="gch2201700079-cit-0022">a) <string-name>
+<given-names>H.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xie</surname>
+</string-name>, <source xml:lang="en">Sci. Rep.</source>
+<year>2013</year>, <fpage>3</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="gch2201700079-cit-0023">b) <string-name>
+<given-names>J.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Guyomard</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>1993</year>, <volume>38</volume>, <fpage>1221</fpage>.</mixed-citation></ref><ref id="gch2201700079-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="gch2201700079-cit-0024">
+<string-name>
+<given-names>J.&#x02010;Y.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>W.&#x02010;J.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <source xml:lang="en">Nat. Chem.</source>
+<year>2010</year>, <volume>2</volume>, <fpage>760</fpage>.<pub-id pub-id-type="pmid">20729897</pub-id></mixed-citation></ref><ref id="gch2201700079-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="gch2201700079-cit-0025">
+<string-name>
+<given-names>W.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>K. P.</given-names>
+<surname>Loh</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zhu</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2013</year>, <volume>6</volume>, <fpage>2093</fpage>.</mixed-citation></ref></ref-list></back></article>

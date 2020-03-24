@@ -1,0 +1,353 @@
+{
+  "id": [
+    "31086029"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31086029"
+  ],
+  "pmcid": [
+    "PMC6539948"
+  ],
+  "doi": [
+    "10.3390/ma12091563"
+  ],
+  "title": [
+    "Ultra-Thin ReS2 Nanosheets Grown on Carbon Black for Advanced Lithium-Ion Battery Anodes."
+  ],
+  "authorString": [
+    "Yan Y, Song KY, Cho M, Lee TH, Kang C, Lee HJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yan Y"
+          ],
+          "firstName": [
+            "Yaping"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Advanced Materials Science and Engineering, Sungkyunkwan University (SKKU), Suwon 16419, Korea. yaping1006@skku.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Song KY"
+          ],
+          "firstName": [
+            "Kyeong-Youn"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "KY"
+          ],
+          "affiliation": [
+            "SKKU Advanced Institute of Nano Technology (SAINT), Sungkyunkwan University, Suwon 16419, Korea. echirolles@skku.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Cho M"
+          ],
+          "firstName": [
+            "Minwoo"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Advanced Materials Science and Engineering, Sungkyunkwan University (SKKU), Suwon 16419, Korea. cll7020@skku.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee TH"
+          ],
+          "firstName": [
+            "Tae Hoon"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "TH"
+          ],
+          "affiliation": [
+            "Center for Integrated Nanostructure Physics (CINAP), Institute for Basic Science (IBS), Suwon 16419, Korea. hooni0629@skku.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Kang C"
+          ],
+          "firstName": [
+            "Chiwon"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "School of Advanced Materials Science and Engineering, Sungkyunkwan University (SKKU), Suwon 16419, Korea. chiwonkang@skku.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee HJ"
+          ],
+          "firstName": [
+            "Hoo-Jeong"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "affiliation": [
+            "School of Advanced Materials Science and Engineering, Sungkyunkwan University (SKKU), Suwon 16419, Korea. hlee@skku.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2812530"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "ReS2 nanosheets are grown on the surface of carbon black (CB) via an efficient hydrothermal method. We confirmed the ultra-thin ReS2 nanosheets with ≈1-4 layers on the surface of the CB (ReS2@CB) by using analytical techniques of field emission scanning electron microscopy (FESEM) and high-resolution transmission electron microscopy (HRTEM). The ReS2@CB nanocomposite showed high specific capacities of 760, 667, 600, 525, and 473 mAh/g at the current densities of 0.1 (0.23 C), 0.2 (0.46 C), 0.3 (0.7 C), 0.5 (1.15 C) and 1.0 A/g (2.3 C), respectively, in conjunction with its excellent cycling performance (432 mAh/g at 2.3 C; 91.4% capacity retention) after 100 cycles. Such LIB performance is greatly higher than pure CB and ReS2 powder samples. These results could be due to the following reasons: (1) the low-cost CB serves as a supporter enabling the formation of ≈1-4 layered nanosheets of ReS2, thus avoiding its agglomeration; (2) the CB enhances the electrical conductivity of the ReS2@CB nanocomposite; (3) the ultra-thin (1-4 layers) ReS2 nanosheets with imperfect structure can function as increasing the number of active sites for reaction of Li+ ions with electrolytes. The outstanding performance and unique structural characteristics of the ReS2@CB anodes make them promising candidates for the ever-increasing development of advanced LIBs."
+  ],
+  "affiliation": [
+    "School of Advanced Materials Science and Engineering, Sungkyunkwan University (SKKU), Suwon 16419, Korea. yaping1006@skku.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NRF-2017R1D1A1B03029368"
+          ],
+          "agency": [
+            "National Research Foundation (NRF) of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Carbon Black (Cb)",
+        "Lithium-ion Battery (Lib)",
+        "Ultra-thin Res2 Nanosheets"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma12091563"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6539948"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6539948?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-16"
+  ],
+  "firstIndexDate": [
+    "2019-05-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-13"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-13"
+  ],
+  "firstPublicationDate": [
+    "2019-05-13"
+  ]
+}

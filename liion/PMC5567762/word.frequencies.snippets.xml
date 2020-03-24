@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC5567762/results/word/frequencies/results.xml">
+  <result title="frequency" word="Compton" count="40"/>
+  <result title="frequency" word="FePO" count="33"/>
+  <result title="frequency" word="LFP" count="32"/>
+  <result title="frequency" word="profile" count="28"/>
+  <result title="frequency" word="Phys." count="27"/>
+  <result title="frequency" word="octahedron" count="27"/>
+  <result title="frequency" word="redox" count="27"/>
+  <result title="frequency" word="rigid" count="25"/>
+  <result title="frequency" word="momentum" count="24"/>
+  <result title="frequency" word="orbitals" count="23"/>
+  <result title="frequency" word="energy" count="21"/>
+ </snippets>
+</snippetsTree>

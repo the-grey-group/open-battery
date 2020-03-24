@@ -1,0 +1,337 @@
+{
+  "id": [
+    "31948029"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31948029"
+  ],
+  "pmcid": [
+    "PMC7022756"
+  ],
+  "doi": [
+    "10.3390/polym12010117"
+  ],
+  "title": [
+    "Effects of Coated Separator Surface Morphology on Electrolyte Interfacial Wettability and Corresponding Li-Ion Battery Performance."
+  ],
+  "authorString": [
+    "Xu R, Huang H, Tian Z, Xie J, Lei C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xu R"
+          ],
+          "firstName": [
+            "Ruijie"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Guangdong Provincial Key Laboratory of Functional Soft Condensed Matter, Guangdong Provincial Engineering Laboratory of Energy Storage Materials and Devices, School of Materials and Energy, Guangdong University of Technology, Guangzhou 510006, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang H"
+          ],
+          "firstName": [
+            "Henghui"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Guangdong Provincial Key Laboratory of Functional Soft Condensed Matter, Guangdong Provincial Engineering Laboratory of Energy Storage Materials and Devices, School of Materials and Energy, Guangdong University of Technology, Guangzhou 510006, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tian Z"
+          ],
+          "firstName": [
+            "Ziqin"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Guangdong Provincial Key Laboratory of Functional Soft Condensed Matter, Guangdong Provincial Engineering Laboratory of Energy Storage Materials and Devices, School of Materials and Energy, Guangdong University of Technology, Guangzhou 510006, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xie J"
+          ],
+          "firstName": [
+            "Jiayi"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Guangdong Provincial Key Laboratory of Functional Soft Condensed Matter, Guangdong Provincial Engineering Laboratory of Energy Storage Materials and Devices, School of Materials and Energy, Guangdong University of Technology, Guangzhou 510006, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lei C"
+          ],
+          "firstName": [
+            "Caihong"
+          ],
+          "lastName": [
+            "Lei"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Guangdong Provincial Key Laboratory of Functional Soft Condensed Matter, Guangdong Provincial Engineering Laboratory of Energy Storage Materials and Devices, School of Materials and Energy, Guangdong University of Technology, Guangzhou 510006, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2898704"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Polymers"
+          ],
+          "ISOAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "NLMid": [
+            "101545357"
+          ],
+          "ISSN": [
+            "2073-4360"
+          ],
+          "ESSN": [
+            "2073-4360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "In order to study the effect of interfacial wettability of separator on electrochemical properties for lithium-ion batteries, two different kinds of polyvinylidene fluoride-hexafluoropropylene (PVDF-HFP) solution are prepared and used to coat onto a polypropylene (PP) microporous membrane. It is found that the cell performance of a coated separator using aqueous slurry (WPS) is better than that of the coated separator using acetone (APS) as the solvent. The separator with flat and pyknotic surface (PP and APS) has a strong polar action with the electrolyte, where the polar part is more than 80%. To the contrary, the WPS has a roughness surface and when the PVDF-HFP particles accumulate loose, it makes the apolar part plays a dominate role in surface free energy; the dispersive energy reaches to 40.17 mJ m-2. The WPS has the lowest immersion free energy, 31.9 mJ m-2 with the electrolyte, and this will accelerate electrolyte infiltration to the separator. The loose particle accumulation also increases the electrolyte weight uptake and interfacial wettability velocity, which plays a crucial role in improving the cell performance such as the ionic conductivity, discharge capacity and the C-rate capability."
+  ],
+  "affiliation": [
+    "Guangdong Provincial Key Laboratory of Functional Soft Condensed Matter, Guangdong Provincial Engineering Laboratory of Energy Storage Materials and Devices, School of Materials and Energy, Guangdong University of Technology, Guangzhou 510006, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "51773044,51603047"
+          ],
+          "agency": [
+            "National Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Li–ion Battery",
+        "Coated Separator",
+        "Interfacial Wettability",
+        "Immersion Free Energy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/polym12010117"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7022756"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7022756?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-18"
+  ],
+  "firstIndexDate": [
+    "2020-01-18"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-19"
+  ],
+  "dateOfRevision": [
+    "2020-03-13"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-05"
+  ],
+  "firstPublicationDate": [
+    "2020-01-05"
+  ]
+}

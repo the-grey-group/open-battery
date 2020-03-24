@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC4812302/results/search/country/results.xml">
+  <result pre="Passerini Stefano a 1 2 [1], Helmholtz Institute Ulm (HIU)" exact="Germany" post="[2], Karlsruhe Institute of Technology (KIT) Germany [3], Institute"/>
+  <result pre="Institute Ulm (HIU) Germany [2], Karlsruhe Institute of Technology (KIT)" exact="Germany" post="[3], Institute of Physical Chemistry, University of Muenster Germany"/>
+  <result pre="(KIT) Germany [3], Institute of Physical Chemistry, University of Muenster" exact="Germany" post="[4], Institute of Nanotechnology (INT), Karlsruhe Institute of Technology"/>
+  <result pre="[4], Institute of Nanotechnology (INT), Karlsruhe Institute of Technology (KIT)" exact="Germany" post="[5], Karlsruhe Nano Micro Facility (KNMF), Karlsruhe Institute of"/>
+  <result pre="Karlsruhe Nano Micro Facility (KNMF), Karlsruhe Institute of Technology (KIT)" exact="Germany" post="a stefano.passerini@kit.edu epub: 2016-03-03 collection: 2016 6 23585 received:"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,368 @@
+{
+  "id": [
+    "28098237"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28098237"
+  ],
+  "pmcid": [
+    "PMC5241879"
+  ],
+  "doi": [
+    "10.1038/srep40927"
+  ],
+  "title": [
+    "Controllable Synthesis of TiO2@Fe2O3 Core-Shell Nanotube Arrays with Double-Wall Coating as Superb Lithium-Ion Battery Anodes."
+  ],
+  "authorString": [
+    "Zhong Y, Ma Y, Guo Q, Liu J, Wang Y, Yang M, Xia H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhong Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Zhong"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma Y"
+          ],
+          "firstName": [
+            "Yifan"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo Q"
+          ],
+          "firstName": [
+            "Qiubo"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jiaqi"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yadong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Engineering, Nanyang Polytechnic, 569830, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang M"
+          ],
+          "firstName": [
+            "Mei"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2661-5188",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xia H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Xia"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2661-5188",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2510373"
+      ],
+      "dateOfPublication": [
+        "2017 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "40927"
+  ],
+  "abstractText": [
+    "Highlighted by the safe operation and stable performances, titanium oxides (TiO2) are deemed as promising candidates for next generation lithium-ion batteries (LIBs). However, the pervasively low capacity is casting shadow on desirable electrochemical behaviors and obscuring their practical applications. In this work, we reported a unique template-assisted and two-step atomic layer deposition (ALD) method to achieve TiO2@Fe2O3 core-shell nanotube arrays with hollow interior and double-wall coating. The as-prepared architecture combines both merits of the high specific capacity of Fe2O3 and structural stability of TiO2 backbone. Owing to the nanotubular structural advantages integrating facile strain relaxation as well as rapid ion and electron transport, the TiO2@Fe2O3 nanotube arrays with a high mass loading of Fe2O3 attained desirable capacity of ~520 mA h g-1, exhibiting both good rate capability under uprated current density of 10 A g-1 and especially enhanced cycle stability (~450 mA h g-1 after 600 cycles), outclassing most reported TiO2@metal oxide composites. The results not only provide a new avenue for hybrid core-shell nanotube formation, but also offer an insight for rational design of advanced electrode materials for LIBs."
+  ],
+  "affiliation": [
+    "School of Materials Science and Engineering, Nanjing University of Science and Technology, Nanjing 210094, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep40927"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5241879"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5241879?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-07-05"
+  ],
+  "dateOfCreation": [
+    "2017-01-19"
+  ],
+  "firstIndexDate": [
+    "2017-01-18"
+  ],
+  "fullTextReceivedDate": [
+    "2017-01-27"
+  ],
+  "dateOfRevision": [
+    "2018-07-05"
+  ],
+  "electronicPublicationDate": [
+    "2017-01-18"
+  ],
+  "firstPublicationDate": [
+    "2017-01-18"
+  ]
+}

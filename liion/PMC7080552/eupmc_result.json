@@ -1,0 +1,480 @@
+{
+  "id": [
+    "32195088"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32195088"
+  ],
+  "pmcid": [
+    "PMC7080552"
+  ],
+  "doi": [
+    "10.1002/advs.201902643"
+  ],
+  "title": [
+    "Mg Doped Li-LiB Alloy with In Situ Formed Lithiophilic LiB Skeleton for Lithium Metal Batteries."
+  ],
+  "authorString": [
+    "Wu C, Huang H, Lu W, Wei Z, Ni X, Sun F, Qing P, Liu Z, Ma J, Wei W, Chen L, Yan C, Mai L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu C"
+          ],
+          "firstName": [
+            "Chen"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Powder Metallurgy Central South University Changsha 410083 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang H"
+          ],
+          "firstName": [
+            "Haifeng"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Powder Metallurgy Central South University Changsha 410083 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu W"
+          ],
+          "firstName": [
+            "Weiyi"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Powder Metallurgy Central South University Changsha 410083 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wei Z"
+          ],
+          "firstName": [
+            "Zengxi"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Physics and Electronics Hunan University Changsha 410082 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ni X"
+          ],
+          "firstName": [
+            "Xuyan"
+          ],
+          "lastName": [
+            "Ni"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Energy Key Laboratory of Advanced Carbon Materials and Wearable Energy Technologies of Jiangsu Province Key Laboratory of Advanced Optical Manufacturing Technologies of Jiangsu Province, and Key Laboratory of Modern Optical Technologies of Education Ministry of China Soochow University Suzhou 215006 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun F"
+          ],
+          "firstName": [
+            "Fu"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Qingdao Institute of Bioenergy and Bioprocess Technology Chinese Academy of Sciences Qingdao 266101 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qing P"
+          ],
+          "firstName": [
+            "Piao"
+          ],
+          "lastName": [
+            "Qing"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Powder Metallurgy Central South University Changsha 410083 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Z"
+          ],
+          "firstName": [
+            "Zhijian"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Powder Metallurgy Central South University Changsha 410083 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma J"
+          ],
+          "firstName": [
+            "Jianmin"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Physics and Electronics Hunan University Changsha 410082 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wei W"
+          ],
+          "firstName": [
+            "Weifeng"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Powder Metallurgy Central South University Changsha 410083 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen L"
+          ],
+          "firstName": [
+            "Libao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3766-1545",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Powder Metallurgy Central South University Changsha 410083 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan C"
+          ],
+          "firstName": [
+            "Chenglin"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "College of Energy Key Laboratory of Advanced Carbon Materials and Wearable Energy Technologies of Jiangsu Province Key Laboratory of Advanced Optical Manufacturing Technologies of Jiangsu Province, and Key Laboratory of Modern Optical Technologies of Education Ministry of China Soochow University Suzhou 215006 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Mai L"
+          ],
+          "firstName": [
+            "Liqiang"
+          ],
+          "lastName": [
+            "Mai"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing Wuhan University of Technology Wuhan 430070 China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3766-1545",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2925922"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+          ],
+          "ISOAbbreviation": [
+            "Adv Sci (Weinh)"
+          ],
+          "medlineAbbreviation": [
+            "Adv Sci (Weinh)"
+          ],
+          "NLMid": [
+            "101664569"
+          ],
+          "ISSN": [
+            "2198-3844"
+          ],
+          "ESSN": [
+            "2198-3844"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1902643"
+  ],
+  "abstractText": [
+    "High energy density lithium metal batteries (LMBs) are promising next-generation energy storage devices. However, the uncontrollable dendrite growth and huge volume change limit their practical applications. Here, a new Mg doped Li-LiB alloy with in situ formed lithiophilic 3D LiB skeleton (hereinafter called Li-B-Mg composite) is presented to suppress Li dendrite and mitigate volume change. The LiB skeleton exhibits superior lithiophilic and conductive characteristics, which contributes to the reduction of the local current density and homogenization of incoming Li+ flux. With the introduction of Mg, the composite achieves an ultralong lithium deposition/dissolution lifespan (500 h, at 0.5 mA cm-2) without short circuit in the symmetrical battery. In addition, the electrochemical performance is superior in full batteries assembled with LiCoO2 cathode and the manufactured composite. The currently proposed 3D Li-B-Mg composite anode may significantly propel the advancement of LMB technology from laboratory research to industrial commercialization."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Powder Metallurgy Central South University Changsha 410083 China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ultralong Lifespan",
+        "Dendrite‐free",
+        "Li–b–mg Composite",
+        "Buffer Volume Change",
+        "Lithiophilic 3D Skeleton"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/advs.201902643"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7080552"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7080552?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-21"
+  ],
+  "firstIndexDate": [
+    "2020-03-21"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-23"
+  ],
+  "dateOfRevision": [
+    "2020-03-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-09"
+  ],
+  "firstPublicationDate": [
+    "2020-01-09"
+  ]
+}

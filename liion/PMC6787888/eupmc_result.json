@@ -1,0 +1,310 @@
+{
+  "id": [
+    "31616808"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31616808"
+  ],
+  "pmcid": [
+    "PMC6787888"
+  ],
+  "doi": [
+    "10.1021/acsomega.9b01541"
+  ],
+  "title": [
+    "Ceramic Nanoparticle-Decorated Melt-Electrospun PVDF Nanofiber Membrane with Enhanced Performance as a Lithium-Ion Battery Separator."
+  ],
+  "authorString": [
+    "Wu S, Ning J, Jiang F, Shi J, Huang F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu S"
+          ],
+          "firstName": [
+            "Shuanglin"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Key Laboratory of Eco-Textiles, Ministry of Education, Jiangnan University, Wuxi 214122, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ning J"
+          ],
+          "firstName": [
+            "Jingxia"
+          ],
+          "lastName": [
+            "Ning"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Key Laboratory of Eco-Textiles, Ministry of Education, Jiangnan University, Wuxi 214122, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Wood Science, University of British Columbia, Vancouver V6T 1Z4, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi J"
+          ],
+          "firstName": [
+            "Jiayi"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Key Laboratory of Eco-Textiles, Ministry of Education, Jiangnan University, Wuxi 214122, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang F"
+          ],
+          "firstName": [
+            "Fenglin"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Key Laboratory of Eco-Textiles, Ministry of Education, Jiangnan University, Wuxi 214122, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "15"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2871740"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "16309-16317"
+  ],
+  "abstractText": [
+    "Designing a composite separator that can withstand high temperature, deliver high capacity, and offer fast charge-discharge capability is imperative for developing a high-performance lithium-ion battery. Here, a series of ceramic nanoparticle-coated nanofiber membranes, including Al2O3/poly(vinylidene fluoride) (PVDF), SiO2/PVDF, and Al2O3/SiO2/PVDF, were prepared by melt-electrospinning and magnetron sputtering deposition. Among all of these composite separators, Al2O3/SiO2/PVDF showed several advantages including excellent thermal stability (no dimensional shrinkage at temperature up to 130 °C and an onset degradation temperature of 445 °C) and superb electrolyte compatibility (340% electrolyte uptake). In addition, the β phase of the fibrous PVDF membrane as well as the presence of polar ceramic nanoparticles on the fiber surface can synergistically improve the ion conductivity to 2.055 mS/cm at room temperature, which is more than 8 times higher than that of the commercial polyethylene (PE) separator. Performance of these ceramic nanoparticle-coated separators in a lithium-ion battery demonstrated an improved discharge capacity of 161.5 mAh/g and more than 84.3% capacity retention rate after 100 cycles. The ceramic nanoparticle-coated PVDF separators also maintained 58.4% capacity at a high current density of 8C, which is better than the 49.8% capacity for the commercial PE separator. Therefore, the ceramic nanoparticle-coated PVDF membrane proves to be a promising separator for a high-power and more secure lithium-ion battery."
+  ],
+  "affiliation": [
+    "Key Laboratory of Eco-Textiles, Ministry of Education, Jiangnan University, Wuxi 214122, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.9b01541"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6787888"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6787888?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-17"
+  ],
+  "firstIndexDate": [
+    "2019-10-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-17"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-27"
+  ],
+  "firstPublicationDate": [
+    "2019-09-27"
+  ]
+}

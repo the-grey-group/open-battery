@@ -1,0 +1,325 @@
+{
+  "id": [
+    "30460318"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30460318"
+  ],
+  "pmcid": [
+    "PMC6223801"
+  ],
+  "doi": [
+    "10.1007/s40820-016-0123-3"
+  ],
+  "title": [
+    "Research Progress in Improving the Cycling Stability of High-Voltage LiNi0.5Mn1.5O4 Cathode in Lithium-Ion Battery."
+  ],
+  "authorString": [
+    "Xu X, Deng S, Wang H, Liu J, Yan H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xu X"
+          ],
+          "firstName": [
+            "XiaoLong"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "The College of Materials Science and Engineering, Beijing University of Technology, Beijing, 100124 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng S"
+          ],
+          "firstName": [
+            "SiXu"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "The College of Materials Science and Engineering, Beijing University of Technology, Beijing, 100124 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "The College of Materials Science and Engineering, Beijing University of Technology, Beijing, 100124 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "JingBing"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "The College of Materials Science and Engineering, Beijing University of Technology, Beijing, 100124 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "The College of Materials Science and Engineering, Beijing University of Technology, Beijing, 100124 People's Republic of China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2752120"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nano-micro letters"
+          ],
+          "ISOAbbreviation": [
+            "Nanomicro Lett"
+          ],
+          "medlineAbbreviation": [
+            "Nanomicro Lett"
+          ],
+          "NLMid": [
+            "101727940"
+          ],
+          "ISSN": [
+            "2311-6706"
+          ],
+          "ESSN": [
+            "2150-5551"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "22"
+  ],
+  "abstractText": [
+    "High-voltage lithium-ion batteries (HVLIBs) are considered as promising devices of energy storage for electric vehicle, hybrid electric vehicle, and other high-power equipment. HVLIBs require their own platform voltages to be higher than 4.5 V on charge. Lithium nickel manganese spinel LiNi0.5Mn1.5O4 (LNMO) cathode is the most promising candidate among the 5 V cathode materials for HVLIBs due to its flat plateau at 4.7 V. However, the degradation of cyclic performance is very serious when LNMO cathode operates over 4.2 V. In this review, we summarize some methods for enhancing the cycling stability of LNMO cathodes in lithium-ion batteries, including doping, cathode surface coating, electrolyte modifying, and other methods. We also discuss the advantages and disadvantages of different methods."
+  ],
+  "affiliation": [
+    "The College of Materials Science and Engineering, Beijing University of Technology, Beijing, 100124 People's Republic of China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium-ion battery",
+        "High-voltage Cathode",
+        "Lini0.5mn1.5o4",
+        "Cycling Stability",
+        "Platform Voltage"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s40820-016-0123-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6223801"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6223801?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-22"
+  ],
+  "firstIndexDate": [
+    "2018-11-22"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-22"
+  ],
+  "dateOfRevision": [
+    "2018-11-25"
+  ],
+  "electronicPublicationDate": [
+    "2017-01-04"
+  ],
+  "firstPublicationDate": [
+    "2017-01-04"
+  ]
+}

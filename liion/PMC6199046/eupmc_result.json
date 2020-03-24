@@ -1,0 +1,375 @@
+{
+  "id": [
+    "30393650"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30393650"
+  ],
+  "pmcid": [
+    "PMC6199046"
+  ],
+  "doi": [
+    "10.1007/s40820-017-0154-4"
+  ],
+  "title": [
+    "The Surface Coating of Commercial LiFePO4 by Utilizing ZIF-8 for High Electrochemical Performance Lithium Ion Battery."
+  ],
+  "authorString": [
+    "Xu X, Qi C, Hao Z, Wang H, Jiu J, Liu J, Yan H, Suganuma K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xu X"
+          ],
+          "firstName": [
+            "XiaoLong"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "1The College of Materials Science and Engineering, Beijing University of Technology, Beijing, 100124 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qi C"
+          ],
+          "firstName": [
+            "CongYu"
+          ],
+          "lastName": [
+            "Qi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "1The College of Materials Science and Engineering, Beijing University of Technology, Beijing, 100124 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hao Z"
+          ],
+          "firstName": [
+            "ZhenDong"
+          ],
+          "lastName": [
+            "Hao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "1The College of Materials Science and Engineering, Beijing University of Technology, Beijing, 100124 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "1The College of Materials Science and Engineering, Beijing University of Technology, Beijing, 100124 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiu J"
+          ],
+          "firstName": [
+            "JinTing"
+          ],
+          "lastName": [
+            "Jiu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "2The Institute of Scientific and Industrial Research, Osaka University, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "JingBing"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "1The College of Materials Science and Engineering, Beijing University of Technology, Beijing, 100124 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "1The College of Materials Science and Engineering, Beijing University of Technology, Beijing, 100124 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Suganuma K"
+          ],
+          "firstName": [
+            "Katsuaki"
+          ],
+          "lastName": [
+            "Suganuma"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "2The Institute of Scientific and Industrial Research, Osaka University, Osaka, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2744823"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nano-micro letters"
+          ],
+          "ISOAbbreviation": [
+            "Nanomicro Lett"
+          ],
+          "medlineAbbreviation": [
+            "Nanomicro Lett"
+          ],
+          "NLMid": [
+            "101727940"
+          ],
+          "ISSN": [
+            "2311-6706"
+          ],
+          "ESSN": [
+            "2150-5551"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1"
+  ],
+  "abstractText": [
+    "The requirement of energy-storage equipment needs to develop the lithium ion battery (LIB) with high electrochemical performance. The surface modification of commercial LiFePO4 (LFP) by utilizing zeolitic imidazolate frameworks-8 (ZIF-8) offers new possibilities for commercial LFP with high electrochemical performances. In this work, the carbonized ZIF-8 (CZIF-8) was coated on the surface of LFP particles by the in situ growth and carbonization of ZIF-8. Transmission electron microscopy indicates that there is an approximate 10 nm coating layer with metal zinc and graphite-like carbon on the surface of LFP/CZIF-8 sample. The N2 adsorption and desorption isotherm suggests that the coating layer has uniform and simple connecting mesopores. As cathode material, LFP/CZIF-8 cathode-active material delivers a discharge specific capacity of 159.3 mAh g-1 at 0.1C and a discharge specific energy of 141.7 mWh g-1 after 200 cycles at 5.0C (the retention rate is approximate 99%). These results are attributed to the synergy improvement of the conductivity, the lithium ion diffusion coefficient, and the degree of freedom for volume change of LFP/CZIF-8 cathode. This work will contribute to the improvement of the cathode materials of commercial LIB."
+  ],
+  "affiliation": [
+    "1The College of Materials Science and Engineering, Beijing University of Technology, Beijing, 100124 People's Republic of China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cathode",
+        "Lithium ion battery",
+        "Surface coating",
+        "Lifepo4",
+        "Zeolitic Imidazolate Frameworks-8"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s40820-017-0154-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6199046"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6199046?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-06"
+  ],
+  "firstIndexDate": [
+    "2018-11-05"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-05"
+  ],
+  "dateOfRevision": [
+    "2018-11-07"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-25"
+  ],
+  "firstPublicationDate": [
+    "2017-09-25"
+  ]
+}

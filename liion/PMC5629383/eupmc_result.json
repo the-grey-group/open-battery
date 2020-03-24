@@ -1,0 +1,358 @@
+{
+  "id": [
+    "29046851"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29046851"
+  ],
+  "pmcid": [
+    "PMC5629383"
+  ],
+  "doi": [
+    "10.3762/bjnano.8.204"
+  ],
+  "title": [
+    "Systematic control of α-Fe2O3 crystal growth direction for improved electrochemical performance of lithium-ion battery anodes."
+  ],
+  "authorString": [
+    "Shen N, Keppeler M, Stiaszny B, Hain H, Maglia F, Srinivasan M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shen N"
+          ],
+          "firstName": [
+            "Nan"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "BMW-NTU Future Mobility Research Lab, Nanyang Technological University, School of Materials Science and Engineering, and Energy Research Institute at Nanyang (ERI@N), Research Techno Plaza, X-Frontier Blk, 50 Nanyang Drive, Singapore 637553, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Keppeler M"
+          ],
+          "firstName": [
+            "Miriam"
+          ],
+          "lastName": [
+            "Keppeler"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "BMW-NTU Future Mobility Research Lab, Nanyang Technological University, School of Materials Science and Engineering, and Energy Research Institute at Nanyang (ERI@N), Research Techno Plaza, X-Frontier Blk, 50 Nanyang Drive, Singapore 637553, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Stiaszny B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "Stiaszny"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "BMW Group, Petuelring 130, 80788 Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hain H"
+          ],
+          "firstName": [
+            "Holger"
+          ],
+          "lastName": [
+            "Hain"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "BMW Group, Petuelring 130, 80788 Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Maglia F"
+          ],
+          "firstName": [
+            "Filippo"
+          ],
+          "lastName": [
+            "Maglia"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "BMW Group, Petuelring 130, 80788 Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Srinivasan M"
+          ],
+          "firstName": [
+            "Madhavi"
+          ],
+          "lastName": [
+            "Srinivasan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5497-3428",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "BMW-NTU Future Mobility Research Lab, Nanyang Technological University, School of Materials Science and Engineering, and Energy Research Institute at Nanyang (ERI@N), Research Techno Plaza, X-Frontier Blk, 50 Nanyang Drive, Singapore 637553, Singapore."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5497-3428",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2519724"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Beilstein journal of nanotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Beilstein J Nanotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Beilstein J Nanotechnol"
+          ],
+          "NLMid": [
+            "101551563"
+          ],
+          "ISSN": [
+            "2190-4286"
+          ],
+          "ESSN": [
+            "2190-4286"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "2032-2044"
+  ],
+  "abstractText": [
+    "α-Fe2O3 nanomaterials with an elongated nanorod morphology exhibiting superior electrochemical performance were obtained through hydrothermal synthesis assisted by diamine derivatives as shape-controlling agents (SCAs) for application as anodes in lithium-ion batteries (LIBs). The physicochemical characteristics were investigated via XRD and FESEM, revealing well-crystallized α-Fe2O3 with adjustable nanorod lengths between 240 and 400 nm and aspect ratios in the range from 2.6 to 5.7. The electrochemical performance was evaluated by cyclic voltammetry and charge-discharge measurements. A SCA test series, including ethylenediamine, 1,2-diaminopropane, 2,3-diaminobutane, and N-methylethylenediamine, was implemented in terms of the impact on the nanorod aspect ratio. Varied substituents on the vicinal diamine structure were examined towards an optimized reaction center in terms of electron density and steric hindrance. Possible interaction mechanisms of the diamine derivatives with ferric species and the correlation between the aspect ratio and electrochemical performance are discussed. Intermediate-sized α-Fe2O3 nanorods with length/aspect ratios of ≈240 nm/≈2.6 and ≈280 nm/≈3.0 were found to have excellent electrochemical characteristics with reversible discharge capacities of 1086 and 1072 mAh g-1 at 0.1 C after 50 cycles."
+  ],
+  "affiliation": [
+    "BMW-NTU Future Mobility Research Lab, Nanyang Technological University, School of Materials Science and Engineering, and Energy Research Institute at Nanyang (ERI@N), Research Techno Plaza, X-Frontier Blk, 50 Nanyang Drive, Singapore 637553, Singapore."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium-ion battery",
+        "Ethylenediamine",
+        "Shape-controlled Synthesis",
+        "1,2-Diaminopropane",
+        "2,3-Diaminobutane"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3762/bjnano.8.204"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5629383"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5629383?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-10-20"
+  ],
+  "firstIndexDate": [
+    "2017-10-20"
+  ],
+  "fullTextReceivedDate": [
+    "2017-10-24"
+  ],
+  "dateOfRevision": [
+    "2017-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-28"
+  ],
+  "firstPublicationDate": [
+    "2017-09-28"
+  ]
+}

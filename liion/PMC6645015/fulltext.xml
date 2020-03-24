@@ -1,0 +1,481 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6645015</article-id><article-id pub-id-type="pmid">31457381</article-id><article-id pub-id-type="doi">10.1021/acsomega.7b01365</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Improving the Cycling Performance of Lithium-Ion Battery
+Si/Graphite Anodes Using a Soluble Polyimide Binder</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Oh</surname><given-names>Jeonghun</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes-2" ref-type="notes">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Jin</surname><given-names>Dahee</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes-2" ref-type="notes">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Kim</surname><given-names>Kyuman</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Song</surname><given-names>Danoh</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><name><surname>Lee</surname><given-names>Yong Min</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath6"><name><surname>Ryou</surname><given-names>Myung-Hyun</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Chemical and Biological Engineering, <institution>Hanbat National University</institution>, 125 Dongseo-daero, Yuseong-gu, Daejeon 34158, <country>Republic
+of Korea</country></aff><aff id="aff2"><label>&#x02021;</label>Department
+of Energy Systems Engineering, <institution>Daegu Gyeongbuk
+Institute of Science and Technology (DGIST)</institution>, 333 Techno Jungang-Daero, Daegu 42988, <country>Republic
+of Korea</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>yongmin.lee@hanbat.ac.kr</email>.
+Tel.: <phone>+53-785-6425</phone>. Fax: <fax>+82-53-785-6409</fax> (Y.M.L.).</corresp><corresp id="cor2"><label>*</label>E-mail: <email>mhryou@hanbat.ac.kr</email>. Tel./Fax: <phone>+82-42-821-1534</phone> (M.-H.R.).</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>11</month><year>2017</year></pub-date><pub-date pub-type="collection"><day>30</day><month>11</month><year>2017</year></pub-date><volume>2</volume><issue>11</issue><fpage>8438</fpage><lpage>8444</lpage><history><date date-type="received"><day>13</day><month>09</month><year>2017</year></date><date date-type="accepted"><day>16</day><month>11</month><year>2017</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2017 American Chemical Society</copyright-statement><copyright-year>2017</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-013653_0003" id="ab-tgr1"/></p><p>Herein,
+we improved the performance of Si/graphite (Si/C) composite
+anodes by introducing a highly adhesive co-polyimide (P84) binder
+and investigated the relationship between their electrochemical and
+adhesion properties using the 90&#x000b0; peel test and a surface and
+interfacial cutting analysis system. Compared to those of conventional
+poly(vinylidene fluoride) (PVdF)-based electrodes, the cycling performance
+and rate capability of P84-based Si/C anodes were improved by 47.0%
+(372 vs 547 mAh g<sup>&#x02013;1</sup> after 100 cycles at a 60 mA
+g<sup>&#x02013;1</sup> discharge condition) and 33.4% (359 vs 479 mAh
+g<sup>&#x02013;1</sup> after 70 cycles at a 3.0 A g<sup>&#x02013;1</sup> discharge condition), respectively. Importantly, the P84-based electrodes
+exhibited less pronounced morphological changes and a smaller total
+cell resistance after cycling than the PVdF-based ones, also showing
+better interlayer adhesion (<italic>F</italic><sub>mid</sub>) and
+interfacial adhesion to Cu current collectors (<italic>F</italic><sub>inter</sub>).</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao7b01365</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao-2017-013653</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>The progressing fossil
+fuel depletion and global climate change
+pose a serious threat to humankind, thus requiring internationally
+coordinated efforts and attention. Electric vehicles (EVs) and energy
+storage systems (ESS&#x02019;s) have gained tremendous attention as
+one of the promising greenhouse gasses solution.<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref3">3</xref></sup></p><p>However,
+the successful implementation of EVs and ESS&#x02019;s
+relies on high-energy-density battery systems. Although lithium-ion
+batteries (LIBs) based on carbon anode materials (graphite, 372 mAh
+g<sup>&#x02013;1</sup> for LiC<sub>6</sub>) and transition-metal-oxide
+cathode materials (e.g., lithium cobalt oxide, LiCoO<sub>2</sub>)
+have been commercialized to power mobile electrical devices, their
+current energy density is still too low to satisfy the high-level
+requirements of large-scale applications such as EVs and ESS&#x02019;s.</p><p>Although silicon has received much attention as a promising anode
+material due to its high theoretical energy density (4200 mAh g<sup>&#x02013;1</sup> for Li<sub>22</sub>Si<sub>5</sub> or Li<sub>4.4</sub>Si), environmental friendliness, and low cost,<sup><xref ref-type="bibr" rid="ref4">4</xref>&#x02212;<xref ref-type="bibr" rid="ref8">8</xref></sup> it has not been successfully implemented in commercialized
+LIBs because of suffering from large volume changes (&#x0003e;300%) during
+alloying and dealloying. Moreover, the stresses accompanying these
+changes cause mechanical failure and result in severely degraded electrochemical
+performances of Si electrodes.</p><p>Consequently, Si/graphite (Si/C)
+composite anodes (Si/C anodes),
+wherein Si constitutes only a portion of the active material, have
+been proposed as an alternative to pure Si anodes.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> This
+approach exhibits certain advantages because even if the theoretical
+anode capacity increases infinitely, the total theoretical capacity
+of the battery soon reaches saturation because of the limited theoretical
+capacity of the cathode.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup></p><p>We have
+recently succeeded in enhancing the performance of Si-based
+anodes by using mussel-inspired and co-polyimide-based adhesive polymeric
+binders, hierarchical Si composites, adhesive Cu current collectors,
+and adhesive conductive additives.<sup><xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup> Still, the demand for
+battery-suitable high-loading Si/C-based anodes requires further progress
+in this direction. However, as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01365/suppl_file/ao7b01365_si_001.pdf">Table S1</ext-link> (Supporting Information), the importance of active material
+loading in Si/C anodes has been underestimated by current studies.</p><p>P84 is a highly adhesive, soluble, and thermally stable co-polyimide-based
+binder, exhibiting outstanding intrinsic properties compared to those
+of conventional polymeric binders and thus improving the performances
+of battery constituents (anodes, cathodes, and separators), enhancing
+the cycling performances of Si-based anodes and the high-temperature
+electrochemical performances of cathode materials and increasing the
+thermal stability of LIBs that contain layers of ceramic composite
+separators.<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref14">14</xref>&#x02212;<xref ref-type="bibr" rid="ref16">16</xref></sup></p><p>Herein,
+we used P84 in high-loading Si/C-based anodes (&#x0223c;4.0
+mg cm<sup>&#x02013;2</sup>) and investigated their electrochemical
+and mechanical properties. Specifically, electrochemical properties
+such as electrochemical stability, cycling performance, rate capability,
+and impedance were evaluated using cyclic voltammetry (CV) and alternating
+current impedance spectroscopy, with the corresponding data recorded
+using a battery cycler. The mechanical properties of the above anodes
+were evaluated using the 90&#x000b0; peel test and a surface and interfacial
+cutting analysis system (SAICAS).</p></sec><sec id="sec2"><title>Result and Discussion</title><p>The uniformity of Si/C anodes was characterized by scanning electron
+microscopy (SEM) coupled with energy-dispersive X-ray spectroscopy
+(EDX). <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> shows
+that the electrode surface featured uniformly distributed microsized
+graphite particles, with the gaps between them filled by nanosized
+Si, confirming that Si/C anodes exhibited good surface uniformity.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) SEM
+image of the P84-based Si/C anode surface and (b) EDX elemental
+mapping relevant to (a) (blue = Si, red = C).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-013653_0006" id="gr1" position="float"/></fig><p>PVdF- and P84-based Si/C anodes were precycled, and the obtained
+results were compared. As depicted in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, P84-based Si/C showed a higher discharge
+capacity than that of PVdF-based Si/C (P84-based Si/C: 900.6 mAh g<sup>&#x02013;1</sup> for charging and 602.5 mAh g<sup>&#x02013;1</sup> for
+discharging; PVdF-based Si/C: 658.7 mAh g<sup>&#x02013;1</sup> for
+charging and 523.8 mAh g<sup>&#x02013;1</sup> for discharging). In
+contrast, the former electrode exhibited a lower Coulombic efficiency
+than that of the latter one (66.9 vs 79.5%, respectively), which seemed
+to be closely related to the irreversibility of the reduction reaction,
+as is discussed below.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Potential profiles of P84- and PVdF-based Si/C anodes
+recorded
+during precycling.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-013653_0004" id="gr2" position="float"/></fig><p>Electrochemical stabilities
+were probed by CV, with both electrodes
+showing almost identical profiles from open circuit voltage (OCV)
+to 0.9 V vs Li/Li<sup>+</sup>, whereas P84-based Si/C exhibited a
+more intense reduction peak below 0.9 V vs Li/Li<sup>+</sup> (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>). As suggested in
+previous studies, this behavior is related to the intrinsic properties
+of imide-based polymeric materials, i.e., the C=O groups of
+the imide ring in P84 react with Li<sup>+</sup> during charging.<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup> Interestingly, P84-based Si/C showed a stronger oxidation peak than
+that of PVdF-based Si/C. The above results were in good agreement
+with those of previous precycling tests relevant to <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, revealing that P84-based
+Si/C showed higher discharge and charge capacities than those of PVdF-based
+Si/C and implying that the irreversible reduction reaction played
+a positive role in Si/C anodes.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Cyclic voltammetry (CV) profiles of P84-
+and PVdF-based Si/C anodes
+recorded at a scan rate of 0.1 mV s<sup>&#x02013;1</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-013653_0007" id="gr3" position="float"/></fig><p>CV profiles of PVdF-based Si/C anodes and P84-based
+Si/C anodes
+at 5th, 10th, 15th, and 20th scans were drawn and compared. As shown
+in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>, the magnitude
+of the current peaks increased with cycling due to activation of more
+material to react with Li in each scan.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Furthermore, the first scan shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref> differs from those due to a &#x0201c;formation&#x0201d;
+effect, corresponding to the filming of the electrode during the first
+Li discharging.</p><p>For graphite anodes, the main reactions are
+believed to be the
+solvated Li intercalation (at potentials from &#x0223c;0.8 to &#x0223c;0.2
+V vs Li/Li<sup>+</sup>) and the reversible formation of subsequent
+stages of Li<italic><sub>x</sub></italic>C<sub>6</sub> (at potentials
+from &#x0223c;0.2 to &#x0223c;0.005 V vs Li/Li<sup>+</sup>).<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> The stepped voltage profile of Si can be observed
+in a high-temperature experiment (415 &#x000b0;C) to form four intermediate
+equilibrium phases. In contrast, at a mild temperature (25 &#x000b0;C),
+lithiation shows a single gradually sloping plateau (&#x0223c;0.1 V
+vs Li/Li<sup>+</sup>) and large hysteresis between lithiation and
+delithiation.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> This is because the lithiation
+process results in the formation of a metastable amorphous Li<italic><sub>x</sub></italic>Si phase instead of the equilibrium intermetallic
+compounds.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> Considering the overlapping
+voltage plateau region of graphite (&#x0223c;0.2 to &#x0223c;0.005 V
+vs Li/Li<sup>+</sup>) and Si (&#x0223c;0.1 V vs Li/Li<sup>+</sup>)
+during lithiation, delithiation voltage plateau should be carefully
+considered to distinguish the role of each active material.</p><p>As depicted in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>, the P84-based Si/C anodes showed two overlapping peaks at
+&#x0223c;0.27 and &#x0223c;0.32 V and a broad shoulder peak at &#x0223c;0.5
+V during charging (delithiation) until the 20th scan. In contrast,
+PVdF-based Si/C showed a peak shape similar to that of the P84-based
+Si/C anodes up to the 5th scan and showed a single peak at &#x0223c;0.27
+V without the &#x0223c;0.5 V wide shoulder peak from the next scan.
+Considering the fact that the PVdF-based Si/C showed a rapid capacity
+decrease due to Si pulverization (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>), a long-lasting single peak at &#x0223c;0.27
+V corresponds to graphite, whereas the other peaks at &#x0223c;0.32
+and &#x0223c;0.5 V correspond to Si. The peak characteristics of Si
+are in good agreement with those in the previous study.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup></p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>CV profiles of (a) P84-based Si/C anodes and (b) PVdF-based
+Si/C
+anodes during 5th, 10th, 15th, and 20th scans recorded at a scan rate
+of 0.1 mV s<sup>&#x02013;1</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-013653_0009" id="gr4" position="float"/></fig><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Electrochemical performances of P84- and PVdF-based Si/C anodes:
+(a) cycling performance (charge rate = 60 mA g<sup>&#x02013;1</sup>, discharge rate = 60 mA g<sup>&#x02013;1</sup>). (b) Rate capabilities
+determined by varying the discharge rate from 60 mA g<sup>&#x02013;1</sup> to 3.0 A g<sup>&#x02013;1</sup> while maintaining the charging rate
+at 60 mA g<sup>&#x02013;1</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-013653_0001" id="gr5" position="float"/></fig><p>Subsequently, we investigated the effect of polymeric binders
+on
+the cycling performance and rate capability of Si/C anodes.</p><p>As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a, P84-based Si/C showed better cycling performance than that of
+PVdF-based Si/C, with the respective capacity retentions after 100
+cycles equaling 93 and 72% (P84-based Si/C: initial discharge capacity
+= 586 mAh g<sup>&#x02013;1</sup>, discharge capacity at 100th cycle
+= 547 mAh g<sup>&#x02013;1</sup>; PVdF-based Si/C: initial discharge
+capacity = 511 mAh g<sup>&#x02013;1</sup>, discharge capacity at 100th
+cycle = 372 mAh g<sup>&#x02013;1</sup>). Furthermore, P84-based Si/C
+exhibited a capacity retention of 88% after 200 cycles (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01365/suppl_file/ao7b01365_si_001.pdf">Figure S1</ext-link>, Supporting Information; discharge
+capacity at 200th cycle = 516 mAh g<sup>&#x02013;1</sup>).</p><p>Furthermore,
+we investigated the cycling performance of P84-based
+Si/C anodes at different active material loadings and current densities
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01365/suppl_file/ao7b01365_si_001.pdf">Figure S2</ext-link>, Supporting Information), revealing
+that the electrode with the lowest loading (1.0 mg cm<sup>&#x02013;2</sup>) showed the best performance during high-current-density charging
+(0.3 A g<sup>&#x02013;1</sup>). In contrast, Si/C anodes with the highest
+loading (4.0 mg cm<sup>&#x02013;2</sup>) showed poor cycling performance
+and a low discharge capacity of &#x0223c;400 mAh g<sup>&#x02013;1</sup>. As depicted in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a, a low current density (60 mA g<sup>&#x02013;1</sup>) was
+required for the high-loading Si/C anodes (4.0 mg cm<sup>&#x02013;2</sup>) to achieve a discharge capacity (&#x0223c;600 mAh g<sup>&#x02013;1</sup>) exceeding that of graphite (372 mAh g<sup>&#x02013;1</sup>). Considering
+the importance of high-loading anodes (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01365/suppl_file/ao7b01365_si_001.pdf">Table S1</ext-link>, Supporting Information) and the fact that long-term ESS&#x02019;s
+utilize charging at a rate of C/12, one can infer that the high-loading
+P84-based Si/C systems with a stable cycling performance and high
+discharge capacity (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a, charging rate = C/10) are suitable for practical applications.<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup></p><p>As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b, P84-based Si/C showed a better rate capability than that
+of PVdF-based
+Si/C, with the above electrodes maintaining 81 and 70% of the initial
+discharge capacity, respectively, after 70 cycles at 5C (P84-based
+Si/C: initial discharge capacity = 586 mAh g<sup>&#x02013;1</sup>,
+discharge capacity at 70th cycle = 479 mAh g<sup>&#x02013;1</sup>;
+PVdF-based Si/C: initial discharge capacity = 511 mAh g<sup>&#x02013;1</sup>, discharge capacity at 70th cycle = 359 mAh g<sup>&#x02013;1</sup>).</p><p>After precycling, the interfacial resistances of unit cells
+comprising
+P84-based and PVdF-based Si/C anodes were measured and compared. In
+general, the total cell resistance (<italic>R</italic><sub>total</sub>) comprises bulk resistance (<italic>R</italic><sub>b</sub>), solid&#x02013;electrolyte
+interphase (SEI) resistance (<italic>R</italic><sub>SEI</sub>), and
+charge transfer resistance (<italic>R</italic><sub>ct</sub>), i.e., <italic>R</italic><sub>total</sub> = <italic>R</italic><sub>b</sub> + <italic>R</italic><sub>SEI</sub> + <italic>R</italic><sub>ct</sub>.<sup><xref ref-type="bibr" rid="ref24">24</xref>&#x02212;<xref ref-type="bibr" rid="ref26">26</xref></sup> To explore the origin of electrochemical properties of LIB cells
+in practice, <italic>R</italic><sub>total</sub> should be closely
+monitored because, in general, the LIB cells having smaller <italic>R</italic><sub>total</sub> revealed the improved rate capability
+and cycle performance.<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref26">26</xref>&#x02212;<xref ref-type="bibr" rid="ref31">31</xref></sup> As shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>, we fitted the electrochemical impedance spectroscopy results using
+an equivalent-circuit model based on the fact that the SEI was composed
+of multiple layers.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> The unique feature
+of this model is the separation of (1) all Ohmic resistant components
+lumping into <italic>R</italic><sub>1</sub> and (2) Faradaic nonlinear
+components into the <italic>R</italic><sub>2</sub>, <italic>R</italic><sub>3</sub>, and <italic>R</italic><sub>4</sub>. To be more specific, <italic>R</italic><sub>1</sub>, (<italic>R</italic><sub>2</sub> + <italic>R</italic><sub>3</sub>), and <italic>R</italic><sub>4</sub> represent <italic>R</italic><sub>b</sub>, <italic>R</italic><sub>SEI</sub>, and <italic>R</italic><sub>ct</sub>, respectively. The calculated resistance
+is listed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01365/suppl_file/ao7b01365_si_001.pdf">Table S1</ext-link>. The <italic>R</italic><sub>total</sub> of P84-based Si/C cells was much smaller than that
+of PVdF-based Si/C cells, in agreement with the improved cycling performance
+and rate capability of the former electrodes. Taking this into account,
+it can be inferred that P84 effectively prevents Si pulverization
+and produces thin SEI layers with a smaller resistance.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Impedance spectra
+of unit cells containing P84- and PVdF-based
+Si/C anodes after precycling.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-013653_0005" id="gr6" position="float"/></fig><p>As shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>, the initial morphologies of PVdF- and P84-based Si/C anodes
+were
+different due to the inherent differences in the physical and chemical
+properties of constituent polymeric binders. However, the above anodes
+showed opposite surface morphology changes after cycling, i.e., cycled
+PVdF-based Si/C anodes featured larger numbers of deep big cracks
+than those in pristine ones, whereas cycled P84-based Si/C anodes
+exhibited less surface cracks than those in pristine ones. Because
+newly formed cracks consume large electrolyte amounts for SEI formation
+on the fresh active material surface and form dead active Si materials,
+cracking can decrease electrode capacity and increase interfacial
+resistance during cycling,<sup><xref ref-type="bibr" rid="ref33">33</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> in agreement with our
+previous experimental results discussed above.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>SEM images of the surfaces
+of (a&#x02013;d) P84-based Si/C anodes
+and (e&#x02013;h) PVdF-based Si/C anodes before and after the 10th
+cycle relevant to <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-013653_0002" id="gr7" position="float"/></fig><p>Adhesion inside electrode composites
+as well as between the electrode
+composite and current collectors significantly affects the electrode
+cycling performance.<sup><xref ref-type="bibr" rid="ref35">35</xref>&#x02212;<xref ref-type="bibr" rid="ref38">38</xref></sup> To investigate the effect of polymeric binder type on the adhesion
+properties of Si/C, they were evaluated using the 90&#x000b0; peel test
+and SAICAS.</p><p>As shown in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a, P84- and PVdF-based Si/C anodes showed typical adhesion
+strength
+profiles, with the former showing a higher adhesion strength than
+that of the latter (0.0594 and 0.0346 kN m<sup>&#x02013;1</sup>, respectively).<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup> On the basis of Griffith&#x02019;s theory of cracking, however, the
+material fracture is originated due to the presence of microscopic
+flaws in the bulk material, i.e., if microscopic flaws are present
+in the material, the fracture stress increases and the materials can
+be easily fractured and/or torn apart in spite of the inherent mechanical
+strength.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> That is, the adhesion strength
+measured by the peel test cannot represent the adhesion properties
+of the Si/C anodes properly. In view of the above, the specific adhesion
+properties of Si/C anodes were evaluated using SAICAS.</p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>(a) Adhesion strength
+profiles of P84- and PVdF-based Si/C anodes
+determined by the 90&#x000b0; peel test. (b) Interfacial adhesion strength
+(<italic>F</italic><sub>inter</sub>) and (c) interlayer adhesion strength
+(<italic>F</italic><sub>mid</sub>, measured at 15 &#x003bc;m from the
+surface) of P84- and PVdF-based Si/C anodes. (d) <italic>F</italic><sub>inter</sub> of P84- and PVdF-based Si/C anodes after 10 cycles
+relevant to <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2017-013653_0008" id="gr8" position="float"/></fig><p>SAICAS allows one to determine
+the adhesion properties of Si/C
+anodes at a specific position by adjusting the blade depth relative
+to the electrode surface. For convenience, the interlayer adhesion
+(<italic>F</italic><sub>mid</sub>) in Si/C composites was measured
+at 15 &#x003bc;m from the surface, with the interfacial adhesion between
+Si/C composites and Cu current collectors denoted <italic>F</italic><sub>inter</sub>.</p><p>As depicted in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b,c, P84-based Si/C anodes (<italic>F</italic><sub>mid</sub> = 0.2422 &#x000b1; 0.01 kN m<sup>&#x02013;1</sup>, <italic>F</italic><sub>inter</sub> = 0.2728 &#x000b1; 0.004 kN m<sup>&#x02013;1</sup>)
+showed better adhesion properties than those of PVdF-based Si/C anodes
+(<italic>F</italic><sub>mid</sub> = 0.2214 &#x000b1; 0.02 kN m<sup>&#x02013;1</sup>, <italic>F</italic><sub>inter</sub> = 0.2214 &#x000b1; 0.001 kN m<sup>&#x02013;1</sup>).</p><p>After cycling performance tests relevant
+to <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a, both
+anodes were disassembled after 10
+cycles and their <italic>F</italic><sub>inter</sub> values were measured
+and compared. In both cases, <italic>F</italic><sub>inter</sub> decreased
+after cycling, with this decrease being less pronounced for P84-based
+Si/C (92.9% of the initial <italic>F</italic><sub>inter</sub> value,
+from 0.2728 &#x000b1; 0.004 to 0.2534 &#x000b1; 0.01 kN m<sup>&#x02013;1</sup>) than for PVdF-based Si/C anodes (83.7% of the initial <italic>F</italic><sub>inter</sub> value, from 0.2214 &#x000b1; 0.001 to 0.1854 &#x000b1;
+0.01 kN m<sup>&#x02013;1</sup>). This result is closely related to
+the larger mechanical strength of P84, which is less prone to swelling
+than PVdF.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup></p><p>Thus, SAICAS-determined adhesion properties
+revealed that the firm
+interlayer adhesion of the Si/C anode composite and its interfacial
+adhesion to Cu current collectors contributed to its enhanced performance.</p></sec><sec id="sec3"><title>Conclusions</title><p>Herein, we showed that highly adhesive and soluble co-polyimide
+polymeric binders (e.g., P84) can improve the electrochemical properties
+of Si/C anodes such as cycling performance and rate capabilities,
+additionally facilitating the anode preparation process. Because of
+the inherent physical properties of P84, P84-based Si/C anodes showed
+better adhesion properties (<italic>F</italic><sub>mid</sub> and <italic>F</italic><sub>inter</sub>) and less pronounced adhesion decrease
+upon cycling than those of PVdF-based Si/C ones, which resulted in
+the enhanced cycling performances and rate capabilities of the former
+electrodes. Moreover, P84 diminished the severe morphological changes
+induced by charging/discharging and achieved a smaller total cell
+resistance after cycling.</p></sec><sec id="sec4"><title>Experimental Section</title><sec id="sec4.1"><title>Electrode Preparation</title><p>Si/C anodes were prepared by
+coating a slurry of 5 wt % Si (30&#x02013;50 nm, Nanostructured &#x00026;
+Amorphous Materials), 75 wt % graphite (CGB-20, Nippon Graphite, Japan),
+10 wt % conductive carbon (Super-P Li, IMERYS, Switzerland), and 10
+wt % polymeric binder in <italic>N</italic>-methyl-2-pyrrolidone (NMP,
+Sigma-Aldrich) onto Cu current collector foil (11 &#x003bc;m, Iljin
+Materials, Republic of Korea) using a doctor blade technique. Two
+polymeric binders were used, namely, PVdF (<italic>M</italic><sub>w</sub> = 350&#x02009;000, KF-1300, Kureha Battery Materials Co.,
+Japan) and P84 (<italic>M</italic><sub>w</sub> = 150&#x02009;000, HP
+Polymer GmbH, Germany) dissolved in NMP. The cast slurry was dried
+in air at 80 &#x000b0;C for 2 h and roll-pressed using a gap-control-type
+roll-pressing machine (CLP-2025, CIS, Republic of Korea). The loading
+and thickness of Si/C anodes were controlled as &#x0223c;4 mg cm<sup>&#x02013;2</sup> and 30 &#x003bc;m in both cases.</p></sec><sec id="sec4.2"><title>Morphological
+Analysis of Si/C Anodes</title><p>The elemental
+distributions and surface morphologies of the prepared electrodes
+were examined by field emission scanning electron microscopy (MIRA
+LMH, TESCAN and FE-SEM, S4800, Hitachi) coupled with energy-dispersive
+X-ray spectroscopy (EDX; Genesis XM2, EDAX Inc.).</p></sec><sec id="sec4.3"><title>Cell Assembly</title><p>Si/C anodes were cut into disks (diameter
+= 12 mm) and assembled into 2032-type coin half-cells using Li metal
+(thickness = 200 &#x003bc;m, diameter = 16.2 mm; Honjo Metal Co., Japan)
+as the counter electrode. Polyethylene separators (thickness = 20
+&#x003bc;m, diameter = 18 mm; ND420, Asahi Kasei) were employed, and
+1.15 M lithium hexafluorophosphate in ethylene carbonate/diethyl carbonate
+(3:7, v/v) containing 5 wt % fluoroethylene carbonate (ENCHEM, Republic
+of Korea) was used as an electrolyte. Cell assembly was conducted
+in an argon-filled glove box with a dew point below &#x02212;60 &#x000b0;C.</p></sec><sec id="sec4.4"><title>Electrochemical Measurements</title><p>The electrochemical properties
+of Si/C anodes were probed by cyclic voltammetry (CV) using an impedance
+analyzer (VSP, Bio-Logic). The prepared 2032-type unit cells (Si/C
+half-cell) were scanned at a rate of 0.1 mV s<sup>&#x02013;1</sup> in
+a potential range of 0.005&#x02013;1.5 V vs Li/Li<sup>+</sup>, starting
+from the open circuit voltage (OCV).</p><p>The assembled cells were
+aged for 12 h and then cycled between 0.005 and 1.5 V in constant
+current mode at a rate of 0.06 A g<sup>&#x02013;1</sup> and 25 &#x000b0;C
+in both charge and discharge modes using a charge/discharge cycler
+(PNE Solution, Republic of Korea).</p><p>After the above cycling,
+the total cell impedance was measured
+using an impedance analyzer (VSP, Bio-Logic) in a frequency range
+of 1 MHz to 0.01 Hz.</p><p>To evaluate the cycling performance, cells
+were subjected to 100
+cycles at a current density of 0.06 A g<sup>&#x02013;1</sup> at 25
+&#x000b0;C. Furthermore, to evaluate rate capabilities, the discharge
+current densities were varied from 0.06 to 3 A g<sup>&#x02013;1</sup>, with the charging current density maintained at 0.06 A g<sup>&#x02013;1</sup>.</p></sec><sec id="sec4.5"><title>90&#x000b0; Peel Test</title><p>A 20 mm &#x000d7; 20 mm anode sample
+was attached to 3 M adhesive tape, and peel strength was measured
+using a micro material tester (Instron 5848, Instron Company). The
+adhesive tape was removed by peeling at an angle of 90&#x000b0; and a
+constant displacement rate of 10 mm min<sup>&#x02013;1</sup>, with
+the applied load being continuously measured to construct force/displacement
+plots.</p></sec><sec id="sec4.6"><title>SAICAS Measurements</title><p>The interlayer adhesion of the
+Si/C composite (<italic>F</italic><sub>mid</sub>) and the interfacial
+adhesion between Si/C anodes and Cu current collectors (<italic>F</italic><sub>inter</sub>) were characterized by SAICAS (Daipla Wintes Co.,
+Ltd.) utilizing a 1 mm wide boron nitride blade fixed at a shear angle
+of 45&#x000b0;. For measuring <italic>F</italic><sub>mid</sub>, the blade
+was positioned 15 &#x003bc;m from the anode surface. During the test,
+the blade moved in the horizontal direction at 0.2 &#x003bc;m s<sup>&#x02013;1</sup>, maintaining a vertical force of 0.2 N.</p></sec></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting
+Information
+is available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acsomega.7b01365">10.1021/acsomega.7b01365</ext-link>.<list id="silist" list-type="simple"><list-item><p>Comparison table
+of current work with state-of-the-art
+work on Si/C anode electrodes and the electrochemical performance
+of Si/C anodes at different active material loadings and current densities
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.7b01365/suppl_file/ao7b01365_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao7b01365_si_001.pdf"><caption><p>ao7b01365_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes-2"><title>Author Contributions</title><p><sup>&#x000a7;</sup> J.O. and D.J. contributed equally to this work.</p></notes><notes notes-type="COI-statement" id="notes-3"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work
+was supported by the Human Resource Training Program
+for Regional Innovation and Creativity through the Ministry of Education
+and National Research Foundation of Korea (NRF-2014H1C1A1066977).
+This work was also supported by New Product Development Project under
+Purchase Condition (Domestic) funded by the Small and Medium Business
+Administration of Korea (S2439826).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Song</surname><given-names>J.</given-names></name>
+<article-title>Design Principles
+and Energy System
+Scale Analysis Technologies of New Lithium-Ion and Aluminum-Ion Batteries
+for Sustainable Energy Electric Vehicles</article-title>. <source>Renewable
+Sustainable Energy Rev.</source>
+<year>2017</year>, <volume>71</volume>, <fpage>645</fpage>&#x02013;<lpage>651</lpage>. <pub-id pub-id-type="doi">10.1016/j.rser.2016.12.094</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Tie</surname><given-names>S. F.</given-names></name>; <name><surname>Tan</surname><given-names>C. W.</given-names></name>
+<article-title>A Review of Energy
+Sources and Energy Management System
+in Electric Vehicles</article-title>. <source>Renewable Sustainable
+Energy Rev.</source>
+<year>2013</year>, <volume>20</volume>, <fpage>82</fpage>&#x02013;<lpage>102</lpage>. <pub-id pub-id-type="doi">10.1016/j.rser.2012.11.077</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Larcher</surname><given-names>D.</given-names></name>; <name><surname>Tarascon</surname><given-names>J.-M.</given-names></name>
+<article-title>Towards Greener
+and More Sustainable Batteries for
+Electrical Energy Storage</article-title>. <source>Nat. Chem.</source>
+<year>2015</year>, <volume>7</volume>, <fpage>19</fpage>&#x02013;<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1038/nchem.2085</pub-id>.<pub-id pub-id-type="pmid">25515886</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Song</surname><given-names>D.</given-names></name>; <name><surname>Jung</surname><given-names>D.</given-names></name>; <name><surname>Cho</surname><given-names>I.</given-names></name>; <name><surname>Ryou</surname><given-names>M. H.</given-names></name>; <name><surname>Lee</surname><given-names>Y. M.</given-names></name>
+<article-title>Mussel-Inspired
+Polydopamine-Functionalized Super-P as a Conductive Additive for High-Performance
+Silicon Anodes</article-title>. <source>Adv. Mater. Interfaces</source>
+<year>2016</year>, <volume>3</volume>, <elocation-id>1600270</elocation-id><pub-id pub-id-type="doi">10.1002/admi.201600270</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Ryou</surname><given-names>M.-H.</given-names></name>; <name><surname>Kim</surname><given-names>J.</given-names></name>; <name><surname>Lee</surname><given-names>I.</given-names></name>; <name><surname>Kim</surname><given-names>S.</given-names></name>; <name><surname>Jeong</surname><given-names>Y. K.</given-names></name>; <name><surname>Hong</surname><given-names>S.</given-names></name>; <name><surname>Ryu</surname><given-names>J. H.</given-names></name>; <name><surname>Kim</surname><given-names>T. S.</given-names></name>; <name><surname>Park</surname><given-names>J. K.</given-names></name>; <name><surname>Lee</surname><given-names>H.</given-names></name>; et al. <article-title>Mussel-Inspired Adhesive
+Binders for High-Performance Silicon Nanoparticle
+Anodes in Lithium-Ion Batteries</article-title>. <source>Adv. Mater.</source>
+<year>2013</year>, <volume>25</volume>, <fpage>1571</fpage>&#x02013;<lpage>1576</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201203981</pub-id>.<pub-id pub-id-type="pmid">23280515</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Koo</surname><given-names>B.</given-names></name>; <name><surname>Kim</surname><given-names>H.</given-names></name>; <name><surname>Cho</surname><given-names>Y.</given-names></name>; <name><surname>Lee</surname><given-names>K. T.</given-names></name>; <name><surname>Choi</surname><given-names>N. S.</given-names></name>; <name><surname>Cho</surname><given-names>J.</given-names></name>
+<article-title>A Highly Cross-Linked
+Polymeric Binder for High-Performance Silicon Negative Electrodes
+in Lithium Ion Batteries</article-title>. <source>Angew. Chem., Int.
+Ed.</source>
+<year>2012</year>, <volume>51</volume>, <fpage>8762</fpage>&#x02013;<lpage>8767</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201201568</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Choi</surname><given-names>J.</given-names></name>; <name><surname>Kim</surname><given-names>K.</given-names></name>; <name><surname>Jeong</surname><given-names>J.</given-names></name>; <name><surname>Cho</surname><given-names>K. Y.</given-names></name>; <name><surname>Ryou</surname><given-names>M.-H.</given-names></name>; <name><surname>Lee</surname><given-names>Y. M.</given-names></name>
+<article-title>Highly
+Adhesive and Soluble Copolyimide Binder: Improving the Long-Term Cycle
+Life of Silicon Anodes in Lithium-Ion Batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2015</year>, <volume>7</volume>, <fpage>14851</fpage>&#x02013;<lpage>14858</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.5b03364</pub-id>.<pub-id pub-id-type="pmid">26075943</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Jeong</surname><given-names>Y. K.</given-names></name>; <name><surname>Kwon</surname><given-names>T.-W.</given-names></name>; <name><surname>Lee</surname><given-names>I.</given-names></name>; <name><surname>Kim</surname><given-names>T.-S.</given-names></name>; <name><surname>Coskun</surname><given-names>A.</given-names></name>; <name><surname>Choi</surname><given-names>J. W.</given-names></name>
+<article-title>Hyperbranched &#x003b2;-Cyclodextrin Polymer as an Effective
+Multidimensional Binder for Silicon Anodes in Lithium Rechargeable
+Batteries</article-title>. <source>Nano Lett.</source>
+<year>2014</year>, <volume>14</volume>, <fpage>864</fpage>&#x02013;<lpage>870</lpage>. <pub-id pub-id-type="doi">10.1021/nl404237j</pub-id>.<pub-id pub-id-type="pmid">24417681</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Yim</surname><given-names>C.-H.</given-names></name>; <name><surname>Courtel</surname><given-names>F. M.</given-names></name>; <name><surname>Abu-Lebdeh</surname><given-names>Y.</given-names></name>
+<article-title>A High Capacity Silicon&#x02013;Graphite
+Composite as Anode for Lithium-Ion Batteries Using Low Content Amorphous
+Silicon and Compatible Binders</article-title>. <source>J. Mater. Chem.
+A</source>
+<year>2013</year>, <volume>1</volume>, <fpage>8234</fpage>&#x02013;<lpage>8243</lpage>. <pub-id pub-id-type="doi">10.1039/c3ta10883j</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Yim</surname><given-names>C.-H.</given-names></name>; <name><surname>Niketic</surname><given-names>S.</given-names></name>; <name><surname>Salem</surname><given-names>N.</given-names></name>; <name><surname>Naboka</surname><given-names>O.</given-names></name>; <name><surname>Abu-Lebdeh</surname><given-names>Y.</given-names></name>
+<article-title>Towards Improving
+the Practical Energy Density of Li-Ion Batteries: Optimization and
+Evaluation of Silicon: Graphite Composites in Full Cells</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2017</year>, <volume>164</volume>, <fpage>A6294</fpage>&#x02013;<lpage>A6302</lpage>. <pub-id pub-id-type="doi">10.1149/2.0481701jes</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Yoshio</surname><given-names>M.</given-names></name>; <name><surname>Tsumura</surname><given-names>T.</given-names></name>; <name><surname>Dimov</surname><given-names>N.</given-names></name>
+<article-title>Electrochemical Behaviors of Silicon
+based Anode Material</article-title>. <source>J. Power Sources</source>
+<year>2005</year>, <volume>146</volume>, <fpage>10</fpage>&#x02013;<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2005.03.143</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Jung</surname><given-names>D. S.</given-names></name>; <name><surname>Ryou</surname><given-names>M.-H.</given-names></name>; <name><surname>Sung</surname><given-names>Y. J.</given-names></name>; <name><surname>Park</surname><given-names>S. B.</given-names></name>; <name><surname>Choi</surname><given-names>J. W.</given-names></name>
+<article-title>Recycling
+Rice Husks for High-Capacity Lithium Battery Anodes</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<year>2013</year>, <volume>110</volume>, <fpage>12229</fpage>&#x02013;<lpage>12234</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1305025110</pub-id>.<pub-id pub-id-type="pmid">23836636</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Cho</surname><given-names>I.</given-names></name>; <name><surname>Gong</surname><given-names>S.</given-names></name>; <name><surname>Song</surname><given-names>D.</given-names></name>; <name><surname>Lee</surname><given-names>Y.-G.</given-names></name>; <name><surname>Ryou</surname><given-names>M.-H.</given-names></name>; <name><surname>Lee</surname><given-names>Y. M.</given-names></name>
+<article-title>Mussel-Inspired Polydopamine-Treated Copper Foil as
+a Current Collector for High-Performance Silicon Anodes</article-title>. <source>Sci. Rep.</source>
+<year>2016</year>, <volume>6</volume>, <elocation-id>30945</elocation-id><pub-id pub-id-type="doi">10.1038/srep30945</pub-id>.<pub-id pub-id-type="pmid">27530802</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Choi</surname><given-names>J.</given-names></name>; <name><surname>Ryou</surname><given-names>M.-H.</given-names></name>; <name><surname>Son</surname><given-names>B.</given-names></name>; <name><surname>Song</surname><given-names>J.</given-names></name>; <name><surname>Park</surname><given-names>J.-K.</given-names></name>; <name><surname>Cho</surname><given-names>K. Y.</given-names></name>; <name><surname>Lee</surname><given-names>Y. M.</given-names></name>
+<article-title>Improved
+High-Temperature Performance
+of Lithium-Ion Batteries Through Use of a Thermally Stable Co-Polyimide-Based
+Cathode Binder</article-title>. <source>J. Power Sources</source>
+<year>2014</year>, <volume>252</volume>, <fpage>138</fpage>&#x02013;<lpage>143</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2013.12.015</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Song</surname><given-names>J.</given-names></name>; <name><surname>Ryou</surname><given-names>M.-H.</given-names></name>; <name><surname>Son</surname><given-names>B.</given-names></name>; <name><surname>Lee</surname><given-names>J.-N.</given-names></name>; <name><surname>Lee</surname><given-names>D. J.</given-names></name>; <name><surname>Lee</surname><given-names>Y. M.</given-names></name>; <name><surname>Choi</surname><given-names>J. W.</given-names></name>; <name><surname>Park</surname><given-names>J.-K.</given-names></name>
+<article-title>Co-Polyimide-Coated
+Polyethylene Separators for Enhanced Thermal Stability of Lithium
+Ion Batteries</article-title>. <source>Electrochim. Acta</source>
+<year>2012</year>, <volume>85</volume>, <fpage>524</fpage>&#x02013;<lpage>530</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2012.06.078</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Kim</surname><given-names>J.-H.</given-names></name>; <name><surname>Kim</surname><given-names>J. H.</given-names></name>; <name><surname>Kim</surname><given-names>J. M.</given-names></name>; <name><surname>Lee</surname><given-names>Y. G.</given-names></name>; <name><surname>Lee</surname><given-names>S. Y.</given-names></name>
+<article-title>Superlattice
+Crystals&#x02013;Mimic, Flexible/Functional Ceramic Membranes: Beyond
+Polymeric Battery Separators</article-title>. <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <elocation-id>1500954</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.201500954</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Choi</surname><given-names>N.-S.</given-names></name>; <name><surname>Yew</surname><given-names>K. H.</given-names></name>; <name><surname>Choi</surname><given-names>W.-U.</given-names></name>; <name><surname>Kim</surname><given-names>S.-S.</given-names></name>
+<article-title>Enhanced
+Electrochemical
+Properties of a Si-based Anode Using an Electrochemically Active Polyamide
+Imide Binder</article-title>. <source>J. Power Sources</source>
+<year>2008</year>, <volume>177</volume>, <fpage>590</fpage>&#x02013;<lpage>594</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2007.11.082</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Chan</surname><given-names>C. K.</given-names></name>; <name><surname>Peng</surname><given-names>H.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>McIlwrath</surname><given-names>K.</given-names></name>; <name><surname>Zhang</surname><given-names>X. F.</given-names></name>; <name><surname>Huggins</surname><given-names>R. A.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>High-Performance
+Lithium
+Battery Anodes Using Silicon Nanowires</article-title>. <source>Nat.
+Nanotechnol.</source>
+<year>2008</year>, <volume>3</volume>, <fpage>31</fpage>&#x02013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2007.411</pub-id>.<pub-id pub-id-type="pmid">18654447</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Winter</surname><given-names>M.</given-names></name>; <name><surname>Nov&#x000e1;k</surname><given-names>P.</given-names></name>; <name><surname>Monnier</surname><given-names>A.</given-names></name>
+<article-title>Graphites for Lithium-Ion Cells:
+The Correlation of the First-Cycle Charge Loss with the Brunauer-Emmett-Teller
+Surface Area</article-title>. <source>J. Electrochem. Soc.</source>
+<year>1998</year>, <volume>145</volume>, <fpage>428</fpage>&#x02013;<lpage>436</lpage>. <pub-id pub-id-type="doi">10.1149/1.1838281</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>McDowell</surname><given-names>M. T.</given-names></name>; <name><surname>Lee</surname><given-names>S. W.</given-names></name>; <name><surname>Nix</surname><given-names>W. D.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>25th Anniversary Article:
+Understanding the Lithiation of Silicon and Other Alloying Anodes
+for Lithium-Ion Batteries</article-title>. <source>Adv. Mater.</source>
+<year>2013</year>, <volume>25</volume>, <fpage>4966</fpage>&#x02013;<lpage>4985</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201301795</pub-id>.<pub-id pub-id-type="pmid">24038172</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Green</surname><given-names>M.</given-names></name>; <name><surname>Fielder</surname><given-names>E.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>; <name><surname>Wachtler</surname><given-names>M.</given-names></name>; <name><surname>Moreno</surname><given-names>J. S.</given-names></name>
+<article-title>Structured
+Silicon Anodes for Lithium Battery Applications</article-title>. <source>Electrochem. Solid-State Lett.</source>
+<year>2003</year>, <volume>6</volume>, <fpage>A75</fpage>&#x02013;<lpage>A79</lpage>. <pub-id pub-id-type="doi">10.1149/1.1563094</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="report" id="cit22"><person-group><name><surname>Bray</surname><given-names>K. L.</given-names></name>; <name><surname>Conover</surname><given-names>D. R.</given-names></name>; <name><surname>Kintner-Meyer</surname><given-names>M. C.</given-names></name>; <name><surname>Viswanathan</surname><given-names>V.</given-names></name>; <name><surname>Ferreira</surname><given-names>S.</given-names></name>; <name><surname>Rose</surname><given-names>D.</given-names></name>; <name><surname>Schoenwald</surname><given-names>D.</given-names></name></person-group><source>Protocol for Uniformly Measuring and
+Expressing the Performance
+of Energy Storage Systems</source>; PNNL-22010; <publisher-name>Pacific
+Northwest National Laboratory (PNNL)</publisher-name>: <publisher-loc>Richland, WA</publisher-loc>, <year>2012</year>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Bussar</surname><given-names>C.</given-names></name>; <name><surname>Moos</surname><given-names>M.</given-names></name>; <name><surname>Alvarez</surname><given-names>R.</given-names></name>; <name><surname>Wolf</surname><given-names>P.</given-names></name>; <name><surname>Thien</surname><given-names>T.</given-names></name>; <name><surname>Chen</surname><given-names>H.</given-names></name>; <name><surname>Cai</surname><given-names>Z.</given-names></name>; <name><surname>Leuthold</surname><given-names>M.</given-names></name>; <name><surname>Sauer</surname><given-names>D. U.</given-names></name>; <name><surname>Moser</surname><given-names>A.</given-names></name>
+<article-title>Optimal Allocation and Capacity of Energy Storage Systems in a Future
+European Power System with 100% Renewable Energy Generation</article-title>. <source>Energy Procedia</source>
+<year>2014</year>, <volume>46</volume>, <fpage>40</fpage>&#x02013;<lpage>47</lpage>. <pub-id pub-id-type="doi">10.1016/j.egypro.2014.01.156</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Lee</surname><given-names>H.</given-names></name>; <name><surname>Jeon</surname><given-names>H.</given-names></name>; <name><surname>Gong</surname><given-names>S.</given-names></name>; <name><surname>Ryou</surname><given-names>M.-H.</given-names></name>; <name><surname>Lee</surname><given-names>Y. M.</given-names></name>
+<article-title>A Facile
+Method to Enhance the Uniformity and Adhesion Properties of Water-Based
+Ceramic Coating Layers on Hydrophobic Polyethylene Separators</article-title>. <source>Appl. Surf. Sci.</source>
+<year>2018</year>, <volume>427</volume>, <fpage>139</fpage>&#x02013;<lpage>146</lpage>. <pub-id pub-id-type="doi">10.1016/j.apsusc.2017.07.276</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Lee</surname><given-names>J.-N.</given-names></name>; <name><surname>Han</surname><given-names>G.-B.</given-names></name>; <name><surname>Ryou</surname><given-names>M.-H.</given-names></name>; <name><surname>Lee</surname><given-names>D. J.</given-names></name>; <name><surname>Song</surname><given-names>J.</given-names></name>; <name><surname>Choi</surname><given-names>J. W.</given-names></name>; <name><surname>Park</surname><given-names>J.-K.</given-names></name>
+<article-title>N-(Triphenylphosphoranylidene)
+Aniline
+as a Novel Electrolyte Additive for High Voltage LiCoO<sub>2</sub> Operations in Lithium Ion Batteries</article-title>. <source>Electrochim.
+Acta</source>
+<year>2011</year>, <volume>56</volume>, <fpage>5195</fpage>&#x02013;<lpage>5200</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2011.03.041</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Ryou</surname><given-names>M. H.</given-names></name>; <name><surname>Lee</surname><given-names>Y. M.</given-names></name>; <name><surname>Park</surname><given-names>J. K.</given-names></name>; <name><surname>Choi</surname><given-names>J. W.</given-names></name>
+<article-title>Mussel-inspired
+Polydopamine-treated Polyethylene Separators for High-power Li-ion
+Batteries</article-title>. <source>Adv. Mater.</source>
+<year>2011</year>, <volume>23</volume>, <fpage>3066</fpage>&#x02013;<lpage>3070</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201100303</pub-id>.<pub-id pub-id-type="pmid">21608049</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Lee</surname><given-names>Y.-S.</given-names></name>; <name><surname>Jeong</surname><given-names>Y. B.</given-names></name>; <name><surname>Kim</surname><given-names>D.-W.</given-names></name>
+<article-title>Cycling Performance of Lithium-ion
+Batteries Assembled with a Hybrid Composite Membrane Prepared by an
+Electrospinning Method</article-title>. <source>J. Power Sources</source>
+<year>2010</year>, <volume>195</volume>, <fpage>6197</fpage>&#x02013;<lpage>6201</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2009.11.012</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Liu</surname><given-names>Q.</given-names></name>; <name><surname>Xia</surname><given-names>M.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>; <name><surname>Tao</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>K.</given-names></name>; <name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Wang</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>D.</given-names></name>
+<article-title>High Performance hybrid Al<sub>2</sub>O<sub>3</sub>/Poly(vinyl alcohol-co-ethylene)
+Nanofibrous Membrane
+for Lithium-ion Battery Separator</article-title>. <source>Electrochim.
+Acta</source>
+<year>2015</year>, <volume>176</volume>, <fpage>949</fpage>&#x02013;<lpage>955</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2015.07.104</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Liang</surname><given-names>X.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Jin</surname><given-names>X.</given-names></name>; <name><surname>Huang</surname><given-names>Z.</given-names></name>; <name><surname>Kang</surname><given-names>F.</given-names></name>
+<article-title>The High Performances
+of SiO<sub>2</sub>/Al<sub>2</sub>O<sub>3</sub>-coated Electrospun
+Polyimide Fibrous Separator for Lithium-ion Battery</article-title>. <source>J. Membr. Sci.</source>
+<year>2015</year>, <volume>493</volume>, <fpage>1</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1016/j.memsci.2015.06.016</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Lee</surname><given-names>Y.</given-names></name>; <name><surname>Ryou</surname><given-names>M.-H.</given-names></name>; <name><surname>Seo</surname><given-names>M.</given-names></name>; <name><surname>Choi</surname><given-names>J. W.</given-names></name>; <name><surname>Lee</surname><given-names>Y. M.</given-names></name>
+<article-title>Effect
+of Polydopamine Surface Coating on Polyethylene Separators as a Function
+of Their Porosity for High-power Li-ion Batteries</article-title>. <source>Electrochim. Acta</source>
+<year>2013</year>, <volume>113</volume>, <fpage>433</fpage>&#x02013;<lpage>438</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2013.09.104</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Choi</surname><given-names>E.-S.</given-names></name>; <name><surname>Lee</surname><given-names>S.-Y.</given-names></name>
+<article-title>Particle Size-dependent,
+Tunable Porous Structure of
+a SiO<sub>2</sub>/Poly(vinylidene fluoride-hexafluoropropylene)-coated
+Poly(ethylene terephthalate) Nonwoven Composite Separator for a Lithium-ion
+Battery</article-title>. <source>J. Mater. Chem.</source>
+<year>2011</year>, <volume>21</volume>, <fpage>14747</fpage>&#x02013;<lpage>14754</lpage>. <pub-id pub-id-type="doi">10.1039/c1jm12246k</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Markovsky</surname><given-names>B.</given-names></name>; <name><surname>Levi</surname><given-names>M. D.</given-names></name>; <name><surname>Aurbach</surname><given-names>D.</given-names></name>
+<article-title>The Basic Electroanalytical Behavior
+of Practical Graphite&#x02013;Lithium Intercalation Electrodes</article-title>. <source>Electrochim. Acta</source>
+<year>1998</year>, <volume>43</volume>, <fpage>2287</fpage>&#x02013;<lpage>2304</lpage>. <pub-id pub-id-type="doi">10.1016/S0013-4686(97)10172-4</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Winter</surname><given-names>M.</given-names></name>; <name><surname>Besenhard</surname><given-names>J. O.</given-names></name>
+<article-title>Electrochemical Lithiation of Tin and Tin-Based Intermetallics
+and Composites</article-title>. <source>Electrochim. Acta</source>
+<year>1999</year>, <volume>45</volume>, <fpage>31</fpage>&#x02013;<lpage>50</lpage>. <pub-id pub-id-type="doi">10.1016/S0013-4686(99)00191-7</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Wachtler</surname><given-names>M.</given-names></name>; <name><surname>Besenhard</surname><given-names>J. O.</given-names></name>; <name><surname>Winter</surname><given-names>M.</given-names></name>
+<article-title>Tin and Tin-based Intermetallics
+as New Anode Materials for Lithium-Ion Cells</article-title>. <source>J. Power Sources</source>
+<year>2001</year>, <volume>94</volume>, <fpage>189</fpage>&#x02013;<lpage>193</lpage>. <pub-id pub-id-type="doi">10.1016/S0378-7753(00)00585-1</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Choi</surname><given-names>S.</given-names></name>; <name><surname>Kim</surname><given-names>J.</given-names></name>; <name><surname>Eom</surname><given-names>M.</given-names></name>; <name><surname>Meng</surname><given-names>X.</given-names></name>; <name><surname>Shin</surname><given-names>D.</given-names></name>
+<article-title>Application of a Carbon
+Nanotube (CNT) Sheet as a Current Collector for All-Solid-State Lithium
+Batteries</article-title>. <source>J. Power Sources</source>
+<year>2015</year>, <volume>299</volume>, <fpage>70</fpage>&#x02013;<lpage>75</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2015.08.081</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Baunach</surname><given-names>M.</given-names></name>; <name><surname>Jaiser</surname><given-names>S.</given-names></name>; <name><surname>Schmelzle</surname><given-names>S.</given-names></name>; <name><surname>Nirschl</surname><given-names>H.</given-names></name>; <name><surname>Scharfer</surname><given-names>P.</given-names></name>; <name><surname>Schabel</surname><given-names>W.</given-names></name>
+<article-title>Delamination Behavior
+of Lithium-Ion Battery Anodes:
+Influence of Drying Temperature During Electrode Processing</article-title>. <source>Drying Technol.</source>
+<year>2016</year>, <volume>34</volume>, <fpage>462</fpage>&#x02013;<lpage>473</lpage>. <pub-id pub-id-type="doi">10.1080/07373937.2015.1060497</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Reyter</surname><given-names>D.</given-names></name>; <name><surname>Rousselot</surname><given-names>S.</given-names></name>; <name><surname>Mazouzi</surname><given-names>D.</given-names></name>; <name><surname>Gauthier</surname><given-names>M.</given-names></name>; <name><surname>Moreau</surname><given-names>P.</given-names></name>; <name><surname>Lestriez</surname><given-names>B.</given-names></name>; <name><surname>Guyomard</surname><given-names>D.</given-names></name>; <name><surname>Rou&#x000e9;</surname><given-names>L.</given-names></name>
+<article-title>An Electrochemically
+Roughened Cu Current Collector for Si-Based Electrode in Li-Ion Batteries</article-title>. <source>J. Power Sources</source>
+<year>2013</year>, <volume>239</volume>, <fpage>308</fpage>&#x02013;<lpage>314</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2013.03.108</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Zhu</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Fu</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>A.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Hu</surname><given-names>Z.</given-names></name>
+<article-title>Improved Electrochemical
+Performance
+of the Silicon/Graphite-Tin Composite Anode Material by Modifying
+the Surface Morphology of the Cu Current Collector</article-title>. <source>Electrochim. Acta</source>
+<year>2014</year>, <volume>146</volume>, <fpage>322</fpage>&#x02013;<lpage>327</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2014.09.075</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Jeon</surname><given-names>H.</given-names></name>; <name><surname>Choi</surname><given-names>J.</given-names></name>; <name><surname>Ryou</surname><given-names>M.-H.</given-names></name>; <name><surname>Lee</surname><given-names>Y. M.</given-names></name>
+<article-title>Comparative Study
+of the Adhesion Properties of Ceramic Composite Separators Using a
+Surface and Interfacial Cutting Analysis System for Lithium-Ion Batteries</article-title>. <source>ACS Omega</source>
+<year>2017</year>, <volume>2</volume>, <fpage>2159</fpage>&#x02013;<lpage>2164</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.7b00493</pub-id>.<pub-id pub-id-type="pmid">31457568</pub-id></mixed-citation></ref></ref-list></back></article>

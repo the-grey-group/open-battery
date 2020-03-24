@@ -1,0 +1,570 @@
+{
+  "id": [
+    "31772158"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31772158"
+  ],
+  "pmcid": [
+    "PMC6879760"
+  ],
+  "doi": [
+    "10.1038/s41467-019-13362-4"
+  ],
+  "title": [
+    "Decoupling of mechanical properties and ionic conductivity in supramolecular lithium ion conductors."
+  ],
+  "authorString": [
+    "Mackanic DG, Yan X, Zhang Q, Matsuhisa N, Yu Z, Jiang Y, Manika T, Lopez J, Yan H, Liu K, Chen X, Cui Y, Bao Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mackanic DG"
+          ],
+          "firstName": [
+            "David G"
+          ],
+          "lastName": [
+            "Mackanic"
+          ],
+          "initials": [
+            "DG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1082-1606",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Stanford University, Shriram Center, 443 Via Ortega, Room 307, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan X"
+          ],
+          "firstName": [
+            "Xuzhou"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6114-5743",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai, 200240, China. xzyan@sjtu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Q"
+          ],
+          "firstName": [
+            "Qiuhong"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5699-2270",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Polymer Science and Engineering, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing, 210093, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Matsuhisa N"
+          ],
+          "firstName": [
+            "Naoji"
+          ],
+          "lastName": [
+            "Matsuhisa"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Stanford University, Shriram Center, 443 Via Ortega, Room 307, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu Z"
+          ],
+          "firstName": [
+            "Zhiao"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8746-1640",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Stanford University, Shriram Center, 443 Via Ortega, Room 307, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang Y"
+          ],
+          "firstName": [
+            "Yuanwen"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Stanford University, Shriram Center, 443 Via Ortega, Room 307, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Manika T"
+          ],
+          "firstName": [
+            "Tuheen"
+          ],
+          "lastName": [
+            "Manika"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Stanford University, Shriram Center, 443 Via Ortega, Room 307, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lopez J"
+          ],
+          "firstName": [
+            "Jeffrey"
+          ],
+          "lastName": [
+            "Lopez"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Stanford University, Shriram Center, 443 Via Ortega, Room 307, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan H"
+          ],
+          "firstName": [
+            "Hongping"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Stanford University, Shriram Center, 443 Via Ortega, Room 307, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, 476 Lomita Mall, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xiaodong"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3312-1664",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Innovative Center for Flexible Devices (iFLEX), School of Materials Science and Engineering, Nanyang Technological University, 50 Nanyang Avenue 639798, Singapore, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Cui Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6103-6352",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, 476 Lomita Mall, Stanford, CA, 94305, USA. yicui@stanford.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Bao Z"
+          ],
+          "firstName": [
+            "Zhenan"
+          ],
+          "lastName": [
+            "Bao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0972-1715",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Stanford University, Shriram Center, 443 Via Ortega, Room 307, Stanford, CA, 94305, USA. zbao@stanford.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0972-1715",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5699-2270",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8746-1640",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6103-6352",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3312-1664",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6114-5743",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1082-1606",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2876326"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "5384"
+  ],
+  "abstractText": [
+    "The emergence of wearable electronics puts batteries closer to the human skin, exacerbating the need for battery materials that are robust, highly ionically conductive, and stretchable. Herein, we introduce a supramolecular design as an effective strategy to overcome the canonical tradeoff between mechanical robustness and ionic conductivity in polymer electrolytes. The supramolecular lithium ion conductor utilizes orthogonally functional H-bonding domains and ion-conducting domains to create a polymer electrolyte with unprecedented toughness (29.3 MJ m-3) and high ionic conductivity (1.2 × 10-4 S cm-1 at 25 °C). Implementation of the supramolecular ion conductor as a binder material allows for the creation of stretchable lithium-ion battery electrodes with strain capability of over 900% via a conventional slurry process. The supramolecular nature of these battery components enables intimate bonding at the electrode-electrolyte interface. Combination of these stretchable components leads to a stretchable battery with a capacity of 1.1 mAh cm-2 that functions even when stretched to 70% strain. The method reported here of decoupling ionic conductivity from mechanical properties opens a promising route to create high-toughness ion transport materials for energy storage applications."
+  ],
+  "affiliation": [
+    "Department of Chemical Engineering, Stanford University, Shriram Center, 443 Via Ortega, Room 307, Stanford, CA, 94305, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-13362-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6879760"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6879760?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-28"
+  ],
+  "firstIndexDate": [
+    "2019-11-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-02"
+  ],
+  "dateOfRevision": [
+    "2020-02-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-26"
+  ],
+  "firstPublicationDate": [
+    "2019-11-26"
+  ]
+}

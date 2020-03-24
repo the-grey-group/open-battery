@@ -1,0 +1,356 @@
+{
+  "id": [
+    "32019248"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32019248"
+  ],
+  "pmcid": [
+    "PMC7075132"
+  ],
+  "doi": [
+    "10.3390/nano10020249"
+  ],
+  "title": [
+    "Bulk-Like SnO2-Fe2O3@Carbon Composite as a High-Performance Anode for Lithium Ion Batteries."
+  ],
+  "authorString": [
+    "Deng J, Dai Y, Xiao Z, Song S, Dai H, Li L, Li J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Deng J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Pharmacy and Biological Engineering, Chengdu University, Chengdu 610106, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dai Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Dai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Sichuan University, Chengdu 610065, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao Z"
+          ],
+          "firstName": [
+            "Zhe"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Institute of New Energy and Low Carbon Technology, Sichuan University, Chengdu 610207, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Song S"
+          ],
+          "firstName": [
+            "Shuang"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Sichuan University, Chengdu 610065, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dai H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Dai"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Sichuan University, Chengdu 610065, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li L"
+          ],
+          "firstName": [
+            "Luming"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "College of Pharmacy and Biological Engineering, Chengdu University, Chengdu 610106, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Sichuan University, Chengdu 610065, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2904497"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomaterials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "NLMid": [
+            "101610216"
+          ],
+          "ISSN": [
+            "2079-4991"
+          ],
+          "ESSN": [
+            "2079-4991"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Boosted power handling and the reduced charging duration of Li ion cells critically rests with ionic/electronic mobility. Ion mobility in electrochemically relevant grains normally stands for an essential restriction of the velocity at which the energy of a cell can be stored/released. To offset sluggish solid-state ionic transport and achieve a superior power/energy density rating, electroactive grains often need exquisite nanoscaling, harming crucial virtues on volumetric packing density, tractability, sustainability, durability, and cost. Unlike elaborate nanostructuring, here we describe that a SnO2-Fe2O3@carbon composite-which adopts a metal oxide particles-intercalated bulk-like configuration-can insert many Li+ ions at elevated speeds, despite its micro-dimensionality. Analysis of charge transport kinetics in this tailor-made architecture unveils both much improved ion travel through compact monolithic substances and the greatly enhanced ion access to surfaces of SnO2/Fe2O3 grains. According to the well-studied battery degradation mechanism, it is that both the effective stress management and internal electric field in our as-prepared sample that result in recommendable capacity, rate behavior, and cyclic lifespan (exhibiting a high reversible capacity of 927 mAh g-1 at 0.2 A g-1 with a capacity retention of 95.1% after 100 cycles and an ultra-stable capacity of 429 mAh g-1 even over 1800 cycles at 3 A g-1). Unique materials and working rationale which ensure the swift (de)lithiation of such micrometer-dimensional monoliths may open a door for various high-power/density usages."
+  ],
+  "affiliation": [
+    "College of Pharmacy and Biological Engineering, Chengdu University, Chengdu 610106, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Carbon",
+        "Lithium ion battery",
+        "Stress Management",
+        "Anode",
+        "Tin Oxide",
+        "High Rate Handling"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nano10020249"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7075132"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7075132?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-02-06"
+  ],
+  "firstIndexDate": [
+    "2020-02-07"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-23"
+  ],
+  "dateOfRevision": [
+    "2020-03-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-30"
+  ],
+  "firstPublicationDate": [
+    "2020-01-30"
+  ]
+}

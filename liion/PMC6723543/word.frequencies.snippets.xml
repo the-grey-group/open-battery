@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6723543/results/word/frequencies/results.xml">
+  <result title="frequency" word="lithium" count="125"/>
+  <result title="frequency" word="LiBF" count="99"/>
+  <result title="frequency" word="-EOEOEA" count="76"/>
+  <result title="frequency" word="GPE" count="62"/>
+  <result title="frequency" word="electrolyte" count="61"/>
+  <result title="frequency" word="Figure" count="57"/>
+  <result title="frequency" word="EOEOEA" count="55"/>
+  <result title="frequency" word="battery" count="50"/>
+  <result title="frequency" word="LiFePO" count="49"/>
+  <result title="frequency" word="polymer" count="48"/>
+  <result title="frequency" word="batteries" count="45"/>
+  <result title="frequency" word="gel" count="39"/>
+  <result title="frequency" word="electrode" count="32"/>
+  <result title="frequency" word="electrolytes" count="30"/>
+  <result title="frequency" word="conductivity" count="29"/>
+  <result title="frequency" word="precursor" count="25"/>
+  <result title="frequency" word="electrochemical" count="24"/>
+  <result title="frequency" word="Lithium" count="22"/>
+  <result title="frequency" word="cellulose" count="22"/>
+  <result title="frequency" word="discharge" count="22"/>
+  <result title="frequency" word="shows" count="22"/>
+  <result title="frequency" word="different" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC7052325/results/word/frequencies/results.xml">
+  <result title="frequency" word="solid" count="51"/>
+  <result title="frequency" word="conductivity" count="46"/>
+  <result title="frequency" word="ion" count="42"/>
+  <result title="frequency" word="ionic" count="42"/>
+  <result title="frequency" word="high" count="32"/>
+  <result title="frequency" word="Chem." count="21"/>
+  <result title="frequency" word="batteries" count="21"/>
+  <result title="frequency" word="electrolyte" count="21"/>
+  <result title="frequency" word="magnesium" count="21"/>
+ </snippets>
+</snippetsTree>

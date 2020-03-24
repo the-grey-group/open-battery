@@ -1,0 +1,391 @@
+{
+  "id": [
+    "31921761"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31921761"
+  ],
+  "pmcid": [
+    "PMC6914760"
+  ],
+  "doi": [
+    "10.3389/fchem.2019.00827"
+  ],
+  "title": [
+    "Methods to Improve Lithium Metal Anode for Li-S Batteries."
+  ],
+  "authorString": [
+    "Xiong X, Yan W, You C, Zhu Y, Chen Y, Fu L, Zhang Y, Yu N, Wu Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xiong X"
+          ],
+          "firstName": [
+            "Xiaosong"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Materials-Oriented Chemical Engineering, School of Energy Science and Engineering, Nanjing Tech University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan W"
+          ],
+          "firstName": [
+            "Wenqi"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Materials-Oriented Chemical Engineering, School of Energy Science and Engineering, Nanjing Tech University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "You C"
+          ],
+          "firstName": [
+            "Chaolin"
+          ],
+          "lastName": [
+            "You"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Materials-Oriented Chemical Engineering, School of Energy Science and Engineering, Nanjing Tech University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu Y"
+          ],
+          "firstName": [
+            "Yusong"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Materials-Oriented Chemical Engineering, School of Energy Science and Engineering, Nanjing Tech University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yuhui"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Materials-Oriented Chemical Engineering, School of Energy Science and Engineering, Nanjing Tech University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu L"
+          ],
+          "firstName": [
+            "Lijun"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Materials-Oriented Chemical Engineering, School of Energy Science and Engineering, Nanjing Tech University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Materials-Oriented Chemical Engineering, School of Energy Science and Engineering, Nanjing Tech University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu N"
+          ],
+          "firstName": [
+            "Nengfei"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Materials-Oriented Chemical Engineering, School of Energy Science and Engineering, Nanjing Tech University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Yuping"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Materials-Oriented Chemical Engineering, School of Energy Science and Engineering, Nanjing Tech University, Nanjing, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2779332"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Front Chem"
+          ],
+          "medlineAbbreviation": [
+            "Front Chem"
+          ],
+          "NLMid": [
+            "101627988"
+          ],
+          "ISSN": [
+            "2296-2646"
+          ],
+          "ESSN": [
+            "2296-2646"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "827"
+  ],
+  "abstractText": [
+    "The lithium-sulfur (Li-S) battery has received a lot of attention because it is characterized by high theoretical energy density (2,600 Wh/kg) and low cost. Though many works on the \"shuttle effect\" of polysulfide have been investigated, lithium metal anode is a more challenging problem, which leads to a short life, low coulombic efficiency, and safety issues related to dendrites. As a result, the amelioration of lithium metal anode is an important means to improve the performance of lithium sulfur battery. In this paper, improvement methods on lithium metal anode for lithium sulfur batteries, including adding electrolyte additives, using solid, and/or gel polymer electrolyte, modifying separators, applying a protective coating, and providing host materials for lithium deposition, are mainly reviewed. In addition, some challenging problems, and further promising directions are also pointed out for future research and development of lithium metal for Li-S batteries."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Materials-Oriented Chemical Engineering, School of Energy Science and Engineering, Nanjing Tech University, Nanjing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Safety",
+        "Dendrite",
+        "coating",
+        "Anode",
+        "Lithium-sulfur Battery",
+        "Gel Polymer Electrolyte"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fchem.2019.00827"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6914760"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6914760?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-11"
+  ],
+  "firstIndexDate": [
+    "2020-01-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-12"
+  ],
+  "dateOfRevision": [
+    "2020-01-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-10"
+  ],
+  "firstPublicationDate": [
+    "2019-12-10"
+  ]
+}

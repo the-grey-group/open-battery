@@ -1,0 +1,321 @@
+{
+  "id": [
+    "31245354"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31245354"
+  ],
+  "pmcid": [
+    "PMC6563756"
+  ],
+  "doi": [
+    "10.3389/fchem.2019.00415"
+  ],
+  "title": [
+    "Template-Free Electrochemical Growth of Ni-Decorated ZnO Nanorod Array: Application to an Anode of Lithium Ion Battery."
+  ],
+  "authorString": [
+    "Park HN, Park SH, Shin JH, Jeong SH, Song JY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Park HN"
+          ],
+          "firstName": [
+            "Han Nah"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "HN"
+          ],
+          "affiliation": [
+            "Center for Convergence Property Measurement, Korea Research Institute of Standards and Science, Daejeon, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park SH"
+          ],
+          "firstName": [
+            "Sun Hwa"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "affiliation": [
+            "Center for Convergence Property Measurement, Korea Research Institute of Standards and Science, Daejeon, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Shin JH"
+          ],
+          "firstName": [
+            "Jeong Ho"
+          ],
+          "lastName": [
+            "Shin"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Center for Convergence Property Measurement, Korea Research Institute of Standards and Science, Daejeon, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jeong SH"
+          ],
+          "firstName": [
+            "Soo-Hwan"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Kyungpook National University, Daegu, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Song JY"
+          ],
+          "firstName": [
+            "Jae Yong"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "affiliation": [
+            "Center for Convergence Property Measurement, Korea Research Institute of Standards and Science, Daejeon, South Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2779332"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Front Chem"
+          ],
+          "medlineAbbreviation": [
+            "Front Chem"
+          ],
+          "NLMid": [
+            "101627988"
+          ],
+          "ISSN": [
+            "2296-2646"
+          ],
+          "ESSN": [
+            "2296-2646"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "415"
+  ],
+  "abstractText": [
+    "ZnO nanorods (NRs) decorated with Ni nanoparticles were synthesized using a template-free electrochemical deposition in an ultra-dilute aqueous electrolyte and a subsequent galvanic reaction. The electrochemical properties of the ZnO NRs as an anode material for rechargeable Li-ion batteries were evaluated for different binder morphologies (film and close-packed spherical particles) of polyvinylidene fluoride (PVDF). Results showed that the close-packed spherical PVDF simultaneously improved electrochemical capacity and cyclability because the free-volume between the spherical PVDF helped to accommodate the volume change in the anode caused by the Li ions discharge and charge processes. Furthermore, the Ni nanoparticles decorated on the surface of ZnO NRs enhanced the electrical conductivity of the ZnO NR anode, which enabled faster electronic and ionic transport at the interface between the electrolyte and the electrode, resulting in improved electrochemical capacity. The free-volume formed by the close-packed spherical PVDF, and the decoration of metal nanoparticles are expected to provide insight on the simultaneous improvement of electrochemical capacity and cyclability in other metal oxide anode nanostructures."
+  ],
+  "affiliation": [
+    "Center for Convergence Property Measurement, Korea Research Institute of Standards and Science, Daejeon, South Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nanorod",
+        "Electrochemical property",
+        "ZnO",
+        "Ni Nanoparticle",
+        "Spherical Pvdf"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fchem.2019.00415"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6563756"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6563756?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-28"
+  ],
+  "firstIndexDate": [
+    "2019-06-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-28"
+  ],
+  "dateOfRevision": [
+    "2019-06-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-06"
+  ],
+  "firstPublicationDate": [
+    "2019-06-06"
+  ]
+}

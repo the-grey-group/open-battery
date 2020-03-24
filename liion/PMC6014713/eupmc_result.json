@@ -1,0 +1,378 @@
+{
+  "id": [
+    "29942858"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29942858"
+  ],
+  "pmcid": [
+    "PMC6014713"
+  ],
+  "doi": [
+    "10.1126/sciadv.aas9820"
+  ],
+  "title": [
+    "Materials for lithium-ion battery safety."
+  ],
+  "authorString": [
+    "Liu K, Liu Y, Lin D, Pei A, Cui Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yayuan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0718-4784",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin D"
+          ],
+          "firstName": [
+            "Dingchang"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9354-5952",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pei A"
+          ],
+          "firstName": [
+            "Allen"
+          ],
+          "lastName": [
+            "Pei"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8930-2125",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cui Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6103-6352",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA 94305, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6103-6352",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0718-4784",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8930-2125",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9354-5952",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2692630"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Science advances"
+          ],
+          "ISOAbbreviation": [
+            "Sci Adv"
+          ],
+          "medlineAbbreviation": [
+            "Sci Adv"
+          ],
+          "NLMid": [
+            "101653440"
+          ],
+          "ISSN": [
+            "2375-2548"
+          ],
+          "ESSN": [
+            "2375-2548"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "eaas9820"
+  ],
+  "abstractText": [
+    "Lithium-ion batteries (LIBs) are considered to be one of the most important energy storage technologies. As the energy density of batteries increases, battery safety becomes even more critical if the energy is released unintentionally. Accidents related to fires and explosions of LIBs occur frequently worldwide. Some have caused serious threats to human life and health and have led to numerous product recalls by manufacturers. These incidents are reminders that safety is a prerequisite for batteries, and serious issues need to be resolved before the future application of high-energy battery systems. This Review aims to summarize the fundamentals of the origins of LIB safety issues and highlight recent key progress in materials design to improve LIB safety. We anticipate that this Review will inspire further improvement in battery safety, especially for emerging LIBs with high-energy density."
+  ],
+  "affiliation": [
+    "Department of Materials Science and Engineering, Stanford University, Stanford, CA 94305, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1126/sciadv.aas9820"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6014713"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6014713?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-27"
+  ],
+  "firstIndexDate": [
+    "2018-06-27"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-28"
+  ],
+  "dateOfRevision": [
+    "2019-05-30"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-22"
+  ],
+  "firstPublicationDate": [
+    "2018-06-22"
+  ]
+}

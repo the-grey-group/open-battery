@@ -1,0 +1,467 @@
+{
+  "id": [
+    "30696835"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30696835"
+  ],
+  "pmcid": [
+    "PMC6351620"
+  ],
+  "doi": [
+    "10.1038/s41467-018-08233-3"
+  ],
+  "title": [
+    "Towards maximized volumetric capacity via pore-coordinated design for large-volume-change lithium-ion battery anodes."
+  ],
+  "authorString": [
+    "Ma J, Sung J, Hong J, Chae S, Kim N, Choi SH, Nam G, Son Y, Kim SY, Ko M, Cho J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ma J"
+          ],
+          "firstName": [
+            "Jiyoung"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5852-3061",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), 50, UNIST-gil, Ulsan, 44919, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Sung J"
+          ],
+          "firstName": [
+            "Jaekyung"
+          ],
+          "lastName": [
+            "Sung"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), 50, UNIST-gil, Ulsan, 44919, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Hong J"
+          ],
+          "firstName": [
+            "Jaehyung"
+          ],
+          "lastName": [
+            "Hong"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Mechanical, Aerospace and Nuclear Engineering, Ulsan National Institute of Science and Technology (UNIST), 50, UNIST-gil, Ulsan, 44919, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Chae S"
+          ],
+          "firstName": [
+            "Sujong"
+          ],
+          "lastName": [
+            "Chae"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6793-0817",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), 50, UNIST-gil, Ulsan, 44919, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim N"
+          ],
+          "firstName": [
+            "Namhyung"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9467-0782",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), 50, UNIST-gil, Ulsan, 44919, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Choi SH"
+          ],
+          "firstName": [
+            "Seong-Hyeon"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), 50, UNIST-gil, Ulsan, 44919, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Nam G"
+          ],
+          "firstName": [
+            "Gyutae"
+          ],
+          "lastName": [
+            "Nam"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), 50, UNIST-gil, Ulsan, 44919, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Son Y"
+          ],
+          "firstName": [
+            "Yoonkook"
+          ],
+          "lastName": [
+            "Son"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Electric Engineering, Chosun University, 309, Pilmun-daero, Dong-gu, Gwangju, 61452, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SY"
+          ],
+          "firstName": [
+            "Sung Youb"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "affiliation": [
+            "School of Mechanical, Aerospace and Nuclear Engineering, Ulsan National Institute of Science and Technology (UNIST), 50, UNIST-gil, Ulsan, 44919, Republic of Korea. sykim@unist.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Ko M"
+          ],
+          "firstName": [
+            "Minseong"
+          ],
+          "lastName": [
+            "Ko"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Metallurgical Engineering, Pukyong National University, Busan, 48547, Republic of Korea. msko876@pknu.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Cho J"
+          ],
+          "firstName": [
+            "Jaephil"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), 50, UNIST-gil, Ulsan, 44919, Republic of Korea. jpcho@unist.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6793-0817",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5852-3061",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9467-0782",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2765184"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "475"
+  ],
+  "abstractText": [
+    "To achieve the urgent requirement for high volumetric energy density in lithium-ion batteries, alloy-based anodes have been spotlighted as next-generation alternatives. Nonetheless, for the veritable accomplishment with regards to high-energy demand, alloy-based anodes must be evaluated considering several crucial factors that determine volumetric capacity. In particular, the electrode swelling upon cycling must be contemplated if these anodes are to replace conventional graphite anodes in terms of volumetric capacity. Herein, we propose macropore-coordinated graphite-silicon composite by incorporating simulation and mathematical calculation of numerical values from experimental data. This unique structure exhibits minimized electrode swelling comparable to conventional graphite under industrial electrode fabrication conditions. Consequently, this hybrid anode, even with high specific capacity (527 mAh g-1) and initial coulombic efficiency (93%) in half-cell, achieves higher volumetric capacity (493.9 mAh cm-3) and energy density (1825.7 Wh L-1) than conventional graphite (361.4 mAh cm-3 and 1376.3 Wh L-1) after 100 cycles in the full-cell configuration."
+  ],
+  "affiliation": [
+    "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), 50, UNIST-gil, Ulsan, 44919, Republic of Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-08233-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6351620"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6351620?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-18"
+  ],
+  "dateOfCreation": [
+    "2019-01-31"
+  ],
+  "firstIndexDate": [
+    "2019-02-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-16"
+  ],
+  "dateOfRevision": [
+    "2020-03-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-29"
+  ],
+  "firstPublicationDate": [
+    "2019-01-29"
+  ]
+}

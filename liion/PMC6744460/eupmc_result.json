@@ -1,0 +1,389 @@
+{
+  "id": [
+    "31519993"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31519993"
+  ],
+  "pmcid": [
+    "PMC6744460"
+  ],
+  "doi": [
+    "10.1038/s41598-019-49616-w"
+  ],
+  "title": [
+    "Lithium-ion Battery Thermal Safety by Early Internal Detection, Prediction and Prevention."
+  ],
+  "authorString": [
+    "Li B, Parekh MH, Adams RA, Adams TE, Love CT, Pol VG, Tomar V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li B"
+          ],
+          "firstName": [
+            "Bing"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "School of Aeronautics and Astronautics, Purdue University, West Lafayette, IN, 47907, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Parekh MH"
+          ],
+          "firstName": [
+            "Mihit H"
+          ],
+          "lastName": [
+            "Parekh"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "affiliation": [
+            "Davidson School of Chemical Engineering, Purdue University, West Lafayette, IN, 47907, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Adams RA"
+          ],
+          "firstName": [
+            "Ryan A"
+          ],
+          "lastName": [
+            "Adams"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Davidson School of Chemical Engineering, Purdue University, West Lafayette, IN, 47907, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Adams TE"
+          ],
+          "firstName": [
+            "Thomas E"
+          ],
+          "lastName": [
+            "Adams"
+          ],
+          "initials": [
+            "TE"
+          ],
+          "affiliation": [
+            "Naval Surface Warfare Center, Crane Division, Crane, IN, 47522, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Love CT"
+          ],
+          "firstName": [
+            "Corey T"
+          ],
+          "lastName": [
+            "Love"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "affiliation": [
+            "U.S. Naval Research Laboratory, Washington, DC, 20375, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pol VG"
+          ],
+          "firstName": [
+            "Vilas G"
+          ],
+          "lastName": [
+            "Pol"
+          ],
+          "initials": [
+            "VG"
+          ],
+          "affiliation": [
+            "Davidson School of Chemical Engineering, Purdue University, West Lafayette, IN, 47907, USA. vpol@purdue.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Tomar V"
+          ],
+          "firstName": [
+            "Vikas"
+          ],
+          "lastName": [
+            "Tomar"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "School of Aeronautics and Astronautics, Purdue University, West Lafayette, IN, 47907, USA. tomar@purdue.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2853330"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "13255"
+  ],
+  "abstractText": [
+    "Temperature rise in Lithium-ion batteries (LIBs) due to solid electrolyte interfaces breakdown, uncontrollable exothermic reactions in electrodes and Joule heating can result in the catastrophic failures such as thermal runaway, which is calling for reliable real-time electrode temperature monitoring. Here, we present a customized LIB setup developed for early detection of electrode temperature rise during simulated thermal runaway tests incorporating a modern additive manufacturing-supported resistance temperature detector (RTD). An advanced RTD is embedded in a 3D printed polymeric substrate and placed behind the electrode current collector of CR2032 coin cells that can sustain harsh electrochemical operational environments (acidic electrolyte without Redox, short-circuiting, leakage etc.) without participating in electrochemical reactions. The internal RTD measured an average 5.8 °C higher temperature inside the cells than the external RTD with almost 10 times faster detection ability, prohibiting thermal runaway events without interfering in the LIBs' operation. A temperature prediction model is developed to forecast battery surface temperature rise stemming from measured internal and external RTD temperature signatures."
+  ],
+  "affiliation": [
+    "School of Aeronautics and Astronautics, Purdue University, West Lafayette, IN, 47907, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "N00014-18-1-2397"
+          ],
+          "agency": [
+            "United States Department of Defense | United States Navy | Office of Naval Research (ONR)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "N00014-16-1-3109"
+          ],
+          "agency": [
+            "United States Department of Defense | United States Navy | Office of Naval Research (ONR)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-49616-w"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6744460"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6744460?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-15"
+  ],
+  "firstIndexDate": [
+    "2019-09-17"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-13"
+  ],
+  "firstPublicationDate": [
+    "2019-09-13"
+  ]
+}

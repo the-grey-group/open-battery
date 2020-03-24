@@ -1,0 +1,344 @@
+{
+  "id": [
+    "32175517"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32175517"
+  ],
+  "pmcid": [
+    "PMC7066648"
+  ],
+  "doi": [
+    "10.1021/acsomega.0c00254"
+  ],
+  "title": [
+    "Cost-Effective Yarn-Shaped Lithium-Ion Battery with High Wearability."
+  ],
+  "authorString": [
+    "Qian X, Qiu R, Lu C, Qiu Y, Wu Z, Wang S, Zhang K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Qian X"
+          ],
+          "firstName": [
+            "Xiangyu"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Textiles, Donghua University, Shanghai 201620, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qiu R"
+          ],
+          "firstName": [
+            "Ruoyu"
+          ],
+          "lastName": [
+            "Qiu"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "College of Science, Donghua University, Shanghai 201620, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu C"
+          ],
+          "firstName": [
+            "Chunhong"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "College of Textiles, Donghua University, Shanghai 201620, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qiu Y"
+          ],
+          "firstName": [
+            "Yiping"
+          ],
+          "lastName": [
+            "Qiu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Textiles, Donghua University, Shanghai 201620, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Z"
+          ],
+          "firstName": [
+            "Zhuangchun"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Institute of Functional Materials, Donghua University, Shanghai 201620, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang S"
+          ],
+          "firstName": [
+            "Shiren"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Industrial and Systems Engineering, Texas A&M University, College Station, Texas 77843, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang K"
+          ],
+          "firstName": [
+            "Kun"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "College of Textiles, Donghua University, Shanghai 201620, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2924692"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "4697-4704"
+  ],
+  "abstractText": [
+    "Because of flexibility, compactness, weavability, and ergonomic design, yarn-shaped lithium-ion batteries (LIBs) have enormous potential applications in wearable electronics. Still, the yarn-shaped LIB with the ability to meet commercialization requirements has never been reported, owing to the current challenge in complex material synthesis technologies, expensive raw material costs, poor safety performance, and nonstandard manufacturing equipment. Herein, we propose a yarn-shaped LIB that meets the aforementioned requirements. With a highly conductive and flexible stainless-steel yarn acting as the current collector, the electrode active materials and the gel electrolyte, which are commercially available at low cost, are uniformly coated onto the stainless-steel yarn by a simple and facile dipping-drying method. Even at different deformation conditions (i.e., bending or knotting), the specific capacity of the yarn-shaped LIB (7 cm long, <2 mm in diameter) assembled from graphite and lithium iron phosphate electrodes is maintained >85%. After charged treatment, it can successfully power up an electronic watch and an electronic thermo-hygrometer. Thanks to the simple preparation process, low cost of raw materials, and good safety performance, this work can promote the commercialization of wearable energy storage devices."
+  ],
+  "affiliation": [
+    "College of Textiles, Donghua University, Shanghai 201620, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.0c00254"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7066648"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7066648?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-17"
+  ],
+  "firstIndexDate": [
+    "2020-03-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-22"
+  ],
+  "dateOfRevision": [
+    "2020-03-20"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-26"
+  ],
+  "firstPublicationDate": [
+    "2020-02-26"
+  ]
+}

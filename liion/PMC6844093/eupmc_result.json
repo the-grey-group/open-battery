@@ -1,0 +1,361 @@
+{
+  "id": [
+    "31720520"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31720520"
+  ],
+  "pmcid": [
+    "PMC6844093"
+  ],
+  "doi": [
+    "10.1021/acsomega.9b02089"
+  ],
+  "title": [
+    "Enhanced Stability Lithium-Ion Battery Based on Optimized Graphene/Si Nanocomposites by Templated Assembly."
+  ],
+  "authorString": [
+    "Liu L, Li X, Zhang G, Zhang Z, Fang C, Ma H, Luo W, Liu Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu L"
+          ],
+          "firstName": [
+            "Long"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Materials and Energy, Guangdong University of Technology, Guangzhou 51006, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xinxi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Materials and Energy, Guangdong University of Technology, Guangzhou 51006, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang G"
+          ],
+          "firstName": [
+            "Guoqing"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "School of Materials and Energy, Guangdong University of Technology, Guangzhou 51006, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Z"
+          ],
+          "firstName": [
+            "Zengyao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Materials and Energy, Guangdong University of Technology, Guangzhou 51006, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fang C"
+          ],
+          "firstName": [
+            "Chenhui"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "School of Materials and Energy, Guangdong University of Technology, Guangzhou 51006, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma H"
+          ],
+          "firstName": [
+            "Hong"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "School of Materials and Energy, Guangdong University of Technology, Guangzhou 51006, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Luo W"
+          ],
+          "firstName": [
+            "Wen"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "School of Materials and Energy, Guangdong University of Technology, Guangzhou 51006, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Z"
+          ],
+          "firstName": [
+            "Zhongyun"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, 311 Ferst Dr. NW, Atlanta, Georgia 30332, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "19"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2881899"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "18195-18202"
+  ],
+  "abstractText": [
+    "Considering the sharp increase in energy demand, Si-based composites have shown promise as high-performance anodes for lithium-ion batteries during the last few years. However, a significant volume change of Si during repetitive cycles may cause technical and security problems that limit the particular application. Here, an optimized reduced graphene oxide/silicon (RGO/Si) composite with excellent stability has been fabricated via a facile templated self-assembly strategy. The active silicon nanoparticles were uniformly supported by graphene that can further form a three-dimensional network to buffer the volume change of Si and produce a stable solid-electrolyte interphase film due to the increased specific surface area and enhanced intermolecular interaction, resulting in an increase of electrical conductivity and structural stability. As the anode electrode material of lithium-ion batteries, the optimized 10RGO/Si-600 composite showed a reversible high capacity of 2317 mA h/g with an initial efficiency of 93.2% and a quite high capacity retention of 85% after 100 cycles at 0.1 A/g rate. Especially, it still displayed a specific capacity of 728 mA h/g after 100 cycles at a reasonably high current density of 2 A/g. This study has proposed the optimized method for developing advanced graphene/Si nanocomposites for enhanced cycling stability lithium-ion batteries."
+  ],
+  "affiliation": [
+    "School of Materials and Energy, Guangdong University of Technology, Guangzhou 51006, PR China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.9b02089"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6844093"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6844093?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-14"
+  ],
+  "firstIndexDate": [
+    "2019-11-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-14"
+  ],
+  "dateOfRevision": [
+    "2019-11-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-22"
+  ],
+  "firstPublicationDate": [
+    "2019-10-22"
+  ]
+}

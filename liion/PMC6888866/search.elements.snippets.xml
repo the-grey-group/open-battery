@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6888866/results/search/elements/results.xml">
+  <result pre="of filaments characteristics prepared for FDM process reported in literature." exact="Helium" post="pycnometer material densities were used for weight-volume conversion. Filaments"/>
+  <result pre="63/26/11 49/35/16 Maurel et al. 42 Graphite/PLA/CSP/PEGDME500 49/33/5/13 37/40/4/19 CSP," exact="Carbon" post="Super P; LFP, LiFePO 4; LMO, LiMn 2O 4;"/>
+  <result pre="42 for the graphite-based negative electrode (0.40 S.cm −1 at 20 °C)." exact="Carbon" post="coating is therefore important when LFP is considered as"/>
+  <result pre="dimethyl ether average Mn~500 (PEGDME500) was supplied by Sigma-Aldrich, USA." exact="Carbon" post="black Timcal Super-P (CSP), (SSA: 62 m 2 g −1) and"/>
+  <result pre="2015 3 385 418 10.1002/ese3.95 12. Scrosati B Garche J" exact="Lithium" post="batteries: Status, prospects and future Journal of Power Sources"/>
+  <result pre="19. Reyes C et al. Three-Dimensional Printing of a Complete" exact="Lithium" post="Ion Battery with Fused Filament Fabrication ACS Applied Energy"/>
+  <result pre="Materials 2018 30 7 10.1002/adma.201703027 52. Turner BN Strong R" exact="Gold" post="SA A review of melt extrusion additive manufacturing processes:"/>
+  <result pre="Dynamics Coupled at Solid-Liquid Electrolyte Interfaces in Porous Nanocomposites of" exact="Carbon" post="Black, Poly(vinylidene fluoride), and gamma-Alumina Journal of Physical Chemistry"/>
+ </snippets>
+</snippetsTree>

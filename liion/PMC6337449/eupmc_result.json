@@ -1,0 +1,346 @@
+{
+  "id": [
+    "30577427"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30577427"
+  ],
+  "pmcid": [
+    "PMC6337449"
+  ],
+  "doi": [
+    "10.3390/ma12010002"
+  ],
+  "title": [
+    "Physicochemical Properties of Cellulose Separators for Lithium Ion Battery: Comparison with Celgard2325."
+  ],
+  "authorString": [
+    "Sheng J, Wang R, Yang R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sheng J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Sheng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Pulp and Paper Engineering, South China University of Technology, Guangzhou 510640, China. s498952506@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang R"
+          ],
+          "firstName": [
+            "Ruibin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "School of Materials and Energy, Center of Emerging Material and Technology, Guangdong University of Technology, Guangzhou 510006, China. wang.rb@gdut.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang R"
+          ],
+          "firstName": [
+            "Rendang"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5928-9852",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Pulp and Paper Engineering, South China University of Technology, Guangzhou 510640, China. rendangyang@163.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5928-9852",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2763447"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "High electrolyte wettability, thermal dimensional stability, and tensile strength are prerequisites for implementing separators in practical applications. In this study, we report on the discovery of nanofibril membranes derived from various plant fibers commonly used in the papermaking industry, for low cost and higher performances than the commercially available Celgard2325 in regard to the application of separators for lithium-ion batteries. Nanofibril membranes showed water contact angles as low as 18°, negligible size change at a heating temperature of 160 °C for 120 min, and tensile strength up to 137.6 MPa. The homogenization was found to strongly contribute to these improved performances. These findings suggest that the plant fiber-derived nanofibril membranes are anticipated to be promising candidates as separators for lithium-ion batteries."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Pulp and Paper Engineering, South China University of Technology, Guangzhou 510640, China. s498952506@163.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017PY007"
+          ],
+          "agency": [
+            "Fundamental Research Funds for the Central Universities"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017YFB0307900"
+          ],
+          "agency": [
+            "National Key Technology R&D Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2016KF0201"
+          ],
+          "agency": [
+            "Open Foundation of Zhejiang Provincial Key Lab for Chem & Bio Processing Technology of Farm Products and Zhejiang Provincial Collaborative Innovation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Tensile strength",
+        "Plant fiber",
+        "Electrolyte Wettability",
+        "Nanofibril Membrane",
+        "Thermal Dimensional Stability"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma12010002"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6337449"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6337449?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-23"
+  ],
+  "firstIndexDate": [
+    "2018-12-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-28"
+  ],
+  "dateOfRevision": [
+    "2019-01-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-20"
+  ],
+  "firstPublicationDate": [
+    "2018-12-20"
+  ]
+}

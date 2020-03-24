@@ -1,0 +1,402 @@
+{
+  "id": [
+    "27833132"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27833132"
+  ],
+  "pmcid": [
+    "PMC5105080"
+  ],
+  "doi": [
+    "10.1038/srep36977"
+  ],
+  "title": [
+    "Multicore-shell nanofiber architecture of polyimide/polyvinylidene fluoride blend for thermal and long-term stability of lithium ion battery separator."
+  ],
+  "authorString": [
+    "Park S, Son CW, Lee S, Kim DY, Park C, Eom KS, Fuller TF, Joh HI, Jo SM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Park S"
+          ],
+          "firstName": [
+            "Sejoon"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Carbon Composite Materials Research Center, Institute of Advanced Composite Materials, Korea Institute of Science and Technology, Jeollabuk-do, 55324, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Son CW"
+          ],
+          "firstName": [
+            "Chung Woo"
+          ],
+          "lastName": [
+            "Son"
+          ],
+          "initials": [
+            "CW"
+          ],
+          "affiliation": [
+            "Carbon Composite Materials Research Center, Institute of Advanced Composite Materials, Korea Institute of Science and Technology, Jeollabuk-do, 55324, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee S"
+          ],
+          "firstName": [
+            "Sungho"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Carbon Composite Materials Research Center, Institute of Advanced Composite Materials, Korea Institute of Science and Technology, Jeollabuk-do, 55324, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim DY"
+          ],
+          "firstName": [
+            "Dong Young"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "DY"
+          ],
+          "affiliation": [
+            "Center for Materials Architecting, Korea Institute of Science and Technology, Hwarang-Ro 14gil-5, Seongbuk-Gu, Seoul 136-791, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park C"
+          ],
+          "firstName": [
+            "Cheolmin"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Yonsei University 50 Yonsei-Ro, Seodaemun-Gu, Seoul 120-749, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Eom KS"
+          ],
+          "firstName": [
+            "Kwang Sup"
+          ],
+          "lastName": [
+            "Eom"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2256-271X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Materials Science &Engineering (SMSE), Gwangju Institute of Science &Technology (GIST), Cheomdangwagiro 123 Gwangju, 61005, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Fuller TF"
+          ],
+          "firstName": [
+            "Thomas F"
+          ],
+          "lastName": [
+            "Fuller"
+          ],
+          "initials": [
+            "TF"
+          ],
+          "affiliation": [
+            "School of Chemical &Bimolecular Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Joh HI"
+          ],
+          "firstName": [
+            "Han-Ik"
+          ],
+          "lastName": [
+            "Joh"
+          ],
+          "initials": [
+            "HI"
+          ],
+          "affiliation": [
+            "Carbon Composite Materials Research Center, Institute of Advanced Composite Materials, Korea Institute of Science and Technology, Jeollabuk-do, 55324, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jo SM"
+          ],
+          "firstName": [
+            "Seong Mu"
+          ],
+          "lastName": [
+            "Jo"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Carbon Composite Materials Research Center, Institute of Advanced Composite Materials, Korea Institute of Science and Technology, Jeollabuk-do, 55324, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2256-271X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2484513"
+      ],
+      "dateOfPublication": [
+        "2016 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "36977"
+  ],
+  "abstractText": [
+    "Li-ion battery, separator, multicoreshell structure, thermal stability, long-term stability. A nanofibrous membrane with multiple cores of polyimide (PI) in the shell of polyvinylidene fluoride (PVdF) was prepared using a facile one-pot electrospinning technique with a single nozzle. Unique multicore-shell (MCS) structure of the electrospun composite fibers was obtained, which resulted from electrospinning a phase-separated polymer composite solution. Multiple PI core fibrils with high molecular orientation were well-embedded across the cross-section and contributed remarkable thermal stabilities to the MCS membrane. Thus, no outbreaks were found in its dimension and ionic resistance up to 200 and 250 °C, respectively. Moreover, the MCS membrane (at ~200 °C), as a lithium ion battery (LIB) separator, showed superior thermal and electrochemical stabilities compared with a widely used commercial separator (~120 °C). The average capacity decay rate of LIB for 500 cycles was calculated to be approximately 0.030 mAh/g/cycle. This value demonstrated exceptional long-term stability compared with commercial LIBs and with two other types (single core-shell and co-electrospun separators incorporating with functionalized TiO2) of PI/PVdF composite separators. The proper architecture and synergy effects of multiple PI nanofibrils as a thermally stable polymer in the PVdF shell as electrolyte compatible polymers are responsible for the superior thermal performance and long-term stability of the LIB."
+  ],
+  "affiliation": [
+    "Carbon Composite Materials Research Center, Institute of Advanced Composite Materials, Korea Institute of Science and Technology, Jeollabuk-do, 55324, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep36977"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5105080"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5105080?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-05-02"
+  ],
+  "dateOfCreation": [
+    "2016-11-12"
+  ],
+  "firstIndexDate": [
+    "2016-11-12"
+  ],
+  "fullTextReceivedDate": [
+    "2016-12-09"
+  ],
+  "dateOfRevision": [
+    "2018-05-02"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-11"
+  ],
+  "firstPublicationDate": [
+    "2016-11-11"
+  ]
+}

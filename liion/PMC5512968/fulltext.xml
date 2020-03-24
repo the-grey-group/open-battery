@@ -1,0 +1,742 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Materials (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Materials (Basel)</journal-id><journal-id journal-id-type="publisher-id">materials</journal-id><journal-title-group><journal-title>Materials</journal-title></journal-title-group><issn pub-type="epub">1996-1944</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5512968</article-id><article-id pub-id-type="doi">10.3390/ma6031138</article-id><article-id pub-id-type="publisher-id">materials-06-01138</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Applications of Carbon Nanotubes for Lithium Ion Battery Anodes</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Xiong</surname><given-names>Zhili</given-names></name></contrib><contrib contrib-type="author"><name><surname>Yun</surname><given-names>Young Soo</given-names></name></contrib><contrib contrib-type="author"><name><surname>Jin</surname><given-names>Hyoung-Joon</given-names></name><xref rid="c1-materials-06-01138" ref-type="corresp">*</xref></contrib></contrib-group><aff id="af1-materials-06-01138">Department of Polymer Science and Engineering, Inha University, Incheon 402-751, Korea; E-Mails: <email>chilebear88@inha.edu</email> (Z.X.); <email>ysyun@inha.edu</email> (Y.S.Y.)</aff><author-notes><corresp id="c1-materials-06-01138"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>hjjin@inha.ac.kr</email>; Tel.: +82-32-860-7483; Fax: +82-32-865-5178.</corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>3</month><year>2013</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2013</year></pub-date><volume>6</volume><issue>3</issue><fpage>1138</fpage><lpage>1158</lpage><history><date date-type="received"><day>21</day><month>2</month><year>2013</year></date><date date-type="rev-recd"><day>18</day><month>3</month><year>2013</year></date><date date-type="accepted"><day>18</day><month>3</month><year>2013</year></date></history><permissions><copyright-statement>&#x000a9; 2013 by the authors.</copyright-statement><copyright-year>2013</copyright-year><license license-type="open-access"><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</ext-link>).</license-p></license></permissions><abstract><p>Carbon nanotubes (CNTs) have displayed great potential as anode materials for lithium ion batteries (LIBs) due to their unique structural, mechanical, and electrical properties. The measured reversible lithium ion capacities of CNT-based anodes are considerably improved compared to the conventional graphite-based anodes. Additionally, the opened structure and enriched chirality of CNTs can help to improve the capacity and electrical transport in CNT-based LIBs. Therefore, the modification of CNTs and design of CNT structure provide strategies for improving the performance of CNT-based anodes. CNTs could also be assembled into free-standing electrodes without any binder or current collector, which will lead to increased specific energy density for the overall battery design. In this review, we discuss the mechanism of lithium ion intercalation and diffusion in CNTs, and the influence of different structures and morphologies on their performance as anode materials for LIBs.</p></abstract><kwd-group><kwd>carbon nanotubes</kwd><kwd>anode</kwd><kwd>lithium-ion battery</kwd><kwd>morphology</kwd></kwd-group></article-meta></front><body><sec><title>1. Introduction</title><p>Traditional energy resources are depleting day after day, and energy storage devices are receiving considerable attention. Lithium ion batteries (LIBs) are representative energy storage devices based on electrochemical energy storage and conversion [<xref rid="B1-materials-06-01138" ref-type="bibr">1</xref>]. With the discovery of highly reversible, low-voltage Li-intercalation carbonaceous materials, Sony realized the commercialization of Li<sub>x</sub>C<sub>6</sub>/Li<sub>1&#x02212;x</sub>CoO<sub>2</sub> cells in 1991 [<xref rid="B1-materials-06-01138" ref-type="bibr">1</xref>]. The favorable electrochemical performance of LIBs regarding energy and power densities, as well as the progress in cell design and manufacturing, have made LIBs greatly successful for mobile electronics. Extensive research has been carried out over the past decade, which has led to substantial progress in materials and chemistries to improve the battery technologies for application.</p><p>LIBs typically consist of a negative electrode (anode), a positive electrode (cathode), and a conducting electrolyte, and store electrical energy in the two electrodes in the form of Li-intercalation compounds. During charging of the LIBs, lithium ions released from the cathode move through the electrolyte and are inserted into the anode. Upon discharging, lithium ions are extracted from the anode and move back to the cathode. Since electrolytes are not responsible for the conduction of free electrons, electrons that complete the half reaction will move through an extra external wire.</p><p>LIBs are noted for their impressively high energy density and high open circuit voltage. Despite superior performance, there are many challenges in the design of LIBs, one of which is improving the capacity and cycle life of the anode materials. Historically, graphite has been commonly used as an anode material for LIBs due to its high electronic (in-plane) conductivity as a consequence of the delocalized &#x003c0;-bonds, and appropriate structure for lithium ion intercalation and diffusion [<xref rid="B2-materials-06-01138" ref-type="bibr">2</xref>]. However, the capacity of LIBs based on graphite as an anode material can be theoretically limited, since lithium ions can only combine with every second carbon hexagon in the graphite sheets. The intercalation of lithium into graphite involves one lithium atom per six carbon atoms, <italic>i.e.</italic>, LiC<sub>6</sub>, leading to a limited specific capacity of 372 mAh/g and an observed capacity of 280&#x02013;330 mAh/g, depending on the type of graphite used [<xref rid="B1-materials-06-01138" ref-type="bibr">1</xref>]. Carbon nanotubes (CNTs), an allotrope of graphite, have been reported to show much improved lithium capacity compared to graphite, due to their unique structures and properties. CNTs have been reported to display conductivities as high as 10<sup>6</sup> S&#x000b7;m<sup>&#x02212;1</sup> and 10<sup>5</sup> S&#x000b7;m<sup>&#x02212;1</sup> for single-walled carbon nanotubes (SWCNTs) and multi-walled carbon nanotubes (MWCNTs), respectively, and high tensile strength up to 60 GPa [<xref rid="B3-materials-06-01138" ref-type="bibr">3</xref>,<xref rid="B4-materials-06-01138" ref-type="bibr">4</xref>,<xref rid="B5-materials-06-01138" ref-type="bibr">5</xref>]. Recently, many investigations have focused on CNT-based anodes for LIBs with varying success, depending on the treatments employed. This paper provides an overview of the recent research of CNTs in LIB anode applications with respect to structural and morphological factors.</p></sec><sec><title>2. Mechanism of Lithium Ion Intercalation and Adsorption in CNTs</title><p>As a promising candidate for LIB anode materials, CNTs have been widely researched with regard to lithium ion intercalation, adsorption, and diffusion, both theoretically and experimentally. It has been suggested that lithium atoms are stored via two mechanisms: intercalation and alloying [<xref rid="B6-materials-06-01138" ref-type="bibr">6</xref>]. We briefly describe the intercalation and diffusion of Li at different sites on CNTs.</p><p>Many studies have been performed in order to investigate the mechanism by which lithium ions are stored in CNTs, including theoretical works [<xref rid="B7-materials-06-01138" ref-type="bibr">7</xref>,<xref rid="B8-materials-06-01138" ref-type="bibr">8</xref>,<xref rid="B9-materials-06-01138" ref-type="bibr">9</xref>,<xref rid="B10-materials-06-01138" ref-type="bibr">10</xref>,<xref rid="B11-materials-06-01138" ref-type="bibr">11</xref>,<xref rid="B12-materials-06-01138" ref-type="bibr">12</xref>,<xref rid="B13-materials-06-01138" ref-type="bibr">13</xref>,<xref rid="B14-materials-06-01138" ref-type="bibr">14</xref>,<xref rid="B15-materials-06-01138" ref-type="bibr">15</xref>,<xref rid="B16-materials-06-01138" ref-type="bibr">16</xref>,<xref rid="B17-materials-06-01138" ref-type="bibr">17</xref>,<xref rid="B18-materials-06-01138" ref-type="bibr">18</xref>,<xref rid="B19-materials-06-01138" ref-type="bibr">19</xref>,<xref rid="B20-materials-06-01138" ref-type="bibr">20</xref>,<xref rid="B21-materials-06-01138" ref-type="bibr">21</xref>,<xref rid="B22-materials-06-01138" ref-type="bibr">22</xref>]. Yang <italic>et al.</italic> [<xref rid="B7-materials-06-01138" ref-type="bibr">7</xref>] proposed a surface mechanism by which the naked surface of CNTs and carbon nanoparticles are able to store lithium species, through investigation of the electrochemical intercalation of lithium into raw end-closed CNTs. Since the CNTs examined were end-caped, and no extra treatments were employed, the lithium adsorbed can only be localized at the surface of CNTs. Zhao <italic>et al.</italic> [<xref rid="B8-materials-06-01138" ref-type="bibr">8</xref>] applied first-principles methods to study the Li intercalation of both zigzag SWCNTs and armchair SWCNTs. They found that both the outside and inside of the nanotubes are susceptible to lithium intercalations, and achieved a high Li density. In order to clarify which sites are more favorable for lithium adsorption, Senani <italic>et al.</italic> [<xref rid="B9-materials-06-01138" ref-type="bibr">9</xref>] investigated the adsorption of lithium ions on the surface of (12,0) SWCNTs by <italic>ab initio</italic> quantum chemical calculations. According to their research, the adsorption of a single lithium ion on the inside of the SWCNTs is favored compared to the outside, since the lithium adsorption energy of one lithium atom on the inside is &#x02212;0.98 eV, while that on the outside is &#x02212;0.86 eV. They have also shown that after the lithium attachment, charge is transferred from lithium ions to CNTs, and the bonds between Li atoms and CNTs have ionic properties. They supposed that the amount of charge transfer should be dependent on the radii of curvature of CNTs. It is thus important to investigate this feature of CNTs with different radii. The multiple attachments of lithium ions on the inside of the CNT model were also researched, and four-lithium insertion into one-layer SWCNTs is the most stable.</p><p>The interstitial spaces of CNT bundles resulting from van der Waals forces are expected to display a higher ability to intercalate lithium ions, and consequently, higher energy storage capacity. This has been demonstrated by Shimoda <italic>et al.</italic> [<xref rid="B10-materials-06-01138" ref-type="bibr">10</xref>] who reported that the reversible Li storage capacity of the chemically etched CNTs bundles was increased. Song <italic>et al.</italic> [<xref rid="B11-materials-06-01138" ref-type="bibr">11</xref>] investigated the intercalation and diffusion of lithium ions in a CNT bundle by <italic>ab initio</italic> molecular dynamics simulations. They found that lithium ions can penetrate quickly into CNTs, and into the interstitial spaces between neighboring CNTs. In this work, a new approach for lithium intercalation and storage was observed, in that lithium ions could remain between two neighboring CNTs. However, lithium ions that are located between three neighboring CNTs have very strong adsorption potentials, which make it difficult to remove lithium ions from the bundles of nanotubes. This corresponded favorably to the irreversible Li storage capacity reported in etched CNT bundles [<xref rid="B10-materials-06-01138" ref-type="bibr">10</xref>].</p><p>As for the diffusion of lithium in the tubes, there exist two directions, the radial direction and the axial direction. Khantha <italic>et al.</italic> [<xref rid="B12-materials-06-01138" ref-type="bibr">12</xref>] studied the interaction and diffusion of lithium ions in (5,5) armchair CNTs using density-functional theory. For a single lithium ion moving in the radial direction, the most favorable positions for Li are along a straight line passing through the center of a six-member carbon ring on one side of the wall, and the midpoint of a C-C bond on the opposite side. After researching the interaction between lithium ions, they found out the interaction energy per Li atom as a function of Li-Li separation clearly indicates an oscillatory character that is especially obvious at larger separations. This can be ascribed to two separate effects, <italic>i.e.</italic>, incomplete screening from the tube and the Li-tube interaction that depends on the position of Li with reference to the hexagonal carbon frame work. Compared to the independent diffusion of individual atoms, the oscillatory ion-ion repulsion favors the concerted diffusion of many Li atoms along the axis. This is consistent with Zhao <italic>et al.&#x02019;s</italic> [<xref rid="B13-materials-06-01138" ref-type="bibr">13</xref>] results, in which Li displays high mobility along the tube axis with energy barrier less than 47 meV, while the diffusion barrier along the radial direction is as high as 380 meV.</p></sec><sec><title>3. CNTs (SWCNTs, MWCNTs): Structural Descriptions and Their Application in Anode Materials for LIBs</title><p>CNTs have generated great interest among researchers as a unique material since their first discovery by Iijima in 1991 using an arc-charge method [<xref rid="B23-materials-06-01138" ref-type="bibr">23</xref>]. They are considered as one-dimensional structures owing to their high aspect ratio, and SWCNTs and MWCNTs are two of the most important structures. The electrical and thermal conductivities of CNTs are as high as 10<sup>4</sup> S m<sup>&#x02212;1</sup> and 6600 W/mk, respectively [<xref rid="B24-materials-06-01138" ref-type="bibr">24</xref>]. The superior mechanical properties of CNTs, with a Young&#x02019;s [<xref rid="B25-materials-06-01138" ref-type="bibr">25</xref>] modulus and tensile strength of 1.2 TPa and 50&#x02013;200 GPa, respectively, make CNTs one of the strongest and stiffest materials. The extraordinary properties and unique structure of both SWCNTs and MWCNTs make them promising materials for a variety of applications [<xref rid="B26-materials-06-01138" ref-type="bibr">26</xref>]. CNTs are especially interesting as one-dimensional hosts for the intercalation of Li, and are regarded as one of the most promising candidates for the anode materials of LIBs.</p><sec><title>3.1. SWCNTs as Anodes for LIBs</title><p>SWCNTs can be envisioned as a rolled-up graphene sheet with diameter ranging from 0.4 to 2 nm, and length up to 1.5 cm [<xref rid="B27-materials-06-01138" ref-type="bibr">27</xref>]. They can be described by a lattice vector (m, n) and a chiral angle, which determine the diameters and chiralities of SWCNTs. Based on the different lattice vectors and chiral angles, CNTs show three chiralities: armchair, zigzag, and chiral. CNTs with (m, m) and (m, 0) types of lattice vectors are termed as &#x0201c;armchair&#x0201d; and &#x0201c;zigzag,&#x0201d; respectively, and are otherwise &#x0201c;chiral&#x0201d;. The chirality of SWCNTs is closely related to the metallic or semiconducting structure of SWCNTs. For an (m, n) nanotube, when the difference between m and n is a multiple of 3, it is metallic; otherwise, the CNT is semiconducting [<xref rid="B25-materials-06-01138" ref-type="bibr">25</xref>,<xref rid="B26-materials-06-01138" ref-type="bibr">26</xref>,<xref rid="B28-materials-06-01138" ref-type="bibr">28</xref>,<xref rid="B29-materials-06-01138" ref-type="bibr">29</xref>,<xref rid="B30-materials-06-01138" ref-type="bibr">30</xref>].</p><p>Since the electronic properties of semiconducting and metallic CNTs differ dramatically, it is expected that the electrochemical properties may differ, including the Li storage properties. In LIB devices, electronic conductivity of the anode materials is important especially in granular media in order to bring the electronic carrier as rapidly as possible from the current collector to the electrolyte [<xref rid="B2-materials-06-01138" ref-type="bibr">2</xref>]. Kawasaki <italic>et al.</italic> [<xref rid="B31-materials-06-01138" ref-type="bibr">31</xref>] obtained two kinds of SWCNTs by attempting several methods, and confirmed that the reversible Li ion storage capacity of metallic SWCNTs is about 5 times greater than that of semiconducting ones, through electrochemical charge-discharge measurements. Some theoretical works have been published regarding the preferential interaction of lithium ions with SWCNTs of different chiralities. Udomvech <italic>et al.</italic> [<xref rid="B32-materials-06-01138" ref-type="bibr">32</xref>] concluded that chirality plays a crucial role in Li-tube interactions, and may therefore possibly affect the application of CNTs in LIBs.</p><p>Recently, various simple and effective methods for large-scale separation of SWCNTs into populations of single-chirality nanotubes have been reported [<xref rid="B33-materials-06-01138" ref-type="bibr">33</xref>,<xref rid="B34-materials-06-01138" ref-type="bibr">34</xref>]. It is believed that as the technique for single-chirality separation of SWCNTs becomes more and more effective, more reports about the electrochemical performance of SWCNTs with different chiralities in LIB anode applications will be available, and the use of the single-chirality SWCNTs in LIBs will contribute to the development of LIB technology.</p></sec><sec><title>3.2. MWCNT as Anode for LIBs</title><p>MWCNTs, with concentric graphene layers spaced 0.34 nm apart, display diameters from 10 to 20 nm and lengths of hundreds of microns [<xref rid="B26-materials-06-01138" ref-type="bibr">26</xref>]. SWCNTs can be described conveniently by chirality vectors. In contrast, the prediction of electronic properties of MWCNTs, which contain multiple layers of graphene sheets that may have different chiralities, is more complicated. However, due to the multiple rolled layers, MWCNTs are able to insert Li ions in a way similar to graphite, making them a promising candidate as an anode material for LIBs. Except for the inter-planar spacing of graphitic sheets that allows for the intercalation/deintercalation of lithium ions, the hollow cores of MWCNTs are also available for lithium ion intercalation. Therefore, the unique structures of MWCNTs should result in a higher capacity than that of graphite. Much work has been done to verify the excellent electrochemical performance of MWCNT-based anode materials in LIBs applications [<xref rid="B35-materials-06-01138" ref-type="bibr">35</xref>,<xref rid="B36-materials-06-01138" ref-type="bibr">36</xref>,<xref rid="B37-materials-06-01138" ref-type="bibr">37</xref>,<xref rid="B38-materials-06-01138" ref-type="bibr">38</xref>,<xref rid="B39-materials-06-01138" ref-type="bibr">39</xref>,<xref rid="B40-materials-06-01138" ref-type="bibr">40</xref>,<xref rid="B41-materials-06-01138" ref-type="bibr">41</xref>,<xref rid="B42-materials-06-01138" ref-type="bibr">42</xref>,<xref rid="B43-materials-06-01138" ref-type="bibr">43</xref>,<xref rid="B44-materials-06-01138" ref-type="bibr">44</xref>,<xref rid="B45-materials-06-01138" ref-type="bibr">45</xref>,<xref rid="B46-materials-06-01138" ref-type="bibr">46</xref>,<xref rid="B47-materials-06-01138" ref-type="bibr">47</xref>,<xref rid="B48-materials-06-01138" ref-type="bibr">48</xref>,<xref rid="B49-materials-06-01138" ref-type="bibr">49</xref>,<xref rid="B50-materials-06-01138" ref-type="bibr">50</xref>,<xref rid="B51-materials-06-01138" ref-type="bibr">51</xref>,<xref rid="B52-materials-06-01138" ref-type="bibr">52</xref>,<xref rid="B53-materials-06-01138" ref-type="bibr">53</xref>,<xref rid="B54-materials-06-01138" ref-type="bibr">54</xref>].</p><p>Shin <italic>et al.</italic> [<xref rid="B35-materials-06-01138" ref-type="bibr">35</xref>] produced relatively pure MWCNTs at moderate temperatures under atmospheric pressure without any preformed substrates. The extremely pure structural characteristic of the MWCNTs produced led to excellent reversibility and small hysteretic loss of the MWCNTs, though with a moderate chemical diffusion coefficient of lithium.</p><p>The exfoliation of MWCNTs, which involves peeling off graphene layers during electrochemical insertion of lithium ions, is a unique phenomenon that happens to MWCNTs due to their unique structure. This process increases the anode surface area and thus the formation of a solid-electrolyte interface (SEI) layer, which leads to an increased irreversible capacity of the anode materials. Zhang <italic>et al.</italic> [<xref rid="B36-materials-06-01138" ref-type="bibr">36</xref>] found that this exfoliation process depends on the inner diameter of the tubes and the wall thickness, as well as the size and concentration of the solvated Li<sup>+</sup> ions. MWCNTs with smaller diameters can be peeled off, resulting in a large irreversible capacity loss in the first cycle. To prevent the exfoliation of graphitic layers, larger CNTs with thicker walls are needed.</p><p>Novel structure designs based on MWCNTs with superior electrochemical performance have also been reported. Kang <italic>et al.</italic> [<xref rid="B37-materials-06-01138" ref-type="bibr">37</xref>] developed a 3-dimensional (3D) anode for LIBs. With higher average solid loading of MWCNTs, the 3D anode shows better electrochemical performance, including higher specific capacity, and better cycle stability and C-rate efficiency, compared to a 2D anode with MWCNTs loaded on 2D Cu foil.</p><p>Welna <italic>et al.</italic> [<xref rid="B38-materials-06-01138" ref-type="bibr">38</xref>] studied the electrochemical properties of vertically aligned MWCNTs and that of non-aligned MWCNTs for comparison. The structure of the aligned MWCNTs provides more sites at which lithium can be adsorbed, and the intimate contact of the MWCNTs in the aligned structure helps to maintain electrical continuity to the current collector. Both of these help to improve the electrochemical performance of an MWCNT-based anode as a high lithium storage capacity of 980 mAh/g in the first cycle was obtained and stabilized at about 750 mAh/g after more than ten cycles, while for the non-aligned MWCNTs, the values reduced to 158 and 58 mAh/g, respectively. The vertically aligned MWCNTs also displayed substantially greater rate capability than the non-aligned ones, which emphasizes the important role that structure order plays in electrode performance.</p></sec></sec><sec><title>4. CNTs of Different Morphologies as Anode for LIBS</title><p>It is well known that the morphology of CNTs is of great importance for the electrochemical performance of LIBs when CNTs are used as anode materials. This means that the defects, lengths, and diameters of CNTs can influence the performance of CNT-based anode materials. Generally, there are two widely applied methods to modify the morphologies of CNTs: chemical etching and ball-milling. These treatments are reported to result in structural changes and the formation of surface functional groups on CNTs. The structural changes, including the lateral defects on the surface of CNTs and the shortening of the length of CNTs, can increase the Li insertion capacity. The diameter of the CNTs can be controlled by adjusting the synthesizing conditions such as temperature, catalyst, pressure, and so on.</p><sec><title>4.1. Defective CNTs as Anode Materials for LIBs.</title><p>Defective CNTs were reported to be more effective for the adsorption and diffusion of lithium ions [<xref rid="B20-materials-06-01138" ref-type="bibr">20</xref>,<xref rid="B54-materials-06-01138" ref-type="bibr">54</xref>,<xref rid="B55-materials-06-01138" ref-type="bibr">55</xref>,<xref rid="B56-materials-06-01138" ref-type="bibr">56</xref>]. Anodes fabricated from pristine CNTs have been proven to suffer from problems with low practical capacities and high irreversible charge loss due to the formation of a solid electrolyte interface (SEI) and other side reactions [<xref rid="B57-materials-06-01138" ref-type="bibr">57</xref>]. The introduction of defects with a proper method is a promising strategy to overcome the drawbacks of pristine CNTs. For this purpose, chemical etching and mechanical ball milling are commonly applied methods.</p><p>CNT defects include holes in the sidewalls, the removal of caps, and fragmentations located at the edges. The presence of holes on the surfaces of CNTs ensures better intercalation and diffusion of lithium ions into the tubes, thereby increasing their capacity. Nishidate <italic>et al.</italic> [<xref rid="B20-materials-06-01138" ref-type="bibr">20</xref>] have investigated the energetics of lithium ion adsorption on defective SWCNTs. The defect formation energy of SWCNTs increases, while the energy barrier for the lithium diffusion lowers as the defective ring becomes large. The results showed that even though lithium had difficulty diffusing into pristine CNTs, as well as n =7 and n = 8 defected CNTs, it was able to diffuse into n = 9 defected CNTs readily. Similarly, by means of <italic>ab initio</italic> calculations, molecular interaction potential (MIP), and MIP with polarization (MIPp) methodologies, Garau <italic>et al.</italic> [<xref rid="B19-materials-06-01138" ref-type="bibr">19</xref>] studied the influence of defects on the diffusion of lithium. <xref ref-type="fig" rid="materials-06-01138-f001">Figure 1</xref> shows different optimized structures of three CNTs, from which the effects of defects on the morphology of CNTs can be observed. The MIP energy map and MIPp energy map was used to help to study which defects facilitate the diffusion of lithium ions. The results indicate that ions can enter nanotubes through topological defects (<xref ref-type="fig" rid="materials-06-01138-f001">Figure 1</xref>) with10-membered rings. The energy barrier for the diffusion through the 9-membered ring is just 9.69 kcal/mol. These results seem to agree with the conclusion by Nishidate <italic>et al.</italic> [<xref rid="B20-materials-06-01138" ref-type="bibr">20</xref>] that larger holes of defects are more favorable for the diffusion of lithium ions.</p><fig id="materials-06-01138-f001" position="float"><label>Figure 1</label><caption><p>HF/4-31G Optimized structures of nanotubes with 8, 9, and 10-membered ring defects. (Reprinted with permission from [<xref rid="B19-materials-06-01138" ref-type="bibr">19</xref>]. Copyright (2003) by the Elsevier).</p></caption><graphic xlink:href="materials-06-01138-g001"/></fig><p>As discussed, defective CNTs facilitate the insertion of Li ions into the tube and enhance the reversible lithium capacity, which has been confirmed by numerous experimental studies. Eom <italic>et al.</italic> [<xref rid="B54-materials-06-01138" ref-type="bibr">54</xref>] studied the effects of chemical processing on the Li insertion into multi-walled carbon nanotubes. After synthesis on supported catalysts by the thermal chemical vapor deposition (CVD) method, MWCNTs were purified and chemically etched for 5&#x02013;20 hours [<xref rid="B54-materials-06-01138" ref-type="bibr">54</xref>]. The structural changes of the etched CNTs can be recognized from the Transmission electron microscope (TEM) image. After chemical etching in nitric acid and sulfuric acid for 5, 10, and 20 hours, the lengths of MWCNTs were reduced, and numerous defects were created on their surfaces. Compared with merely purified MWCNTs, the reversible capacity of the etched MWCNTs is considerably increased, from 351 mAh/g (Li<sub>0.9</sub>C<sub>6</sub>) to 681mAh/g (Li<sub>1.8</sub>C<sub>6</sub>). The irreversible capacitance of the etched MWCNTs was also increased with the increase of the Bruinauer-Emmett-Teller (BET) specific surface area, on which an SEI is formed.</p><p>In another report, Klink <italic>et al.</italic> developed a novel morphology modification method for the gas-phase oxidation of CNTs, which introduces more surface functional groups to CNTs compared to liquid oxidization techniques [<xref rid="B57-materials-06-01138" ref-type="bibr">57</xref>]. In their work, MWCNTs were oxidized by either liquid or gas-phase nitric acid for different durations. In the electrochemical characterizations shown in <xref ref-type="fig" rid="materials-06-01138-f002">Figure 2</xref>, gas-phase oxidized CNTs (g-CNT) show a much lower amount of initial charge loss (172 mAh/g) than liquid-phase oxidized CNTs (l-CNT) (283 mAh/g) originating from the less-pronounced exfoliation, which was probably caused by an increase of surface carbonyl groups. Therefore, it is supposed that the gas-phase oxidized CNTs are more suitable for battery-related applications, since they show a lower specific initial charge loss as well as easy processing and less mechanical degradation.</p><p>In addition to chemical etching with a strong acid, novel chemical methods can be developed to create holes in the walls of CNTs. Oktaviano <italic>et al.</italic> [<xref rid="B53-materials-06-01138" ref-type="bibr">53</xref>] created holes in MWCNTs using CoO<sub>x</sub> as an oxidation catalyst. The production of defects in CNTs was confirmed by the increased I<sub>D</sub>/I<sub>G</sub> ratio compared with the pristine MWCNTs observed with Raman spectroscopy, together with the increased specific surface area of the nano-drilled MWCNTs (DMWCNTs). In the TEM images of both pristine CNTs and DMWCNTs, the existence of holes on the basal plane of CNTs can be clearly observed. Electrochemical characterization was performed using the DMWCNTs, purified CNTs, and pristine CNTs as LIB anodes. The DMWCNT-based anode showed the highest specific discharge capacity of 625 mAh/g at a current density of 25 mAh/g after 20 cycles, while capacities of the pristine and purified MWCNTs were 267 and 421 mAh/g, respectively. The relatively higher capacity of DMWCNTs was considered to be a result of the increased lithium storage sites obtained by opening holes in the sidewalls of the MWCNTs.</p><p>Except for the CNTs with holes on the sidewall, end-opened CNTs can also show improved ability for lithium ion intercalation and diffusion. Yang <italic>et al.</italic> [<xref rid="B55-materials-06-01138" ref-type="bibr">55</xref>] examined the electrochemical intercalation of lithium into closed and opened CNTs separately. The caps of the CNTs were removed in a silica tube between silica wool plugs, and heated under a flow of air at 700 &#x000b0;C. The discharge capacity of the cap-opened CNTs was 450 mAh/g, which was larger than that of closed tubes. This is considered to be a result of the lithium intercalation into the inner core of opened CNTs, which cannot happen with the closed CNTs, the ends of which were capped by graphitic layers. However, the opened CNTs showed poorer cycling performance than the closed CNTs, which was possibly due to the smaller Warburg prefactor value of the closed CNTs.</p><fig id="materials-06-01138-f002" position="float"><label>Figure 2</label><caption><p>(<bold>a</bold>) Derivative of 1st cycle reversible capacity; and (<bold>b</bold>) reversible capacity of g-CNT (carbon nanotube) and l-CNT, divided into three potential areas of graphene layer deintercalation (0.01&#x02013;0.6 V), inner core deinsertion (0.6&#x02013;1.9 V) and extraction from functional groups (1.9&#x02013;3.0 V); ~0.5 mg/cm<sup>2</sup>, 1 M LiPF<sub>6</sub> in 1:1 EC: DEC, 50 mAh/g. (Reprinted with permission from [<xref rid="B57-materials-06-01138" ref-type="bibr">57</xref>]. Copyright (2012) by Elsevier).</p></caption><graphic xlink:href="materials-06-01138-g002"/></fig></sec><sec><title>4.2. CNTs of Different Diameters as Anode Materials for LIBs</title><p>The diameter is another parameter of the structure of CNTs that can affect the lithium adsorption and diffusion, both inside and outside the CNTs [<xref rid="B13-materials-06-01138" ref-type="bibr">13</xref>,<xref rid="B14-materials-06-01138" ref-type="bibr">14</xref>,<xref rid="B18-materials-06-01138" ref-type="bibr">18</xref>,<xref rid="B58-materials-06-01138" ref-type="bibr">58</xref>,<xref rid="B59-materials-06-01138" ref-type="bibr">59</xref>]. As mentioned above, lithium ions intercalated into CNTs will interact with CNTs, and the charge transfer between CNTs and lithium ions will further enhance these interactions [<xref rid="B9-materials-06-01138" ref-type="bibr">9</xref>]. The interaction is related to the curvature of the tubes, and will result in different lithium capacities in CNTs [<xref rid="B18-materials-06-01138" ref-type="bibr">18</xref>]. As for MWCNTs, the diameter is also considered to influence the exfoliation of graphene sheets rolled up to form the multi-layer structure of MWCNTs, and will consequently influence the lithium capacities as well [<xref rid="B36-materials-06-01138" ref-type="bibr">36</xref>].</p><p>Liu <italic>et al.</italic> [<xref rid="B14-materials-06-01138" ref-type="bibr">14</xref>] conducted a first-principles study on lithium absorption in carbon nanotubes. Their Li-absorbed cluster models are shown in the <xref ref-type="fig" rid="materials-06-01138-f003">Figure 3</xref>, with limited numbers of lithium atoms absorbed on both the inside and the outside of the CNTs. The Li absorption energy and binding energy of CNTs are dependent on the CNT diameters. The first-principles total energy calculations of Li absorption into CNTs with various diameters showed that with an increase in tube diameter, the external Li adsorption energy decreases, but the internal Li adsorption energy increases. In addition, when the tube diameter is small, the Li adsorption energy for external lithium absorption is larger than that of internal lithium absorption. When the tube diameter is more than 0.824 nm, the external Li absorption energy is similar to the internal Li absorption energy. As for the binding energy, the values for both the pure and Li-absorbed nanotubes increase with the diameter. A close relationship between Li absorption and the diameter of CNTs was demonstrated.</p><fig id="materials-06-01138-f003" position="float"><label>Figure 3</label><caption><p>(<bold>a</bold>) C<sub>66</sub>H<sub>12</sub>; (<bold>b</bold>) C<sub>88</sub>H<sub>16</sub>; (<bold>c</bold>) C1<sub>10</sub>H<sub>20</sub>; and (<bold>d</bold>) C<sub>132</sub>H<sub>24</sub> cluster models used for the calculations of the pure (3,3), (4,4), (5,5) and (6,6) SWNTs; (<bold>e</bold>) Li<sub>3</sub>C<sub>66</sub>H<sub>12</sub>; (<bold>f</bold>) Li<sub>4</sub>C<sub>88</sub>H<sub>16</sub>; (<bold>g</bold>) Li<sub>5</sub>C<sub>110</sub>H<sub>20</sub>; and (<bold>h</bold>) Li<sub>6</sub>C<sub>132</sub>H<sub>24</sub> cluster models used for the calculations of the Li outside absorption; (<bold>i</bold>) LiC<sub>66</sub>H<sub>12</sub>; (<bold>j</bold>) Li<sub>4</sub>C<sub>88</sub>H<sub>16</sub>; (<bold>k</bold>) Li<sub>5</sub>C<sub>110</sub>H<sub>20</sub>; and (<bold>l</bold>) Li<sub>6</sub>C<sub>132</sub>H<sub>24</sub> cluster models used for the calculations of the Li inside absorption. The figures (a&#x02013;l) are top views from the mouth of nanotubes. The figures m and n are side views of the pure and Li outside-absorbed (6, 6) nanotubes. Three kinds of carbon atoms, denoted by C<sub>1</sub>, C<sub>2</sub> and C<sub>3</sub>, are given in figures. (Reprinted with permission from [<xref rid="B14-materials-06-01138" ref-type="bibr">14</xref>]. Copyright (2004) by Elsevier).</p></caption><graphic xlink:href="materials-06-01138-g003"/></fig><p>More directly, the research performed by Zhao <italic>et al.</italic> [<xref rid="B13-materials-06-01138" ref-type="bibr">13</xref>] showed a clear relationship between the Li/C ratio and the tube diameter. With an increase of the tube diameter, the intercalated lithium atoms tended to form a multi-shell structure (<xref ref-type="fig" rid="materials-06-01138-f004">Figure 4</xref>) at the equilibrium state, composed of coaxial tubes with a linear chain in the axis, which will improve the lithium capacity. Additionally, Garau <italic>et al.</italic> [<xref rid="B18-materials-06-01138" ref-type="bibr">18</xref>] have shown that the interaction potential at the central region is dependent on the diameter of the nanotubes, and CNTs with a diameter of 4.68 &#x000c5; have greater interaction energy, thus making them the best candidate for lithium storage as an anode material of LIBs.</p><fig id="materials-06-01138-f004" position="float"><label>Figure 4</label><caption><p>The variation of Li/C ratio as a function of tube diameter. The equilibrium configurations SWNTs filled with Li atoms are shown in the insets of this figure. White and grey balls represent carbon and Li atoms, respectively. (Reprinted with permission from [<xref rid="B13-materials-06-01138" ref-type="bibr">13</xref>]. Copyright (2005) by Elsevier).</p></caption><graphic xlink:href="materials-06-01138-g004"/></fig><fig id="materials-06-01138-f005" position="float"><label>Figure 5</label><caption><p>FESEM (Field emission scanning electron microscopy) images of the MWCNTs (multiwalled carbon nanotubes) with diameter range of (<bold>a</bold>) 10&#x02013;20 nm; (<bold>b</bold>) 20&#x02013;40 nm; (<bold>c</bold>) 40&#x02013;60 nm; and (<bold>d</bold>) 60&#x02013;100 nm. (Reprinted with permission from [<xref rid="B58-materials-06-01138" ref-type="bibr">58</xref>]. Copyright (2012) by Elsevier).</p></caption><graphic xlink:href="materials-06-01138-g005"/></fig><p>Very recently, Zhang <italic>et al.</italic> [<xref rid="B58-materials-06-01138" ref-type="bibr">58</xref>] performed a study of MWCNTs with different diameters used as anodes for LIBs. Commercial CNTs were confirmed with field emission scanning electron microscopy (FESEM) to display outer diameters of 10&#x02013;20 nm, 20&#x02013;40 nm, 40&#x02013;60 nm, and 60&#x02013;100 nm (<xref ref-type="fig" rid="materials-06-01138-f005">Figure 5</xref>). The difference in the diameter range of the MWCNTs was shown to lead to different electrochemical performance when used as anode materials for LIBs. The 50th charge and discharge curves of the MWCNT electrodes showed that electrode fabricated from CNTs with diameters of 40&#x02013;60 nm displayed better performance, with the highest capacity of 187.4 mAh/g, as well as long cycle life among all the samples, and excellent coulomb efficiency of up to 101.9%.</p></sec><sec><title>4.3. CNTs of Different Lengths for LIB Anode Materials</title><p>Another important influential morphological factor is the length of CNTs, which has also been reported to be able to influence the lithium diffusion of CNTs. The reason for this could be that short CNTs with lateral defects facilitate easier intercalation and deintercalation of Li ions. Lithium ions inserted into CNTs undergo a one-dimensional random walk inside the carbon nanotube, and effective diffusion will decrease if the tube is too long, since the lithium ions are able to enter, but seldom exit [<xref rid="B60-materials-06-01138" ref-type="bibr">60</xref>]. Commonly used chemical etching and ball-milling methods can be used not only to create defects in CNT structures, but also cut CNTs into shorter lengths [<xref rid="B61-materials-06-01138" ref-type="bibr">61</xref>]. However, CNTs produced this way may contain a large amount of surface functional groups, which can lead to substantial voltage hysteresis. Gao <italic>et al.</italic> [<xref rid="B62-materials-06-01138" ref-type="bibr">62</xref>] thought that is can be at least partially related to the kinetics of lithium diffusion in the inner cores of CNTs, and indicated that the hysteresis could be reduced by cutting the nanotubes into shorter segments in their preliminary experiments.</p><p>Shorter CNTs can be synthesized directly under proper conditions. Yang <italic>et al.</italic> [<xref rid="B63-materials-06-01138" ref-type="bibr">63</xref>] led a comparative study of the electrochemical properties of short CNTs and long CNTs as anode materials for LIBs. Short CNTs and long CNTs were synthesized by a co-pyrolysis method [<xref rid="B64-materials-06-01138" ref-type="bibr">64</xref>] and the common CVD [<xref rid="B65-materials-06-01138" ref-type="bibr">65</xref>] technique, respectively. The morphologies of short CNTs (CNT-1) and long CNTs (CNT-2) obtained by TEM images which showed that the short CNTs display a length of 150&#x02013;400 nm, while that of the long CNTs is more than several micrometers. Such large differences in morphology and structure between the two kinds of CNTs have led to different electrochemical performance when used as anode materials for lithium ion batteries. The short CNTs displayed reversible capacities of 266 and 170 mAh/g at current densities of 0.2 and 0.8 mA/cm<sup>2</sup>, respectively, which were almost twice the values obtained with the long CNTs. The kinetics properties have shown that short CNTs display a much lower resistance in a surface film as well as lower charge-transfer resistance than long CNTs. The lithium diffusion coefficients (D<sub>Li</sub>) of both the long and short CNTs decrease as the voltage drops, but for short CNTs, the magnitude of the D<sub>Li</sub> variation was smaller. Consequently, it was proven that short CNTs are a more promising candidate as an anode material for LIBs compared with longer ones.</p><p>A novel solid-state cutting method was developed by Wang <italic>et al.</italic> [<xref rid="B66-materials-06-01138" ref-type="bibr">66</xref>] to prepare short CNTs from conventional micrometer-long entangled CNTs. This solid-state method involves depositing Ni onto CNTs followed by oxidation of Ni at 400 &#x000b0;C. The NiO particles produced then react with CNTs at an even higher temperature of 900 &#x000b0;C, cutting the CNTs into shorter ones. These as-produced short CNTs are about 200 nm in length, as demonstrated by the TEM image in <xref ref-type="fig" rid="materials-06-01138-f006">Figure 6</xref>. Electrochemical tests were performed on the short CNTs, and long and very long CNTs. As is shown in <xref ref-type="fig" rid="materials-06-01138-f007">Figure 7</xref>, the reversible capacity was significantly increased, while the irreversible capacity was slightly increased or even decreased as the length of CNTs decreased. Other electrochemical properties of the short CNTs like smaller electrical resistance and Warburg prefactor result in better rate performance at high current densities.</p><fig id="materials-06-01138-f006" position="float"><label>Figure 6</label><caption><p>Transmission electron microscopy (TEM) and high-resolution TEM images of (<bold>a,b</bold>) very long; (<bold>c,d</bold>) long; and (<bold>e,f</bold>) short CNTs. (Reprinted with permission from [<xref rid="B66-materials-06-01138" ref-type="bibr">66</xref>]. Copyright (2007) by Wiley).</p></caption><graphic xlink:href="materials-06-01138-g006"/></fig><fig id="materials-06-01138-f007" position="float"><label>Figure 7</label><caption><p>Variation of <italic>C</italic><sub>rev</sub> with number of cycles at a current density of 25 mAg<sup>&#x02013;1</sup>. Note that the capacity becomes stable after 30 cycles. (Reprinted with permission from [<xref rid="B66-materials-06-01138" ref-type="bibr">66</xref>]. Copyright (2007) by Wiley).</p></caption><graphic xlink:href="materials-06-01138-g007"/></fig><p>In subsequent work, the same group reported for the first time on the use of the Fe compound FeS as a catalyst to produce short CNTs directly [<xref rid="B67-materials-06-01138" ref-type="bibr">67</xref>]. FeS formed during the process promoted the growth of CNTs and limited their length. The directly grown short CNTs were about 200&#x02013;500 nm in length and 20&#x02013;30 nm in diameter. These directly produced short CNTs, as well as short CNTs from solid-state cutting and conventional long CNTs, were used in electrochemical tests as anodes in LIB devices. The result showed that the reversible capacity (C<sub>rev</sub>) for the long CNTs was 188 mAh/g, while for the directly grown short CNTs and the cut ones, the values were dramatically increased to 502 and 577 mAh/g, respectively (<xref ref-type="fig" rid="materials-06-01138-f008">Figure 8</xref>). The stable charge capacities of 230 mAh/g and 142 mAh/g after 20 cycles for short CNTs and long CNTs, respectively, indicate a much better cyclic performance for the short CNTs. The synthetic technique they presented can be used to produce short CNTs in large amounts, and facilitate a wide range of possible application.</p><fig id="materials-06-01138-f008" position="float"><label>Figure 8</label><caption><p>Performances of different CNTs in Li-ion batteries. Discharge/charge curves of Li insertion/extraction into/from conventional (<bold>a</bold>) long; (<bold>b</bold>) short; and (<bold>c</bold>) cut CNTs for the first and second cycles at a current density of 25 mAg<sup>&#x02212;1</sup>; and (<bold>d</bold>) charge capacities of long and short CNTs as a function of cycle number. (Reprinted with permission from [<xref rid="B67-materials-06-01138" ref-type="bibr">67</xref>]. Copyright (2009) by Elsevier).</p></caption><graphic xlink:href="materials-06-01138-g008a"/><graphic xlink:href="materials-06-01138-g008b"/></fig></sec><sec><title>4.4. Methods of Modifying the Morphology of CNTs</title><p>Considering the importance of the morphologies of CNTs in the application as anodes for LIBs, we once again stress the importance of morphology modification methods. Electron irradiation [<xref rid="B68-materials-06-01138" ref-type="bibr">68</xref>,<xref rid="B69-materials-06-01138" ref-type="bibr">69</xref>,<xref rid="B70-materials-06-01138" ref-type="bibr">70</xref>,<xref rid="B71-materials-06-01138" ref-type="bibr">71</xref>] and ion irradiation [<xref rid="B72-materials-06-01138" ref-type="bibr">72</xref>] can be used to produce well-controlled defects on the surfaces of CNTs at a specific location, since beam energy exceeding 80 eV can displace carbon atoms, which can generate crosslinks between individual CNTs. However, there is difficulty using these methods for preparing well-distributed open holes in the bulk of CNTs, since they can only cause point defects on the CNT structure. Chemical etching and ball-milling are two of the most common methods to modify the morphology of CNTs. Both short CNTs and defective CNTs can be produced via either chemical etching or mechanical cutting, or with a combination of these. The chemical etching of CNTs involves the reaction of CNTs with strong acid (nitric acid, sulfuric acid, <italic>et al.</italic>), which produces a great deal of oxygen-containing groups, leading to the destruction of the structure of CNTs in the form of large amounts of defects. Alternatively, ball-milling treatment for an appropriate time could increase both the reversible capacity and coulombic efficiency of CNTs [<xref rid="B63-materials-06-01138" ref-type="bibr">63</xref>]. However, both the chemical etching and mechanical ball-milling methods usually result in the destruction of graphitic structure, inhomogeneous cutting with long CNTs remaining, and a significant loss of raw materials. As mentioned above, new methods have recently emerged, like the direct growth of short CNTs with specific catalysts, and solid-state cutting by depositing NiO or Fe<sub>2</sub>O<sub>3</sub> particles on CNTs followed by chemical reaction between them at high temperature [<xref rid="B66-materials-06-01138" ref-type="bibr">66</xref>,<xref rid="B67-materials-06-01138" ref-type="bibr">67</xref>]. Compared with conventional chemical etching or ball-milling, these new methods are much more promising for producing short CNTs with narrow length distributions, high dispersion, and low material loss. Additionally, the greater amount of surface functional groups produced using these methods can change the nature of a solid electrolyte interface (SEI), which has an effect on the Li insertion capacity [<xref rid="B73-materials-06-01138" ref-type="bibr">73</xref>]. This is because the surface functional groups can react with the Li ions, forming surface Li carboxylic salt (-COOLi) and/or surface -OLi groups [<xref rid="B54-materials-06-01138" ref-type="bibr">54</xref>]. The SEI formed by Li<sub>2</sub>CO<sub>3</sub> and EC-, DEC-, DMC-, or PC-based electrolytes can be bonded to the -COOLi or -OLi groups, forming chemically bonded SEI (CB-SEI). This CB-SEI has demonstrated the ability to act as a molecular sieve to reduce the access of solvent molecules to the surface of carbonaceous material, thereby reducing the amounts of the irreversible capacitance in the first insertion process, with an increase in stability of a carbonaceous electrode. We assume that new methods based on new catalysts and proper condition control have potential for producing CNT products with desirable morphologies, and should be researched further.</p></sec></sec><sec><title>5. Free-Standing CNT &#x0201c;Papers&#x0201d; for LIB Anodes</title><p>The investigation and development of flexible power sources has motivated the development of flexible, lightweight, binder-free, and current-collector-free electrodes for LIBs [<xref rid="B56-materials-06-01138" ref-type="bibr">56</xref>,<xref rid="B74-materials-06-01138" ref-type="bibr">74</xref>,<xref rid="B75-materials-06-01138" ref-type="bibr">75</xref>,<xref rid="B76-materials-06-01138" ref-type="bibr">76</xref>,<xref rid="B77-materials-06-01138" ref-type="bibr">77</xref>,<xref rid="B78-materials-06-01138" ref-type="bibr">78</xref>,<xref rid="B79-materials-06-01138" ref-type="bibr">79</xref>,<xref rid="B80-materials-06-01138" ref-type="bibr">80</xref>,<xref rid="B81-materials-06-01138" ref-type="bibr">81</xref>]. In conventional methods for fabricating LIB electrodes, binders are introduced to inhibit the collapse of the active materials from metal current collectors, while current collectors are used to maintain the electrode conductivity [<xref rid="B77-materials-06-01138" ref-type="bibr">77</xref>]. The employment of binders and current collectors contributes nothing but dead weight to the lithium storage, which decreases the energy density of LIBs. Free-standing CNT papers can be fabricated from both SWCNTs and MWCNTs, and then used as anodes for LIBs. Compared with conventional electrode material in the bulky form, free-standing paper electrodes have several advantages [<xref rid="B82-materials-06-01138" ref-type="bibr">82</xref>]. First of all, with the removal of the binders and current collector, the dead weight of an electrode is decreased, leading to the increase of usable capacity and specific energy density for the overall battery design. Secondly, the ease of handling the CNT papers makes them readily shaped into various forms required in a variety of flexible and lightweight electronic devices. </p><p>The superior performance of free-standing CNT films was confirmed by a series of work. Chew <italic>et al.</italic> [<xref rid="B40-materials-06-01138" ref-type="bibr">40</xref>] conducted a comparative study of the conductive, free-standing, and binder-free CNT films for application as anode materials in LIBs. The flexible free-standing CNT films were made from three different types of CNTs: single-wall, double-wall, and multi-wall CNTs. The preparation of free-standing CNT films involves dispersing 30 mg of the CNTs and 10 wt% of carbon black into 1 wt% of Triton X-100 surfactant in 60 mL of distilled water, followed by a simple filtration process. <xref ref-type="fig" rid="materials-06-01138-f009">Figure 9</xref> shows that the MWCNT film exhibits a reversible charge of nearly 300 mAh/g, which is much larger than those of SWCNT film and DWCNT film. The coulombic efficiency of MWCNT film (80% in the 2nd cycle) is also much higher than those of the SWCNT film (59%) and the DWCNT film (57%). Therefore, with advantages of relatively low feedstock price, straightforward vacuum filtration preparation processes, and favorable electrochemical performance, MWCNT films are promising candidates for the anodes of next-generation LIBs.</p><fig id="materials-06-01138-f009" position="float"><label>Figure 9</label><caption><p>The electrochemical performance of the freestanding CNT films: (<bold>a</bold>) galvanostatic charge&#x02013;discharge profiles in the 1st cycle; and (<bold>b</bold>) cycling behavior between 0.01 and 2.00 V <italic>vs.</italic> Li/Li<sup>+</sup> at a specific current of 25 mAg<sup>&#x02212;1</sup>. (Reprinted with permission from [<xref rid="B40-materials-06-01138" ref-type="bibr">40</xref>]. Copyright (2009) by Elsevier).</p></caption><graphic xlink:href="materials-06-01138-g009"/></fig><p>Li <italic>et al.</italic> [<xref rid="B77-materials-06-01138" ref-type="bibr">77</xref>] developed a novel approach to fabricate a binder-free and current-collector-free nanoporous CNT-film anode on the separator of an LIB. CNTs-separator was obtained via vacuum filtration of CNT dispersion onto an LIB polypropylene separator. CNTs-Cu was prepared by casting CNT slurry onto Cu foil, followed by drying in a vacuum oven at 90 &#x000b0;C overnight. Galvanostatic charge-discharge tests showed that for the first cycle, the specific capacities of the CNTs-separator were 863 and 281 mAh/g, respectively, while for the CNTs-Cu, the values were 768 and 237 mAh/g, respectively. Further characterization showed that the CNTs-separator displayed much better cycling performance and rate performance. The free-standing CNT films, which display superior electrochemical performance, satisfy the requirements of various flexible and lightweight electronic devices.</p><p>We speak highly of the &#x0201c;paper-like&#x0201d; electrode due to their special advantages over other types of electrodes, as mentioned above. However, attention should also be paid to overcoming existing challenges, such as the first cycle charge loss and paper crystallinity for free-standing CNT-based anodes [<xref rid="B82-materials-06-01138" ref-type="bibr">82</xref>]. In future developments of paper-like electrodes based on CNTs, CNTs could be combined with conducting polymers [<xref rid="B81-materials-06-01138" ref-type="bibr">81</xref>], or other high-capacity anode materials, like silicon [<xref rid="B74-materials-06-01138" ref-type="bibr">74</xref>] or germanium [<xref rid="B79-materials-06-01138" ref-type="bibr">79</xref>]. The flexibility and improved electrochemical performance of these composite film anodes will surely lead to wider application as anodes for LIBs.</p></sec><sec><title>6. Conclusion and Future Prospects</title><p>In recent years, many efforts have been made to fabricate anodes from raw CNTs, in attempts to replace graphite-based anodes. Varying success has been achieved depending on the synthesis methods and treatment methods applied. However, the highly irreversible capacity of CNT-based anodes together with small improvements in lithium storage capacity and cyclability compared with graphite-based anodes make it difficult to use them for replacing graphite-based anodes in LIB anode applications. It seems that the most promising attempts at improving LIB anodes may come from the combination of CNTs with other lithium storage compounds with elaborate nanostructure designs. The lithium storage compounds employed include metals, transitional metal oxides, and other inorganic materials like silicon [<xref rid="B83-materials-06-01138" ref-type="bibr">83</xref>]. Compared with pure carbon-based anode materials, these lithium storage compounds have much higher lithium storage capacities. However, they suffer from problems with relatively low electronic conductivity or volume changes, which have limited their applications in LIB anodes. Taking these problems into consideration, CNTs are being used as additives to enhance the conductivity of these composites and reduce the structural degradation. Even though great progress has been made in this field, we think that further research should be carried forward for designing new and effective nanostructures using high-capacity lithium storage compounds, and taking advantage of the different morphologies of CNTs.</p></sec></body><back><ack><title>Acknowledgments</title><p>This work was supported by the National Research Foundation of Korea Grant funded by the Korean Government (MEST) (NRF-2010-C1AAA001-0029018).</p></ack><ref-list><title>References</title><ref id="B1-materials-06-01138"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Z.-G.</given-names></name><name><surname>Zhang</surname><given-names>J.-L.</given-names></name><name><surname>Kintner-Meyer</surname><given-names>M.C.W.</given-names></name><name><surname>Lu</surname><given-names>X.-C.</given-names></name><name><surname>Choi</surname><given-names>D.-W.</given-names></name><name><surname>Lemmon</surname><given-names>J.P.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name></person-group>
+<article-title>Electrochemical energy storage for green grid</article-title>
+<source>Chem. Rev.</source>
+<year>2011</year>
+<volume>111</volume>
+<fpage>3577</fpage>
+<lpage>3613</lpage>
+<pub-id pub-id-type="doi">10.1021/cr100290v</pub-id>
+<?supplied-pmid 21375330?><pub-id pub-id-type="pmid">21375330</pub-id></element-citation></ref><ref id="B2-materials-06-01138"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaskhedikar</surname><given-names>N.A.</given-names></name><name><surname>Maier</surname><given-names>J.</given-names></name></person-group>
+<article-title>Lithium storage in carbon Nanostructures</article-title>
+<source>Adv. Mater.</source>
+<year>2009</year>
+<volume>21</volume>
+<fpage>2664</fpage>
+<lpage>2680</lpage>
+<pub-id pub-id-type="doi">10.1002/adma.200901079</pub-id>
+</element-citation></ref><ref id="B3-materials-06-01138"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thess</surname><given-names>A.</given-names></name><name><surname>Lee</surname><given-names>R.</given-names></name><name><surname>Nikolaev</surname><given-names>P.</given-names></name><name><surname>Dai</surname><given-names>H.</given-names></name><name><surname>Petit</surname><given-names>P.</given-names></name><name><surname>Robert</surname><given-names>J.</given-names></name><name><surname>Xu</surname><given-names>C.</given-names></name><name><surname>Lee</surname><given-names>Y.H.</given-names></name><name><surname>Kim</surname><given-names>S.G.</given-names></name><name><surname>Rinzler</surname><given-names>A.G.</given-names></name><etal/></person-group>
+<article-title>Crystalline ropes of metallic carbon nanotubes</article-title>
+<source>Science</source>
+<year>1996</year>
+<volume>273</volume>
+<fpage>483</fpage>
+<lpage>487</lpage>
+<pub-id pub-id-type="doi">10.1126/science.273.5274.483</pub-id>
+<?supplied-pmid 8662534?><pub-id pub-id-type="pmid">8662534</pub-id></element-citation></ref><ref id="B4-materials-06-01138"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ando</surname><given-names>Y.</given-names></name><name><surname>Zhao</surname><given-names>X.</given-names></name><name><surname>Shimoyama</surname><given-names>H.</given-names></name><name><surname>Sakai</surname><given-names>G.</given-names></name><name><surname>Kaneto</surname><given-names>K.</given-names></name></person-group>
+<article-title>Physical properties of multiwalled carbon nanotubes</article-title>
+<source>Int. J. Inorg. Mater.</source>
+<year>1999</year>
+<volume>1</volume>
+<fpage>77</fpage>
+<lpage>82</lpage>
+<pub-id pub-id-type="doi">10.1016/S1463-0176(99)00012-5</pub-id>
+</element-citation></ref><ref id="B5-materials-06-01138"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>M.-F.</given-names></name><name><surname>Lourie</surname><given-names>O.</given-names></name><name><surname>Dyer</surname><given-names>M.J.</given-names></name><name><surname>Moloni</surname><given-names>K.</given-names></name><name><surname>Kelly</surname><given-names>T.F.</given-names></name><name><surname>Ruoff</surname><given-names>R.S.</given-names></name></person-group>
+<article-title>Strength and breaking mechanism of multiwalled carbon nanotubes under tensile load</article-title>
+<source>Science</source>
+<year>2000</year>
+<volume>287</volume>
+<fpage>637</fpage>
+<lpage>640</lpage>
+<pub-id pub-id-type="doi">10.1126/science.287.5453.637</pub-id>
+<?supplied-pmid 10649994?><pub-id pub-id-type="pmid">10649994</pub-id></element-citation></ref><ref id="B6-materials-06-01138"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De las Casas</surname><given-names>C.</given-names></name><name><surname>Li</surname><given-names>W.-Z.</given-names></name></person-group>
+<article-title>A review of application of carbon nanotubes for lithium ion battery anode material</article-title>
+<source>J. Power Sources</source>
+<year>2012</year>
+<volume>208</volume>
+<fpage>74</fpage>
+<lpage>85</lpage>
+</element-citation></ref><ref id="B7-materials-06-01138"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Z.-H.</given-names></name><name><surname>Wu</surname><given-names>H.-Q.</given-names></name></person-group>
+<article-title>Electrochemical intercalation of lithium into raw carbon nanotubes</article-title>
+<source>Mater. Chem. Phys.</source>
+<year>2001</year>
+<volume>71</volume>
+<fpage>7</fpage>
+<lpage>11</lpage>
+<pub-id pub-id-type="doi">10.1016/S0254-0584(00)00512-5</pub-id>
+</element-citation></ref><ref id="B8-materials-06-01138"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>J.-J.</given-names></name><name><surname>Buldum</surname><given-names>A.</given-names></name><name><surname>Han</surname><given-names>J.</given-names></name><name><surname>Lu</surname><given-names>J.-P.</given-names></name></person-group>
+<article-title>First-principles study of Li-intercalated carbon nanotube ropes</article-title>
+<source>Phys. Rev. Lett.</source>
+<year>2000</year>
+<volume>85</volume>
+<fpage>1706</fpage>
+<lpage>1709</lpage>
+<pub-id pub-id-type="doi">10.1103/PhysRevLett.85.1706</pub-id>
+<?supplied-pmid 10970594?><pub-id pub-id-type="pmid">10970594</pub-id></element-citation></ref><ref id="B9-materials-06-01138"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Senami</surname><given-names>M.</given-names></name><name><surname>Lkeda</surname><given-names>Y.</given-names></name><name><surname>Fukushima</surname><given-names>A.</given-names></name><name><surname>Tachibana</surname><given-names>A.</given-names></name></person-group>
+<article-title>Theoretical study of adsorption of lithium atom on carbon nanotube</article-title>
+<source>AIP Adv.</source>
+<year>2011</year>
+<volume>1</volume>
+<fpage>042106:1</fpage>
+<lpage>042116:2</lpage>
+<pub-id pub-id-type="doi">10.1063/1.3651182</pub-id>
+</element-citation></ref><ref id="B10-materials-06-01138"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shimoda</surname><given-names>H.</given-names></name><name><surname>Gao</surname><given-names>B.</given-names></name><name><surname>Tang</surname><given-names>X.P.</given-names></name><name><surname>Kleinhammes</surname><given-names>A.</given-names></name><name><surname>Fleming</surname><given-names>L.</given-names></name><name><surname>Wu</surname><given-names>Y.</given-names></name><name><surname>Zhou</surname><given-names>O.</given-names></name></person-group>
+<article-title>Lithium intercalation into opened single-wall carbon nanotubes: Storage capacity and electronic properties</article-title>
+<source>Phys. Rev. Lett.</source>
+<year>2002</year>
+<volume>88</volume>
+<fpage>015502:1</fpage>
+<lpage>015502:4</lpage>
+<pub-id pub-id-type="pmid">11800961</pub-id></element-citation></ref><ref id="B11-materials-06-01138"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Song</surname><given-names>B.</given-names></name><name><surname>Yang</surname><given-names>J.</given-names></name><name><surname>Zhao</surname><given-names>J.</given-names></name><name><surname>Fang</surname><given-names>H.</given-names></name></person-group>
+<article-title>Intercalation and diffusion of lithium ions in a carbon nanotube bundle by <italic>ab initio</italic> molecular dynamics simulations</article-title>
+<source>Energy Environ. Sci.</source>
+<year>2011</year>
+<volume>4</volume>
+<fpage>1379</fpage>
+<lpage>1384</lpage>
+<pub-id pub-id-type="doi">10.1039/c0ee00473a</pub-id>
+</element-citation></ref><ref id="B12-materials-06-01138"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Khantha</surname><given-names>M.</given-names></name><name><surname>Cordero</surname><given-names>N.A.</given-names></name><name><surname>Alonso</surname><given-names>J.A.</given-names></name><name><surname>Cawkwell</surname><given-names>M.</given-names></name><name><surname>Girifalco</surname><given-names>L.A.</given-names></name></person-group>
+<article-title>Interaction and concerted diffusion of lithium in a (5,5) carbon nanotube</article-title>
+<source>Phys. Rev. B</source>
+<year>2008</year>
+<volume>78</volume>
+<fpage>115430:1</fpage>
+<lpage>115430:9</lpage>
+<pub-id pub-id-type="doi">10.1103/PhysRevB.78.115430</pub-id>
+</element-citation></ref><ref id="B13-materials-06-01138"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>M.</given-names></name><name><surname>Xia</surname><given-names>Y.</given-names></name><name><surname>Liu</surname><given-names>X.</given-names></name><name><surname>Tan</surname><given-names>Z.</given-names></name><name><surname>Huang</surname><given-names>B.</given-names></name><name><surname>Li</surname><given-names>F.</given-names></name><name><surname>Ji</surname><given-names>Y.</given-names></name><name><surname>Song</surname><given-names>C.</given-names></name></person-group>
+<article-title>Curvature-induced condensation of lithium confined inside single-walled carbon nanotubes: First-principles calculations</article-title>
+<source>Phys. Lett. A</source>
+<year>2005</year>
+<volume>340</volume>
+<fpage>434</fpage>
+<lpage>439</lpage>
+<pub-id pub-id-type="doi">10.1016/j.physleta.2005.04.026</pub-id>
+</element-citation></ref><ref id="B14-materials-06-01138"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Yukawa</surname><given-names>H.</given-names></name><name><surname>Morinaga</surname><given-names>M.</given-names></name></person-group>
+<article-title>First-principles study on lithium absorption in carbon nanotubes</article-title>
+<source>Comp. Mater. Sci.</source>
+<year>2004</year>
+<volume>30</volume>
+<fpage>50</fpage>
+<lpage>56</lpage>
+<pub-id pub-id-type="doi">10.1016/j.commatsci.2004.01.035</pub-id>
+</element-citation></ref><ref id="B15-materials-06-01138"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>J.</given-names></name><name><surname>Liu</surname><given-names>H.J.</given-names></name><name><surname>Chan</surname><given-names>C.T.</given-names></name></person-group>
+<article-title>Theoretical study of alkali-atom insertion into small-radius carbon nanotubes to form single-atom chains</article-title>
+<source>Phys. Rev. B</source>
+<year>2001</year>
+<volume>64</volume>
+<fpage>085420:1</fpage>
+<lpage>085420:5</lpage>
+</element-citation></ref><ref id="B16-materials-06-01138"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meunier</surname><given-names>V.</given-names></name><name><surname>Kephart</surname><given-names>J.</given-names></name><name><surname>Roland</surname><given-names>C.</given-names></name><name><surname>Bernholc</surname><given-names>J.</given-names></name></person-group>
+<article-title><italic>Ab initio</italic> investigations of lithium diffusion in carbon nanotube systems</article-title>
+<source>Phys. Rev. Lett.</source>
+<year>2002</year>
+<volume>88</volume>
+<fpage>075506:1</fpage>
+<lpage>075506:4</lpage>
+<pub-id pub-id-type="doi">10.1103/PhysRevLett.88.075506</pub-id>
+<pub-id pub-id-type="pmid">11863911</pub-id></element-citation></ref><ref id="B17-materials-06-01138"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dubot</surname><given-names>P.</given-names></name><name><surname>Cenedese</surname><given-names>P.</given-names></name></person-group>
+<article-title>Modeling of molecular hydrogen and lithium adsorption on single-wall carbon nanotubes</article-title>
+<source>Phys. Rev. B</source>
+<year>2001</year>
+<volume>63</volume>
+<fpage>241402:1</fpage>
+<lpage>241402:4</lpage>
+<pub-id pub-id-type="doi">10.1103/PhysRevB.63.241402</pub-id>
+</element-citation></ref><ref id="B18-materials-06-01138"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garau</surname><given-names>C.</given-names></name><name><surname>Frontera</surname><given-names>A.</given-names></name><name><surname>Qui&#x000f1;onero</surname><given-names>D.</given-names></name><name><surname>Costa</surname><given-names>A.</given-names></name><name><surname>Ballester</surname><given-names>P.</given-names></name><name><surname>Deya</surname><given-names>P.M.</given-names></name></person-group>
+<article-title><italic>Ab initio</italic> investigations of lithium diffusion in single-walled carbon nanotubes</article-title>
+<source>Chem. Phys.</source>
+<year>2004</year>
+<volume>297</volume>
+<fpage>85</fpage>
+<lpage>91</lpage>
+<pub-id pub-id-type="doi">10.1016/j.chemphys.2003.10.004</pub-id>
+</element-citation></ref><ref id="B19-materials-06-01138"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garau</surname><given-names>C.</given-names></name><name><surname>Frontera</surname><given-names>A.</given-names></name><name><surname>Quinonero</surname><given-names>D.</given-names></name><name><surname>Costa</surname><given-names>A.</given-names></name><name><surname>Ballester</surname><given-names>P.</given-names></name><name><surname>Deya</surname><given-names>P.M.</given-names></name></person-group>
+<article-title>Lithium diffusion in single-walled carbon nanotubes: a theoretical study</article-title>
+<source>Chem. Phys. Lett.</source>
+<year>2003</year>
+<volume>374</volume>
+<fpage>548</fpage>
+<lpage>555</lpage>
+<pub-id pub-id-type="doi">10.1016/S0009-2614(03)00748-6</pub-id>
+</element-citation></ref><ref id="B20-materials-06-01138"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ishidate</surname><given-names>K.N.</given-names></name><name><surname>Hasegawa</surname><given-names>M.</given-names></name></person-group>
+<article-title>Energetics of lithium ion adsorption on defective carbon nanotubes</article-title>
+<source>Phys. Rev. B</source>
+<year>2005</year>
+<volume>71</volume>
+<fpage>245418:1</fpage>
+<lpage>245418:6</lpage>
+</element-citation></ref><ref id="B21-materials-06-01138"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ishidate</surname><given-names>K.N.</given-names></name><name><surname>Sasaki</surname><given-names>K.</given-names></name><name><surname>Oikawa</surname><given-names>Y.</given-names></name><name><surname>Baba</surname><given-names>M.</given-names></name><name><surname>Hasegawa</surname><given-names>M.</given-names></name></person-group>
+<article-title>Density functional electronic structure calculations of lithium ion adsorption on defective carbon nanotubes</article-title>
+<source>J. Surf. Sci. Nanotech.</source>
+<year>2005</year>
+<volume>3</volume>
+<fpage>358</fpage>
+<lpage>361</lpage>
+<pub-id pub-id-type="doi">10.1380/ejssnt.2005.358</pub-id>
+</element-citation></ref><ref id="B22-materials-06-01138"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fagan</surname><given-names>S.B.</given-names></name><name><surname>Guerini</surname><given-names>S.</given-names></name><name><surname>Mendes Filho</surname><given-names>J.</given-names></name><name><surname>Lemos</surname><given-names>V.</given-names></name></person-group>
+<article-title>Lithium intercalation into single-wall carbon nanotube bundles</article-title>
+<source>Microelectron. J.</source>
+<year>2005</year>
+<volume>36</volume>
+<fpage>499</fpage>
+<lpage>501</lpage>
+<pub-id pub-id-type="doi">10.1016/j.mejo.2005.02.059</pub-id>
+</element-citation></ref><ref id="B23-materials-06-01138"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iijima</surname><given-names>S.</given-names></name></person-group>
+<article-title>Helical microtubules of graphitic carbon</article-title>
+<source>Nature</source>
+<year>1991</year>
+<volume>354</volume>
+<fpage>56</fpage>
+<lpage>58</lpage>
+<pub-id pub-id-type="doi">10.1038/354056a0</pub-id>
+</element-citation></ref><ref id="B24-materials-06-01138"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Raffaelle</surname><given-names>R.P.</given-names></name><name><surname>Landi</surname><given-names>B.J.</given-names></name><name><surname>Harris</surname><given-names>J.D.</given-names></name><name><surname>Bailey</surname><given-names>S.G.</given-names></name><name><surname>Hepp</surname><given-names>A.F.</given-names></name></person-group>
+<article-title>Carbon nanotubes for power applications</article-title>
+<source>Mater. Sci. Eng. B</source>
+<year>2005</year>
+<volume>116</volume>
+<fpage>233</fpage>
+<lpage>243</lpage>
+<pub-id pub-id-type="doi">10.1016/j.mseb.2004.09.034</pub-id>
+</element-citation></ref><ref id="B25-materials-06-01138"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Qian</surname><given-names>D.</given-names></name><name><surname>Wagner</surname><given-names>G.J.</given-names></name><name><surname>Liu</surname><given-names>W.K.</given-names></name><name><surname>Yu</surname><given-names>M.F.</given-names></name><name><surname>Ruoff</surname><given-names>R.S.</given-names></name></person-group>
+<article-title>Mechanics of carbon nanotubes</article-title>
+<source>Appl. Mech. Rev.</source>
+<year>2002</year>
+<volume>55</volume>
+<fpage>495</fpage>
+<lpage>533</lpage>
+<pub-id pub-id-type="doi">10.1115/1.1490129</pub-id>
+</element-citation></ref><ref id="B26-materials-06-01138"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dai</surname><given-names>H.</given-names></name></person-group>
+<article-title>Carbon nanotubes: Opportunities and challenges</article-title>
+<source>Surf. Sci.</source>
+<year>2002</year>
+<volume>500</volume>
+<fpage>218</fpage>
+<lpage>241</lpage>
+<pub-id pub-id-type="doi">10.1016/S0039-6028(01)01558-8</pub-id>
+</element-citation></ref><ref id="B27-materials-06-01138"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huang</surname><given-names>S.</given-names></name><name><surname>Woodson</surname><given-names>M.</given-names></name><name><surname>Smalley</surname><given-names>R.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name></person-group>
+<article-title>Growth mechanism of oriented long single walled carbon nanotubes using &#x0201c;fast-heating&#x0201d; chemical vapor deposition process</article-title>
+<source>Nano Lett.</source>
+<year>2004</year>
+<volume>4</volume>
+<fpage>1025</fpage>
+<lpage>1028</lpage>
+<pub-id pub-id-type="doi">10.1021/nl049691d</pub-id>
+</element-citation></ref><ref id="B28-materials-06-01138"><label>28.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Dresselhaus</surname><given-names>M.S.</given-names></name><name><surname>Dresselhaus</surname><given-names>G.</given-names></name><name><surname>Eklund</surname><given-names>P.C.</given-names></name></person-group>
+<source>Science of Fullerenes and Carbon Nanotubes</source>
+<publisher-name>Academic Press</publisher-name>
+<publisher-loc>San Diego, CA, USA</publisher-loc>
+<year>1996</year>
+</element-citation></ref><ref id="B29-materials-06-01138"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Qin</surname><given-names>L.-C.</given-names></name></person-group>
+<article-title>Determination of the chiral indices (n, m) of carbon nanotubes by electron diffraction</article-title>
+<source>Phys. Chem. Chem. Phys.</source>
+<year>2007</year>
+<volume>9</volume>
+<fpage>31</fpage>
+<lpage>48</lpage>
+<pub-id pub-id-type="doi">10.1039/b614121h</pub-id>
+<?supplied-pmid 17164886?><pub-id pub-id-type="pmid">17164886</pub-id></element-citation></ref><ref id="B30-materials-06-01138"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hodge</surname><given-names>S.A.</given-names></name><name><surname>Bayazit</surname><given-names>M.K.</given-names></name><name><surname>Coleman</surname><given-names>K.S.</given-names></name><name><surname>Shaffer</surname><given-names>M.S.P.</given-names></name></person-group>
+<article-title>Unweaving the rainbow: A review of the relationship between single-walled carbon nanotube molecular structures and their chemical reactivity</article-title>
+<source>Chem. Soc. Rev.</source>
+<year>2012</year>
+<volume>41</volume>
+<fpage>4409</fpage>
+<lpage>4429</lpage>
+<pub-id pub-id-type="doi">10.1039/c2cs15334c</pub-id>
+<?supplied-pmid 22513653?><pub-id pub-id-type="pmid">22513653</pub-id></element-citation></ref><ref id="B31-materials-06-01138"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kawasaki</surname><given-names>S.</given-names></name><name><surname>Hara</surname><given-names>T.</given-names></name><name><surname>Iwai</surname><given-names>Y.</given-names></name><name><surname>Suzuki</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Metallic and semiconducting single-walled carbon nanotubes as the anode material of Li ion secondary battery</article-title>
+<source>Mater. Lett.</source>
+<year>2008</year>
+<volume>62</volume>
+<fpage>2917</fpage>
+<lpage>2920</lpage>
+<pub-id pub-id-type="doi">10.1016/j.matlet.2008.01.088</pub-id>
+</element-citation></ref><ref id="B32-materials-06-01138"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Udomvech</surname><given-names>A.</given-names></name><name><surname>Kerdcharoen</surname><given-names>T.</given-names></name></person-group>
+<article-title>Theoretical investigation of lithium-atom insertion into ultra-small diameter carbon nanotubes</article-title>
+<source>J. Korean Phys. Soc.</source>
+<year>2008</year>
+<volume>52</volume>
+<fpage>1350</fpage>
+<lpage>1354</lpage>
+<pub-id pub-id-type="doi">10.3938/jkps.52.1350</pub-id>
+</element-citation></ref><ref id="B33-materials-06-01138"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>H.</given-names></name><name><surname>Nishide</surname><given-names>D.</given-names></name><name><surname>Tanaka</surname><given-names>T.</given-names></name><name><surname>Kataura</surname><given-names>H.</given-names></name></person-group>
+<article-title>Large-scale single-chirality separation of single-wall carbon nanotubes by simple gel Chromatography</article-title>
+<source>Nat. Commun.</source>
+<year>2011</year>
+<volume>2</volume>
+<fpage>309</fpage>
+<lpage>317</lpage>
+<pub-id pub-id-type="doi">10.1038/ncomms1313</pub-id>
+<?supplied-pmid 21556063?><pub-id pub-id-type="pmid">21556063</pub-id></element-citation></ref><ref id="B34-materials-06-01138"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Krupke</surname><given-names>R.</given-names></name><name><surname>Hennrich</surname><given-names>F.</given-names></name><name><surname>Lohneysen</surname><given-names>H.V.</given-names></name><name><surname>Kappes</surname><given-names>M.M.</given-names></name></person-group>
+<article-title>Separation of metallic from semiconducting single-walled carbon nanotubes</article-title>
+<source>Science</source>
+<year>2003</year>
+<volume>301</volume>
+<fpage>344</fpage>
+<lpage>347</lpage>
+<pub-id pub-id-type="doi">10.1126/science.1086534</pub-id>
+<?supplied-pmid 12829788?><pub-id pub-id-type="pmid">12829788</pub-id></element-citation></ref><ref id="B35-materials-06-01138"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shin</surname><given-names>H.-C.</given-names></name><name><surname>Liu</surname><given-names>M.</given-names></name><name><surname>Sadanadan</surname><given-names>B.</given-names></name><name><surname>Rao</surname><given-names>A.M.</given-names></name></person-group>
+<article-title>Electrochemical insertion of lithium into multi-walled carbon nanotubes prepared by catalytic decomposition</article-title>
+<source>J. Power Sources</source>
+<year>2002</year>
+<volume>112</volume>
+<fpage>216</fpage>
+<lpage>221</lpage>
+<pub-id pub-id-type="doi">10.1016/S0378-7753(02)00366-X</pub-id>
+</element-citation></ref><ref id="B36-materials-06-01138"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>D.</given-names></name><name><surname>Zhao</surname><given-names>Y.</given-names></name><name><surname>Goodenough</surname><given-names>J.B.</given-names></name><name><surname>Lu</surname><given-names>Y.</given-names></name><name><surname>Chen</surname><given-names>C.</given-names></name><name><surname>Wang</surname><given-names>L.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name></person-group>
+<article-title>Exfoliation from carbon nanotubes versus tube size on lithium insertion</article-title>
+<source>Electrochem. Commun.</source>
+<year>2011</year>
+<volume>13</volume>
+<fpage>125</fpage>
+<lpage>128</lpage>
+<pub-id pub-id-type="doi">10.1016/j.elecom.2010.11.031</pub-id>
+</element-citation></ref><ref id="B37-materials-06-01138"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kang</surname><given-names>C.</given-names></name><name><surname>Lahiri</surname><given-names>I.</given-names></name><name><surname>Baskaran</surname><given-names>R.</given-names></name><name><surname>Kim</surname><given-names>W.-G.</given-names></name><name><surname>Sun</surname><given-names>Y.-K.</given-names></name><name><surname>Choi</surname><given-names>W.</given-names></name></person-group>
+<article-title>3-dimensional carbon nanotube for Li-ion battery anode</article-title>
+<source>J. Power Sources</source>
+<year>2012</year>
+<volume>219</volume>
+<fpage>364</fpage>
+<lpage>370</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2012.07.050</pub-id>
+</element-citation></ref><ref id="B38-materials-06-01138"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Welna</surname><given-names>D.T.</given-names></name><name><surname>Qu</surname><given-names>L.</given-names></name><name><surname>Taylor</surname><given-names>B.E.</given-names></name><name><surname>Dai</surname><given-names>L.</given-names></name><name><surname>Durstock</surname><given-names>M.F.</given-names></name></person-group>
+<article-title>Vertically aligned carbon nanotube electrodes for lithium-ion batteries</article-title>
+<source>J. Power Sources</source>
+<year>2011</year>
+<volume>196</volume>
+<fpage>1455</fpage>
+<lpage>1460</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2010.08.003</pub-id>
+</element-citation></ref><ref id="B39-materials-06-01138"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Varzi</surname><given-names>A.</given-names></name><name><surname>T&#x000e4;ubert</surname><given-names>C.</given-names></name><name><surname>Wohlfahrt-Mehrens</surname><given-names>M.</given-names></name><name><surname>Kreis</surname><given-names>M.</given-names></name><name><surname>Sch&#x000fc;tz</surname><given-names>W.</given-names></name></person-group>
+<article-title>Study of multi-walled carbon nanotubes for lithium-ion battery electrodes</article-title>
+<source>J. Power Sources</source>
+<year>2011</year>
+<volume>196</volume>
+<fpage>3303</fpage>
+<lpage>3309</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2010.11.101</pub-id>
+</element-citation></ref><ref id="B40-materials-06-01138"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chew</surname><given-names>S.-Y.</given-names></name><name><surname>Ng</surname><given-names>S.-H.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Novak</surname><given-names>P.</given-names></name><name><surname>Krumeich</surname><given-names>F.</given-names></name><name><surname>Chou</surname><given-names>S.-L.</given-names></name><name><surname>Chen</surname><given-names>J.</given-names></name><name><surname>Liu</surname><given-names>H.-K.</given-names></name></person-group>
+<article-title>Flexible free-standing carbon nanotube films for model lithium-ion batteries</article-title>
+<source>Carbon</source>
+<year>2009</year>
+<volume>47</volume>
+<fpage>2976</fpage>
+<lpage>2983</lpage>
+<pub-id pub-id-type="doi">10.1016/j.carbon.2009.06.045</pub-id>
+</element-citation></ref><ref id="B41-materials-06-01138"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Frackowiak</surname><given-names>E.</given-names></name><name><surname>Gautier</surname><given-names>S.</given-names></name><name><surname>Gaucher</surname><given-names>H.</given-names></name><name><surname>Bonnamy</surname><given-names>S.</given-names></name><name><surname>Beguin</surname><given-names>F.</given-names></name></person-group>
+<article-title>Electtrochemical storage of lithium multiwalled carbon nanotubes</article-title>
+<source>Carbon</source>
+<year>1999</year>
+<volume>37</volume>
+<fpage>61</fpage>
+<lpage>69</lpage>
+<pub-id pub-id-type="doi">10.1016/S0008-6223(98)00187-0</pub-id>
+</element-citation></ref><ref id="B42-materials-06-01138"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sheem</surname><given-names>K.</given-names></name><name><surname>Lee</surname><given-names>Y.H.</given-names></name><name><surname>Lim</surname><given-names>H.S.</given-names></name></person-group>
+<article-title>High-density positive electrodes containing carbon nanotubes for use in Li-ion cells</article-title>
+<source>J. Power Sources</source>
+<year>2006</year>
+<volume>158</volume>
+<fpage>1425</fpage>
+<lpage>1430</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2005.10.077</pub-id>
+</element-citation></ref><ref id="B43-materials-06-01138"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guo</surname><given-names>Z.P.</given-names></name><name><surname>Zhao</surname><given-names>Z.W.</given-names></name><name><surname>Liu</surname><given-names>H.K.</given-names></name><name><surname>Dou</surname><given-names>S.X.</given-names></name></person-group>
+<article-title>Electrochemical lithiation and de-lithiation of MWNT&#x02013;Sn/SnNi nanocomposites</article-title>
+<source>Carbon</source>
+<year>2005</year>
+<volume>43</volume>
+<fpage>1392</fpage>
+<lpage>1399</lpage>
+<pub-id pub-id-type="doi">10.1016/j.carbon.2005.01.008</pub-id>
+</element-citation></ref><ref id="B44-materials-06-01138"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lin</surname><given-names>K.</given-names></name><name><surname>Xu</surname><given-names>Y.</given-names></name><name><surname>He</surname><given-names>G.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name></person-group>
+<article-title>The kinetic and thermodynamic analysis of Li ion in multi-walled carbon nanotubes</article-title>
+<source>Mater. Chem. Phys.</source>
+<year>2006</year>
+<volume>99</volume>
+<fpage>190</fpage>
+<lpage>196</lpage>
+<pub-id pub-id-type="doi">10.1016/j.matchemphys.2005.09.035</pub-id>
+</element-citation></ref><ref id="B45-materials-06-01138"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maurin</surname><given-names>G.</given-names></name><name><surname>Bousquet</surname><given-names>Ch.</given-names></name><name><surname>Henn</surname><given-names>F.</given-names></name><name><surname>Bernier</surname><given-names>P.</given-names></name><name><surname>Almairac</surname><given-names>R.</given-names></name><name><surname>Simon</surname><given-names>B.</given-names></name></person-group>
+<article-title>Electrochemical intercalation of lithium into multiwall carbon nanotubes</article-title>
+<source>Chem. Phys. Lett.</source>
+<year>1999</year>
+<volume>312</volume>
+<fpage>14</fpage>
+<lpage>18</lpage>
+<pub-id pub-id-type="doi">10.1016/S0009-2614(99)00886-6</pub-id>
+</element-citation></ref><ref id="B46-materials-06-01138"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mukhopadhyay</surname><given-names>I.</given-names></name><name><surname>Hoshino</surname><given-names>N.</given-names></name><name><surname>Kawasaki</surname><given-names>S.</given-names></name><name><surname>Okino</surname><given-names>F.</given-names></name><name><surname>Hsu</surname><given-names>W.K.</given-names></name><name><surname>Touhara</surname><given-names>H.</given-names></name></person-group>
+<article-title>Electrochemical Li insertion in B-doped multiwall carbon nanotubes</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>2002</year>
+<volume>149</volume>
+<fpage>A39</fpage>
+<lpage>A44</lpage>
+<pub-id pub-id-type="doi">10.1149/1.1426397</pub-id>
+</element-citation></ref><ref id="B47-materials-06-01138"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>S.</given-names></name><name><surname>Song</surname><given-names>H.</given-names></name><name><surname>Chen</surname><given-names>X.</given-names></name><name><surname>Okotrub</surname><given-names>A.V.</given-names></name><name><surname>Bulusheva</surname><given-names>L.G.</given-names></name></person-group>
+<article-title>Electrochemical performance of arc-produced carbon nanotubes as anode material for lithium-ion batteries</article-title>
+<source>Electrochim. Acta</source>
+<year>2007</year>
+<volume>52</volume>
+<fpage>5286</fpage>
+<lpage>5293</lpage>
+<pub-id pub-id-type="doi">10.1016/j.electacta.2007.02.049</pub-id>
+</element-citation></ref><ref id="B48-materials-06-01138"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Z.H.</given-names></name><name><surname>Zhou</surname><given-names>Y.H.</given-names></name><name><surname>Sang</surname><given-names>S.B.</given-names></name><name><surname>Feng</surname><given-names>Y.</given-names></name><name><surname>Wu</surname><given-names>H.Q.</given-names></name></person-group>
+<article-title>Lithium insertion into multi-walled raw carbon nanotubes pre-doped with lithium</article-title>
+<source>Mater. Chem. Phys.</source>
+<year>2005</year>
+<volume>89</volume>
+<fpage>295</fpage>
+<lpage>299</lpage>
+<pub-id pub-id-type="doi">10.1016/j.matchemphys.2004.08.021</pub-id>
+</element-citation></ref><ref id="B49-materials-06-01138"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>J.</given-names></name><name><surname>Gao</surname><given-names>Q.Y.</given-names></name><name><surname>Gu</surname><given-names>C.</given-names></name><name><surname>Yang</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Preparation of multi-walled carbon nanotube array electrodes and its electrochemical intercalation behavior of Li ions</article-title>
+<source>Chem. Phys. Lett.</source>
+<year>2002</year>
+<volume>358</volume>
+<fpage>77</fpage>
+<lpage>82</lpage>
+<pub-id pub-id-type="doi">10.1016/S0009-2614(02)00580-8</pub-id>
+</element-citation></ref><ref id="B50-materials-06-01138"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maurin</surname><given-names>G.</given-names></name><name><surname>Bousquet</surname><given-names>Ch.</given-names></name><name><surname>Henna</surname><given-names>F.</given-names></name><name><surname>Bernier</surname><given-names>P.</given-names></name><name><surname>Almairac</surname><given-names>R.</given-names></name><name><surname>Simon</surname><given-names>B.</given-names></name></person-group>
+<article-title>Electrochemical lithium intercalation into multiwall carbon nanotubes: A micro-Raman study</article-title>
+<source>Solid State Ionics</source>
+<year>2000</year>
+<volume>136&#x02013;137</volume>
+<fpage>1295</fpage>
+<lpage>1299</lpage>
+<pub-id pub-id-type="doi">10.1016/S0167-2738(00)00599-3</pub-id>
+</element-citation></ref><ref id="B51-materials-06-01138"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leroux</surname><given-names>F.</given-names></name><name><surname>M&#x000e9;t&#x000e9;nier</surname><given-names>K.</given-names></name><name><surname>Gautier</surname><given-names>S.</given-names></name><name><surname>Frackowiak</surname><given-names>E.</given-names></name><name><surname>Bonnamy</surname><given-names>S.</given-names></name><name><surname>B&#x000e9;guin</surname><given-names>F.</given-names></name></person-group>
+<article-title>Electrochemical insertion of lithium in catalytic multi-walled carbon nanotubes</article-title>
+<source>J. Power Sources</source>
+<year>1999</year>
+<volume>81&#x02013;82</volume>
+<fpage>317</fpage>
+<lpage>322</lpage>
+<pub-id pub-id-type="doi">10.1016/S0378-7753(99)00130-5</pub-id>
+</element-citation></ref><ref id="B52-materials-06-01138"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Z.</given-names></name><name><surname>Sang</surname><given-names>S.</given-names></name><name><surname>Huang</surname><given-names>K.</given-names></name><name><surname>Wu</surname><given-names>H.-Q.</given-names></name></person-group>
+<article-title>Lithium insertion into the raw multi-walled carbon nanotubes pre-doped with lithium&#x02014;An electrochemical impedance study</article-title>
+<source>Diam. Relat. Mater.</source>
+<year>2004</year>
+<volume>13</volume>
+<fpage>99</fpage>
+<lpage>105</lpage>
+<pub-id pub-id-type="doi">10.1016/j.diamond.2003.09.006</pub-id>
+</element-citation></ref><ref id="B53-materials-06-01138"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oktaviano</surname><given-names>H.S.</given-names></name><name><surname>Yamada</surname><given-names>K.</given-names></name><name><surname>Waki</surname><given-names>K.</given-names></name></person-group>
+<article-title>Nano-drilled multiwalled carbon nanotubes: Characterizations and application for LIB anode materials</article-title>
+<source>J. Mater. Chem.</source>
+<year>2012</year>
+<volume>22</volume>
+<fpage>25167:1</fpage>
+<lpage>25167:7</lpage>
+<pub-id pub-id-type="doi">10.1039/c2jm34684b</pub-id>
+</element-citation></ref><ref id="B54-materials-06-01138"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eom</surname><given-names>J.Y.</given-names></name><name><surname>Kwon</surname><given-names>H.S.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name><name><surname>Zhou</surname><given-names>O.</given-names></name></person-group>
+<article-title>Lithium insertion into purified and etched multi-walled carbon nanotubes synthesized on supported catalysts by thermal CVD</article-title>
+<source>Carbon</source>
+<year>2004</year>
+<volume>42</volume>
+<fpage>2589</fpage>
+<lpage>2596</lpage>
+<pub-id pub-id-type="doi">10.1016/j.carbon.2004.05.039</pub-id>
+</element-citation></ref><ref id="B55-materials-06-01138"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Z.-H.</given-names></name><name><surname>Wu</surname><given-names>H.-Q.</given-names></name></person-group>
+<article-title>Electrochemical intercalation of lithium into carbon nanotubes</article-title>
+<source>Solid State Ionics</source>
+<year>2001</year>
+<volume>143</volume>
+<fpage>173</fpage>
+<lpage>180</lpage>
+<pub-id pub-id-type="doi">10.1016/S0167-2738(01)00852-9</pub-id>
+</element-citation></ref><ref id="B56-materials-06-01138"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scott Morris</surname><given-names>R.</given-names></name><name><surname>Dixon</surname><given-names>B.G.</given-names></name><name><surname>Gennett</surname><given-names>T.</given-names></name><name><surname>Raffaelle</surname><given-names>R.</given-names></name><name><surname>Heben</surname><given-names>M.J.</given-names></name></person-group>
+<article-title>High-energy, rechargeable Li-ion battery based on carbon nanotube technology</article-title>
+<source>J. Power Sources</source>
+<year>2004</year>
+<volume>138</volume>
+<fpage>277</fpage>
+<lpage>280</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2004.06.014</pub-id>
+</element-citation></ref><ref id="B57-materials-06-01138"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klink</surname><given-names>S.</given-names></name><name><surname>Ventosa</surname><given-names>E.</given-names></name><name><surname>Xia</surname><given-names>W.</given-names></name><name><surname>La Mantia</surname><given-names>F.</given-names></name><name><surname>Muhler</surname><given-names>M.</given-names></name><name><surname>Schuhmann</surname><given-names>W.</given-names></name></person-group>
+<article-title>Tailoring of CNT surface oxygen groups by gas-phase oxidation and its implications for lithium ion batteries</article-title>
+<source>Electrochem. Commun.</source>
+<year>2012</year>
+<volume>15</volume>
+<fpage>10</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.1016/j.elecom.2011.11.012</pub-id>
+</element-citation></ref><ref id="B58-materials-06-01138"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Chen</surname><given-names>T.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Min</surname><given-names>G.</given-names></name><name><surname>Pan</surname><given-names>L.</given-names></name><name><surname>Song</surname><given-names>Z.</given-names></name><name><surname>Sun</surname><given-names>Z.</given-names></name><name><surname>Zhou</surname><given-names>W.</given-names></name><name><surname>Zhang</surname><given-names>J.</given-names></name></person-group>
+<article-title>The study of multi-walled carbon nanotubes with different diameter as anodes for lithium-ion batteries</article-title>
+<source>Appl. Surf. Sci.</source>
+<year>2012</year>
+<volume>258</volume>
+<fpage>4729</fpage>
+<lpage>4732</lpage>
+<pub-id pub-id-type="doi">10.1016/j.apsusc.2012.01.067</pub-id>
+</element-citation></ref><ref id="B59-materials-06-01138"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Udomvech</surname><given-names>A.</given-names></name><name><surname>Kerdcharoen</surname><given-names>T.</given-names></name><name><surname>Osotchan</surname><given-names>T.</given-names></name></person-group>
+<article-title>First principles study of Li and Li<sup>+</sup> adsorbed on carbon nanotube: Variation of tubule diameter and length</article-title>
+<source>Chem. Phys. Lett.</source>
+<year>2005</year>
+<volume>406</volume>
+<fpage>161</fpage>
+<lpage>166</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cplett.2005.02.084</pub-id>
+</element-citation></ref><ref id="B60-materials-06-01138"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eom</surname><given-names>J.-Y.</given-names></name><name><surname>Kwon</surname><given-names>H.-S.</given-names></name></person-group>
+<article-title>Improved lithium insertion/extraction properties of single-walled carbon nanotubes by high-energy ball milling</article-title>
+<source>J. Mater. Res.</source>
+<year>2008</year>
+<volume>23</volume>
+<fpage>2458</fpage>
+<lpage>2466</lpage>
+<pub-id pub-id-type="doi">10.1557/jmr.2008.0291</pub-id>
+</element-citation></ref><ref id="B61-materials-06-01138"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pierard</surname><given-names>N.</given-names></name><name><surname>Fonseca</surname><given-names>A.</given-names></name><name><surname>Konya</surname><given-names>Z.</given-names></name><name><surname>Willems</surname><given-names>I.</given-names></name><name><surname>van Tendeloo</surname><given-names>G.</given-names></name><name><surname>Nagy</surname><given-names>J.B.</given-names></name></person-group>
+<article-title>Production of short carbon nanotubes with open tips by ball milling</article-title>
+<source>Chem. Phys. Lett.</source>
+<year>2001</year>
+<volume>335</volume>
+<fpage>1</fpage>
+<lpage>8</lpage>
+<pub-id pub-id-type="doi">10.1016/S0009-2614(01)00004-5</pub-id>
+</element-citation></ref><ref id="B62-materials-06-01138"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gao</surname><given-names>B.</given-names></name><name><surname>Bower</surname><given-names>C.</given-names></name><name><surname>Lorentzen</surname><given-names>J.D.</given-names></name><name><surname>Fleming</surname><given-names>L.</given-names></name><name><surname>Kleinhammes</surname><given-names>A.</given-names></name><name><surname>Tang</surname><given-names>X.P.</given-names></name><name><surname>McNeil</surname><given-names>L.E.</given-names></name><name><surname>Wu</surname><given-names>Y.</given-names></name><name><surname>Zhou</surname><given-names>O.</given-names></name></person-group>
+<article-title>Enhanced saturation lithium composition in ball-milled single-walled carbon nanotubes</article-title>
+<source>Chem. Phys. Lett.</source>
+<year>2000</year>
+<volume>327</volume>
+<fpage>69</fpage>
+<lpage>75</lpage>
+<pub-id pub-id-type="doi">10.1016/S0009-2614(00)00851-4</pub-id>
+</element-citation></ref><ref id="B63-materials-06-01138"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>S.</given-names></name><name><surname>Huo</surname><given-names>J.</given-names></name><name><surname>Song</surname><given-names>H.</given-names></name><name><surname>Chen</surname><given-names>X.</given-names></name></person-group>
+<article-title>A comparative study of electrochemical properties of two kinds of carbon nanotubes as anode materials for lithium ion batteries</article-title>
+<source>Electrochim. Acta</source>
+<year>2008</year>
+<volume>53</volume>
+<fpage>2238</fpage>
+<lpage>2244</lpage>
+<pub-id pub-id-type="doi">10.1016/j.electacta.2007.09.040</pub-id>
+</element-citation></ref><ref id="B64-materials-06-01138"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>S.</given-names></name><name><surname>Song</surname><given-names>H.</given-names></name><name><surname>Chen</surname><given-names>X.</given-names></name></person-group>
+<article-title>Electrochemical performance o expanded mesocarbon microbeads as anode material for lithium-ion batteries</article-title>
+<source>Electrochem. Commun.</source>
+<year>2006</year>
+<volume>8</volume>
+<fpage>137</fpage>
+<lpage>142</lpage>
+<pub-id pub-id-type="doi">10.1016/j.elecom.2005.10.035</pub-id>
+</element-citation></ref><ref id="B65-materials-06-01138"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ren</surname><given-names>Z.F.</given-names></name><name><surname>Huang</surname><given-names>Z.P.</given-names></name><name><surname>Xu</surname><given-names>J.W.</given-names></name><name><surname>Wang</surname><given-names>J.H.</given-names></name><name><surname>Bush</surname><given-names>P.</given-names></name><name><surname>Siegal</surname><given-names>M.P.</given-names></name><name><surname>Provencio</surname><given-names>P.N.</given-names></name></person-group>
+<article-title>Synthesis of large arrays of well-aligned carbon nanotubes on glass</article-title>
+<source>Science</source>
+<year>1998</year>
+<volume>282</volume>
+<fpage>1105</fpage>
+<lpage>1107</lpage>
+<pub-id pub-id-type="doi">10.1126/science.282.5391.1105</pub-id>
+<?supplied-pmid 9804545?><pub-id pub-id-type="pmid">9804545</pub-id></element-citation></ref><ref id="B66-materials-06-01138"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>X.-X.</given-names></name><name><surname>Wang</surname><given-names>J.-N.</given-names></name><name><surname>Chang</surname><given-names>H.</given-names></name><name><surname>Zhang</surname><given-names>Y.-F.</given-names></name></person-group>
+<article-title>Preparation of short carbon nanotubes and application as an electrode material in li-ion batteries</article-title>
+<source>Adv. Func. Mater.</source>
+<year>2007</year>
+<volume>17</volume>
+<fpage>3613</fpage>
+<lpage>3618</lpage>
+<pub-id pub-id-type="doi">10.1002/adfm.200700319</pub-id>
+</element-citation></ref><ref id="B67-materials-06-01138"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Su</surname><given-names>L.</given-names></name></person-group>
+<article-title>Preparation and electrochemical performance of ultra-short carbon nanotubes</article-title>
+<source>J. Power Sources</source>
+<year>2009</year>
+<volume>186</volume>
+<fpage>194</fpage>
+<lpage>200</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2008.09.074</pub-id>
+</element-citation></ref><ref id="B68-materials-06-01138"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Spinney</surname><given-names>P.S.</given-names></name><name><surname>Howitt</surname><given-names>D.G.</given-names></name><name><surname>Collins</surname><given-names>S.D.</given-names></name><name><surname>Smith</surname><given-names>R.L.</given-names></name></person-group>
+<article-title>Electron beam stimulated oxidation of Carbon</article-title>
+<source>Nanotechnology</source>
+<year>2009</year>
+<volume>20</volume>
+<fpage>465301:1</fpage>
+<lpage>465301:6</lpage>
+<pub-id pub-id-type="doi">10.1088/0957-4484/20/46/465301</pub-id>
+<pub-id pub-id-type="pmid">19843999</pub-id></element-citation></ref><ref id="B69-materials-06-01138"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mik&#x000f3;</surname><given-names>C.</given-names></name><name><surname>Milas</surname><given-names>M.</given-names></name><name><surname>Seo</surname><given-names>J.W.</given-names></name><name><surname>Couteau</surname><given-names>E.</given-names></name><name><surname>Bari&#x00161;i&#x00107;</surname><given-names>R.G.</given-names></name><name><surname>Forr&#x000f3;</surname><given-names>L.</given-names></name></person-group>
+<article-title>Effect of electron irradiation on the electrical properties of fibers of aligned single-walled carbon nanotubes</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2003</year>
+<volume>83</volume>
+<fpage>4622</fpage>
+<lpage>4624</lpage>
+<pub-id pub-id-type="doi">10.1063/1.1631060</pub-id>
+</element-citation></ref><ref id="B70-materials-06-01138"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mik&#x000f3;</surname><given-names>C.</given-names></name><name><surname>Seo</surname><given-names>J.W.</given-names></name><name><surname>Ga&#x000e1;l</surname><given-names>R.</given-names></name><name><surname>Kulik</surname><given-names>A.</given-names></name><name><surname>Forr&#x000f3;</surname><given-names>L.</given-names></name></person-group>
+<article-title>Effect of electron and ultraviolet irradiation on aligned carbon nanotube fibers</article-title>
+<source>Phys. Stat. Sol. B</source>
+<year>2006</year>
+<volume>243</volume>
+<fpage>3351</fpage>
+<lpage>3354</lpage>
+<pub-id pub-id-type="doi">10.1002/pssb.200669135</pub-id>
+</element-citation></ref><ref id="B71-materials-06-01138"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Beuneu</surname><given-names>F.</given-names></name><name><surname>Huillier</surname><given-names>C.</given-names></name></person-group>
+<article-title>Modification of multiwall carbon nanotubes by electron irradiation: An ESR study</article-title>
+<source>Phys. Rev. B</source>
+<year>1999</year>
+<volume>59</volume>
+<fpage>5945</fpage>
+<lpage>5949</lpage>
+<pub-id pub-id-type="doi">10.1103/PhysRevB.59.5945</pub-id>
+</element-citation></ref><ref id="B72-materials-06-01138"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Skakaloval</surname><given-names>V.</given-names></name><name><surname>Kaiser</surname><given-names>A.B.</given-names></name><name><surname>Osvath</surname><given-names>Z.</given-names></name><name><surname>Vertesy</surname><given-names>G.</given-names></name><name><surname>Biro</surname><given-names>L.P.</given-names></name><name><surname>Roth</surname><given-names>V.</given-names></name></person-group>
+<article-title>Ion-irradiation effects on conduction in single-wall carbon nanotube networks</article-title>
+<source>Appl. Phys. A</source>
+<year>2008</year>
+<volume>90</volume>
+<fpage>597</fpage>
+<lpage>602</lpage>
+<pub-id pub-id-type="doi">10.1007/s00339-007-4383-0</pub-id>
+</element-citation></ref><ref id="B73-materials-06-01138"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Prem Kumar</surname><given-names>T.</given-names></name><name><surname>Manuel Stephan</surname><given-names>A.</given-names></name><name><surname>Thayananth</surname><given-names>P.</given-names></name><name><surname>Subramanian</surname><given-names>V.</given-names></name><name><surname>Gopukumar</surname><given-names>S.</given-names></name><name><surname>Renganathan</surname><given-names>N.G.</given-names></name><name><surname>Raghavan</surname><given-names>M.</given-names></name><name><surname>Muniyandi</surname><given-names>N.</given-names></name></person-group>
+<article-title>Thermally oxidized graphites as anodes for lithum-ion cells</article-title>
+<source>J. Power Sources</source>
+<year>2001</year>
+<volume>97&#x02013;98</volume>
+<fpage>118</fpage>
+<lpage>121</lpage>
+<pub-id pub-id-type="doi">10.1016/S0378-7753(01)00659-0</pub-id>
+</element-citation></ref><ref id="B74-materials-06-01138"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cui</surname><given-names>L.-F.</given-names></name><name><surname>Hu</surname><given-names>L.</given-names></name><name><surname>Choi</surname><given-names>J.-W.</given-names></name><name><surname>Cui</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Light-weight free-standing carbon nanotube-silicon films for anodes of lithium ion batteries</article-title>
+<source>ACS Nano</source>
+<year>2010</year>
+<volume>4</volume>
+<fpage>3671</fpage>
+<lpage>3678</lpage>
+<pub-id pub-id-type="doi">10.1021/nn100619m</pub-id>
+<?supplied-pmid 20518567?><pub-id pub-id-type="pmid">20518567</pub-id></element-citation></ref><ref id="B75-materials-06-01138"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gwon</surname><given-names>H.</given-names></name><name><surname>Kim</surname><given-names>H.-S.</given-names></name><name><surname>Lee</surname><given-names>K.-U.</given-names></name><name><surname>Seo</surname><given-names>D.-H.</given-names></name><name><surname>Park</surname><given-names>Y.-C.</given-names></name><name><surname>Lee</surname><given-names>Y.-S.</given-names></name><name><surname>Ahn</surname><given-names>B.-T.</given-names></name><name><surname>Kang</surname><given-names>K.</given-names></name></person-group>
+<article-title>Flexible energy storage devices based on graphene papar</article-title>
+<source>Energy Environ. Sci.</source>
+<year>2011</year>
+<volume>4</volume>
+<fpage>1277</fpage>
+<lpage>1283</lpage>
+<pub-id pub-id-type="doi">10.1039/c0ee00640h</pub-id>
+</element-citation></ref><ref id="B76-materials-06-01138"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ng</surname><given-names>S.H.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Guo</surname><given-names>Z.P.</given-names></name><name><surname>Chen</surname><given-names>J.</given-names></name><name><surname>Wang</surname><given-names>G.X.</given-names></name><name><surname>Liu</surname><given-names>H.K.</given-names></name></person-group>
+<article-title>Single wall carbon nanotube paper as anode for lithium-ion battery</article-title>
+<source>Electrochim. Acta</source>
+<year>2005</year>
+<volume>51</volume>
+<fpage>23</fpage>
+<lpage>28</lpage>
+<pub-id pub-id-type="doi">10.1016/j.electacta.2005.04.045</pub-id>
+</element-citation></ref><ref id="B77-materials-06-01138"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>X.</given-names></name><name><surname>Yang</surname><given-names>J.</given-names></name><name><surname>Hu</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Li</surname><given-names>Y.</given-names></name><name><surname>Cai</surname><given-names>M.</given-names></name><name><surname>Li</surname><given-names>R.</given-names></name><name><surname>Sun</surname><given-names>X.</given-names></name></person-group>
+<article-title>Novel approach toward a binder-free and current collector-free anode configuration: Highly flexible nanoporous carbon nanotube electrodes with strong mechanical strength harvesting improved lithium storage</article-title>
+<source>J. Mater. Chem.</source>
+<year>2012</year>
+<volume>22</volume>
+<fpage>18847</fpage>
+<lpage>18853</lpage>
+<pub-id pub-id-type="doi">10.1039/c2jm33297c</pub-id>
+</element-citation></ref><ref id="B78-materials-06-01138"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Landi</surname><given-names>B.J.</given-names></name><name><surname>Ganter</surname><given-names>M.J.</given-names></name><name><surname>Schauerman</surname><given-names>C.M.</given-names></name><name><surname>Cress</surname><given-names>C.D.</given-names></name><name><surname>Raffaelle</surname><given-names>R.P.</given-names></name></person-group>
+<article-title>Lithium ion capacity of single wall carbon nanotube paper electrodes</article-title>
+<source>J. Phys. Chem. C</source>
+<year>2008</year>
+<volume>112</volume>
+<fpage>7509</fpage>
+<lpage>7515</lpage>
+<pub-id pub-id-type="doi">10.1021/jp710921k</pub-id>
+</element-citation></ref><ref id="B79-materials-06-01138"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>DiLeo</surname><given-names>R.A.</given-names></name><name><surname>Frisco</surname><given-names>S.</given-names></name><name><surname>Ganter</surname><given-names>M.J.</given-names></name><name><surname>Rogers</surname><given-names>R.E.</given-names></name><name><surname>Raffaelle</surname><given-names>R.P.</given-names></name><name><surname>Landi</surname><given-names>B.J.</given-names></name></person-group>
+<article-title>Hybrid germanium nanoparticle&#x02014;Single-wall carbon nanotube free-standing anodes for lithium ion batteries</article-title>
+<source>J. Phys. Chem. C</source>
+<year>2011</year>
+<volume>115</volume>
+<fpage>22609</fpage>
+<lpage>22614</lpage>
+<pub-id pub-id-type="doi">10.1021/jp205992w</pub-id>
+</element-citation></ref><ref id="B80-materials-06-01138"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lahiri</surname><given-names>I.</given-names></name><name><surname>Oh</surname><given-names>S.-W.</given-names></name><name><surname>Hwang</surname><given-names>J.Y.</given-names></name><name><surname>Cho</surname><given-names>S.</given-names></name><name><surname>Sun</surname><given-names>Y.-K.</given-names></name><name><surname>Banerjee</surname><given-names>R.</given-names></name><name><surname>Choi</surname><given-names>W.</given-names></name></person-group>
+<article-title>High capacity and excellent stability of lithium ion battery anode using interface-controlled binder-free multiwall carbon nanotubes grown on copper</article-title>
+<source>ACS Nano</source>
+<year>2010</year>
+<volume>4</volume>
+<fpage>3440</fpage>
+<lpage>3446</lpage>
+<pub-id pub-id-type="doi">10.1021/nn100400r</pub-id>
+<?supplied-pmid 20441185?><pub-id pub-id-type="pmid">20441185</pub-id></element-citation></ref><ref id="B81-materials-06-01138"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>J.</given-names></name><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Minett</surname><given-names>A.</given-names></name><name><surname>Lynam</surname><given-names>C.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Wallace</surname><given-names>G.G.</given-names></name></person-group>
+<article-title>Flexible, aligned carbon nanotube/conducting polymer electrodes for a lithium-ion battery</article-title>
+<source>Chem. Mater.</source>
+<year>2007</year>
+<volume>19</volume>
+<fpage>3595</fpage>
+<lpage>3601</lpage>
+<pub-id pub-id-type="doi">10.1021/cm070991g</pub-id>
+</element-citation></ref><ref id="B82-materials-06-01138"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Landi</surname><given-names>B.J.</given-names></name><name><surname>Ganter</surname><given-names>M.J.</given-names></name><name><surname>Cress</surname><given-names>C.D.</given-names></name><name><surname>DiLeo</surname><given-names>R.A.</given-names></name><name><surname>Raffaelle</surname><given-names>R.P.</given-names></name></person-group>
+<article-title>Carbon nanotubes for lithium ion batteries</article-title>
+<source>Energy Environ. Sci.</source>
+<year>2009</year>
+<volume>2</volume>
+<fpage>638</fpage>
+<lpage>654</lpage>
+<pub-id pub-id-type="doi">10.1039/b904116h</pub-id>
+</element-citation></ref><ref id="B83-materials-06-01138"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>X-M.</given-names></name><name><surname>Huang</surname><given-names>Z.</given-names></name><name><surname>Oh</surname><given-names>S.W.</given-names></name><name><surname>Zhang</surname><given-names>B.</given-names></name><name><surname>Ma</surname><given-names>P-M.</given-names></name><name><surname>Yuen</surname><given-names>M.M.F.</given-names></name><name><surname>Kim</surname><given-names>J-K.</given-names></name></person-group>
+<article-title>Carbon nanotube (CNT)-based composites as electrode material for rechargeable Li-ion batteries: A review</article-title>
+<source>Compos. Sci. Technol.</source>
+<year>2012</year>
+<volume>72</volume>
+<fpage>121</fpage>
+<lpage>144</lpage>
+<pub-id pub-id-type="doi">10.1016/j.compscitech.2011.11.019</pub-id>
+</element-citation></ref></ref-list></back></article>

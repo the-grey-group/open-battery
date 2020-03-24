@@ -1,0 +1,554 @@
+{
+  "id": [
+    "28845452"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28845452"
+  ],
+  "pmcid": [
+    "PMC5567762"
+  ],
+  "doi": [
+    "10.1126/sciadv.1700971"
+  ],
+  "title": [
+    "Visualizing redox orbitals and their potentials in advanced lithium-ion battery materials using high-resolution x-ray Compton scattering."
+  ],
+  "authorString": [
+    "Hafiz H, Suzuki K, Barbiellini B, Orikasa Y, Callewaert V, Kaprzyk S, Itou M, Yamamoto K, Yamada R, Uchimoto Y, Sakurai Y, Sakurai H, Bansil A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hafiz H"
+          ],
+          "firstName": [
+            "Hasnain"
+          ],
+          "lastName": [
+            "Hafiz"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Physics, Northeastern University, Boston, MA 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Suzuki K"
+          ],
+          "firstName": [
+            "Kosuke"
+          ],
+          "lastName": [
+            "Suzuki"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1711-0604",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Science and Technology, Gunma University, Kiryu, Gunma 376-8515, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Barbiellini B"
+          ],
+          "firstName": [
+            "Bernardo"
+          ],
+          "lastName": [
+            "Barbiellini"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3309-1362",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physics, Northeastern University, Boston, MA 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Orikasa Y"
+          ],
+          "firstName": [
+            "Yuki"
+          ],
+          "lastName": [
+            "Orikasa"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9869-9520",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Applied Chemistry, Ritsumeikan University, Kusatsu, Shiga 525-8577, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Callewaert V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Callewaert"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8413-1312",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physics, Universiteit Antwerpen, Antwerpen 2020, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaprzyk S"
+          ],
+          "firstName": [
+            "Staszek"
+          ],
+          "lastName": [
+            "Kaprzyk"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Physics, Northeastern University, Boston, MA 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Itou M"
+          ],
+          "firstName": [
+            "Masayoshi"
+          ],
+          "lastName": [
+            "Itou"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Japan Synchrotron Radiation Research Institute, SPring-8, Sayo, Hyogo 679-5198, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamamoto K"
+          ],
+          "firstName": [
+            "Kentaro"
+          ],
+          "lastName": [
+            "Yamamoto"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Graduate School of Human and Environmental Studies, Kyoto University, Sakyo-ku, Kyoto 606-8501, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamada R"
+          ],
+          "firstName": [
+            "Ryota"
+          ],
+          "lastName": [
+            "Yamada"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6617-2740",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Science and Technology, Gunma University, Kiryu, Gunma 376-8515, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Uchimoto Y"
+          ],
+          "firstName": [
+            "Yoshiharu"
+          ],
+          "lastName": [
+            "Uchimoto"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1491-2647",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Graduate School of Human and Environmental Studies, Kyoto University, Sakyo-ku, Kyoto 606-8501, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Sakurai Y"
+          ],
+          "firstName": [
+            "Yoshiharu"
+          ],
+          "lastName": [
+            "Sakurai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Japan Synchrotron Radiation Research Institute, SPring-8, Sayo, Hyogo 679-5198, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Sakurai H"
+          ],
+          "firstName": [
+            "Hiroshi"
+          ],
+          "lastName": [
+            "Sakurai"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8132-8723",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Science and Technology, Gunma University, Kiryu, Gunma 376-8515, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Bansil A"
+          ],
+          "firstName": [
+            "Arun"
+          ],
+          "lastName": [
+            "Bansil"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Physics, Northeastern University, Boston, MA 02115, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8413-1312",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6617-2740",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9869-9520",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1491-2647",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8132-8723",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3309-1362",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1711-0604",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2584456"
+      ],
+      "dateOfPublication": [
+        "2017 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Science advances"
+          ],
+          "ISOAbbreviation": [
+            "Sci Adv"
+          ],
+          "medlineAbbreviation": [
+            "Sci Adv"
+          ],
+          "NLMid": [
+            "101653440"
+          ],
+          "ISSN": [
+            "2375-2548"
+          ],
+          "ESSN": [
+            "2375-2548"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e1700971"
+  ],
+  "abstractText": [
+    "Reduction-oxidation (redox) reactions are the key processes that underlie the batteries powering smartphones, laptops, and electric cars. A redox process involves transfer of electrons between two species. For example, in a lithium-ion battery, current is generated when conduction electrons from the lithium anode are transferred to the redox orbitals of the cathode material. The ability to visualize or image the redox orbitals and how these orbitals evolve under lithiation and delithiation processes is thus of great fundamental and practical interest for understanding the workings of battery materials. We show that inelastic scattering spectroscopy using high-energy x-ray photons (Compton scattering) can yield faithful momentum space images of the redox orbitals by considering lithium iron phosphate (LiFePO4 or LFP) as an exemplar cathode battery material. Our analysis reveals a new link between voltage and the localization of transition metal 3d orbitals and provides insight into the puzzling mechanism of potential shift and how it is connected to the modification of the bond between the transition metal and oxygen atoms. Our study thus opens a novel spectroscopic pathway for improving the performance of battery materials."
+  ],
+  "affiliation": [
+    "Department of Physics, Northeastern University, Boston, MA 02115, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1126/sciadv.1700971"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5567762"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5567762?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-08-29"
+  ],
+  "firstIndexDate": [
+    "2017-08-28"
+  ],
+  "fullTextReceivedDate": [
+    "2017-08-29"
+  ],
+  "dateOfRevision": [
+    "2019-05-22"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-23"
+  ],
+  "firstPublicationDate": [
+    "2017-08-23"
+  ]
+}

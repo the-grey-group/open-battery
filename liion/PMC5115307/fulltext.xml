@@ -1,0 +1,1168 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5115307</article-id><article-id pub-id-type="doi">10.1002/advs.201500154</article-id><article-id pub-id-type="publisher-id">ADVS201500154</article-id><article-categories><subj-group subj-group-type="overline"><subject>Communication</subject></subj-group><subj-group subj-group-type="heading"><subject>Communications</subject></subj-group></article-categories><title-group><article-title>Graphene Oxide Wrapped Amorphous Copper Vanadium Oxide with Enhanced Capacitive Behavior for High&#x02010;Rate and Long&#x02010;Life Lithium&#x02010;Ion Battery Anodes</article-title></title-group><contrib-group><contrib id="advs201500154-cr-0001" contrib-type="author"><name><surname>Zhao</surname><given-names>Kangning</given-names></name><xref ref-type="aff" rid="advs201500154-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201500154-cr-0002" contrib-type="author"><name><surname>Liu</surname><given-names>Fengning</given-names></name><xref ref-type="aff" rid="advs201500154-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201500154-cr-0003" contrib-type="author"><name><surname>Niu</surname><given-names>Chaojiang</given-names></name><xref ref-type="aff" rid="advs201500154-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201500154-cr-0004" contrib-type="author"><name><surname>Xu</surname><given-names>Wangwang</given-names></name><xref ref-type="aff" rid="advs201500154-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs201500154-cr-0005" contrib-type="author"><name><surname>Dong</surname><given-names>Yifan</given-names></name><xref ref-type="aff" rid="advs201500154-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201500154-cr-0006" contrib-type="author"><name><surname>Zhang</surname><given-names>Lei</given-names></name><xref ref-type="aff" rid="advs201500154-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201500154-cr-0007" contrib-type="author"><name><surname>Xie</surname><given-names>Shaomei</given-names></name><xref ref-type="aff" rid="advs201500154-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201500154-cr-0008" contrib-type="author"><name><surname>Yan</surname><given-names>Mengyu</given-names></name><xref ref-type="aff" rid="advs201500154-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201500154-cr-0009" contrib-type="author"><name><surname>Wei</surname><given-names>Qiulong</given-names></name><xref ref-type="aff" rid="advs201500154-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201500154-cr-0010" contrib-type="author"><name><surname>Zhao</surname><given-names>Dongyuan</given-names></name><xref ref-type="aff" rid="advs201500154-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201500154-cr-0011" contrib-type="author" corresp="yes"><name><surname>Mai</surname><given-names>Liqiang</given-names></name><xref ref-type="aff" rid="advs201500154-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="advs201500154-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">State Key Laboratory of Advanced Technology for Materials Synthesis and Processing</named-content><institution>Wuhan University of Technology</institution><named-content content-type="city">Wuhan</named-content><named-content content-type="post-code">430070</named-content><country country="CN">China</country></aff><aff id="advs201500154-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Department of Mechanical and Industrial Engineering</named-content><institution>Louisiana State University</institution><named-content content-type="country-part">Baton Rouge</named-content><named-content content-type="street">LA</named-content><named-content content-type="post-code">70830</named-content><country country="US">USA</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>mlq518@whut.edu.cn</email></corresp></author-notes><pub-date pub-type="epub"><day>07</day><month>8</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2015</year></pub-date><volume>2</volume><issue>12</issue><issue-id pub-id-type="doi">10.1002/advs.v2.12</issue-id><elocation-id>1500154</elocation-id><history><date date-type="received"><day>18</day><month>5</month><year>2015</year></date><date date-type="rev-recd"><day>29</day><month>6</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2015 WILEY&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. Published by WILEY&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ADVS-2-0b.pdf"/><abstract abstract-type="toc" id="advs201500154-abs-0001"><p>
+<bold>Graphene oxide&#x02010;wrapped amorphous copper vanadium oxide</bold> is fabricated through a template&#x02010;engaged redox reaction followed by vacuum dehydration. This material exhibits high reversible capacity, excellent rate capability, and out standing high&#x02010;rate cyclability. The outstanding performance is attributed to the fast capacitive charge storage and the in situ formed copper with enhanced electrical conductivity.
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xlink:href="ADVS-2-0b-g006.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs201500154-kwd-0001">amorphous</kwd><kwd id="advs201500154-kwd-0002">anode</kwd><kwd id="advs201500154-kwd-0003">copper extraction</kwd><kwd id="advs201500154-kwd-0004">copper vanadium oxide</kwd><kwd id="advs201500154-kwd-0005">lithium&#x02010;ion battery</kwd></kwd-group><counts><page-count count="7"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>advs201500154</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2015</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.8 mode:remove_FC converted:18.11.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs201500154-cit-0053">
+<string-name>
+<surname>Zhao</surname>
+<given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Niu</surname>
+<given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>
+<given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Mai</surname>
+<given-names>L.</given-names>
+</string-name> (<year>2015</year>). <article-title>Graphene Oxide Wrapped Amorphous Copper Vanadium Oxide with Enhanced Capacitive Behavior for High&#x02010;Rate and Long&#x02010;Life Lithium&#x02010;Ion Battery Anodes</article-title>. <source>Adv. Sci.</source>, <volume>2</volume>: 1500154. doi: <ext-link ext-link-type="doi" xlink:href="10.1002/advs.201500154">10.1002/advs.201500154</ext-link>
+</mixed-citation>
+</p></notes></front><body><p>The ever&#x02010;increasing consumer market has stimulated the expansion of lithium&#x02010;ion batteries from energy storage devices to up&#x02010;coming electric vehicles.<xref rid="advs201500154-bib-0001" ref-type="ref">1</xref>, <xref rid="advs201500154-bib-0002" ref-type="ref">2</xref>, <xref rid="advs201500154-bib-0003" ref-type="ref">3</xref>, <xref rid="advs201500154-bib-0004" ref-type="ref">4</xref> To build a better battery, several factors should be taken into account, including energy density, rate capability, cost, safety, and sustainability.<xref rid="advs201500154-bib-0005" ref-type="ref">5</xref>, <xref rid="advs201500154-bib-0006" ref-type="ref">6</xref>, <xref rid="advs201500154-bib-0007" ref-type="ref">7</xref>, <xref rid="advs201500154-bib-0008" ref-type="ref">8</xref>, <xref rid="advs201500154-bib-0009" ref-type="ref">9</xref>, <xref rid="advs201500154-bib-0010" ref-type="ref">10</xref> To achieve this goal, there has been an intensive search interest on new cathode and anode materials with promising electrochemical performance.<xref rid="advs201500154-bib-0011" ref-type="ref">11</xref>, <xref rid="advs201500154-bib-0012" ref-type="ref">12</xref>, <xref rid="advs201500154-bib-0013" ref-type="ref">13</xref>, <xref rid="advs201500154-bib-0014" ref-type="ref">14</xref>, <xref rid="advs201500154-bib-0015" ref-type="ref">15</xref> In the case of anode materials, concerns about the long&#x02010;term availability of a few elements have naturally driven researchers toward iron, copper, vanadium, and titanium.<xref rid="advs201500154-bib-0016" ref-type="ref">16</xref>, <xref rid="advs201500154-bib-0017" ref-type="ref">17</xref>, <xref rid="advs201500154-bib-0018" ref-type="ref">18</xref>, <xref rid="advs201500154-bib-0019" ref-type="ref">19</xref>, <xref rid="advs201500154-bib-0020" ref-type="ref">20</xref>, <xref rid="advs201500154-bib-0021" ref-type="ref">21</xref> Moreover, the facile and energy&#x02010;saving synthesis, multiple valence states, and rich structural chemistry of vandadium&#x02010;based materials have stimulated a great effort toward the development of vanadium&#x02010;based electrode materials, including VO<sub>2</sub>,<xref rid="advs201500154-bib-0022" ref-type="ref">22</xref>, <xref rid="advs201500154-bib-0023" ref-type="ref">23</xref>, <xref rid="advs201500154-bib-0024" ref-type="ref">24</xref> V<sub>3</sub>O<sub>7</sub>,<xref rid="advs201500154-bib-0025" ref-type="ref">25</xref> V<sub>6</sub>O<sub>13</sub>,<xref rid="advs201500154-bib-0026" ref-type="ref">26</xref>, <xref rid="advs201500154-bib-0027" ref-type="ref">27</xref> V<sub>2</sub>O<sub>5,</sub>
+<xref rid="advs201500154-bib-0028" ref-type="ref">28</xref>, <xref rid="advs201500154-bib-0029" ref-type="ref">29</xref>, <xref rid="advs201500154-bib-0030" ref-type="ref">30</xref> and metal vanadates.<xref rid="advs201500154-bib-0031" ref-type="ref">31</xref>, <xref rid="advs201500154-bib-0032" ref-type="ref">32</xref>
+</p><p>Vanadium belongs to the early transition metal elements. It is generally accepted that vanadium&#x02010;based oxides react with lithium through the insertion reaction,<xref rid="advs201500154-bib-0033" ref-type="ref">33</xref>, <xref rid="advs201500154-bib-0034" ref-type="ref">34</xref> while other oxides, such as Fe<sub>2</sub>O<sub>3</sub>
+<xref rid="advs201500154-bib-0035" ref-type="ref">35</xref> and CuO<xref rid="advs201500154-bib-0036" ref-type="ref">36</xref>, <xref rid="advs201500154-bib-0037" ref-type="ref">37</xref> react with lithium through the conversion reaction. The vanadium&#x02010;based oxides have a relatively strong vanadium&#x02010;oxygen bond.<xref rid="advs201500154-bib-0033" ref-type="ref">33</xref>, <xref rid="advs201500154-bib-0034" ref-type="ref">34</xref> Thus, the lithiation process can proceed through the insertion reaction without bond cleavage. As for vanadium&#x02010;based oxide in its crystalline form, the lithium ions (Li<sup>+</sup>) are able to insert only into the crystallographically defined sites. It has been reported that amorphous MoO<sub>2</sub> and vanadium oxides with structural defects are able to deliver very stable cycling performance.<xref rid="advs201500154-bib-0033" ref-type="ref">33</xref>, <xref rid="advs201500154-bib-0034" ref-type="ref">34</xref>, <xref rid="advs201500154-bib-0038" ref-type="ref">38</xref> Thus, it is expected that designing amorphous metal vanadates may provide enhanced lithium storage performance as well.</p><p>Compared with binary metal oxides, ternary metal oxides have been intensively studied due to the increased electronic conductivity owing to the possible hopping processes and/or defect effect mechanisms.<xref rid="advs201500154-bib-0039" ref-type="ref">39</xref> Kirshenbaum et al.<xref rid="advs201500154-bib-0040" ref-type="ref">40</xref> recently proposed the design of active cathode materials with in situ formed conductive networks. This proposal can reduce or potentially eliminate the need for conductive additives, which do not contribute to the capacity of the cell. Thus, in order to achieve high energy density and good conductivity simutaneously, the rational design of multifunctional ternary metal oxides, in which vanadium acts as the primary redox active center providing multielectron redox reaction and copper as the secondary redox active center during reduction for enhanced elctrical conductivity, is another insightful route.</p><p>Herein, we fabricate an amorphous copper vanadaium oxide decorated with graphene oxide (denoted as a&#x02010;CVO&#x02010;GO) through a facile and environmental&#x02010;friendly template&#x02010;engaged redox reaction followed by heat treatment in vacuum (<bold>Figure</bold>
+<xref rid="advs201500154-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref>). The resultant a&#x02010;CVO&#x02010;GO shows outstanding lithium storage properties in terms of high capacity, superior rate capability, and ultralong cycle life. The a&#x02010;CVO&#x02010;GO delivers a capacity of 1144 mA h g<sup>&#x02212;1</sup> after 100 cycles at 100 mA g<sup>&#x02212;1</sup>. Even at a high current density of 20 A g<sup>&#x02212;1</sup>, a capacity of 672.5 mA h g<sup>&#x02212;1</sup> is retained after 7000 cycles, suggesting the excellent high&#x02010;rate capability and cyclability.</p><fig fig-type="Figure" xml:lang="en" id="advs201500154-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Schematic illustration of the synthesis procedure of a&#x02010;CVO&#x02010;GO and c&#x02010;CVO.</p></caption><graphic id="nlm-graphic-3" xlink:href="ADVS-2-0b-g004"/></fig><p>A typical synthesis procedure (Figure <xref rid="advs201500154-fig-0001" ref-type="fig">1</xref>) starts from the presynthesis of Cu<sub>2</sub>O spheres. The as&#x02010;prepared Cu<sub>2</sub>O template is composed of monodispersed nanospheres with a diameter of &#x0003e;&#x0003e;300 nm (Figure S1, Supporting Information). The mixing of NH<sub>4</sub>VO<sub>3</sub> with Cu<sub>2</sub>O colloidal solution at room temperature leads to the formation of hierarchical Cu<sub>3</sub>V<sub>2</sub>O<sub>7</sub>(OH)<sub>2</sub>&#x000b7;H<sub>2</sub>O nanoflowers with sheet&#x02010;like building blocks (Figure S2, Supporting Information). During this process, the Cu<sub>2</sub>O nanospheres act as both the template and the Cu precursor; O<sub>2</sub> is also involved in the reaction (6 Cu<sub>2</sub>O + 8 VO<sub>3</sub>
+<sup>&#x02212;</sup> + 3 O<sub>2</sub> + 8 H<sub>2</sub>O = 4 Cu<sub>3</sub>V<sub>2</sub>O<sub>7</sub>(OH)<sub>2</sub> + 8 OH<sup>&#x02212;</sup>). The reaction begins at the interfacial region between the Cu<sub>2</sub>O sphere and NH<sub>4</sub>VO<sub>3</sub> solution. With the inward diffusion of VO<sub>3</sub>
+<sup>&#x02212;</sup> and O<sub>2</sub>, the reaction propagates gradually from the outer surface to the inner core (Figure S3, Supporting Information). Cu<sub>3</sub>V<sub>2</sub>O<sub>7</sub>(OH)<sub>2</sub> hierarchical nanoflowers can be formed within 10 h.</p><p>The amorphous copper vanadium oxide nanoflowers can be obtained by vacuum dehydration of the Cu<sub>3</sub>V<sub>2</sub>O<sub>7</sub>(OH)<sub>2</sub>. H<sub>2</sub>O nanoflowers at 250 &#x000b0;C. X&#x02010;ray diffraction (XRD) pattern of the a&#x02010;CVO&#x02010;GO shows no obvious peaks, indicating the poor&#x02010;crystalline or amorphous nature (<bold>Figure</bold>
+<xref rid="advs201500154-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref>A). To indentify the elemental ratio, the inductively coupled plasma (ICP) is conducted, showing that the Cu/V ratio is about 3:2 (Table S1, Supporting Information). A panoramic view (Figure <xref rid="advs201500154-fig-0002" ref-type="fig">2</xref>B) and the magnified view (Figure <xref rid="advs201500154-fig-0002" ref-type="fig">2</xref>C) in the scanning electron microscopic (SEM) images show that the a&#x02010;CVO is composed of uniform nanosheet&#x02010;constructed nanoflowers with a diameter of around 450 nm, whose morphology is indentical to the Cu<sub>3</sub>V<sub>2</sub>O<sub>7</sub>(OH)<sub>2</sub>. H<sub>2</sub>O precursor. Moreover, the EDX measurements prove that the a&#x02010;CVO is composed of Cu, V and O and these three element distributed homogeneously in the selected area (Figures S4 and S5, Supporting Information). The thickness of the nanosheets is estimated to be around 20 nm. The hierarchical nanoflower morphology is further confirmed by transmission electron microscopic (TEM) images (Figure <xref rid="advs201500154-fig-0002" ref-type="fig">2</xref>D). The magnified TEM image (Figure <xref rid="advs201500154-fig-0002" ref-type="fig">2</xref>E) shows that the a&#x02010;CVO nanosheet is highly porous, which is different from that of the precursor (Figure S2D, Supporting Information). The pore diameter is measured to be around 30&#x02013;40 nm. The formation of mesopores might be attributed to the dehydration process during which the crystallized water is removed and the sheet is broken down.<xref rid="advs201500154-bib-0023" ref-type="ref">23</xref> No obvious diffraction rings or spots are observed in the selected area electron diffraction (SAED) pattern, indicating the amorphous nature (Figure S6, Supporting Information). To increase the conductivity and structural stability of a&#x02010;CVO, graphene oxide (GO) is introduced in the synthesis. The ultrathin and wrinkled graphene oxide sheets wrap on the surface of a&#x02010;CVO homogeneously (Figure <xref rid="advs201500154-fig-0002" ref-type="fig">2</xref>F). This unique a&#x02010;CVO&#x02010;GO composite structure leads to a surface area of 45.9 m<sup>2</sup> g<sup>&#x02212;1</sup> (Figure S9, Supporting Information). The thermogravimetry (TG) curve reveals that the content of graphene oxide in the a&#x02010;CVO&#x02010;GO is 8.06 wt% (Figure S7, Supporting Information).</p><fig fig-type="Figure" xml:lang="en" id="advs201500154-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>A) XRD pattern of the a&#x02010;CVO&#x02010;GO. B,C) SEM image and D,E) TEM images of amorphous copper vanadium oxide. F) SEM image of a&#x02010;CVO&#x02010;GO.</p></caption><graphic id="nlm-graphic-5" xlink:href="ADVS-2-0b-g002"/></fig><p>For the purpose of comparison, crystalline copper vanadium oxide (denoted as c&#x02010;CVO) is prepared by annealing the precursor in air at 450 &#x000b0;C. The XRD pattern (Figure S8A, Supporting Information) of the c&#x02010;CVO matches well with that of Cu<sub>3</sub>V<sub>2</sub>O<sub>8</sub> (JCPDS card no. 00&#x02013;049&#x02013;0689). The c&#x02010;CVO (Cu<sub>3</sub>V<sub>2</sub>O<sub>8</sub>) shares the same Cu/V ratio with a&#x02010;CVO&#x02010;GO (Table S1, Supporting Information). The morphology of c&#x02010;CVO is characterized by SEM (Figure S8B, Supporting Information), which shows nanoparticle&#x02010;constructed spheres instead of nanosheet&#x02010;constructed nanoflowers. No graphene oxide nanosheet is observed on the surface, which indicates that the graphene oxide is removed during the calcination in air. In addition, due to the calcination induced crystallization, the c&#x02010;CVO shows a significantly reduced surface area than that of a&#x02010;CVO&#x02010;GO (15.6 vs 45.9 m<sup>2</sup> g<sup>&#x02212;1</sup>, Figure S9, Supporting Information).</p><p>The electrochemical performance of a&#x02010;CVO&#x02010;GO is investigated by assembling CR2016 coin cell using lithium foil as the anode. <bold>Figure</bold>
+<xref rid="advs201500154-fig-0003" ref-type="fig">
+<bold>3</bold>
+</xref>A displays the initial three CV curves at a scan rate of 0.1 mV s<sup>&#x02212;1</sup>. Generally speaking, the CV curves in the initial three cycles almost overlap, indicating the excellent reversibility. The charge&#x02013;discharge curves at a current density of 100 mA g<sup>&#x02212;1</sup> are presented in Figure <xref rid="advs201500154-fig-0003" ref-type="fig">3</xref>B. The initial discharge and charge capacities are 830 and 912 mA h g<sup>&#x02212;1</sup>, respectively. The initial columbic efficiency reaches 109%, which is much higher than that of other transition metal oxide anodes based on conversion reaction mechanism. Similar anomalously high columbic efficiency has been observed in graphite anode by Dahn et al.<xref rid="advs201500154-bib-0041" ref-type="ref">41</xref> The high initial columbic efficiency indicates that the a&#x02010;CVO&#x02010;GO is a very promising anode material for lithium ion battery. Additionally, the charge&#x02013;discharge curves of a&#x02010;CVO&#x02010;GO show several slopes without any obvious plateaus, which may be associated with the discontinuous phase transitions of the host material upon Li<sup>+</sup> insertion.<xref rid="advs201500154-bib-0042" ref-type="ref">42</xref> At a low current density of 100 mA g<sup>&#x02212;1</sup> (Figure <xref rid="advs201500154-fig-0003" ref-type="fig">3</xref>C), the initial capacity reaches 914 mA h g<sup>&#x02212;1</sup>. The capacity increases gradually with cycling and reaches 1145 mA h g<sup>&#x02212;1</sup> after 100 cycles with no sign of capacity decay, demonstrating the excellent cyclability. The increased capacity might be attributed to the following reason: during discharge/charge cycles, the active material becomes smaller due to electrochemical milling effect<xref rid="advs201500154-bib-0043" ref-type="ref">43</xref> and more active sites are exposed for lithium intercalation/deintercalation (Figure S10, Supporting Information). Further, the rate performance (Figure <xref rid="advs201500154-fig-0003" ref-type="fig">3</xref>D) reflects that the a&#x02010;CVO&#x02010;GO exhibits capacities of 757, 672, 659, 598, and 561 mA h g<sup>&#x02212;1</sup> at current densities of 0.3, 0.8, 1, 2, and 3 A g<sup>&#x02212;1</sup>, respectively. When the current density is recovered from 3 to 0.3 and 1 A g<sup>&#x02212;1</sup> capacities of 807 and 768 mA h g<sup>&#x02212;1</sup> are achieved, respectively. Compared to c&#x02010;CVO, the rate capability of a&#x02010;CVO&#x02010;GO has been significantly improved. Additionally, the capacities of a&#x02010;CVO&#x02010;GO at each current density all witness a small increase, which is in agreement with the cycling performance at 100 mA g<sup>&#x02212;1</sup>.</p><fig fig-type="Figure" xml:lang="en" id="advs201500154-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>A) CV curves of a&#x02010;CVO&#x02010;GO at the scan rate of 0.1 mV s<sup>&#x02212;1</sup>. The first three cycles are shown from the open circuit potential. B) Voltage profiles of a&#x02010;CVO&#x02010;GO for selected cycles at 100 mA g<sup>&#x02212;1</sup>. C) Cycling performance of a&#x02010;CVO at 100 mA g<sup>&#x02212;1</sup>. D) Rate performance of a&#x02010;CVO&#x02010;GO and c&#x02010;CVO. E) High&#x02010;rate long&#x02010;life cycling performance of a&#x02010;CVO and c&#x02010;CVO at 20 A g<sup>&#x02212;1</sup>.</p></caption><graphic id="nlm-graphic-7" xlink:href="ADVS-2-0b-g003"/></fig><p>Figure <xref rid="advs201500154-fig-0003" ref-type="fig">3</xref>E shows the cycling performance at an extremely high current density of 20 A g<sup>&#x02212;1</sup>. The initial capacity of a&#x02010;CVO&#x02010;GO is 517 mA h g<sup>&#x02212;1</sup>. Note that at a high current density of 20 A g<sup>&#x02212;1</sup>, the capacity drops in the first 350 cycles, increases from 350 to 650 cycles, and then stabilizes, which may be attributed to high&#x02010;rate lithiation induced reactivation<xref rid="advs201500154-bib-0044" ref-type="ref">44</xref> (Figure S10, Supporting Information). After 7000 cycles the capacity reaches 673 mA h g<sup>&#x02212;1</sup>, demonstrating the excellent high&#x02010;rate capability and outstanding cyclability. The difference in capacity between a&#x02010;CVO&#x02010;GO and c&#x02010;CVO gets even greater at a high current density. The c&#x02010;CVO exhibits an initial capacity of 200 mA h g<sup>&#x02212;1</sup> at 20 A g<sup>&#x02212;1</sup>, which quickly degrades to around 50 mA h g<sup>&#x02212;1</sup> after 150 cycles. Moreover, in order to prove that the results are reproducible, the cycling performance at 0.1 and 20 A g<sup>&#x02212;1</sup> and rate performance is evaluated again and the electrochemical performance is similar (Figure S11, Supporting Information). At an even higher current density of 50 A g<sup>&#x02212;1</sup> (Figure S12, Supporting Information), the a&#x02010;CVO&#x02010;GO delivers a capacity of 505 mA h g<sup>&#x02212;1</sup> after the first cycle, which is well above the theoretical capacity of commercialized graphite (372 mA h g<sup>&#x02212;1</sup>). A capacity of 380.9 mA h g<sup>&#x02212;1</sup> can be retained after 100 cycles, corresponding to a capacity retention of 75%. However, fast capacity decay is observed after 140 cycles and this may be associated with the decomposition of electrolyte (Figure S13, Supporting Information). To determine the function of graphene oxide, the electrochemical performance of a&#x02010;CVO and a&#x02010;CVO&#x02010;GO is compared in Figure S14, Supporting Information. The a&#x02010;CVO shows inferior high&#x02010;rate cycling stability. This may attributed to the reason that the graphene oxide nanosheet is able to offer increased electron conductivity especially when the structure of the electrode is destroyed.</p><p>To explain the extremely high rate performance of a&#x02010;CVO&#x02010;GO, the CV curves at different scan rates from 1 to 10 mV s<sup>&#x02212;1</sup> were performed (<bold>Figure</bold>
+<xref rid="advs201500154-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref>A). The half&#x02010;cell was cycled at each scan rate for two cycles and the CV curves at each scan rate overlap quite well, indicating the excellent electrochemical reversibility. The lithium diffusion coefficient is determined by the Randles&#x02013;Sevcik equation. The a&#x02010;CVO&#x02010;GO exhibits a high lithium diffusion rate of 6.78 &#x000d7; 10<sup>&#x02212;8</sup> cm<sup>2</sup> s<sup>&#x02212;1</sup> (Figure <xref rid="advs201500154-fig-0004" ref-type="fig">4</xref>B). As mentioned above, the a&#x02010;CVO&#x02010;GO exhibits a series of slopes without obvious plateaus in both lithiation and delithiation, which is similar to the electrode behavior of an electric double layer capacitor (EDLC). However, it is unusual for an EDLC electrode to deliver a high capacity of 1144.6 mA h g<sup>&#x02212;1</sup> at 100 mA g<sup>&#x02212;1</sup>. Based on an estimated charge density of 30&#x02013;50 &#x003bc;C cm<sup>&#x02212;2</sup>,<xref rid="advs201500154-bib-0045" ref-type="ref">45</xref> the a&#x02010;CVO&#x02010;GO with a surface area of 49.5 m<sup>2</sup> g<sup>&#x02212;1</sup> may contribute to an EDLC capacity of 5.9&#x02013;9.9 mA h g<sup>&#x02212;1</sup>. To determine the charge storage mechanism, the cyclic voltammograms is obtained as a function of the scan rate (Figure <xref rid="advs201500154-fig-0004" ref-type="fig">4</xref>C). The current values at two potentials (0.01 and 3.0 V) are plotted as a function of the square root of the scan rate (<italic>v</italic>
+<sup>1/2</sup>) in Figure <xref rid="advs201500154-fig-0004" ref-type="fig">4</xref>D. Both the lithiation and delithiation currents exhibit a linear relation with <italic>v</italic>
+<sup>1/2</sup>. Clearly, the capacitor behavior (current &#x0221d; <italic>v</italic>) is not observed, eloquently demonstrating that lithium ions/electrons are stored in the bulk of a&#x02010;CVO&#x02010;GO rather than at the surface at the potentials of 0.01 and 3 V.</p><fig fig-type="Figure" xml:lang="en" id="advs201500154-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>CV curves (A) at low scan rates ranging from 1 to 10 mV s<sup>&#x02212;1</sup>. B) Randles&#x02013;Sevcik plot obtained from the voltammetric data. CV curves C) at high scan rates ranging from 20 to 1000 mV s<sup>&#x02212;1</sup>. Current versus square root of the scan rate D) at voltages of 0.01 and 3 V.</p></caption><graphic id="nlm-graphic-9" xlink:href="ADVS-2-0b-g001"/></fig><p>Next, we used the analysis proposed by Dunn and co&#x02010;workers<xref rid="advs201500154-bib-0046" ref-type="ref">46</xref>, <xref rid="advs201500154-bib-0047" ref-type="ref">47</xref> to further quantify the capacitive and diffusion limited contributions to the total capacity. In this method, the current at a particular voltage is regarded to be contributed from capacitive (<italic>k</italic>
+<sub>1</sub>) and diffusion (<italic>k</italic>
+<sub>2</sub>) controlled processes <disp-formula id="advs201500154-disp-0001"><graphic xlink:href="ADVS-2-0b-e001.jpg" position="float" orientation="portrait"/></disp-formula>
+</p><p>The amount of charge stored due to both diffusion and surface limited processes at different scan rates is presented in <bold>Figure</bold>
+<xref rid="advs201500154-fig-0005" ref-type="fig">
+<bold>5</bold>
+</xref>A. Generally, the capacitive charge storage does not vary significantly with the increase of sweeping rate; it fluctuates at around 440 mA h g<sup>&#x02212;1</sup>. In contrast, with the increase of sweeping rate from 0.1 to 10 mV s<sup>&#x02212;1</sup>, the diffusion controlled charge storage decreases from 831 to 71 mA h g<sup>&#x02212;1</sup>. As a result, the contribution to the total capacity decreases from 65.3% to 16.0%. It is believed that the charge storage is mainly diffusion controlled in conventional lithium&#x02010;ion battery electrode materials. However, it is observed that the capacitive charge storage dominates the total capacity at sweeping rates above 0.5 mV s<sup>&#x02212;1</sup> in the a&#x02010;CVO&#x02010;GO. A typical separation of the capacitive and diffusion currents at a scan rate of 2 mV s<sup>&#x02212;1</sup> is shown in Figure <xref rid="advs201500154-fig-0005" ref-type="fig">5</xref>B; the diffusion&#x02010;controlled charge storage is mainly occurred near the anodic/cathodic peaks, indicating that the diffusion controlled process is feasible at these regions. The high contribution of capacitive charge storage in our case might be attributed to the amorphous nature of a&#x02010;CVO, which provides more cation/anion vacancies, void spaces, cluster gaps or interstitial sites for lithium storage.<xref rid="advs201500154-bib-0033" ref-type="ref">33</xref> More importantly, the dominant capacitive charge storage mechanism enables the high rate capability of a&#x02010;CVO&#x02010;GO.</p><fig fig-type="Figure" xml:lang="en" id="advs201500154-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>A) The capacity contribution at different scan rates (0.1, 0.5, 0.2, 2, 5, and 10 mV s<sup>&#x02212;1</sup>). B) CV profile for a&#x02010;CVO&#x02010;GO at a sweeping rate of 2 mV s<sup>&#x02212;1</sup>. The estimated capacitive current contribution is shown in the shaded region. C) Nyquist plots of a&#x02010;CVO&#x02010;GO and c&#x02010;CVO. D) Nyquist plots of a&#x02010;CVO&#x02010;GO before cycling and after 1000 cycles.</p></caption><graphic id="nlm-graphic-11" xlink:href="ADVS-2-0b-g005"/></fig><p>To provide further insights, the electrochemical impedance spectrum was measured. The a&#x02010;CVO&#x02010;GO shows a compressed semicircle in the high to medium frequency region and an inclined line (approximately 45&#x000b0;) in the low frequency range (Figure <xref rid="advs201500154-fig-0005" ref-type="fig">5</xref>C). The compressed semicircle corresponds to the charge transfer resistance (<italic>R</italic>
+<sub>ct</sub>) of the electrode; while the inclined line stands for the Warburg impedance (<italic>Z</italic>
+<sub>W</sub>). The equivalent circuit model is provided in Figure <xref rid="advs201500154-fig-0005" ref-type="fig">5</xref>C inset. In this circuit, <italic>R</italic>
+<sub>&#x003a9;</sub> represents the Ohmic resistance of the electrode system, including the electrolyte and the cell components. <italic>R</italic>
+<sub>SEI</sub> and <italic>R</italic>
+<sub>ct</sub> represent the resistance related to solid electrolyte interface (SEI) and the charge transfer, respectively. CPE<sub>1</sub>, CPE<sub>2</sub>, and <italic>Z</italic>
+<sub>w</sub> are the capacitance related to SEI, the double layer, and the Warburg impedance, respectively.<xref rid="advs201500154-bib-0047" ref-type="ref">47</xref>, <xref rid="advs201500154-bib-0048" ref-type="ref">48</xref> The charge transfer resistance of the a&#x02010;CVO&#x02010;GO is determined to be 50 &#x003a9;, much lower than that of the c&#x02010;CVO (284 &#x003a9;). Moreover, after 1000 cycles at 20 A g<sup>&#x02212;1</sup>, the charge transfer resistance of a&#x02010;CVO&#x02010;GO becomes even lower (32 &#x003a9;, Figure <xref rid="advs201500154-fig-0005" ref-type="fig">5</xref>D). This is due to the copper extraction during the first discharge process,<xref rid="advs201500154-bib-0049" ref-type="ref">49</xref>, <xref rid="advs201500154-bib-0050" ref-type="ref">50</xref>, <xref rid="advs201500154-bib-0051" ref-type="ref">51</xref> which is demonstrated by the ex situ XRD pattern of the electrode that a peak at 42&#x000b0; is observed (Figure S15, Supporting Information). In this way, the in situ generated copper metal can enhance the electrical conductivity of the electrode.<xref rid="advs201500154-bib-0036" ref-type="ref">36</xref>, <xref rid="advs201500154-bib-0052" ref-type="ref">52</xref> Additionally, the slope in the low frequency range is increased, indicating the enhanced ion diffusion kinetics.</p><p>Based on the above analysis, the extraordinary high rate capability and excellent cycling performance is attributed to the aspects below. First, the amorphous nature of a&#x02010;CVO&#x02010;GO provides more active sites for lithium storage, leading to high capacitive charge storage.<xref rid="advs201500154-bib-0033" ref-type="ref">33</xref> The dominant capacitive charge storage in turn endows fast charging and discharging. Second, the porous nanosheet building blocks of a&#x02010;CVO&#x02010;GO provide not only short lithium ion diffusion pathways but also high electrode&#x02010;electrolyte contact area. Third, the in situ extracted copper during the initial discharge process is able to enhance the electrical conductivity.</p><p>The amorphous copper vanadium oxide&#x02010;graphene oxide composite is synthesized through facile solution synthesis at room temperature via template&#x02010;engaged redox reaction followed by heat treatment in vacuum. The a&#x02010;CVO&#x02010;GO is able to deliver a capacity of 1145 mA h g<sup>&#x02212;1</sup> after 100 cycles at 100 mA g<sup>&#x02212;1</sup> and 672.5 mA h g<sup>&#x02212;1</sup> after 7000 cycles at 20 A g<sup>&#x02212;1</sup>. Such outstanding electrochemical performance is contributed to the amorphous nature of a&#x02010;CVO&#x02010;GO and in situ generated copper during the initial discharge. The former enables the fast capacitive charge storage while the latter enhances the conductivity. Our strategy of designing amorphous ternary metal oxide with in situ formed metallic conducting network is demonstrated to be a promising method for developing novel high&#x02010;performance electrode materials for energy storage.</p><sec id="advs201500154-sec-0020"><title>Experimental Section</title><p>
+<italic>Materials Synthesis: Preparation of the Cu<sub>2</sub>O Sphere</italic>: The Cu<sub>2</sub>O sphere was prepared through a reported method.<xref rid="advs201500154-bib-0051" ref-type="ref">51</xref> 1.0 g of PVP(K&#x02010;30) was dissolved in 50 mL of 0.01 <sc>m</sc> Cu(NO<sub>3</sub>)<sub>2</sub> aqueous solution under rapid magnetic stirring. N<sub>2</sub>H<sub>4</sub> solution (17 &#x003bc;L) was then introduced into the above solution. The orange colloidal solution was formed immediately. Under continual stirring for 40 min, Cu<sub>2</sub>O spheres were collected by centrifugation and washed with water and ethanol for several times.</p><p>
+<italic>Preparation of a&#x02010;CVO&#x02010;GO and c&#x02010;CVO</italic>: The graphene oxide was prepared by a modified Hummer's method. The fresh&#x02010;made Cu<sub>2</sub>O spheres were dispersed in 200 mL of distilled water. 50 mL of 0.02 <sc>m</sc> NH<sub>4</sub>VO<sub>3</sub> aqueous solution was added to the Cu<sub>2</sub>O colloidal solution dropwise. Then 4 mL of the graphene oxide suspention (1 mg mL<sup>&#x02010;1</sup>) was added and ultrasoniccally dispersed. After stirring for 10 h, the color of the colloidal solution turned from orange to olive. Then the particles were collected by centrifugation and washed with distilled water and ethanol for three times. The precursor was desiccated at 70 &#x000b0;C in an oven. For the preparation of a&#x02010;CVO&#x02010;GO, the precursor was then transferred to the vacuum oven at 250 &#x000b0;C to remove the crystalline water. As a control experiment, the c&#x02010;CVO was synthesized by annealing the precursor at 450 &#x000b0;C in the air.</p><p>
+<italic>Material Characterizations</italic>: XRD patterns of the samples were collected with a D8 Advance X&#x02010;ray diffractometer with area detector, using Cu K&#x003b1; radiation (&#x003bb; = 1.5418 &#x000c5;). The microstructures were observed by field&#x02010;emission scanning electron microscopy (JEOL&#x02010;7100F), transmission electron microscopy, and high&#x02010;resolution transmission electron microscopy (HRTEM) (JEM&#x02010;2100F). Brunauer Emmet&#x02010;Teller surface area was measured by using Tristar II 3020 instrument. Thermogravimetry is carried out on a STA449c/3/G (NETZSCH).</p><p>
+<italic>Electrochemical Characterizations</italic>: The electrochemical properties were characterized by assembing 2016&#x02010;type coin cells with lithium foil as the anode in a glovebox filled with pure argon. The cathode electrodes were composed of 60% active material, 30% acetylene black, and 10% sodium alginate binder. After coating onto copper foil, the cathode was cut into round slice with &#x0003e;&#x0003e;0.36 cm<sup>2</sup> in area and &#x0003e;&#x0003e;0.1 mm in thickness. The mass loading of active material is 2.5&#x02013;2.8 mg cm<sup>&#x02212;2</sup>. A solution (1 <sc>m</sc>) of LiPF<sub>6</sub> in EC/DMC (1:1 vol/vol) was used as the electrolyte. The cells were aged for 12 h before charge/discharge processes to ensure full penetration of the electrolyte into the electrodes. Galvanostatic charge/discharge measurements were performed by a multichannel battery testing system (LAND CT2001A). Cyclic voltammetry (0.01&#x02013;3 V) was performed using an electrochemical workstation (CHI 660), electrochemical impedance spectroscopy (EIS) were tested with an Autolab Potentiostat Galvanostat (PGSTAT302N). All the measurements were carried out at room temperature. In order to perform the SEM images after cycling, the cells were disassembled and the cathode was dispersed in the alcohol for 72 h to remove the binder and the electrolyte.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><p>As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re&#x02010;organized for online delivery, but are not copy&#x02010;edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-2-0b-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs201500154-sec-0030"><title>Acknowledgements</title><p>K. N. Zhao, F. N. Liu, and C. J. Niu contributed equally to this work. This work was supported by the National Basic Research Program of China (2013CB934103, 2012CB933003), the International Science &#x00026; Technology Cooperation Program of China (2013DFA50840), the National Natural Science Foundation of China (51302203, 51272197), the National Science Fund for Distinguished Young Scholars (51425204), the Hubei Science Fund for Distinguished Young Scholars (2014CFA035), the Fundamental Research Funds for the Central Universities (143201003, 2013&#x02010;ZD&#x02010;7, 2014&#x02010;VII&#x02010;007, 2014&#x02010;YB&#x02010;001, 2014&#x02010;YB&#x02010;002, 2014&#x02010;ZY&#x02010;016), and Students Innovation and Entrepreneurship Training Program (20141049701008). The authors are deeply thankful to Prof. C. M. Lieber of Harvard University and Prof. Jun Liu of Pacific Northwest National Laboratory for their stimulating discussion and kind help.</p></ack><ref-list id="advs201500154-bibl-0001"><ref id="advs201500154-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs201500154-cit-0001">
+<string-name>
+<given-names>D.</given-names>
+<surname>Larcher</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <source>Nature</source>
+<year>2015</year>, <volume>7</volume>, <fpage>19</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs201500154-cit-0002">
+<string-name>
+<given-names>L.</given-names>
+<surname>Mai</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>11828</fpage>.<pub-id pub-id-type="pmid">25290387</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs201500154-cit-0003">
+<string-name>
+<given-names>Z. Q.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Freunberger</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <source>Science</source>
+<year>2012</year>, <volume>337</volume>, <fpage>563</fpage>.<pub-id pub-id-type="pmid">22821984</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs201500154-cit-0004">
+<string-name>
+<given-names>N.</given-names>
+<surname>Mahmood</surname>
+</string-name>, <string-name>
+<given-names>Y. L.</given-names>
+<surname>Hou</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2015</year>, <volume>2</volume>, <fpage>1400012</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs201500154-cit-0005">
+<string-name>
+<given-names>Y. M.</given-names>
+<surname>Chiang</surname>
+</string-name>, <source>Science</source>
+<year>2010</year>, <volume>330</volume>, <fpage>1485</fpage>.<pub-id pub-id-type="pmid">21148377</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs201500154-cit-0006">
+<string-name>
+<given-names>M. N.</given-names>
+<surname>Obrovac</surname>
+</string-name>, <string-name>
+<given-names>V. L.</given-names>
+<surname>Chevrier</surname>
+</string-name>, <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>11444</fpage>.<pub-id pub-id-type="pmid">25399614</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs201500154-cit-0007">
+<string-name>
+<given-names>P.</given-names>
+<surname>Simon</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gogotsi</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Dunn</surname>
+</string-name>, <source>Science</source>
+<year>2014</year>, <volume>343</volume>, <fpage>1210</fpage>.<pub-id pub-id-type="pmid">24626920</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs201500154-cit-0008">
+<string-name>
+<given-names>T.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Min</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H. K.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2015</year>, DOI: <ext-link ext-link-type="doi" xlink:href="10.1002/advs.201500027">10.1002/advs.201500027</ext-link>.</mixed-citation></ref><ref id="advs201500154-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs201500154-cit-0009">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Gordin</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2015</year>, <volume>2</volume>, <fpage>1400020</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs201500154-cit-0010">
+<string-name>
+<given-names>N.</given-names>
+<surname>Mahmood</surname>
+</string-name>, <string-name>
+<given-names>Y. L.</given-names>
+<surname>Hou</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2014</year>, <volume>1</volume>, <fpage>1400012</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs201500154-cit-0011">
+<string-name>
+<given-names>P.</given-names>
+<surname>Senguttuvan</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Rousse</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Vezin</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Palacin</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2013</year>, <volume>25</volume>, <fpage>2391</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs201500154-cit-0012">
+<string-name>
+<given-names>P. L.</given-names>
+<surname>Taberna</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mitra</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Poizot</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Simon</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2006</year>, <volume>5</volume>, <fpage>567</fpage>.<pub-id pub-id-type="pmid">16783360</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs201500154-cit-0013">
+<string-name>
+<given-names>A. R.</given-names>
+<surname>Armstrong</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Lyness</surname>
+</string-name>, <string-name>
+<given-names>P. M.</given-names>
+<surname>Panchmatia</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Islam</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2011</year>, <volume>10</volume>, <fpage>113</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs201500154-cit-0014">
+<string-name>
+<given-names>Y. L.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>Y. R.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>P. A.</given-names>
+<surname>van Aken</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Maier</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>3143</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs201500154-cit-0015">
+<string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>McDowell</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>Z. N.</given-names>
+<surname>Bao</surname>
+</string-name>, <source>Nat. Chem.</source>
+<year>2013</year>, <volume>5</volume>, <fpage>1042</fpage>.<pub-id pub-id-type="pmid">24256869</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs201500154-cit-0016">
+<string-name>
+<given-names>J. F.</given-names>
+<surname>Ni</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Mai</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2015</year>, <volume>11</volume>, <fpage>129</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs201500154-cit-0017">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Z. Q.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>F. Y.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C. C.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2015</year>, <volume>8</volume>, <fpage>1309</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs201500154-cit-0018">
+<string-name>
+<given-names>Y. H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>D. S.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>Y. Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>G. F.</given-names>
+<surname>Zheng</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2014</year>, <volume>14</volume>, <fpage>1080</fpage>.<pub-id pub-id-type="pmid">24475905</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs201500154-cit-0019">
+<string-name>
+<given-names>L.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>H. B.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>X. Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X. W.</given-names>
+<surname>(David) Lou</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>6694</fpage>.<pub-id pub-id-type="pmid">25798849</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs201500154-cit-0020">
+<string-name>
+<given-names>F.</given-names>
+<surname>Zou</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Qie</surname>
+</string-name>, <string-name>
+<given-names>C. C.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2014</year>, <volume>26</volume>, <fpage>6622</fpage>.<pub-id pub-id-type="pmid">25124234</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs201500154-cit-0021">
+<string-name>
+<given-names>L.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>W. J.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Q. F.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>H. X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y. Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C. Z.</given-names>
+<surname>Yu</surname>
+</string-name>, <source>Nanoscale</source>
+<year>2011</year>, <volume>3</volume>, <fpage>999</fpage>.<pub-id pub-id-type="pmid">21132216</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs201500154-cit-0022">
+<string-name>
+<given-names>L. Q.</given-names>
+<surname>Mai</surname>
+</string-name>, <string-name>
+<given-names>Q. L.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>Q. Y.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>X. C.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>Y. L.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>Q. J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2013</year>, <volume>25</volume>, <fpage>2969</fpage>.<pub-id pub-id-type="pmid">23519912</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs201500154-cit-0023">
+<string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>K. N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>W. W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Q. Y.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y. Z.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>T. W.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Mai</surname>
+</string-name>, <source>RSC Adv.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>33332</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs201500154-cit-0024">
+<string-name>
+<given-names>C. J.</given-names>
+<surname>Niu</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>C. H.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>K. N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>M. Y.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Mai</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2014</year>, <volume>14</volume>, <fpage>2873</fpage>.<pub-id pub-id-type="pmid">24742281</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs201500154-cit-0025">
+<string-name>
+<given-names>M. Y.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>F. C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C. H.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>X. Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Q. Y.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Niu</surname>
+</string-name>, <string-name>
+<given-names>Y. L.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X. C.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>H. G.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Mai</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>18176</fpage>.<pub-id pub-id-type="pmid">24219156</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs201500154-cit-0026">
+<string-name>
+<given-names>X. C.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Q. L.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>M. Y.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y. L.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>C. C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Mai</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2014</year>, <volume>255</volume>, <fpage>235</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs201500154-cit-0027">
+<string-name>
+<given-names>Y. L.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>Y. R.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>P. A.</given-names>
+<surname>van Aken</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Maier</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2015</year>, <volume>15</volume>, <fpage>1388</fpage>.<pub-id pub-id-type="pmid">25629936</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs201500154-cit-0028">
+<string-name>
+<given-names>Q. L.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>S. S.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>X. Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M. Y.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>F. C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q. D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Q. Y.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>R. M.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>K. N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>H. A.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Mai</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2015</year>, <volume>25</volume>, <fpage>1773</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs201500154-cit-0029">
+<string-name>
+<given-names>Y. L.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>C. H.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>X. M.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>R. P.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>X. D.</given-names>
+<surname>Zou</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Mai</surname>
+</string-name>, <string-name>
+<given-names>Q. J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2015</year>, <volume>15</volume>, <fpage>2180</fpage>.<pub-id pub-id-type="pmid">25654208</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs201500154-cit-0030">
+<string-name>
+<given-names>L. Q.</given-names>
+<surname>Mai</surname>
+</string-name>, <string-name>
+<given-names>Q. Y.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>Q. L.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Fei</surname>
+</string-name>, <string-name>
+<given-names>P. F.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y. L.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>M. Y.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Small</source>
+<year>2014</year>, <volume>10</volume>, <fpage>3032</fpage>.<pub-id pub-id-type="pmid">24711281</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs201500154-cit-0031">
+<string-name>
+<given-names>S.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Y. B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>D. L.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X. H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Z. Y.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>X. B.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2015</year>, <volume>2</volume>, <fpage>1400018</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs201500154-cit-0032">
+<string-name>
+<given-names>Y. F.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>K. N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>C. H.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>B. L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>B. A.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Q. L.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Mai</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2015</year>, <volume>8</volume>, <fpage>1267</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs201500154-cit-0033">
+<string-name>
+<given-names>O. B.</given-names>
+<surname>Chae</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Jeong</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Ku</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Ryu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Oh</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2014</year>, <volume>26</volume>, <fpage>5874</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs201500154-cit-0034">
+<string-name>
+<given-names>J. H.</given-names>
+<surname>Ku</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Ryu</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>O. H.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Oh</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2012</year>, <volume>22</volume>, <fpage>3658</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs201500154-cit-0035">
+<string-name>
+<given-names>Y. Z.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T. Z.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Bahlawane</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>W. P.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yan</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2014</year>, <volume>4</volume>, <fpage>23</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs201500154-cit-0036">
+<string-name>
+<given-names>S.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>D. L.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>H. G.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F. Z.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>X. B.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2014</year>, <volume>26</volume>, <fpage>2273</fpage>.<pub-id pub-id-type="pmid">24443100</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs201500154-cit-0037">
+<string-name>
+<given-names>G.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>H. B.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>X. W.</given-names>
+<surname>(David) Lou</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2015</year>, <volume>2</volume>, <fpage>1400014</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs201500154-cit-0038">
+<string-name>
+<given-names>D.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>L. R.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Cao</surname>
+</string-name>, <source>ChemSusChem.</source>
+<year>2015</year>, DOI: <ext-link ext-link-type="doi" xlink:href="10.1002/cssc.201500256">10.1002/cssc.201500256</ext-link>.</mixed-citation></ref><ref id="advs201500154-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs201500154-cit-0039">
+<string-name>
+<given-names>C. Z.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>H. B.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>X. W.</given-names>
+<surname>(David) Lou</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<year>2014</year>, <volume>53</volume>, <fpage>1488</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs201500154-cit-0040">
+<string-name>
+<given-names>K.</given-names>
+<surname>Kirshenbaum</surname>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Bock</surname>
+</string-name>, <string-name>
+<given-names>C. Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>K. J.</given-names>
+<surname>Takeuchi</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Marschilok</surname>
+</string-name>, <string-name>
+<given-names>E. S.</given-names>
+<surname>Takeuchi</surname>
+</string-name>, <source>Science</source>
+<year>2015</year>, <volume>347</volume>, <fpage>149</fpage>.<pub-id pub-id-type="pmid">25574017</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs201500154-cit-0041">
+<string-name>
+<given-names>B.</given-names>
+<surname>Gyenes</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Stevens</surname>
+</string-name>, <string-name>
+<given-names>V. L.</given-names>
+<surname>Chevrier</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Dahn</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2015</year>, <volume>162</volume>, <fpage>278</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs201500154-cit-0042">
+<string-name>
+<given-names>G. A.</given-names>
+<surname>Muller</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Cook</surname>
+</string-name>, <string-name>
+<given-names>H. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Tolbert</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Dunn</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2015</year>, <volume>15</volume>, <fpage>1911</fpage>.<pub-id pub-id-type="pmid">25654445</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs201500154-cit-0043">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>C. H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>C. L.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2008</year>, <volume>112</volume>, <fpage>4176</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs201500154-cit-0044">
+<string-name>
+<given-names>H.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Xin</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>M. P.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>D. L.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lian</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2014</year>, <volume>5</volume>, <fpage>4526</fpage>.<pub-id pub-id-type="pmid">25077892</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0045"><label>45</label><mixed-citation publication-type="miscellaneous" id="advs201500154-cit-0045">
+<string-name>
+<given-names>B. E.</given-names>
+<surname>Conway</surname>
+</string-name>, Electrochemical Supercapacitors: Scientific Fundamentals and Technological Applications, Kluwer Academic/Plenum Publishers, New York, NY, USA 1999.</mixed-citation></ref><ref id="advs201500154-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="advs201500154-cit-0046">
+<string-name>
+<given-names>T.</given-names>
+<surname>Brezesinski</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Polleux</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Dunn</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Tolbert</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2009</year>, <volume>131</volume>, <fpage>1802</fpage>.<pub-id pub-id-type="pmid">19159234</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="advs201500154-cit-0047">
+<string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>K. N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>W. W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y. F.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>F. N.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Q. L.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>M. Y.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Mai</surname>
+</string-name>, <source>Phys. Chem. Chem. Phys.</source>
+<year>2015</year>, <volume>17</volume>, <fpage>7619</fpage>.<pub-id pub-id-type="pmid">25712166</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="advs201500154-cit-0048">
+<string-name>
+<given-names>W. W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>K. N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Niu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Z. Y.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name>
+<given-names>C. H.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>M. Y.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>L. B.</given-names>
+<surname>Qu</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Mai</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2014</year>, <volume>8</volume>, <fpage>196</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="advs201500154-cit-0049">
+<string-name>
+<given-names>M. L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C. Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>X. F.</given-names>
+<surname>Bie</surname>
+</string-name>, <string-name>
+<given-names>Y. J.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>586</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="advs201500154-cit-0050">
+<string-name>
+<given-names>K. F.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>D. F.</given-names>
+<surname>Xue</surname>
+</string-name>, <source>Phys. Chem. Chem. Phys.</source>
+<year>2014</year>, <volume>16</volume>, <fpage>11168</fpage>.<pub-id pub-id-type="pmid">24777357</pub-id></mixed-citation></ref><ref id="advs201500154-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="advs201500154-cit-0051">
+<string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2011</year>, <volume>115</volume>, <fpage>18479</fpage>.</mixed-citation></ref><ref id="advs201500154-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="advs201500154-cit-0052">
+<string-name>
+<given-names>M.</given-names>
+<surname>Morcrette</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Rozier</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Dupont</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Mugnier</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Sannier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Galy</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2003</year>, <volume>2</volume>, <fpage>755</fpage>.<pub-id pub-id-type="pmid">14578878</pub-id></mixed-citation></ref></ref-list></back></article>

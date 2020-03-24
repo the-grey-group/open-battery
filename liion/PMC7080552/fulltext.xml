@@ -1,0 +1,1175 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7080552</article-id><article-id pub-id-type="doi">10.1002/advs.201902643</article-id><article-id pub-id-type="publisher-id">ADVS1513</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Full Papers</subject></subj-group></article-categories><title-group><article-title>Mg Doped Li&#x02013;LiB Alloy with In Situ Formed Lithiophilic LiB Skeleton for Lithium Metal Batteries</article-title></title-group><contrib-group><contrib id="advs1513-cr-0001" contrib-type="author"><name><surname>Wu</surname><given-names>Chen</given-names></name><xref ref-type="aff" rid="advs1513-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs1513-cr-0002" contrib-type="author"><name><surname>Huang</surname><given-names>Haifeng</given-names></name><xref ref-type="aff" rid="advs1513-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs1513-cr-0003" contrib-type="author"><name><surname>Lu</surname><given-names>Weiyi</given-names></name><xref ref-type="aff" rid="advs1513-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs1513-cr-0004" contrib-type="author"><name><surname>Wei</surname><given-names>Zengxi</given-names></name><xref ref-type="aff" rid="advs1513-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs1513-cr-0005" contrib-type="author"><name><surname>Ni</surname><given-names>Xuyan</given-names></name><xref ref-type="aff" rid="advs1513-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs1513-cr-0006" contrib-type="author"><name><surname>Sun</surname><given-names>Fu</given-names></name><xref ref-type="aff" rid="advs1513-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="advs1513-cr-0007" contrib-type="author"><name><surname>Qing</surname><given-names>Piao</given-names></name><xref ref-type="aff" rid="advs1513-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs1513-cr-0008" contrib-type="author"><name><surname>Liu</surname><given-names>Zhijian</given-names></name><xref ref-type="aff" rid="advs1513-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs1513-cr-0009" contrib-type="author"><name><surname>Ma</surname><given-names>Jianmin</given-names></name><xref ref-type="aff" rid="advs1513-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs1513-cr-0010" contrib-type="author"><name><surname>Wei</surname><given-names>Weifeng</given-names></name><xref ref-type="aff" rid="advs1513-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs1513-cr-0011" contrib-type="author" corresp="yes"><name><surname>Chen</surname><given-names>Libao</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3766-1545</contrib-id><xref ref-type="aff" rid="advs1513-aff-0001">
+<sup>1</sup>
+</xref><address><email>lbchen@csu.edu.cn</email></address></contrib><contrib id="advs1513-cr-0012" contrib-type="author" corresp="yes"><name><surname>Yan</surname><given-names>Chenglin</given-names></name><xref ref-type="aff" rid="advs1513-aff-0003">
+<sup>3</sup>
+</xref><address><email>c.yan@suda.edu.cn</email></address></contrib><contrib id="advs1513-cr-0013" contrib-type="author" corresp="yes"><name><surname>Mai</surname><given-names>Liqiang</given-names></name><xref ref-type="aff" rid="advs1513-aff-0005">
+<sup>5</sup>
+</xref><address><email>mlq518@whut.edu.cn</email></address></contrib></contrib-group><aff id="advs1513-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">State Key Laboratory of Powder Metallurgy</named-content>
+<institution>Central South University</institution>
+<city>Changsha</city>
+<postal-code>410083</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs1513-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">School of Physics and Electronics</named-content>
+<institution>Hunan University</institution>
+<city>Changsha</city>
+<postal-code>410082</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs1513-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">College of Energy</named-content>
+<named-content content-type="organisation-division">Key Laboratory of Advanced Carbon Materials and Wearable Energy Technologies of Jiangsu Province</named-content>
+<named-content content-type="organisation-division">Key Laboratory of Advanced Optical Manufacturing Technologies of Jiangsu Province, and Key Laboratory of Modern Optical Technologies of Education Ministry of China</named-content>
+<institution>Soochow University</institution>
+<city>Suzhou</city>
+<postal-code>215006</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs1513-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Qingdao Institute of Bioenergy and Bioprocess Technology</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<city>Qingdao</city>
+<postal-code>266101</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs1513-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">State Key Laboratory of Advanced Technology for Materials Synthesis and Processing</named-content>
+<institution>Wuhan University of Technology</institution>
+<city>Wuhan</city>
+<postal-code>430070</postal-code>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>c.yan@suda.edu.cn</email>, <email>lbchen@csu.edu.cn</email>, <email>mlq518@whut.edu.cn</email></corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2020</year></pub-date><volume>7</volume><issue>6</issue><issue-id pub-id-type="doi">10.1002/advs.v7.6</issue-id><elocation-id>1902643</elocation-id><history><date date-type="received"><day>25</day><month>9</month><year>2019</year></date><date date-type="rev-recd"><day>10</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 WILEY&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. Published by WILEY&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADVS-7-1902643.pdf"/><abstract><title>Abstract</title><p>High energy density lithium metal batteries (LMBs) are promising next&#x02010;generation energy storage devices. However, the uncontrollable dendrite growth and huge volume change limit their practical applications. Here, a new Mg doped Li&#x02013;LiB alloy with in situ formed lithiophilic 3D LiB skeleton (hereinafter called Li&#x02013;B&#x02013;Mg composite) is presented to suppress Li dendrite and mitigate volume change. The LiB skeleton exhibits superior lithiophilic and conductive characteristics, which contributes to the reduction of the local current density and homogenization of incoming Li<sup>+</sup> flux. With the introduction of Mg, the composite achieves an ultralong lithium deposition/dissolution lifespan (500 h, at 0.5 mA cm<sup>&#x02212;2</sup>) without short circuit in the symmetrical battery. In addition, the electrochemical performance is superior in full batteries assembled with LiCoO<sub>2</sub> cathode and the manufactured composite. The currently proposed 3D Li&#x02013;B&#x02013;Mg composite anode may significantly propel the advancement of LMB technology from laboratory research to industrial commercialization.</p></abstract><abstract id="advs1513-abs-0001" abstract-type="graphical"><p>A Li&#x02013;B&#x02013;Mg composite with in situ formed 3D LiB fiber network shows a dendrite&#x02010;free morphology and less volume change during cycling. The symmetrical battery achieves a long and stable cycle lifespan of more than 500 h at 0.5 mA cm<sup>&#x02212;2</sup> due to the effect of skeleton and the addition of Mg. The full battery also displays improved electrochemical performance.
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xlink:href="ADVS-7-1902643-g008.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs1513-kwd-0001">buffer volume change</kwd><kwd id="advs1513-kwd-0002">dendrite&#x02010;free</kwd><kwd id="advs1513-kwd-0003">Li&#x02013;B&#x02013;Mg composite</kwd><kwd id="advs1513-kwd-0004">lithiophilic 3D skeleton</kwd><kwd id="advs1513-kwd-0005">ultralong lifespan</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Key Research and Development Program of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100012166</institution-id></institution-wrap></funding-source><award-id>2018YFB0104200</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="11"/><word-count count="7082"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 18, 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.8 mode:remove_FC converted:18.03.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs1513-cit-0053">
+<string-name>
+<given-names>C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ni</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Qing</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Mai</surname>
+</string-name>, <article-title>Mg Doped Li&#x02013;LiB Alloy with In Situ Formed Lithiophilic LiB Skeleton for Lithium Metal Batteries</article-title>. <source xml:lang="en">Adv. Sci.</source>
+<year>2020</year>, <volume>7</volume>, <elocation-id>1902643</elocation-id>
+<pub-id pub-id-type="doi">10.1002/advs.201902643</pub-id>
+</mixed-citation>
+</p></notes></front><body id="advs1513-body-0001"><sec id="advs1513-sec-0010"><label>1</label><title>Introduction</title><p>The advent of lithium ion batteries (LIBs) has significantly mitigated the crisis of fossil fuels<xref rid="advs1513-bib-0001" ref-type="ref">1</xref> and they have become an integral part of our modern life by ubiquitously powering various of modern electronics such as mobile phones, laptops, electric vehicles (EVs), unmanned aircraft, etc. However, the state&#x02010;of&#x02010;the&#x02010;art LIBs dominating the market can hardly satisfy the soaring need for next&#x02010;generation energy storage devices of higher energy density.<xref rid="advs1513-bib-0002" ref-type="ref">2</xref> Superior electrode material and advanced battery technology are critically required. Recently, lithium metal anode has drawn tremendous attention worldwide due to its low potential (&#x02212;3.04 V vs SHE) and ultrahigh specific capacity (3860 mA h g<sup>&#x02212;1</sup>, 10 times as that of graphite)<xref rid="advs1513-bib-0003" ref-type="ref">3</xref> and it has been generally acknowledged that it is the most promising anode candidate for next&#x02010;generation high energy density batteries. In fact, it was used as an important anode for primary batteries in early 1970s. Nevertheless, several main issues summarized as follows still impede its further commercialization as an essential secondary battery component. The first one is the infinite volume change due to its &#x0201c;hostless&#x0201d; feature, which would inevitably lead to pulverization of the electrode and the failure of batteries. The second one is the formation of Li dendrite, which is the main cause for internal short circuit, decreased cycle life expectancy and low Coulombic efficiency.<xref rid="advs1513-bib-0004" ref-type="ref">4</xref>, <xref rid="advs1513-bib-0005" ref-type="ref">5</xref> Besides, the irreversible reaction between Li and nonaqueous electrolyte also consumes large amount of Li and electrolyte.<xref rid="advs1513-bib-0006" ref-type="ref">6</xref>, <xref rid="advs1513-bib-0007" ref-type="ref">7</xref> Overall, the development of Li anode faces enormous challenges.</p><p>Breakthroughs in improving the electrochemical performance of Li metal anode may bring a renaissance of the lithium metal battery (LMB) technology. To this end, researchers have explored many strategies to improve the electrochemical performance of Li metal anode such as interfacial modifications,<xref rid="advs1513-bib-0008" ref-type="ref">8</xref> engineered anodes,<xref rid="advs1513-bib-0009" ref-type="ref">9</xref>, <xref rid="advs1513-bib-0010" ref-type="ref">10</xref>, <xref rid="advs1513-bib-0011" ref-type="ref">11</xref> artificial solid electrolyte interface (SEI) films,<xref rid="advs1513-bib-0007" ref-type="ref">7</xref>, <xref rid="advs1513-bib-0012" ref-type="ref">12</xref> protective coating layers,<xref rid="advs1513-bib-0013" ref-type="ref">13</xref> and chemical pretreatments.<xref rid="advs1513-bib-0014" ref-type="ref">14</xref> In addition, a number of theoretical models were also built to describe the nucleation and growth mechanisms of Li dendrite.<xref rid="advs1513-bib-0015" ref-type="ref">15</xref> Chazalviel's model describes the inversely proportional relationship between the time of dendrite growth and the current density (&#x003c4; &#x02248; J<sup>&#x02212;2</sup>). According to this theory, constructing 3D skeleton/Li composite to substitute Li is an effective strategy to improve cycle lifespan because the 3D skeleton can not only reduce local current density and guide homogeneous Li deposition, but also minimize the volume change, which cannot be accomplished by other modification ways.<xref rid="advs1513-bib-0016" ref-type="ref">16</xref> Tremendous efforts on designing and constructing various Cu&#x02010; and C&#x02010;based 3D skeleton current collectors were proposed.<xref rid="advs1513-bib-0011" ref-type="ref">11</xref>, <xref rid="advs1513-bib-0017" ref-type="ref">17</xref> However, these two kinds of skeletons are not lithiophilic. Moreover, the Li&#x02010;free characteristic of these skeletons makes them complicated for their application in Li&#x02013;O<sub>2</sub> and Li&#x02013;S batteries. A more suitable and technically simple 3D skeleton/Li composite anode for LMBs is highly desirable.</p><p>Herein a new smelting reaction generated 3D Mg doped Li&#x02013;LiB alloy (hereinafter called Li&#x02013;B&#x02013;Mg composite), which is mainly composed of LiB skeleton and free Li with a few dissolved Mg, is presented as a promising alternative anode for LMBs. The unique 3D composite microstructure endows the Li&#x02013;B&#x02013;Mg composite with several advantages. First, the 3D LiB compound fiber skeleton which is in situ formed acts as a host for Li plating/stripping, so significant volume variation could be reduced during the Li electrochemical dissolution/deposition process. Second, the superlithiophilic conductive 3D skeleton also plays an important role in retarding Li dendrites growth owing to the reduced local current density and the homogeneous regulation of Li<sup>+</sup> deposition. Third, the addition of Mg element to the 3D LiB skeleton fundamentally enhances the adsorption energy of Li according to the density functional theory (DFT) calculation. It has been reported that the Li(Mg) alloy could not only produce a lower interfacial resistance, but also maintain the structural integrity of the 3D Li&#x02013;B&#x02013;Mg composite architecture.<xref rid="advs1513-bib-0018" ref-type="ref">18</xref>, <xref rid="advs1513-bib-0019" ref-type="ref">19</xref> Therefore, the Li&#x02013;B&#x02013;Mg composite showed dendrite&#x02010;free morphology and less volume variation during battery cycling. The full battery composed of the Li&#x02013;B&#x02013;Mg composite anode and LiCoO<sub>2</sub> cathode performed a longer cycle lifespan than that of the pure Li metal. It is also worth mentioning that large&#x02010;scale fabrication of Li&#x02013;B&#x02013;Mg composite with a tailored structure can be achieved, providing a favorable support for its potential industrialization.</p></sec><sec id="advs1513-sec-0020"><label>2</label><title>Results and Discussion</title><sec id="advs1513-sec-0030"><label>2.1</label><title>Characteristics of Li&#x02013;B&#x02013;Mg Composite</title><p>The schematic diagram (<bold>Figure</bold>
+<xref rid="advs1513-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref>a) depicts the processing course of the Li&#x02013;B&#x02013;Mg composite as well as the Li electrodissolution/electrodeposition behavior during electrochemical cycling. Figure <xref rid="advs1513-fig-0001" ref-type="fig">1</xref>b schematically shows the electrodissolution/electrodeposition behavior of pure Li during electrochemical cycling. From Figure <xref rid="advs1513-fig-0001" ref-type="fig">1</xref>a it can be noted that the synthesized composite ingot is mainly composed of randomly oriented LiB fiber skeleton that is in situ formed and free Li (Mg solubilizes in Li phase, marked as Li(Mg)). The composite ingot has been densified after rolling and the density of the composite plate is measured to be 0.844 g cm<sup>&#x02212;3</sup>. During the rolling process, some LiB fibers may align roughly in parallel along with the rolling direction. When Li is electrochemically dissolved, the skeleton maintains the integrity of the composite anode while in the reverse process it regulates the electrochemical deposition of Li and inhibits dendrite formation. In addition, the introduction of Mg forms Li(Mg) solid solution filled in LiB skeleton. Besides the enhanced affinity to Li and regulation of Li<sup>+</sup> flux, it could transform into a Li&#x02010;deficient phase during Li stripping process and connect the fibers, contributing to the stability of the electrode. In comparison, Figure <xref rid="advs1513-fig-0001" ref-type="fig">1</xref>b shows that pure Li foil would experience large volume change and inevitable growth of dendritic Li during electrochemical cycling could occur.</p><fig fig-type="Figure" xml:lang="en" id="advs1513-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>a) The schematic diagram for the fabrication course and the Li electrodissolution/electrodeposition process of Li&#x02013;B&#x02013;Mg composite. b) The Li electrodissolution/electrodeposition process of pure Li foil.</p></caption><graphic id="nlm-graphic-3" xlink:href="ADVS-7-1902643-g001"/></fig><p>The properties of the obtained Li&#x02013;B&#x02013;Mg composite have been further characterized. Figure S1 (Supporting Information) shows that the Li&#x02013;B&#x02013;Mg composite plate has a yellowish metallic sheen color while the pure Li has a silver color. <bold>Figure</bold>
+<xref rid="advs1513-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref>a shows the X&#x02010;ray powder diffraction (XRD) results of the Li&#x02013;B&#x02013;Mg composite, from which three main peaks located at 25.53&#x000b0;, 45.02&#x000b0;, and 52.48&#x000b0; can be assigned to LiB phase (PDF#52&#x02010;1033, note that the disappearance of the peak at 40.77&#x000b0; of LiB phase is caused by the rolling process, which is in agreement with previous report.<xref rid="advs1513-bib-0020" ref-type="ref">20</xref>). Peaks at 25.53&#x000b0; and 29.36&#x000b0; can be assigned to the tape used for the sample preparation. The remaining three peaks (at 36.16&#x000b0;, 52.08&#x000b0;, and 65.05&#x000b0;) belong to Li(Mg) solid solution (approximately Li<sub>0.98</sub>Mg<sub>0.02</sub>, for details of the calculation see the Supporting Information). The composite is thus confirmed to be composed of two phases, i.e., the LiB compound and Li(Mg) solid solution. In addition, the mass percent of the LiB in the composite is calculated to be 42.693 wt% (see details in the Supporting Information). Overall, the structure of the obtained Li(Mg) solid solution filled in LiB fibers skeleton is similar to that of pure Li (PDF#15&#x02010;0401) which possesses a body&#x02010;centered cubic phase. The similarities of the structure between the Li(Mg) solid solution and Li could in theory avoid phase transformation during Li electrodissolution/electrodeposition, which facilitates the structural stability of the obtained Li&#x02013;B&#x02013;Mg composite.<xref rid="advs1513-bib-0021" ref-type="ref">21</xref>, <xref rid="advs1513-bib-0022" ref-type="ref">22</xref>, <xref rid="advs1513-bib-0023" ref-type="ref">23</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="advs1513-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>a) XRD results of the obtained 3D Li&#x02013;B&#x02013;Mg composite. b) Voltage profile of the electrochemical Li stripping from the composite anode to 1 V versus Li<sup>+</sup>/Li. c) The corresponding XRD patterns and d) SEM images of the composite at specific stages marked in (b). e) Study of the structural stability of the 3D Li&#x02013;B&#x02013;Mg composite at high temperature. f) Calculations of adsorption energies of a Li atom on the surface of LiB, Mg, and LiB/Mg.</p></caption><graphic id="nlm-graphic-5" xlink:href="ADVS-7-1902643-g002"/></fig><p>The 3D LiB skeleton structure was observed by scanning electron microscopy (SEM) after soaking the Li&#x02013;B&#x02013;Mg composite in naphthalene (10 wt. %)&#x02010;containing tetrahydrofuran (THF) solution to dissolve the Li component.<xref rid="advs1513-bib-0024" ref-type="ref">24</xref> Figure S2a (Supporting Information) shows that the remaining 3D plate structure possesses pores of several micros in size and that the remaining LiB fibers align in parallel along the rolling direction, in accordance with the previous reports.<xref rid="advs1513-bib-0025" ref-type="ref">25</xref> In addition, it can be seen from Figure S2b (Supporting Information), the cross&#x02010;section of the plate, that LiB fibers of different lengths were interlaced with one another mainly in a direction parallel to the surface. The pores between LiB skeletons are thus the ideal accommodations for free Li encapsulation.</p><p>To examine the practical capacity of the prepared Li&#x02013;B&#x02013;Mg composite anode, it has been charged at 0.2 mA cm<sup>&#x02212;2</sup> in a Li&#x02010;half battery and the voltage profile result is shown in Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>b. From Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>b, a long stage below 0.1 V, which can be assigned to the stripping of free Li, can be observed. This capacity is calculated to be 1832 mA h g<sup>&#x02212;1</sup> based on the mass of the whole composite anode. In addition, three small platforms located at 0.46, 0.67, and 0.80 V, which can be attributed to the Li electrodissolution from the LiB compound, can be observed.<xref rid="advs1513-bib-0026" ref-type="ref">26</xref> To further examine the compositional and morphological change of the 3D Li&#x02013;B&#x02013;Mg composite anode during Li electrodissolution, ex situ XRD and SEM measurements have been conducted during the charge process at specific stages (marked from A&#x02013;H in Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>b) and the corresponding results are shown in Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>c,d. From Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>c, it can be observed that one of the XRD peaks of the Li(Mg) solid solution, which is located at 36&#x000b0;, gradually decreases during Li electrodissolution process (Figure S3a, Supporting Information). This implies that the original Li(Mg) solid solution which has filled in the pores of the fibrous LiB skeleton has gradually transformed into a Li&#x02010;deficient phase during the charge process. Meanwhile, Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>c shows that the XRD peaks belonging to the LiB compound, which is located at 45.06&#x000b0;, rise first and then fall during Li electrodissolution. This indicates that the Li in the LiB compound could be dissolved to some extent during the charge process. It has to be noted that although the Li in the LiB compound can contribute extra capacity during the charge process, yet it will jeopardize the structural integrity of the LiB compound structure, resulting in an unstable 3D Li&#x02013;B&#x02013;Mg composite anode. The deterioration of the LiB compound can be observed via the appearance of the dark LiB color as shown in Figure S3b (Supporting Information, see also below) especially after the voltage reaches greater than 0.8 V.<xref rid="advs1513-bib-0010" ref-type="ref">10</xref>
+</p><p>The Li&#x02013;B&#x02013;Mg composite anode which has been charged to several specific stages (B, D, and F in Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>b) is chosen to study its morphology changes and the corresponding results are shown in Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>d. One can clearly observe the appearance of large pores among the LiB fibers during the Li electrochemical dissolution under the voltage of 0.1 V (B panel in Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>d). With almost all available Li in Li(Mg) solid solution dissolved (D panel in Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>d), the pores among the LiB fibers became larger. The surface morphology and the cross&#x02010;sectional SEM images of the Li&#x02013;B&#x02013;Mg composite anode after Li in the LiB compound has been partially dissolved are shown in Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>d (F panel) and Figure S3c (Supporting Information). Moreover, one can clearly observe the fragmentation of the Li&#x02013;B&#x02013;Mg composite anode after the voltage has increased to 1 V, as shown in Figure S3d (Supporting Information; H point in Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>d). The unambiguous observation provides supporting evidence that the structure of the obtained 3D Li&#x02013;B&#x02013;Mg composite could be significantly damaged after the stripping of Li in LiB skeleton.<xref rid="advs1513-bib-0023" ref-type="ref">23</xref> On the basis of the measurements, the capacity below 0.1 V (D point) is defined as the available free Li capacity (&#x02248;1832 mA h g<sup>&#x02212;1</sup>) and the cut&#x02010;off voltage of the following electrochemical measurement of the battery is set to be 0.4 V to avoid the destruction of LiB skeleton.</p><p>High temperature melting test and DFT calculation have been further conducted to investigate the structural stability of the obtained 3D Li&#x02013;B&#x02013;Mg composite. The results are respectively shown in Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>e,f. Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>e clearly shows the intact structure of the Li&#x02013;B&#x02013;Mg composite plate (no free Li melts out) even when it is heated to a high temperature of 288.6 &#x000b0;C. In comparison pure Li has melted into a ball shape under this high temperature condition. This investigation clearly demonstrates a strong structural stability under high temperature condition. To further study the chemical affinity between lithium alloy skeleton and lithium, we calculated the adsorption energies of Li on different sites and substrates by using the DFT and the results are illustrated in Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>f. From Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>f, it can be seen that the adsorption energy is &#x02212;2.03 eV between a Li atom and the top Li atom of the LiB skeleton. However, when Li is adsorbed on the top of B atom in the LiB, the adsorption energy has decreased to &#x02212;2.63 eV, which suggests a stronger adsorption preference in the LiB substrate (LiB&#x02013;Li2). The strong interaction between LiB and Li facilitates the absorption of Li<sup>+</sup> by the LiB skeleton, highlighting its lithiophilicity and availability of the host. The influence of Mg toward the affinity to Li has been also studied. In the first place the adsorption energy between Li atom and the unoccupied site and the bridge site of Mg metal are found respectively to be &#x02212;1.49 and &#x02212;1.48 eV. After Mg was introduced into the LiB compound, the calculation indicates an enhanced adsorption energy of Li (by about 0.19 eV relative to the adsorption energy (LiB&#x02013;Li2) of &#x02212;2.63 eV). The results declare an important role played by Mg atom and the enhanced chemical affinity of Li to the skeleton in the presence of Mg is thus obtained.</p><p>To further elaborate the effect of Mg, the Li&#x02013;B composite was synthesized without adding Mg during the preparation process. The component contents of Li&#x02013;B alloy are 74 wt.% Li and 26 wt.% B. The obtained Li&#x02013;B alloy is consisted of two phases of LiB compound and free Li according to XRD patterns in Figure S4a (Supporting Information). The practical available capacity of the prepared Li&#x02013;B anode (below 0.1 V) is calculated to be 1890.4 mA h g<sup>&#x02212;1</sup> based on the whole composite, which is a little higher than that of Li&#x02013;B&#x02013;Mg composite. After the free Li stripped (A stage marked in Figure S4b in the Supporting Information), the morphology of Li&#x02013;B compound was shown in Figure S4c (Supporting Information). Compared with Li&#x02013;B&#x02013;Mg composite, the surface of LiB fibers is smoother with less adhesion after the free Li stripped (D stage) in Figure <xref rid="advs1513-fig-0002" ref-type="fig">2</xref>d. It demonstrates that after free Li stripped from Li&#x02013;B&#x02013;Mg, the remaining Li&#x02010;deficient Li(Mg) alloy helps connect LiB fibers to stabilize the whole skeleton. This is one of the advantage of addition of Mg.</p></sec><sec id="advs1513-sec-0040"><label>2.2</label><title>Mitigation of the Volume Change</title><p>The in situ formed lithiophilic 3D skeleton is designed to function as a &#x0201c;host&#x0201d; for Li metal to maintain the structural integrity and stability of the electrode. The ability to alleviate the significant volume change is verified through the cross&#x02010;sectional SEM, as shown in <bold>Figure</bold>
+<xref rid="advs1513-fig-0003" ref-type="fig">
+<bold>3</bold>
+</xref>. It has to be noted that the experiment adopted about 0.2 mm thick Li&#x02013;B&#x02013;Mg composite plate and 0.6 mm thick Li foil. As displayed in Figure <xref rid="advs1513-fig-0003" ref-type="fig">3</xref>a, the thickness of the pristine Li&#x02013;B&#x02013;Mg is measured to be 247.6 &#x000b5;m. After 15.3 mA h of Li (25% free Li in Li&#x02013;B&#x02013;Mg composite) was stripped from the composite, the thickness of the composite plate decreased only by 5.3 &#x000b5;m (Figure <xref rid="advs1513-fig-0003" ref-type="fig">3</xref>b), less than the theoretical value of 37.11 &#x000b5;m (calculation details are shown in the Supporting Information). Besides, the even Mg distribution in the cross&#x02010;section of the composite after Li stripped (Figure <xref rid="advs1513-fig-0003" ref-type="fig">3</xref>c,d) corroborates that Mg remains homogeneous in the whole stripping process. It is noted that Li(Mg) alloy could act as a dual&#x02010;conductive host for Li due to the transition to a Li&#x02010;deficient material.<xref rid="advs1513-bib-0023" ref-type="ref">23</xref> As the concentration of Mg increases with Li stripped, the strength of the composite is enhanced, and it helps to protect the Li in LiB from being stripped. So the exist of Mg contributes to the stability of the electrode. In contrast, Figure <xref rid="advs1513-fig-0003" ref-type="fig">3</xref>e,f show that the &#x0201c;hostless&#x0201d; Li foil experienced a vast reduction in thickness of 149.3 &#x000b5;m after 60 mA h Li has been stripped (24.3% of the total Li corresponding to a theoretical thickness of 145.55 &#x000b5;m, see detailed calculations in the Supporting Information). Figure <xref rid="advs1513-fig-0003" ref-type="fig">3</xref>g shows a cracked Li surface which may result from the large volume variation during extraction of Li, as schematically illustrated in Figure <xref rid="advs1513-fig-0001" ref-type="fig">1</xref>b. The inhomogeneous Li electrodissolution/electrodeposition would lead to the observed Li electrode pulverization. In a word, the current experiment verifies that LiB skeleton can work as a scaffold to alleviate the volume variation and support the whole electrode after Li has been stripped.</p><fig fig-type="Figure" xml:lang="en" id="advs1513-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>a&#x02013;d) The cross&#x02010;sectional SEM images and EDX mapping of Mg of Li&#x02013;B&#x02013;Mg composite in different states. a) Pristine, b) after 15.3 mA h of Li was stripped, and c,d) SEM and Mg distribution after 15.3 mA h of Li was stripped. e) The pristine Li foil, f) after 24.3% Li (60 mA h of Li) was stripped, and g) the surface of Li foil after 24.3% Li was stripped.</p></caption><graphic id="nlm-graphic-7" xlink:href="ADVS-7-1902643-g003"/></fig></sec><sec id="advs1513-sec-0050"><label>2.3</label><title>Symmetrical Battery Performance of Li&#x02013;B&#x02013;Mg Composite and Li</title><p>The electrochemical performance of the symmetrical batteries assembled with either Li&#x02013;B&#x02013;Mg composite or pure Li is compared in <bold>Figure</bold>
+<xref rid="advs1513-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref>. Batteries of both types were cycled at 0.5, 1, and 2 mA cm<sup>&#x02212;2</sup> with a fixed capacity of 0.5 mA h cm<sup>&#x02212;2</sup>. As displayed in Figure <xref rid="advs1513-fig-0004" ref-type="fig">4</xref>a, the symmetrical battery of Li&#x02013;B&#x02013;Mg composite experiences an activation process at first with a large overpotential due to a few contaminants on the surface, but it quickly tends to be stable with a smaller voltage overpotential of less than 50 mV. The duration of cycle life for the Li&#x02013;B&#x02013;Mg symmetrical battery exceeds 500 h, whereas pure Li foil assembled battery exhibits an increasing voltage overpotential and short&#x02010;circuited after 170 hours cycling. The cycle lives of both types of batteries reduce when the current density is increased to 1 and 2 mA cm<sup>&#x02212;2</sup>, as shown in Figure <xref rid="advs1513-fig-0004" ref-type="fig">4</xref>b,c. Nevertheless, the Li&#x02013;B&#x02013;Mg composite assembled symmetrical batteries show superior cycle lifespan compared with the pure Li assembled symmetrical batteries (Figure <xref rid="advs1513-fig-0004" ref-type="fig">4</xref>b,c), illustrating a stable interface and impedance formed by the Li&#x02013;B&#x02013;Mg composite anode.<xref rid="advs1513-bib-0019" ref-type="ref">19</xref> Detailed comparisons of the overpotentials are depicted in the right column of Figure <xref rid="advs1513-fig-0004" ref-type="fig">4</xref>. It has been reported that the poor performance of Li symmetrical battery results from the large volume change and formation of dendritic Li.<xref rid="advs1513-bib-0005" ref-type="ref">5</xref> On the contrary, the currently proposed 3D Li&#x02013;B&#x02013;Mg composite anode could not only reduce the local current density and mitigate the large volume change, but also regulate the uniformity of electric field (the electric field distribution is simulated hereinafter) and induce the homogeneous Li<sup>+</sup> deposition. All these merits contribute tremendously to the long and stable cycling lifespan of Li&#x02013;B&#x02013;Mg composite assembled symmetrical batteries.</p><fig fig-type="Figure" xml:lang="en" id="advs1513-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>The voltage&#x02013;time profiles and detailed overpotential curves of the Li&#x02013;B&#x02013;Mg composite assembled symmetrical batteries and pure Li assembled symmetrical batteries at a) 0.5 mA cm<sup>&#x02212;2</sup>, b) 1 mA cm<sup>&#x02212;2</sup>, and c) 2 mA cm<sup>&#x02212;2</sup> at a fixed Li stripping/plating capacity of 0.5 mA h cm<sup>&#x02212;2</sup>.</p></caption><graphic id="nlm-graphic-9" xlink:href="ADVS-7-1902643-g004"/></fig><p>Figure S5 (Supporting Information) compares the electrochemical properties of the Li&#x02013;B&#x02013;Mg and Li&#x02013;B composites in symmetrical batteries under the current density of 1 mA cm<sup>&#x02212;2</sup>. It is obvious that the overpotential of Li&#x02013;B&#x02013;Mg composite is lower than that of Li&#x02013;B anode especially in the partial enlarged figures, which is consistent with the above calculation results of enhanced adsorption energy with the addition of Mg.</p><p>The electrochemical performance of the Li&#x02013;B&#x02013;Mg composite in the ether&#x02010;based electrolyte was also explored since the ether&#x02010;based electrolyte is widely employed in Li&#x02013;S and Li&#x02013;O<sub>2</sub> batteries. Figure S6 (Supporting Information) clearly shows the enhanced cycling stability of the 3D Li&#x02013;B&#x02013;Mg composite cycled at 1 mA cm<sup>&#x02212;2</sup> (over 500 h) and 2 mA cm<sup>&#x02212;2</sup> (250 h) compared with that of the pure Li assembled symmetrical batteries. This study further verifies the stability of the Li&#x02013;B&#x02013;Mg composite as a metal electrode.</p></sec><sec id="advs1513-sec-0060"><label>2.4</label><title>Inhibition Mechanisms of Li Dendrite Growth During Cycling</title><p>The uneven electric field distribution is regarded as a main driving force for the uncontrolled Li dendrites growth.<xref rid="advs1513-bib-0027" ref-type="ref">27</xref> The currently proposed porous and conductive 3D LiB skeleton is expected to decentralize the electric field, reduce the local current density and regulate the Li<sup>+</sup> deposition. To elucidate the effect of the LiB skeleton on electric field distribution, electrical conduction model via finite element analysis (FEA) simulation is conducted. (Note that the simulation is concentrated mainly on the electric field distribution on the composite surface during the initial Li deposition process.) The results are shown in <bold>Figure</bold>
+<xref rid="advs1513-fig-0005" ref-type="fig">
+<bold>5</bold>
+</xref> (details and Figure S7 are shown in the Supporting Information). As illustrated in Figure <xref rid="advs1513-fig-0005" ref-type="fig">5</xref>a&#x02013;d, the uniformly distributed electric field generated from the LiB skeleton facilitates the uniform deposition of Li, inhibiting the formation of Li dendrite. Moreover, the remaining Li(Mg) solid solution with high Mg concentration will also help to guide the uniform deposition of Li<sup>+</sup> due to the strong affinity to Li as mentioned earlier. In comparison, the Li tips on the Li surface would eventually evolve into Li dendrites due to the inhomogeneous incoming Li<sup>+</sup> flux (Figure <xref rid="advs1513-fig-0005" ref-type="fig">5</xref>e,f).</p><fig fig-type="Figure" xml:lang="en" id="advs1513-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>The simulation results of the electric field distribution of the LiB&#x02010;Li alloy. a) Top view, b) cross&#x02010;sectional view from different perspectives (A: left side and B: right side) of the simulation results. c,d) Schematic diagrams of Li deposition behavior on the LiB&#x02013;Li composite surface. e,f) Schematic diagrams of Li dendrite evolution. The scale length in (b) is 1 &#x000b5;m.</p></caption><graphic id="nlm-graphic-11" xlink:href="ADVS-7-1902643-g005"/></fig><p>The morphology evolution of Li&#x02013;B&#x02013;Mg composite and pure Li after electrochemical cycling are characterized by SEM to further investigate the superior dendrite inhibition of Li&#x02013;B&#x02013;Mg composite and the results are presented in <bold>Figure</bold>
+<xref rid="advs1513-fig-0006" ref-type="fig">
+<bold>6</bold>
+</xref>a. The first image in Figure <xref rid="advs1513-fig-0006" ref-type="fig">6</xref>a shows a relatively smooth and flat surface of the composite after 25 cycles cycled at 1 mA cm<sup>&#x02212;2</sup> with a fixed capacity of 0.5 mA h cm<sup>&#x02212;2</sup>. This indicates that the 3D Li&#x02013;B&#x02013;Mg composite can successfully accommodate the electrochemically deposited Li. By contrast, a great deal of dendrites of several micrometers in diameter can be observed on the surface of Li foil (second row in Figure <xref rid="advs1513-fig-0006" ref-type="fig">6</xref>a). These entangled dendrites grow randomly and form a porous layer on planar Li foil (Figure S8, Supporting Information). It has been reported that this porous layer would undoubtedly bring detrimental effect to Li<sup>+</sup> diffusion and contribute significantly to the generation of electrochemically &#x0201c;dead Li.&#x0201d;<xref rid="advs1513-bib-0028" ref-type="ref">28</xref> The Li&#x02013;B&#x02013;Mg composite electrode also shows superior dendrite inhibition ability at increased cycle numbers and current density (the middle and right columns in Figure <xref rid="advs1513-fig-0006" ref-type="fig">6</xref>a).</p><fig fig-type="Figure" xml:lang="en" id="advs1513-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>a) The SEM pictures of the Li&#x02013;B&#x02013;Mg composite and the pure Li foil after cycling under different current densities. b) The in situ observation of Li plating on the Li&#x02013;B&#x02013;Mg composite and pure Li foil under the current density of 3 mA cm<sup>&#x02212;2</sup> in carbonate&#x02010;based electrolyte.</p></caption><graphic id="nlm-graphic-13" xlink:href="ADVS-7-1902643-g006"/></fig><p>In situ optical microscopy was employed to record the Li electrodeposition on the 3D Li&#x02013;B&#x02013;Mg composite and pure Li electrode in the carbonate&#x02010;based electrolyte. The results are shown in Figure <xref rid="advs1513-fig-0006" ref-type="fig">6</xref>b and Videos S1 and S2 in the Supporting Information. From Figure <xref rid="advs1513-fig-0006" ref-type="fig">6</xref>b, one can hardly observe dendrite formation on Li&#x02013;B&#x02013;Mg electrode surface, as shown in the first row of Figure <xref rid="advs1513-fig-0006" ref-type="fig">6</xref>b. However, tremendous amount of Li cluster appears and it grows rapidly into irregular bulges during electrochemical plating. These results illustrate that the Li&#x02013;B&#x02013;Mg electrode is indeed capable of maintaining relatively flat surface by inhibiting dendrite growth during cycling.</p><p>EIS measurements were also carried out to examine the interfacial stability of the Li&#x02013;B&#x02013;Mg anode and pure Li anode over the range of 0.01&#x02013;10<sup>5</sup> Hz during cycling. Figure S9 (Supporting Information) shows the results of the interfacial resistance measurements after different cycles at 0.5 mA cm<sup>&#x02212;2</sup> with a fixed capacity of 0.5 mA h cm<sup>&#x02212;2</sup>. It can be clearly observed from Figure S9 (Supporting Information) that the Li&#x02013;B&#x02013;Mg composite assembled symmetrical battery exhibits a stable and ultralow interfacial resistance of less than 15 &#x003a9; during the cycling after the first cycle. On the contrary, pure Li assembled symmetrical battery displays erratic resistance behavior, indicating that an unstable interface between metallic Li and the electrolyte has been formed.</p></sec><sec id="advs1513-sec-0070"><label>2.5</label><title>Full Batteries Paired with LiCoO<sub>2</sub>
+</title><p>To explore the practical application of the Li&#x02013;B&#x02013;Mg composite, coin&#x02010;type full battery using commercial LiCoO<sub>2</sub> as cathode was assembled. The full battery employed carbonate&#x02010;based electrolyte and its voltage profiles within the voltage range of 3.0&#x02013;4.2 V at different cycles are presented in <bold>Figure</bold>
+<xref rid="advs1513-fig-0007" ref-type="fig">
+<bold>7</bold>
+</xref>a. Under the current density of 0.5 C (1 C = 274 mA h g<sup>&#x02212;1</sup>), LiCoO<sub>2</sub>|Li&#x02013;B&#x02013;Mg full battery displays a discharge specific capacity of 134.7 mA h g<sup>&#x02212;1</sup> with a distinct voltage plateaus at &#x02248;3.9 V in the first cycle. In the subsequent cycles, the voltage plateau remains unchanged. Figure <xref rid="advs1513-fig-0007" ref-type="fig">7</xref>b compares the cycling stability of the batteries assembled respectively with the Li&#x02013;B&#x02013;Mg composite and pure Li anodes at 0.5 C. The initial discharge specific capacity of the LiCoO<sub>2</sub>|Li full battery approximates to that of the LiCoO<sub>2</sub>|Li&#x02013;B&#x02013;Mg full battery (134.3 vs 134.7 mA h g<sup>&#x02212;1</sup>). However, the LiCoO<sub>2</sub>|Li full battery decays quickly during the 100 cycles while the LiCoO<sub>2</sub>|Li&#x02013;B&#x02013;Mg full battery exhibits a much longer cycling life (250 cycles with a capacity retention of 77.3%). The pouch&#x02010;type battery was also assembled to test the practical performance of the Li&#x02013;B&#x02013;Mg composite. Its first discharge capacity is 67.657 mA h (&#x02248;6 mA h cm<sup>&#x02212;2</sup>). In addition, the pouch&#x02010;type battery demonstrates a similar charge&#x02013;discharge curve to that of the coin&#x02010;type battery (Figure <xref rid="advs1513-fig-0007" ref-type="fig">7</xref>c) and a very stable cycling over 35 cycles is shown in Figure <xref rid="advs1513-fig-0007" ref-type="fig">7</xref>d. Meanwhile, its Coulombic efficiency maintains over 99.7%, verifying its feasibility for practical application.</p><fig fig-type="Figure" xml:lang="en" id="advs1513-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>The charge&#x02013;discharge curves and cycling performance of a,b) coin&#x02010;type batteries and c,d) pouch&#x02010;type batteries using LiCoO<sub>2</sub> as cathode in carbonate&#x02010;based electrolyte.</p></caption><graphic id="nlm-graphic-15" xlink:href="ADVS-7-1902643-g007"/></fig><p>Safety concerns of LMBs are of paramount importance in practical applications. A series of safety tests of the pouch&#x02010;type battery using the Li&#x02013;B&#x02013;Mg composite as anode, namely, the acupuncture, impact and overcharge tests, were conducted after preformation procedure. Among them, the acupuncture test is the simulation of a battery under the circumstance of a forced internal short circuit. Video S3 (Supporting Information) recorded the process of the acupuncture test, from which no instant explosion and no open fire can be observed after the needle puncture (the inset on the upper right in Figure S10A in the Supporting Information). The pouch battery also withstood the impact test without explosion and open fire (Video S4 and Figure S10B, Supporting Information), which is aimed at simulating a heavy object impacting the power supply. Resistance to overcharge is also an essential aspect of the safety properties for monomer battery so an overcharge test has been conducted and the results are shown in Figure S10C (Supporting Information). Although it can be observed that swelling has occurred during the rise of voltage yet no explosion nor smoke occurred even when the voltage has reached to 10 V. This experiment demonstrates a higher safety characteristic of the LiCoO<sub>2</sub>|Li&#x02013;B&#x02013;Mg pouch battery.</p></sec></sec><sec id="advs1513-sec-0080"><label>3</label><title>Conclusion</title><p>Li&#x02013;B&#x02013;Mg composite with in situ formed 3D LiB fiber network is successfully manufactured and introduced as a potential anode for LMBs. On the one hand, the fibrillar conductive LiB skeleton not only contributes to the reduction of the local current density, but also acts as a host for the storage of Li; on the other hand, the stronger affinity to Li of the skeleton due to the introduction of Mg regulates the incoming Li<sup>+</sup> flux and helps to reduce Li ion concentration gradient during Li deposition. Besides, Li(Mg) alloy with large solid solution is also beneficial to maintain the integrity and stability of the structure during Li electrodissolution/electrodeposition. As a result, the proposed 3D Li&#x02013;B&#x02013;Mg composite anode shows less volume change and a dendrite&#x02010;free feature during electrochemical cycling. In addition, the Li&#x02013;B&#x02013;Mg composite assembled symmetrical battery achieves a long and stable cycle lifespan of more than 500 h at 0.5 mA cm<sup>&#x02212;2</sup> with a low overpotential. Moreover, full batteries assembled with the proposed 3D Li&#x02013;B&#x02013;Mg composite display improved electrochemical performance compared to that assembled with pure Li. The pouch&#x02010;type battery also shows outstanding safety properties. Therefore, on the basis of current research, it is suggested that the Li&#x02013;B&#x02013;Mg composite is a promising candidate to substitute Li metal anode in LMBs and it may significantly propel the advancement of LMB technology from laboratory research to industrial commercialization.</p></sec><sec id="advs1513-sec-0090"><label>4</label><title>Experimental Section</title><p>
+<italic>Materials Preparation</italic>: The Li metal ribbon (99.9%) was purchased from Wenyuan (Wuhan) Advanced Materials Co., Ltd. and it was rolled into a 0.2 mm thick foil. The Li&#x02013;B&#x02013;Mg composite was fabricated by the smelting reaction.<xref rid="advs1513-bib-0020" ref-type="ref">20</xref>, <xref rid="advs1513-bib-0029" ref-type="ref">29</xref> In brief, proportional lithium, boron, and magnesium were put in an iron crucible and then they were experienced two exothermic reactions in Ar (350 and 530 &#x000b0;C) under vigorous stirring condition. Afterward, the obtained composite was rolled into a 0.2 mm thick foil and 16 mm diameter disks were punched out therefrom as anode electrodes for LMBs. The control sample Li&#x02013;B composite was also prepared without Mg added. Table S1 (Supporting Information) demonstrates the mass ratios of raw materials.</p><p>
+<italic>Materials Characterization</italic>: Phase structure was characterized via XRD analysis by Rigaku Deskto X&#x02010;ray diffractometer (Japan) using Cu K&#x003b1; radiation (&#x003bb; = 1.54056 &#x000c5;). The XRD samples were wrapped in transparent tape and then fixed on the specimen holder. To avoid oxidation, the whole procedure was conducted in Ar&#x02010;filled glove&#x02010;box (O<sub>2</sub> and H<sub>2</sub>O &#x0003c; 0.5 ppm). The XRD spectrum of the tape was also tested. The morphology was characterized by SEM (Hitachi SU8010, Japan). The SEM samples were loaded into a transfer vessel under Ar protection which could be opened inside the SEM. The ex situ XRD and SEM samples were obtained from the disassembled batteries and they were washed with dimethyl carbonate (DMC) followed by subsequent drying in Ar&#x02010;filled glove&#x02010;box overnight. To study the affinity of Li and the skeleton, the round composite ingot and Li plate were respectively heated on the Al foil on a hot plate to 300 &#x000b0;C in Ar&#x02010;filled glove.</p><p>
+<italic>Electrochemical Measurement</italic>: Electrochemical tests were carried out in CR2016 coin batteries. The electrolyte was 1 <sc>m</sc> LiPF<sub>6</sub> in ethylene carbonate (EC), ethyl methyl carbonate (EMC), dimethyl carbonate (DMC) (1:1:1, volume) with the additive of vinylene carbonate (VC). All battery employed the Celgard 2400 separator. The measurement of the free Li capacity in composite was done by charging the battery to 1 V at 0.2 mA cm<sup>&#x02212;2</sup> with the pure Li as the counter and reference electrode. In the symmetrical battery type, either Li&#x02013;B&#x02013;Mg composite disks or pure Li on both sides were used. Galvanostatic experiments were conducted on a battery testing system (LANHE CT 2001A, Wuhan LAND electronics Co., P.R. China) under a current density of 0.5 mA cm<sup>&#x02212;2</sup>. A symmetrical cuvette&#x02010;type optical battery was assembled to in situ observe the surface change of Li&#x02013;B&#x02013;Mg composite and pure Li under 3 mA cm<sup>&#x02212;2</sup> by a metallurgical microscope (Caikon Optical Instrument DMM&#x02010;330C, with 8.9 mm extra&#x02010;long working distance 10&#x000d7; objectives<xref rid="advs1513-bib-0030" ref-type="ref">30</xref>). The electrochemical impedance spectroscopy (EIS, Princeton PARSTAT 4000, AMETEK Co. Ltd) was tested in the frequency range of 10<sup>5</sup>&#x02013;0.01 Hz. Commercialized LiCoO<sub>2</sub> powder used for the cathode in full batteries (both coin&#x02010;type and pouch batteries) was purchased from Hunan Shanshan Advanced Energy Co., Ltd. For coin&#x02010;type full battery, the cathode slurry comprising LiCoO<sub>2</sub>, super P and polyvinylidene fluoride (PVDF) at the weight ratio of 8:1:1 was coated onto the Al foil. The slurry coated Al foil was cut into a 12 mm diameter disk after drying overnight under vacuum at 120 &#x000b0;C. The active substance loading of cathode is 1.40 mg cm<sup>&#x02212;2</sup>. In the pouch battery the designed capacity of the anode is 50% more than that of cathode and the assembly as well as the safety property tests was conducted in Dongguan Juda Electronics Co. LTD (Guangdong, China). Before electrochemical performance testing, the pouch batteries underwent a preformation procedure, which was performed under two constant&#x02010;current charging and a constant&#x02010;voltage charging processes with the upper limit voltages of 3.3 V, 3.6 and 4.2 V respectively.</p><p>
+<italic>Computational Methods</italic>: The calculations of the adsorption energy among Li, LiB, and Mg were performed using DFT implemented in the Vienna ab initio simulation package (VASP).<xref rid="advs1513-bib-0031" ref-type="ref">31</xref> The projector augmented wave (PAW) method<xref rid="advs1513-bib-0032" ref-type="ref">32</xref> and the generalized gradient approximation (GGA)<xref rid="advs1513-bib-0033" ref-type="ref">33</xref> in the form of Perdew, Burke, and Ernzerhof (PBE) were used in this work. The cut&#x02010;off energy was set to be 520 eV. The Brillouin zones were sampled with 2 &#x000d7; 2 &#x000d7; 1 Monkhorst&#x02013;Pack meshes. The atomic position was fully relaxed until the maximum force on each atom was less than &#x02212;0.02 eV &#x000c5;<sup>&#x02212;1</sup> and 10<sup>&#x02212;6</sup> eV. A vacuum space of 20 &#x000c5; was inserted along the <italic>z</italic> direction to avoid any interactions between the periodically repeated images.</p><p>The ANSYS FEA package was employed to simulate the effect of the skeleton on electric field distribution in LiB&#x02013;Li system based on the electrical conduction model.<xref rid="advs1513-bib-0034" ref-type="ref">34</xref> The computational work were mainly focused on the surface of the composite and details are depicted in the Supporting Information.</p></sec><sec sec-type="COI-statement" id="advs1513-sec-0110"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-7-1902643-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplemental Video S1</p></caption><media xlink:href="ADVS-7-1902643-s002.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplemental Video S2</p></caption><media xlink:href="ADVS-7-1902643-s003.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplemental Video S3</p></caption><media xlink:href="ADVS-7-1902643-s004.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplemental Video S4</p></caption><media xlink:href="ADVS-7-1902643-s005.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs1513-sec-0100"><title>Acknowledgements</title><p>This research was financially supported by the National Key R&#x00026;D Program of China (2018YFB0104200).</p></ack><ref-list id="advs1513-bibl-0001"><ref id="advs1513-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs1513-cit-0001">
+<string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Z. W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Amine</surname>
+</string-name>, <source xml:lang="en">Electrochem. Energy Rev.</source>
+<year>2018</year>, <volume>1</volume>, <fpage>35</fpage>.</mixed-citation></ref><ref id="advs1513-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs1513-cit-0002">a) <string-name>
+<given-names>X.</given-names>
+<surname>Ke</surname>
+</string-name>, <string-name>
+<given-names>Y. F.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L. Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>N. G.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>C. Y.</given-names>
+<surname>Zhi</surname>
+</string-name>, <string-name>
+<given-names>Z. C.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>Z. P.</given-names>
+<surname>Guo</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <elocation-id>13552</elocation-id>;<pub-id pub-id-type="pmid">29600841</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0003">b) <string-name>
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <source xml:lang="en">Joule</source>
+<year>2018</year>, <volume>2</volume>, <fpage>833</fpage>.</mixed-citation></ref><ref id="advs1513-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs1513-cit-0004">a) <string-name>
+<given-names>Z. G.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>T. F.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>F. F.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ling</surname>
+</string-name>, <string-name>
+<given-names>C. D.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Lin</surname>
+</string-name>, <source xml:lang="en">Energy Storage Mater.</source>
+<year>2018</year>, <volume>11</volume>, <fpage>267</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0005">b) <string-name>
+<given-names>J. L.</given-names>
+<surname>Lang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>X. Y.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>Z. L.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J. N.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>Y. Z.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name>
+<given-names>L. H.</given-names>
+<surname>Qi</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>Z. C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem. A</source>
+<year>2017</year>, <volume>5</volume>, <elocation-id>19168</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0006">c) <string-name>
+<given-names>Y. M.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>C. Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W. J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Luo</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <elocation-id>1901810</elocation-id>.</mixed-citation></ref><ref id="advs1513-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs1513-cit-0007">a) <string-name>
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>A. X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q. Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Chiou</surname>
+</string-name>, <string-name>
+<given-names>J. X.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Luo</surname>
+</string-name>, <source xml:lang="en">Joule</source>
+<year>2018</year>, <volume>2</volume>, <fpage>184</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0008">b) <string-name>
+<given-names>S. F.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X. H.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>Z. J.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>L. Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X. B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Tu</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2018</year>, <volume>8</volume>, <elocation-id>1702322</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0009">c) <string-name>
+<given-names>J. F.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>W. A.</given-names>
+<surname>Henderson</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Bhattacharya</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Borodin</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>6362</fpage>;<pub-id pub-id-type="pmid">25698340</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0010">d) <string-name>
+<given-names>J. F.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Bhattacharya</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Engelhard</surname>
+</string-name>, <string-name>
+<given-names>W. A.</given-names>
+<surname>Henderson</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Nano Energy</source>
+<year>2015</year>, <volume>15</volume>, <fpage>135</fpage>.</mixed-citation></ref><ref id="advs1513-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs1513-cit-0011">
+<string-name>
+<given-names>L.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>S. Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W. D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L. N.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H. L. L.</given-names>
+<surname>Zhuang</surname>
+</string-name>, <string-name>
+<given-names>Y. Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2018</year>, <volume>8</volume>, <elocation-id>1802350</elocation-id>.</mixed-citation></ref><ref id="advs1513-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs1513-cit-0012">
+<string-name>
+<given-names>Y. Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2016</year>, <volume>7</volume>, <elocation-id>10992</elocation-id>.<pub-id pub-id-type="pmid">26987481</pub-id></mixed-citation></ref><ref id="advs1513-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs1513-cit-0013">
+<string-name>
+<given-names>Y. Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>P. Y.</given-names>
+<surname>Yuen</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>R. H.</given-names>
+<surname>Dauskardt</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <elocation-id>1605531</elocation-id>.</mixed-citation></ref><ref id="advs1513-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs1513-cit-0014">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>W. X.</given-names>
+<surname>Hua</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Tao</surname>
+</string-name>, <string-name>
+<given-names>M. M.</given-names>
+<surname>Rahman</surname>
+</string-name>, <string-name>
+<given-names>W. W.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2017</year>, <volume>7</volume>, <elocation-id>1602380</elocation-id>.</mixed-citation></ref><ref id="advs1513-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs1513-cit-0015">a) <string-name>
+<given-names>C. P.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>S. F.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>N. W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Guo</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>8058</fpage>;<pub-id pub-id-type="pmid">26299379</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0016">b) <string-name>
+<given-names>T. T.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name>
+<given-names>X. W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>N. W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Guo</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <elocation-id>1700389</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0017">c) <string-name>
+<given-names>D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y. J.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>S. B.</given-names>
+<surname>Yang</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2019</year>, <volume>31</volume>, <elocation-id>1901820</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0018">d) <string-name>
+<given-names>Z. J.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S. B.</given-names>
+<surname>Yang</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2019</year>, <volume>31</volume>, <elocation-id>1901310</elocation-id>.</mixed-citation></ref><ref id="advs1513-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs1513-cit-0019">
+<string-name>
+<given-names>X. B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>J. Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Small</source>
+<year>2014</year>, <volume>10</volume>, <fpage>4257</fpage>.<pub-id pub-id-type="pmid">25074801</pub-id></mixed-citation></ref><ref id="advs1513-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs1513-cit-0020">
+<string-name>
+<given-names>S. S.</given-names>
+<surname>Chi</surname>
+</string-name>, <string-name>
+<given-names>Y. C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W. L.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>L. Z.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2017</year>, <volume>27</volume>, <elocation-id>1700348</elocation-id>.</mixed-citation></ref><ref id="advs1513-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs1513-cit-0021">
+<string-name>
+<given-names>S. Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>Y. Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <source xml:lang="en">Energy Storage Mater.</source>
+<year>2019</year>, <volume>18</volume>, <fpage>205</fpage>.</mixed-citation></ref><ref id="advs1513-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs1513-cit-0022">
+<string-name>
+<given-names>M. H.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>K. Y.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>Y. Q.</given-names>
+<surname>Lai</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Vajtai</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Ajayan</surname>
+</string-name>, <string-name>
+<given-names>B. Q.</given-names>
+<surname>Wei</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <elocation-id>1801213</elocation-id>.</mixed-citation></ref><ref id="advs1513-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs1513-cit-0023">
+<string-name>
+<given-names>X.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name>
+<given-names>I. R.</given-names>
+<surname>Kochetkov</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Sempere</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>X. Q.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2017</year>, <volume>2</volume>, <elocation-id>17119</elocation-id>.</mixed-citation></ref><ref id="advs1513-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs1513-cit-0024">a) <string-name>
+<given-names>M.</given-names>
+<surname>Rosso</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Brissot</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Teyssot</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Doll&#x000e9;</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Sannier</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Bouchet</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lascaud</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>2006</year>, <volume>51</volume>, <fpage>5334</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0025">b) <string-name>
+<given-names>C.</given-names>
+<surname>Brissot</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Rosso</surname>
+</string-name>, <string-name>
+<given-names>J. N.</given-names>
+<surname>Chazalviel</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Baudry</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lascaud</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>1998</year>, <volume>43</volume>, <fpage>1569</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0026">c) <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Hong</surname>
+</string-name>, <string-name>
+<given-names>W. W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>H. K.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H. G.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>H. Q.</given-names>
+<surname>Jiang</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>227</fpage>.</mixed-citation></ref><ref id="advs1513-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs1513-cit-0027">a) <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X. B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>C. Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>J. Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>2155</fpage>;<pub-id pub-id-type="pmid">26754639</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0028">b) <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>G. Y.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W. Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>H. B.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>P. C.</given-names>
+<surname>Hsu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Nano Lett.</source>
+<year>2015</year>, <volume>15</volume>, <fpage>2910</fpage>;<pub-id pub-id-type="pmid">25822282</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0029">c) <string-name>
+<given-names>C. Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>A. X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L. X.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>X. Z.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>D. D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>A. P.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>C. Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G. J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Luo</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2019</year>, <volume>29</volume>, <elocation-id>1905940</elocation-id>.</mixed-citation></ref><ref id="advs1513-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs1513-cit-0030">a) <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S. P.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Y. Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2017</year>, <volume>27</volume>, <elocation-id>1606422</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0031">b) <string-name>
+<given-names>Y. M.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>G. Y.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Z W.</given-names>
+<surname>Seh</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>H R.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Chem</source>
+<year>2016</year>, <volume>1</volume>, <fpage>287</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0032">c) <string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>X. Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X. R.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X. B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>C. Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Joule</source>
+<year>2018</year>, <volume>2</volume>, <fpage>764</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0033">d) <string-name>
+<given-names>A. O.</given-names>
+<surname>Raji</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Villegas Salvatierra</surname>
+</string-name>, <string-name>
+<given-names>N. D.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>X. J.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>Y. L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>G. A. L.</given-names>
+<surname>Silva</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Sha</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tour</surname>
+</string-name>, <source xml:lang="en">ACS Nano</source>
+<year>2017</year>, <volume>11</volume>, <fpage>6362</fpage>.<pub-id pub-id-type="pmid">28511004</pub-id></mixed-citation></ref><ref id="advs1513-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs1513-cit-0034">
+<string-name>
+<given-names>S. S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>L. C.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>Z. M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Nuli</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>2011</year>, <volume>56</volume>, <fpage>8900</fpage>.</mixed-citation></ref><ref id="advs1513-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs1513-cit-0035">
+<string-name>
+<given-names>K. K.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>Z. Z.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>B. Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Carter</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Wachsman</surname>
+</string-name>, <string-name>
+<given-names>L. B.</given-names>
+<surname>Hu</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2017</year>, <volume>56</volume>, <elocation-id>14942</elocation-id>.</mixed-citation></ref><ref id="advs1513-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs1513-cit-0036">
+<string-name>
+<given-names>Z. J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X. H.</given-names>
+<surname>Qu</surname>
+</string-name>, <string-name>
+<given-names>B. Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z. Y.</given-names>
+<surname>Li</surname>
+</string-name>, <source xml:lang="en">J. Alloys Compd.</source>
+<year>2000</year>, <volume>311</volume>, <fpage>256</fpage>.</mixed-citation></ref><ref id="advs1513-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs1513-cit-0037">
+<string-name>
+<given-names>C. M.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Sohn</surname>
+</string-name>, <source xml:lang="en">Chem. Soc. Rev.</source>
+<year>2010</year>, <volume>39</volume>, <fpage>3115</fpage>.<pub-id pub-id-type="pmid">20593097</pub-id></mixed-citation></ref><ref id="advs1513-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs1513-cit-0038">a) <string-name>
+<given-names>N.</given-names>
+<surname>Nitta</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yushin</surname>
+</string-name>, <source xml:lang="en">Part. Part. Syst. Charact.</source>
+<year>2014</year>, <volume>31</volume>, <fpage>317</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0039">b) <string-name>
+<given-names>Z. J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y. Q.</given-names>
+<surname>Niu</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>N. X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">Adv. Mater. Res.</source>
+<year>2011</year>, <volume>287&#x02013;290</volume>, <fpage>1553</fpage>.</mixed-citation></ref><ref id="advs1513-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs1513-cit-0040">
+<string-name>
+<given-names>C. P.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>W. W.</given-names>
+<surname>Ping</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>B. Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Rao</surname>
+</string-name>, <string-name>
+<given-names>J. Q.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name>
+<given-names>C. W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Pastel</surname>
+</string-name>, <string-name>
+<given-names>L. B.</given-names>
+<surname>Hu</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2018</year>, <volume>31</volume>, <elocation-id>e1804815</elocation-id>.<pub-id pub-id-type="pmid">30462868</pub-id></mixed-citation></ref><ref id="advs1513-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs1513-cit-0041">
+<string-name>
+<given-names>W. P.</given-names>
+<surname>Kilroy</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Angres</surname>
+</string-name>, <source xml:lang="en">J. Less&#x02010;Common Met.</source>
+<year>1979</year>, <volume>63</volume>, <fpage>123</fpage>.</mixed-citation></ref><ref id="advs1513-bib-0025"><label>25</label><mixed-citation publication-type="book" id="advs1513-cit-0042">
+<string-name>
+<given-names>Z. J.</given-names>
+<surname>Liu</surname>
+</string-name>, <source xml:lang="en">Doctoral Thesis</source>, <publisher-name>Central South University</publisher-name>, <publisher-loc>Changsha, Hunan, China</publisher-loc>
+<year>2000</year>.</mixed-citation></ref><ref id="advs1513-bib-0026"><label>26</label><mixed-citation publication-type="book" id="advs1513-cit-0043">
+<string-name>
+<given-names>J.</given-names>
+<surname>Yin</surname>
+</string-name>, <source xml:lang="en">Master's Thesis</source>, <publisher-name>Central South University</publisher-name>, <publisher-loc>Changsha, Hunan, China</publisher-loc>
+<year>2005</year>.</mixed-citation></ref><ref id="advs1513-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs1513-cit-0044">
+<string-name>
+<given-names>P. C.</given-names>
+<surname>Zou</surname>
+</string-name>, <string-name>
+<given-names>S. W.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X. Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Nairan</surname>
+</string-name>, <string-name>
+<given-names>F. Y.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yang</surname>
+</string-name>, <source xml:lang="en">Energy Storage Mater.</source>
+<year>2019</year>, <volume>18</volume>, <fpage>155</fpage>.</mixed-citation></ref><ref id="advs1513-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs1513-cit-0045">
+<string-name>
+<given-names>A.</given-names>
+<surname>Kushima</surname>
+</string-name>, <string-name>
+<given-names>K. P.</given-names>
+<surname>So</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Kuriyama</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Maebashi</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Fujiwara</surname>
+</string-name>, <string-name>
+<given-names>M. Z.</given-names>
+<surname>Bazant</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <source xml:lang="en">Nano Energy</source>
+<year>2017</year>, <volume>32</volume>, <fpage>271</fpage>.</mixed-citation></ref><ref id="advs1513-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs1513-cit-0046">
+<string-name>
+<given-names>D. B.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Z. J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X. K.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>G. S.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yin</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>2006</year>, <volume>51</volume>, <fpage>5731</fpage>.</mixed-citation></ref><ref id="advs1513-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs1513-cit-0047">
+<string-name>
+<given-names>X. W.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>Y. T.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>J. Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>C. L.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Goodenough</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>900</fpage>.<pub-id pub-id-type="pmid">30796214</pub-id></mixed-citation></ref><ref id="advs1513-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs1513-cit-0048">a) <string-name>
+<given-names>G.</given-names>
+<surname>Kresse</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hafner</surname>
+</string-name>, <source xml:lang="en">Phys. Rev. B</source>
+<year>1993</year>, <volume>47</volume>, <fpage>558</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="advs1513-cit-0049">b) <string-name>
+<given-names>G.</given-names>
+<surname>Kresse</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Furthm&#x000fc;ller</surname>
+</string-name>, <source xml:lang="en">Comput. Mater. Sci.</source>
+<year>1996</year>, <volume>6</volume>, <fpage>15</fpage>.</mixed-citation></ref><ref id="advs1513-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs1513-cit-0050">
+<string-name>
+<given-names>P. E.</given-names>
+<surname>Bl&#x000f6;chl</surname>
+</string-name>, <source xml:lang="en">Phys. Rev. B</source>
+<year>1994</year>, <volume>50</volume>, <elocation-id>17953</elocation-id>.</mixed-citation></ref><ref id="advs1513-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs1513-cit-0051">
+<string-name>
+<given-names>J. P.</given-names>
+<surname>Perdew</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Burke</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ernzerhof</surname>
+</string-name>, <source xml:lang="en">Phys. Rev. Lett.</source>
+<year>1996</year>, <volume>77</volume>, <fpage>3865</fpage>.<pub-id pub-id-type="pmid">10062328</pub-id></mixed-citation></ref><ref id="advs1513-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs1513-cit-0052">
+<string-name>
+<given-names>A.</given-names>
+<surname>Aryanfar</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Brooks</surname>
+</string-name>, <string-name>
+<given-names>B. V.</given-names>
+<surname>Merinov</surname>
+</string-name>, <string-name>
+<given-names>W. A.</given-names>
+<surname>Goddard</surname>
+<suffix>III</suffix>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Colussi</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Hoffmann</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. Lett.</source>
+<year>2014</year>, <volume>5</volume>, <fpage>1721</fpage>.<pub-id pub-id-type="pmid">26270373</pub-id></mixed-citation></ref></ref-list></back></article>

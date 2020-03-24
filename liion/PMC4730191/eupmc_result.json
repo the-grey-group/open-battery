@@ -1,0 +1,314 @@
+{
+  "id": [
+    "26817818"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26817818"
+  ],
+  "pmcid": [
+    "PMC4730191"
+  ],
+  "doi": [
+    "10.1038/srep19843"
+  ],
+  "title": [
+    "Ultradispersed Nanoarchitecture of LiV3O8 Nanoparticle/Reduced Graphene Oxide with High-Capacity and Long-Life Lithium-Ion Battery Cathodes."
+  ],
+  "authorString": [
+    "Mo R, Du Y, Rooney D, Ding G, Sun K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mo R"
+          ],
+          "firstName": [
+            "Runwei"
+          ],
+          "lastName": [
+            "Mo"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Functional Materials for Informatics, Shanghai Institute of Microsystem and Information Technology, Shanghai, 20050, (China)."
+          ]
+        },
+        {
+          "fullName": [
+            "Du Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Academy of Fundamental and Interdisciplinary Sciences, Harbin Institute of Technology, Harbin 150001, (China)."
+          ]
+        },
+        {
+          "fullName": [
+            "Rooney D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Rooney"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "School of Chemistry and Chemical Engineering, Queen's University Belfast, Belfast, BT9 5AG, (Northern Ireland)."
+          ]
+        },
+        {
+          "fullName": [
+            "Ding G"
+          ],
+          "firstName": [
+            "Guqiao"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Functional Materials for Informatics, Shanghai Institute of Microsystem and Information Technology, Shanghai, 20050, (China)."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun K"
+          ],
+          "firstName": [
+            "Kening"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Academy of Fundamental and Interdisciplinary Sciences, Harbin Institute of Technology, Harbin 150001, (China)."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2358449"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "19843"
+  ],
+  "abstractText": [
+    "Lack of high-performance cathode materials has become the major barriers to lithium-ion battery applications in advanced communication equipment and electric vehicles. In this paper, we report a versatile interfacial reaction strategy, which is based on the idea of space confinement, for the synthesis of ultradispersed LiV3O8 nanoparticles (~10 nm) on graphene (denoted as LVO NPs-GNs) with an unprecedented degree of control on the separation and manipulation of the nucleation, growth, anchoring, and crystallization of nanoparticles in a water-in-oil emulsion system over free growth in solution. The prepared LVO NPs-GNs composites displayed high performance as an cathode material for lithium-ion battery, including high reversible lithium storage capacity (237 mA h g(-1) after 200 cycles), high Coulombic efficiency (about 98%), excellent cycling stability and high rate capability (as high as 176 mA h g(-1) at 0.9 A g(-1), 128 mA h g(-1) at 1.5 A g(-1), 91 mA h g(-1) at 3 A g(-1) and 59 mA h g(-1) at 6 A g(-1), respectively). Very significantly, the preparation method employed can be easily adapted and may opens the door to complex hybrid materials design and engineering with graphene for advanced energy storage."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Functional Materials for Informatics, Shanghai Institute of Microsystem and Information Technology, Shanghai, 20050, (China)."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep19843"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4730191"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4730191?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-09-06"
+  ],
+  "dateOfCreation": [
+    "2016-01-28"
+  ],
+  "firstIndexDate": [
+    "2016-01-29"
+  ],
+  "fullTextReceivedDate": [
+    "2016-02-07"
+  ],
+  "dateOfRevision": [
+    "2016-02-04"
+  ],
+  "electronicPublicationDate": [
+    "2016-01-28"
+  ],
+  "firstPublicationDate": [
+    "2016-01-28"
+  ]
+}

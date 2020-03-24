@@ -1,0 +1,338 @@
+{
+  "id": [
+    "28772588"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28772588"
+  ],
+  "pmcid": [
+    "PMC5503358"
+  ],
+  "doi": [
+    "10.3390/ma10030230"
+  ],
+  "title": [
+    "Experimental Study of Thermal Runaway Process of 18650 Lithium-Ion Battery."
+  ],
+  "authorString": [
+    "Liu J, Wang Z, Gong J, Liu K, Wang H, Guo L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jingjing"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Jiangsu Key Laboratory of Urban and Industrial Safety, College of Safety Science and Engineering, Nanjing Tech University, Nanjing 210009, Jiangsu, China. liujj0077@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhirong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Jiangsu Key Laboratory of Urban and Industrial Safety, College of Safety Science and Engineering, Nanjing Tech University, Nanjing 210009, Jiangsu, China. wangzhirong@njtech.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Gong J"
+          ],
+          "firstName": [
+            "Junhui"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Jiangsu Key Laboratory of Urban and Industrial Safety, College of Safety Science and Engineering, Nanjing Tech University, Nanjing 210009, Jiangsu, China. gjh9896@njtech.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Jiangsu Key Laboratory of Urban and Industrial Safety, College of Safety Science and Engineering, Nanjing Tech University, Nanjing 210009, Jiangsu, China. 1165468751@njtech.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Jiangsu Key Laboratory of Urban and Industrial Safety, College of Safety Science and Engineering, Nanjing Tech University, Nanjing 210009, Jiangsu, China. 15195913868@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo L"
+          ],
+          "firstName": [
+            "Linsheng"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Jiangsu Key Laboratory of Urban and Industrial Safety, College of Safety Science and Engineering, Nanjing Tech University, Nanjing 210009, Jiangsu, China. 382930229@njtech.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2583459"
+      ],
+      "dateOfPublication": [
+        "2017 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "This study addresses the effects of the SOC (State of Charge) and the charging-discharging process on the thermal runaway of 18650 lithium-ion batteries. A series of experiments were conducted on an electric heating and testing apparatus. The experimental results indicate that 6 W is the critical heating power for 40% SOC. With a 20 W constant heating rate, the thermal runaway initial temperature of the lithium-ion battery decreases with the increasing SOC. The final thermal runaway temperature increases with the SOC when the SOC is lower than 80%. However, a contrary conclusion was obtained when the SOC was higher than 80%. Significant mass loss, accompanied by an intense exothermic reaction, took place under a higher SOC. The critical charging current, beyond which the thermal runaway occurs, was found to be 2.6 A. The thermal runaway initial temperature decreases with the increasing charging current, while the intensity of the exothermic reaction varies inversely. Mass ejection of gas and electrolytes exists during thermal runaway when the charging current is higher than 10.4 A, below which only a large amount of gas is released. The thermal runaway initial temperature of discharging is higher than that of non-discharging."
+  ],
+  "affiliation": [
+    "Jiangsu Key Laboratory of Urban and Industrial Safety, College of Safety Science and Engineering, Nanjing Tech University, Nanjing 210009, Jiangsu, China. liujj0077@163.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "SOC",
+        "Lithium-ion battery",
+        "Heating Power",
+        "Charging–discharging",
+        "Thermal Runaway"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma10030230"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5503358"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5503358?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-08-04"
+  ],
+  "firstIndexDate": [
+    "2017-08-04"
+  ],
+  "fullTextReceivedDate": [
+    "2017-08-01"
+  ],
+  "dateOfRevision": [
+    "2017-08-07"
+  ],
+  "electronicPublicationDate": [
+    "2017-02-25"
+  ],
+  "firstPublicationDate": [
+    "2017-02-25"
+  ]
+}

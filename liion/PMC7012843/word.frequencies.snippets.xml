@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC7012843/results/word/frequencies/results.xml">
+  <result title="frequency" word="lithium" count="201"/>
+  <result title="frequency" word="Li/Li" count="107"/>
+  <result title="frequency" word="metal" count="77"/>
+  <result title="frequency" word="electrode" count="57"/>
+  <result title="frequency" word="metallic" count="49"/>
+  <result title="frequency" word="foil" count="43"/>
+  <result title="frequency" word="high" count="38"/>
+  <result title="frequency" word="capacity" count="35"/>
+  <result title="frequency" word=" mA cm" count="32"/>
+  <result title="frequency" word="cell" count="31"/>
+  <result title="frequency" word="(Fig." count="30"/>
+  <result title="frequency" word="cells" count="30"/>
+  <result title="frequency" word="Fig." count="29"/>
+  <result title="frequency" word="diffusion" count="28"/>
+  <result title="frequency" word="anode" count="26"/>
+  <result title="frequency" word="stripping/plating" count="26"/>
+  <result title="frequency" word="current" count="25"/>
+  <result title="frequency" word="cycling" count="25"/>
+  <result title="frequency" word="stable" count="25"/>
+  <result title="frequency" word="symmetric" count="25"/>
+  <result title="frequency" word="batteries" count="24"/>
+  <result title="frequency" word="stripping" count="24"/>
+  <result title="frequency" word=" mAh cm" count="23"/>
+  <result title="frequency" word="cycle" count="21"/>
+  <result title="frequency" word="overpotential" count="21"/>
+  <result title="frequency" word=" mAh g" count="21"/>
+ </snippets>
+</snippetsTree>

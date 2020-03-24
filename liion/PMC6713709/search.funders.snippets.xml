@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6713709/results/search/funders/results.xml">
+  <result pre="0001 2151 536X grid.26999.3d Institute for Solid State Physics, The" exact="University of Tokyo," post="[2], 0000 0001 2230 7538 grid.208504.b Research Institute for"/>
+  <result pre="0789 6880 grid.21941.3f Research Center for Advanced Measurement and Characterization," exact="National Institute for Materials Science," post="[5], 0000 0004 1754 9200 grid.419082.6 PRESTO, Japan Science"/>
+  <result pre="for Materials Science, [5], 0000 0004 1754 9200 grid.419082.6 PRESTO," exact="Japan Science and Technology Agency," post="[6], 0000 0001 2155 959X grid.410794.f Institute of Materials"/>
+  <result pre="0000 0001 2155 959X grid.410794.f Institute of Materials Structure Science," exact="High Energy Accelerator Research Organization" post="(KEK), [7], 0000 0001 2151 536X grid.26999.3d Synchrotron Radiation"/>
+  <result pre="0000 0001 2151 536X grid.26999.3d Synchrotron Radiation Research Organization, The" exact="University of Tokyo," post="epub: 2019-8-8 pmc-release: 2019-8-8 collection: 2019 9 12452 received:"/>
+  <result pre="techniques Funding AIST-UTokyo Advanced Operando-Measurement Technology Open Innovation Laboratory Funding" exact="Ministry of Economy," post="Trade and Industry, Japan AIST-UTokyo Advanced Operando-Measurement Technology Open"/>
+  <result pre="battery cell originally developed for the 3DnanoESCA station at the" exact="University of Tokyo" post="Synchrotron Radiation Outstation beamline BL07LSU in SPring-8 29 ."/>
+  <result pre="the International joint research program for innovative energy technology by" exact="Ministry of Economy," post="Trade and Industry, Japan. A part of this work"/>
+  <result pre="performed jointly by the Synchrotron Radiation Research Organization and the" exact="University of Tokyo" post="(Proposal Nos 2015B7402, 2016A7402, 2016B7402, 2017A7402, 2017B7402, 2018A7563, 2018A7567)."/>
+ </snippets>
+</snippetsTree>

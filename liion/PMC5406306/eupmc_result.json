@@ -1,0 +1,344 @@
+{
+  "id": [
+    "28449547"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28449547"
+  ],
+  "pmcid": [
+    "PMC5406306"
+  ],
+  "doi": [
+    "10.1186/s11671-017-2058-0"
+  ],
+  "title": [
+    "Cobalt Oxide Porous Nanofibers Directly Grown on Conductive Substrate as a Binder/Additive-Free Lithium-Ion Battery Anode with High Capacity."
+  ],
+  "authorString": [
+    "Liu H, Zheng Z, Chen B, Liao L, Wang X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0535-8813",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Beijing Key Laboratory of Optical Detection Technology for Oil and Gas, China University of Petroleum, Beijing, 102249, People's Republic of China. 2014010007@cugb.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng Z"
+          ],
+          "firstName": [
+            "Zheng"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Hubei Collaborative Innovation Center for Advanced Organic Chemical Materials, Hubei Key Laboratory of Ferro and Piezoelectric Materials and Devices, Faculty of Physics and Electronic Science, Hubei University, Wuhan, 430062, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen B"
+          ],
+          "firstName": [
+            "Bochao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "School of Materials Science and Technology, China University of Geosciences, Beijing, 100083, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liao L"
+          ],
+          "firstName": [
+            "Libing"
+          ],
+          "lastName": [
+            "Liao"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Materials Science and Technology, China University of Geosciences, Beijing, 100083, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xina"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Hubei Collaborative Innovation Center for Advanced Organic Chemical Materials, Hubei Key Laboratory of Ferro and Piezoelectric Materials and Devices, Faculty of Physics and Electronic Science, Hubei University, Wuhan, 430062, People's Republic of China. xnwang2006@hotmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0535-8813",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2511055"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanoscale research letters"
+          ],
+          "ISOAbbreviation": [
+            "Nanoscale Res Lett"
+          ],
+          "medlineAbbreviation": [
+            "Nanoscale Res Lett"
+          ],
+          "NLMid": [
+            "101279750"
+          ],
+          "ISSN": [
+            "1931-7573"
+          ],
+          "ESSN": [
+            "1556-276X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "302"
+  ],
+  "abstractText": [
+    "In order to reduce the amount of inactive materials, such as binders and carbon additives in battery electrode, porous cobalt monoxide nanofibers were directly grown on conductive substrate as a binder/additive-free lithium-ion battery anode. This electrode exhibited very high specific discharging/charging capacities at various rates and good cycling stability. It was promising as high capacity anode materials for lithium-ion battery."
+  ],
+  "affiliation": [
+    "Beijing Key Laboratory of Optical Detection Technology for Oil and Gas, China University of Petroleum, Beijing, 102249, People's Republic of China. 2014010007@cugb.edu.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nanofibers",
+        "Anode",
+        "Li-ion Battery",
+        "Binder Free",
+        "Cobalt Monoxide"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s11671-017-2058-0"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5406306"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5406306?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-04-28"
+  ],
+  "firstIndexDate": [
+    "2017-04-28"
+  ],
+  "fullTextReceivedDate": [
+    "2017-05-17"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-04-26"
+  ],
+  "firstPublicationDate": [
+    "2017-04-26"
+  ]
+}

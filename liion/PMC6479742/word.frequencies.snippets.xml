@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6479742/results/word/frequencies/results.xml">
+  <result title="frequency" word="battery" count="144"/>
+  <result title="frequency" word="Pack" count="97"/>
+  <result title="frequency" word="reliability" count="89"/>
+  <result title="frequency" word="dependency" count="66"/>
+  <result title="frequency" word="model" count="61"/>
+  <result title="frequency" word="Model" count="58"/>
+  <result title="frequency" word="degradation" count="53"/>
+  <result title="frequency" word="pack" count="50"/>
+  <result title="frequency" word="lithium-ion" count="48"/>
+  <result title="frequency" word="cells" count="41"/>
+  <result title="frequency" word="Copula" count="38"/>
+  <result title="frequency" word="packs" count="38"/>
+  <result title="frequency" word="function" count="37"/>
+  <result title="frequency" word="&amp;lt;." count="28"/>
+  <result title="frequency" word="dependent" count="26"/>
+  <result title="frequency" word="process" count="23"/>
+ </snippets>
+</snippetsTree>

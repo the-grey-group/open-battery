@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="A. a https://orcid.org/0000-0003-2703-4369 Gilles Ralph b [a], Technische Universität München" exact="Germany" post="[b], Technische Universität München Germany Correspondence e-mail: stefan.seidlmayer@frm2.tum.de ‡"/>
+ <result pre="b [a], Technische Universität München Germany [b], Technische Universität München" exact="Germany" post="Correspondence e-mail: stefan.seidlmayer@frm2.tum.de ‡ Current address: Webasto SE, Stockdorf,"/>
+ <result pre="FRM II of the Heinz Maier-Leibnitz Zentrum (MLZ) in Garching," exact="Germany" post="(Gilles et al., 2006 ▸; Mühlbauer et al., 2016"/>
+</results>

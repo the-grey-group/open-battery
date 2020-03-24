@@ -1,0 +1,337 @@
+{
+  "id": [
+    "31528669"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31528669"
+  ],
+  "pmcid": [
+    "PMC6742859"
+  ],
+  "doi": [
+    "10.1016/j.dib.2019.104379"
+  ],
+  "title": [
+    "Data and video for the thermal and fire propagation of multiple lithium-ion batteries."
+  ],
+  "authorString": [
+    "Chen M, Ouyang D, Liu J, Wang J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen M"
+          ],
+          "firstName": [
+            "Mingyi"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6439-4438",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of the Environment and Safety Engineering, Jiangsu University, Zhenjiang, 212013, Jiangsu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ouyang D"
+          ],
+          "firstName": [
+            "Dongxu"
+          ],
+          "lastName": [
+            "Ouyang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Fire Science, University of Science and Technology of China, Hefei, 230026, Anhui, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jiahao"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Ocean Science and Engineering, Shanghai Maritime University, Shanghai, 201306, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3106-5638",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Fire Science, University of Science and Technology of China, Hefei, 230026, Anhui, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3106-5638",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6439-4438",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "26"
+      ],
+      "journalIssueId": [
+        "2858371"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Data in brief"
+          ],
+          "ISOAbbreviation": [
+            "Data Brief"
+          ],
+          "medlineAbbreviation": [
+            "Data Brief"
+          ],
+          "NLMid": [
+            "101654995"
+          ],
+          "ISSN": [
+            "2352-3409"
+          ],
+          "ESSN": [
+            "2352-3409"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "104379"
+  ],
+  "abstractText": [
+    "The data presented in this article are related to research article \"Investigation on thermal and fire propagation behaviors of multiple lithium-ion batteries within the package\" (Chen et al., 2019). This data article provides the data information including the experiment pictures, flame temperatures, pressure and heat flux sensors temperatures, and gas concentrations of 6 × 6 batteries and 10 × 10 batteries. The video of the whole thermal and fire propagation behaviors of 6 × 6 batteries is also provided."
+  ],
+  "affiliation": [
+    "School of the Environment and Safety Engineering, Jiangsu University, Zhenjiang, 212013, Jiangsu, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "data-paper",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium-ion battery",
+        "Thermal Behavior",
+        "Pack",
+        "Fire Propagation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.dib.2019.104379"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6742859"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6742859?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-19"
+  ],
+  "firstIndexDate": [
+    "2019-09-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-09-18"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-28"
+  ],
+  "firstPublicationDate": [
+    "2019-08-28"
+  ]
+}

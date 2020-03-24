@@ -1,0 +1,525 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7066648</article-id><article-id pub-id-type="doi">10.1021/acsomega.0c00254</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Cost-Effective Yarn-Shaped Lithium-Ion Battery with
+High Wearability</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Qian</surname><given-names>Xiangyu</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Qiu</surname><given-names>Ruoyu</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Lu</surname><given-names>Chunhong</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Qiu</surname><given-names>Yiping</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><name><surname>Wu</surname><given-names>Zhuangchun</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Wang</surname><given-names>Shiren</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><name><surname>Zhang</surname><given-names>Kun</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>College
+of Textiles, <institution>Donghua University</institution>, Shanghai 201620, <country>China</country></aff><aff id="aff2"><label>&#x02021;</label>College
+of Science, <institution>Donghua University</institution>, Shanghai 201620, <country>China</country></aff><aff id="aff3"><label>&#x000a7;</label>Institute
+of Functional Materials, <institution>Donghua University</institution>, Shanghai 201620, <country>China</country></aff><aff id="aff4"><label>&#x02225;</label>Department
+of Industrial and Systems Engineering, <institution>Texas
+A&#x00026;M University</institution>, College Station, Texas 77843, <country>United States</country></aff><aff id="aff5"><label>&#x022a5;</label>College
+of Textiles and Apparel, <institution>Quanzhou Normal
+University</institution>, Fujian 362000, <country>PR China</country></aff></contrib-group><author-notes><corresp id="cor2"><label>*</label>E-mail: <email>kun.zhang@dhu.edu.cn</email> (K.Z.).</corresp><corresp id="cor1"><label>*</label>E-mail: <email>zwu@dhu.edu.cn</email> (Z.W.).</corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>02</month><year>2020</year></pub-date><pub-date pub-type="collection"><day>10</day><month>03</month><year>2020</year></pub-date><volume>5</volume><issue>9</issue><fpage>4697</fpage><lpage>4704</lpage><history><date date-type="received"><day>18</day><month>01</month><year>2020</year></date><date date-type="accepted"><day>14</day><month>02</month><year>2020</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2020 American Chemical
+Society</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00254_0008" id="ab-tgr1"/></p><p>Because of flexibility, compactness,
+weavability, and ergonomic
+design, yarn-shaped lithium-ion batteries (LIBs) have enormous potential
+applications in wearable electronics. Still, the yarn-shaped LIB with
+the ability to meet commercialization requirements has never been
+reported, owing to the current challenge in complex material synthesis
+technologies, expensive raw material costs, poor safety performance,
+and nonstandard manufacturing equipment. Herein, we propose a yarn-shaped
+LIB that meets the aforementioned requirements. With a highly conductive
+and flexible stainless-steel yarn acting as the current collector,
+the electrode active materials and the gel electrolyte, which are
+commercially available at low cost, are uniformly coated onto the
+stainless-steel yarn by a simple and facile dipping-drying method.
+Even at different deformation conditions (i.e., bending or knotting),
+the specific capacity of the yarn-shaped LIB (7 cm long, &#x0003c;2 mm
+in diameter) assembled from graphite and lithium iron phosphate electrodes
+is maintained &#x0003e;85%. After charged treatment, it can successfully
+power
+up an electronic watch and an electronic thermo-hygrometer. Thanks
+to the simple preparation process, low cost of raw materials, and
+good safety performance, this work can promote the commercialization
+of wearable energy storage devices.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao0c00254</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao0c00254</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>With the rapid development
+of wearable devices (i.e., smart watches,
+wearable healthcare devices, smart clothes, etc.), the demand for
+a flexible and wearable energy powering system is also increasing.<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref4">4</xref></sup> In comparison with traditional power supplies (i.e., button battery,
+soft pack battery, accumulator, etc.), the yarn-shaped battery has
+the advantages of good mechanical integrity, high flexibility, and
+versatile shapes.<sup><xref ref-type="bibr" rid="ref5">5</xref>&#x02212;<xref ref-type="bibr" rid="ref7">7</xref></sup> Furthermore, a wearable battery in a seamlessly integrated
+fabric can be obtained when combining the yarn-shaped battery with
+mature textile manufacturing technology. Thus, the fabrication of
+the yarn-shaped battery is the key to effectively solve the bottleneck
+problem for the energy supply of wearable devices.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup></p><p>Recently, many attempts have been made to design
+and fabricate
+yarn-shaped energy storage devices with different materials and existing
+technologies<sup><xref ref-type="bibr" rid="ref9">9</xref>&#x02212;<xref ref-type="bibr" rid="ref16">16</xref></sup> to enable their adaption to daily deformations (i.e., bending, folding,
+etc.) and complex or extreme shape changes (i.e., rolling and twisting).<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref17">17</xref>&#x02212;<xref ref-type="bibr" rid="ref20">20</xref></sup> For instance, yarn-shaped lithium-ion
+batteries (LIBs) were fabricated by sequentially depositing thin layers
+of cathode, gel electrolyte, anode, and current collector layer onto
+a carbon fiber or by preparing fibrous cathode and anode materials
+through 3D printing.<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref22">22</xref></sup> However, the complex material
+deposition techniques and the strict requirements for specific equipment
+severely hindered the large-scale production of the yarn-shaped LIB.
+Kwon et al.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> further simplified the preparation
+process by adopting nickel-tin alloy or polymer electrodes without
+complex deposition techniques. Specifically, they used a liquid electrolyte
+[1 M lithium hexafl uorophosphate (LiPF<sub>6</sub>) in ethylene carbonate
+(EC) and propylene carbonate (PC) (1:1 by volume) containing 3 wt
+% vinylene carbonate] which may easily cause flammability and leakage
+issues. Moreover, Peng et al. assembled environmentally friendly fiber-shaped
+batteries without complex deposition techniques from electrode materials
+of multiwalled carbon nanotube fibers and gel electrolytes, which
+still had low ionic conductivity<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> or high raw
+material cost (&#x0223c;$40 g<sup>&#x02013;1</sup>).<sup><xref ref-type="bibr" rid="ref27">27</xref>&#x02212;<xref ref-type="bibr" rid="ref29">29</xref></sup> Although numerous
+efforts have been made in the development of yarn-shaped LIBs, an
+ideal yarn-shaped battery with good safety performance, flexibility,
+low cost, and simple process is still awaiting to be achieved for
+wearable electronic applications.</p><p>In general, ideal cathode
+materials possess the following merits:<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> high potential capacity and reversibility for
+lithium intercalation/de-intercalation, excellent compatibility with
+electrolytes, low-cost raw materials, and simple preparation process.
+Compared with other cathode materials, lithium iron phosphate (LFP)
+has higher energy density (theoretical specific capacity of 170 mA
+h&#x000b7;g<sup>&#x02013;1</sup>), less health or environmental issues,
+and longer cycle life.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> Ideal anode materials<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> normally have low potential but high capacity
+for lithium intercalation/de-intercalation, little irreversible capacity
+during the first cycle, and excellent mechanical stability together
+with low cost, simple preparation process, and less environmental
+pollution. As one of the commercially available LIB anode materials,
+graphite has high electronic conductivity, high lithium insertion
+capacity (theoretical specific capacity of 372 mA h&#x000b7;g<sup>&#x02013;1</sup>), low lithium insertion potential (0.1 V),<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> and subtle volume change of the layered structure before/after lithium
+insertion. As for the ideal polymer electrolytes,<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> the following requirements such as high ionic conductivity,
+large lithium-ion migration number, good thermal stability, wide electrochemical
+window, excellent mechanical properties and processability, low cost,
+and environmental friendliness should be met. The poly(vinylidenefluoride-hexafluoro-propylene)
+(PVDF-HFP) copolymer is an ideal gel electrolyte material, which maintains
+high dielectric constant, excellent heat resistance, and good mechanical
+properties and reduces the crystallinity of the system.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup></p><p>Herein, we adopted a simple and facile
+process of dipping-drying
+to fabricate the yarn-shaped LIB with the cathode and anode materials
+coated onto the highly conductive and flexible stainless-steel yarns
+(SSYs) which act as the current collectors. The assembled 7 cm-long
+yarn-shaped LIB eliminates the safety concerns, is capable of outputting
+a capacity of 0.45 mA h with bending deformation, and maintains a
+capacity retention rate as high as 54.2% after 50 cycles.</p></sec><sec id="sec2"><title>Results and Discussion</title><p>The fabrication process of the yarn-shaped LIB is briefly described
+in this section. As shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, a yarn-shaped LIB with SSYs@LiFePO<sub>4</sub> (SSY@LFP)
+as the cathode, the SSYs@graphite (SSY@G) as the anode, and PVDF-HFP/LiBF<sub>4</sub> with EC/PC as the gel electrolyte was successfully assembled.
+It is advantageous that SSYs provide high electrical conductivity
+and excellent flexibility, whereas gel polymer electrolytes (GPEs)
+play the role of electrolytes and separators which ensure equivalent
+high ionic conductivity to the liquid electrolyte and enhance the
+safety performance of the battery.<sup><xref ref-type="bibr" rid="ref36">36</xref>&#x02212;<xref ref-type="bibr" rid="ref38">38</xref></sup> The structure and performance
+of the fabricated yarn-shaped LIB will be scrutinized in the next
+sections.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Schematic illustration displaying the preparation process of electrodes
+and fabrication of the yarn-shaped LIB with SSY serving as the flexible
+substrate and current collector.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00254_0001" id="gr1" position="float"/></fig><p>The surface morphology of the yarn-shaped LIB is discussed in this
+section. The optical image of SSY (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a<sub>1</sub>) with a diameter of about 0.6
+mm demonstrates the smooth surface with metallic luster. After cleaning,
+scanning electron microscopy (SEM) images of filaments from SSY demonstrate
+very smooth surfaces without any impurities (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a<sub>2</sub>,a<sub>3</sub>). What is more,
+single SSY possesses concave and convex surface structures, which
+favors the contact adhesion between the active materials and the SSY.
+With the active material being LFP-coated, the yarn-shaped cathode
+electrode (<xref rid="fig2" ref-type="fig">Figures <xref rid="fig2" ref-type="fig">2</xref></xref>b<sub>1</sub>&#x02013;b<sub>3</sub> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_001.pdf">S2a,b</ext-link>) (diameter &#x0223c;0.78 mm) shows that the coated materials are
+densely and continuously distributed with black-gray color. Also,
+uniformly dispersed CNTs in the cathode electrode (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b<sub>3</sub>) may enhance
+the conductivity to reduce the polarization of the battery and provide
+electron tunneling for LiFePO<sub>4</sub> to compensate the charge
+balance during Li<sup>+</sup> insertion and removal.<sup><xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup></p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(1)
+Optical, (2) low-, and (3) high-resolution SEM images of (a)
+SSY, (b) SSY@LFP, (c) SSY@G, and (d) SSY@LFP@GE.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00254_0002" id="gr2" position="float"/></fig><p>The yarn-shaped anode electrode with natural graphite (<xref rid="fig2" ref-type="fig">Figures <xref rid="fig2" ref-type="fig">2</xref></xref>c<sub>1</sub> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_001.pdf">S2c,d</ext-link>) (diameter &#x0223c;0.83 mm) has a gloss
+surface, which is possibly attributed to the presence of free electrons
+in the graphite layer. It is observed that anode sheet layers (size
+about 5&#x02013;10 &#x003bc;m) are uniformly dispersed with little agglomeration
+and have a porous structure (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c<sub>2</sub>,c<sub>3</sub>), which possibly contributes
+to the overall large specific surface area and facilitates the diffusion
+of Li<sup>+</sup>. In addition, the presence of elongated and electrically
+conductive CNTs may result in a good conductive pathway between the
+graphite sheets, which enhances the catalytic activity of the charge
+transfer reaction.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d<sub>1</sub> indicates that the gel electrolyte
+has little rough surface and uniform pore distribution, which may
+lead to small surface pores of SSY@LFP@GE (cross-sectional diameter
+&#x0223c;0.95 mm) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_001.pdf">Figure S3a</ext-link>) and high
+specific surface area. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d<sub>2</sub>,d<sub>3</sub> demonstrate the porous structure
+of the prepared gel electrolyte (pore size &#x0223c;1 &#x003bc;m). This
+porous structure (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_001.pdf">Figure S3b</ext-link>) of the GPE
+may ensure lithium-ion conduction while preventing the passage of
+electrode particles. An increased number of macropores enhances the
+specific surface area of electrodes and provides more channels for
+the transport of ions. In addition, the interpenetrating macroporous
+structure can reduce the resistance of ion transport and polymer chain
+scission migration while increasing the ionic conductivity.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup></p><p>Energy-dispersive spectroscopy (EDS) mapping
+of the cathode electrode
+SSY@LFP from the corresponding SEM image (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>) revealed the existence and distribution
+of various elements. In detail, Fe, P, and O elements from LiFePO<sub>4</sub> and the C element from CNTs are well observed. In addition,
+the even distribution of Fe, P, and O elements strongly indicates
+that the cathode material is uniformly coated onto the surface of
+the flexible SSY without severe agglomeration. The uniform distribution
+of C elements further evidences that the uniform three-dimensional
+network of CNTs is formed (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b<sub>3</sub>) and may retard the expansion process
+of the electrodes in battery cycling.<sup><xref ref-type="bibr" rid="ref43">43</xref></sup></p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>SEM
+image of SSY@LFP and corresponding EDS mapping of C, O, Fe,
+and P elements.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00254_0003" id="gr3" position="float"/></fig><p>To verify the electrochemical
+stability of the SSYs as current
+collectors, electrochemical performance of these yarns will be discussed
+in the section. As shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a, cyclic voltammetry (CV) curves of SSYs in the voltage
+range of 2.0&#x02013;3.7 V imply no obvious redox peak at different
+scan rates of 5, 10, 20, and 50 mV&#x000b7;s<sup>&#x02013;1</sup>. Because
+the SSYs are not involved in the electrochemical reaction of the electrodes
+in the voltage range, their suitability as a flexible substrate for
+a yarn-shaped LIB is confirmed.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(a) CV of the SSYs in the voltage window
+of 2.0&#x02013;3.7 V. Nyquist
+plots of the yarn-shaped LIB from SSY@LFP@GE after (b) 1 and (c) 24
+h of storage time, respectively.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00254_0004" id="gr4" position="float"/></fig><p>The electrochemical performance of the gel electrolyte is scrutinized
+by electrochemical impedance spectroscopy (EIS). The typical Nyquist
+plots are composed of one semicircle in a high-frequency range and
+a straight line in a low-frequency range. The radius of the semicircle
+in the high-frequency region represents the impedance of the electrode,
+namely, the impedance of lithium ions between the electrode and the
+electrolyte interface in this work. The slope of the linear line in
+the low-frequency region represents the ease of lithium-ion diffusion:
+the steeper the slope of the line is, the easier the lithium-ion diffusion
+is.<sup><xref ref-type="bibr" rid="ref44">44</xref>&#x02212;<xref ref-type="bibr" rid="ref46">46</xref></sup> As shown in <xref rid="fig4" ref-type="fig">Figures <xref rid="fig4" ref-type="fig">4</xref></xref>b,c, and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_001.pdf">S4a,b</ext-link>, Nyquist
+plots of the gel electrolyte after 1 and 24 h of storage time show
+typical characteristics, but the low-frequency slope of the gel electrolyte
+after 1 h of storage is larger, indicating lower ion diffusion resistance.<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> When comparing the high-frequency semicircle
+of the gel electrolytes, it is clear that the radius of the gel electrolyte
+stored for 1 h (296 &#x003a9;) is much smaller than that of the one
+after 24 h of storage (5782 &#x003a9;), implying rapid electron transport
+and low charge transport resistance of the newly prepared gel electrolyte.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> Moreover, the performance of the prepared gel electrolyte is time-sensitive,
+possibly because of the volatilization of the plasticizer (EC/PC)
+over time. Typically plasticizers play a multitude of roles in the
+gel electrolyte such as reducing the crystallinity of the polymer
+and the activation energy of ion transport, increasing the mobility
+of the polymer segment and the concentration of free ions, promoting
+the dissociation of lithium salts, and so forth.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> Thus, retaining the maximum plasticizer content is the
+key to obtain the best electrochemical performance of the yarn-shaped
+LIB.</p><p>The cycle performance is further examined in this section.
+As shown
+in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a, this
+7 cm-long yarn-shaped LIB has a capacity of 0.45 mA h at 0.1 C. In
+addition, in the discharge platform range of 3.1&#x02013;3.2 V, the
+battery has a voltage curve similar to that of the coin-type full
+battery, which rationalizes the design principle of the yarn-shaped
+LIB. With a cyclic charge/discharge analysis at 0.1 C (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b), the charging platform (3.4&#x02013;3.55
+V) and the discharging platform (3.0&#x02013;3.2 V) indicate the typical
+charge/discharge curve of the battery. The cyclic stability test of
+the assembled yarn-shaped LIB at 0.2 C (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c) shows that the capacity retention is 42.78%
+and the Coulombic efficiency remains 54.2% from the 1st cycle to the
+50th cycle. During the charging process, the anode experiences volume
+expansion, resulting in the generation of structural debris and new
+surface area. The additionally formed solid electrolyte interface
+(SEI) film will increase the amount of lithium-ion consumption. During
+the discharging process of the battery, the structural debris that
+have poor contact or have been detached from the conducting network
+of the anode will not participate in the electrochemical reaction,
+and these lithium ions are irreversibly lost. Therefore, Coulombic
+efficiency is not very satisfactory. To better understand the cycling
+capability of the yarn-shaped LIB, EIS measurements were performed
+before the 1st and after the 50th charge/discharge cycle (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d). After 50 cycles,
+the ionic and electronic conductivities of the yarn-shaped LIB are
+reduced because the calculated impedance increases from 263.4 to 324.6
+&#x003a9; and the linear slope of the low-frequency region is decreased.
+It is possibly due to the occurrence of interfacial side reactions
+inside the battery and SEI film formed on the surface of the electrode.<sup><xref ref-type="bibr" rid="ref50">50</xref></sup></p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>(a) Voltage profiles of the assembled yarn-shaped LIB
+in the third
+cycle at 0.1 C. (b) Voltages and currents of the yarn-shaped LIB in
+the first five cyclic charge/discharge tests at 0.1 C. (c) Electrochemical
+cycling performance of the assembled yarn-shaped LIB at 0.2 C. (d)
+EIS before the 1st and after the 50th charge/discharge cycle.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00254_0005" id="gr5" position="float"/></fig><p>To better verify the flexibility of the prepared
+yarn-shaped LIB
+which has an effective length of 7 cm and a diameter of 1.76 mm (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a), its electrochemical
+performance at different states (normal, bent, and knotted) is demonstrated
+(<xref rid="fig6" ref-type="fig">Figures <xref rid="fig6" ref-type="fig">6</xref></xref>b and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_001.pdf">S5</ext-link>). In the normal state, the assembled yarn-shaped
+LIB has a discharge specific capacity of 55.8 mA h&#x000b7;g<sup>&#x02013;1</sup> at 0.1 C. Even being bent or knotted, the output specific capacity
+of the assembled yarn-shaped LIB is still maintained above 85%. How
+to maintain the stable capacity retention rate of the prepared yarn-shaped
+LIB in the process of multiple bending or folding is still an important
+issue to be solved in the future. The battery with good flexibility
+(<xref rid="fig6" ref-type="fig">Figures <xref rid="fig6" ref-type="fig">6</xref></xref>c&#x02013;f
+and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_001.pdf">S6</ext-link>) offers the possibility of being
+woven into fabrics (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a). In addition, the practical application of the assembled
+yarn-shaped LIB is revealed. The charged yarn-shaped LIB under the
+bending state successfully powers up an electronic watch (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_002.mp4">Video S1</ext-link>) and an electronic thermo-hygrometer
+(<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_003.mp4">Video S2</ext-link>) to enable them to work for 36.2 and
+4.7 h, respectively. Comparison of the volumetric energy density and
+specific capacity of this work with other reported yarn-shaped LIBs
+is presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_001.pdf">Figure S7</ext-link>, and data about
+the yarn-shaped battery are summarized in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_001.pdf">Table S1</ext-link>. The performance of the yarn-shaped LIB assembled from inexpensive
+materials through a simple preparation process still needs to be further
+improved.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>(a) Photograph of the yarn-shaped LIB with a length of 7 cm. (b)
+Charge/discharge voltage profiles of the yarn-shaped LIB at the different
+states at 0.1 C. Photographs of the yarn-shaped LIB lighting up a
+light-emitting diode at bending angles of (c) 0, (d) 60, (e) 120,
+and (f) 180&#x000b0;.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00254_0006" id="gr6" position="float"/></fig><fig id="fig7" position="float"><label>Figure 7</label><caption><p>(a) Yarn-shaped LIBs
+woven into a sweater. Photographs of the assembled
+yarn-shaped LIB powering up (b) an electronic watch and (c) thermo-hygrometer.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00254_0007" id="gr7" position="float"/></fig></sec><sec id="sec3"><title>Conclusions</title><p>In summary, this work
+has demonstrated a novel SSY-based yarn-shaped
+LIB with high flexibility and wearability. In addition, the gel electrolyte
+rather than the liquid electrolyte was employed to avoid common safety
+issues of the LIB such as high flammablility, explosivity, and leakage
+during use. Even at different deformation conditions (i.e., bending
+or knotting), the specific capacity of the yarn-shaped LIB (7 cm long,
+&#x0003c;2 mm in diameter), assembled from graphite and lithium iron phosphate
+electrodes, is maintained &#x0003e;85%. After charged treatment, it can
+successfully
+power up an electronic watch (36.2 h) and an electronic thermo-hygrometer
+(4.7 h). Thanks to the simple preparation process, low cost in raw
+materials, and good safety performance, and this work can promote
+the commercialization of wearable energy storage devices.</p></sec><sec id="sec4"><title>Experimental
+Section</title><sec id="sec4.1"><title>Materials</title><p>Lithium iron phosphate (LiFePO<sub>4</sub>) was purchased from Shenzhen Tianchenghe Technology Co., Ltd., China.
+PC, EC, and <italic>N</italic>-methyl-2-pyrrolidone (NMP) were purchased
+from Shanghai Aladdin Biochemical Technology Co., Ltd., China. Lithium
+tetrafluoroborate (LiBF<sub>4</sub>) was purchased from Shanghai Binlian
+Industrial Co., Ltd., China. Acetone was purchased from Shanghai Lingfeng
+Chemical Reagent Co., Ltd., China. Natural graphite was purchased
+from Qingdao Yuxing Graphite Products Co., Ltd., China. PVDF-HFP (molecular
+weight of 400,000) was purchased from Sigma-Aldrich. Poly(vinylidene
+fluoride) (PVDF, HSV900) was purchased from Arkema Ltd. Carbon nanotubes
+(CNTs) were purchased from CNano Technology Ltd. Stainless steel two-ply
+yarn was purchased from Shenzhen Guangrui New Materials Co., Ltd.</p></sec><sec id="sec4.2"><title>Preparation of Yarn-Shaped Electrodes</title><p>The flexible
+substrate was braided with three SSYs. The anode and cathode materials
+were deposited onto the SSYs by the dipping-drying method. SSYs coated
+with graphite is the anode, referred as SSY@G. SSYs coated with LFP
+is the cathode, referred as SSY@LFP. In detail, the electrode slurry
+was prepared by magnetically stirring LiFePO<sub>4</sub> or graphite,
+PVDF, and CNTs in the NMP solvent at a mass ratio of 7.5:1.5:1 for
+12 h at room temperature. Later, the well-dispersed solution was transferred
+to a home-made mold with SSY immersed for 10 min and vacuum-dried
+in an oven at 60 &#x000b0;C for 12 h.</p></sec><sec id="sec4.3"><title>Preparation of the Gel
+Electrolyte</title><p>The dipping-drying
+method was also employed in the preparation process of the gel electrolyte.
+LiBF<sub>4</sub> (0.125 g) was dissolved in 12.5 mL of the acetone
+solvent by magnetically stirring the mixture at 48 &#x000b0;C for 2 h.
+Then, the plasticizer solution consisting of EC (0.47 mL) and PC (0.53
+mL) (EC/PC), together with PVDF-HFP (0.708 g), was added into the
+previous solution by stirring the mixture for 12 h at 48 &#x000b0;C to
+form a uniformly dispersed electrolyte solution. Later, the electrolyte
+solution was transferred into a home-made mold to immerse the yarn-shaped
+cathode and anode materials for 1 min. Then, the electrodes were taken
+out and dried for 5 min. After repeating the immersion and drying
+processes 20 times, the SSY@LFP coated with the gel electrolyte is
+formed and named SSY@LFP@GE. The entire process is completed in a
+glovebox with an inert nitrogen atmosphere to prevent the electrolyte
+from reacting with water or oxygen.</p></sec><sec id="sec4.4"><title>Assembly of the Yarn-Shaped
+Battery</title><p>Before the assembly,
+the SSYs were ultrasonically cleaned with acetone bath for 30 min
+with an ultrasonic cleaner (PS-40A, 40 kHz, Shenzhen Fukeda Ultrasonic
+Equipment Co., Ltd.), then washed with deionized water to further
+remove impurities on the surfaces, and finally oven-dried at 60 &#x000b0;C
+for 1 h. The assembly of the yarn-shaped LIB is performed in the following
+steps. The anode and cathode electrodes coated with the gel electrolyte
+were first twisted by a self-made jig and then soaked in plasticizer
+solution (EC/PC) at room temperature for 10 min. Later, the battery
+core including the yarn-shaped cathode, anode, and gel electrolyte
+was packed in a tube (TG001, diameter of 3 mm) which shrinks upon
+heating at 100 &#x000b0;C by heating for 1 min. After sealing two ends
+of the yarn-shaped LIB with a hot melt glue gun (EVA hot melt adhesive,
+Foshan Yide Adhesive Co., Ltd), the assembled yarn-shaped battery
+was placed in the glovebox for 24 h to complete preformation. The
+7 cm-long yarn-shaped cathode has a loading mass of 40 mg, and the
+anode has a loading mass of 20.3 mg. The <italic>N</italic>/<italic>P</italic> value is 1.1. The simplified operation process is shown
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_001.pdf">Figure S1</ext-link>.</p></sec><sec id="sec4.5"><title>Characterizations</title><p>The surface morphologies of the anode,
+cathode, and electrolyte were observed by optical microscopy (DM-XTL7045)
+and SEM (FESEM, SU8010). EDS mapping was obtained to quantitatively
+identify the elements in the cathode. The cross section of the yarn-shaped
+battery was also imaged with optical microscopy (DM-XTL7045). The
+voltage of the battery was measured with a multimeter (VC890C+). The
+galvanostatic charge/discharge (GCD) measurements, rate performance
+evaluation, and constant-capacity cycling tests were conducted using
+a LAND battery testing system (CT2001A) at room temperature. EIS and
+CV were performed by an electrochemical workstation (CHI660E, Shanghai
+Chenhua Instrument Co., Ltd.).</p></sec></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsomega.0c00254?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsomega.0c00254</ext-link>.<list id="silist" list-type="simple"><list-item><p>Optical image and SEM
+image, fabrication and assembly
+process, cross-sectional images, digital photography, and data analysis
+chart (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_001.pdf">PDF</ext-link>)</p></list-item><list-item><p>Charged yarn-shaped LIB under bending state successfully
+powering up an electronic watch (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_002.mp4">MP4</ext-link>)</p></list-item><list-item><p>Charged yarn-shaped LIB under bending state
+successfully
+powering up an electronic thermo-hygrometer (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c00254/suppl_file/ao0c00254_si_003.mp4">MP4</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00254_si_001.pdf"><caption><p>ao0c00254_si_001.pdf</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile2"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00254_si_002.mp4"><caption><p>ao0c00254_si_002.mp4</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile3"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c00254_si_003.mp4"><caption><p>ao0c00254_si_003.mp4</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="NOTES-d7e729-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>K.Z. acknowledges the funding support from the Fundamental
+Research Fund for the Central Universities (19D110106), the National
+Natural Science Foundation of China (nos. 51603036 and 51973034),
+the Young Elite Scientists Sponsorship Program by CAST (2017QNRC001),
+and the &#x0201c;DHU Distinguished Young Professor Program&#x0201d;.
+Z.W. thanks the funding support from Jiangsu Cnano Technology company.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Han</surname><given-names>Y.</given-names></name>; <name><surname>Zou</surname><given-names>M.</given-names></name>; <name><surname>Lv</surname><given-names>W.</given-names></name>; <name><surname>Mao</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>W.</given-names></name>; <name><surname>He</surname><given-names>W.</given-names></name>
+<article-title>Three-Dimensional
+Ionic Conduction in The Strained Electrolytes of Solid Oxide Fuel
+Cells</article-title>. <source>J. Appl. Phys.</source>
+<year>2016</year>, <volume>119</volume>, <fpage>174904</fpage><pub-id pub-id-type="doi">10.1063/1.4948694</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Lu</surname><given-names>X.</given-names></name>; <name><surname>Yu</surname><given-names>M.</given-names></name>; <name><surname>Wang</surname><given-names>G.</given-names></name>; <name><surname>Tong</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>
+<article-title>Flexible Solid-State
+Supercapacitors: Design, Fabrication and Applications</article-title>. <source>Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>2160</fpage>&#x02013;<lpage>2181</lpage>. <pub-id pub-id-type="doi">10.1039/c4ee00960f</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Ji</surname><given-names>D.</given-names></name>; <name><surname>Fan</surname><given-names>L.</given-names></name>; <name><surname>Tao</surname><given-names>L.</given-names></name>; <name><surname>Sun</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Yang</surname><given-names>G.</given-names></name>; <name><surname>Tran</surname><given-names>T. Q.</given-names></name>; <name><surname>Ramakrishna</surname><given-names>S.</given-names></name>; <name><surname>Guo</surname><given-names>S.</given-names></name>
+<article-title>The Kirkendall Effect
+for Engineering Oxygen Vacancy of Hollow Co<sub>3</sub>O<sub>4</sub> Nanoparticles toward High-Performance Portable Zinc-Air Batteries</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <fpage>13840</fpage>&#x02013;<lpage>13844</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201908736</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Fan</surname><given-names>Y.</given-names></name>; <name><surname>Khan</surname><given-names>M. A.</given-names></name>; <name><surname>Zhao</surname><given-names>H.</given-names></name>; <name><surname>Ye</surname><given-names>D.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Yue</surname><given-names>B.</given-names></name>; <name><surname>Fang</surname><given-names>J.</given-names></name>; <name><surname>Xu</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>
+<article-title>Co-Ni Binary-Metal
+Oxide Coated with Porous Carbon Derived from Metal-Organic Framework
+as Host of Nano-Sulfur for Lithium-Sulfur Batteries</article-title>. <source>Batteries Supercaps</source>
+<year>2020</year>, <volume>3</volume>, <fpage>108</fpage>&#x02013;<lpage>116</lpage>. <pub-id pub-id-type="doi">10.1002/batt.201900121</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Dubal</surname><given-names>D. P.</given-names></name>; <name><surname>Chodankar</surname><given-names>N. R.</given-names></name>; <name><surname>Kim</surname><given-names>D.-H.</given-names></name>; <name><surname>Gomez-Romero</surname><given-names>P.</given-names></name>
+<article-title>Towards Flexible
+Solid-State Supercapacitors for Smart And Wearable Electronics</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2018</year>, <volume>47</volume>, <fpage>2065</fpage>&#x02013;<lpage>2129</lpage>. <pub-id pub-id-type="doi">10.1039/c7cs00505a</pub-id>.<pub-id pub-id-type="pmid">29399689</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Kurra</surname><given-names>N.</given-names></name>; <name><surname>Hota</surname><given-names>M. K.</given-names></name>; <name><surname>Alshareef</surname><given-names>H. N.</given-names></name>
+<article-title>Conducting
+Polymer Micro-Supercapacitors
+for Flexible Energy Storage And Ac Line-Filtering</article-title>. <source>Nano Energy</source>
+<year>2015</year>, <volume>13</volume>, <fpage>500</fpage>&#x02013;<lpage>508</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2015.03.018</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Yue</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>N.</given-names></name>; <name><surname>Liu</surname><given-names>W.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Ma</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>C.</given-names></name>; <name><surname>Su</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Long</surname><given-names>F.</given-names></name>; <name><surname>Zou</surname><given-names>Z.</given-names></name>; <name><surname>Gao</surname><given-names>Y.</given-names></name>
+<article-title>A Flexible Integrated
+System Containing a Microsupercapacitor,
+a Photodetector, and a Wireless Charging Coil</article-title>. <source>ACS Nano</source>
+<year>2016</year>, <volume>10</volume>, <fpage>11249</fpage>&#x02013;<lpage>11257</lpage>. <pub-id pub-id-type="doi">10.1021/acsnano.6b06326</pub-id>.<pub-id pub-id-type="pmid">28024378</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Song</surname><given-names>H.</given-names></name>; <name><surname>Jeon</surname><given-names>S.-Y.</given-names></name>; <name><surname>Jeong</surname><given-names>Y.</given-names></name>
+<article-title>Fabrication
+of A Coaxial High Performance
+Fiber Lithium-Ion Battery Supported by A Cotton Yarn Electrolyte Reservoir</article-title>. <source>Carbon</source>
+<year>2019</year>, <volume>147</volume>, <fpage>441</fpage>&#x02013;<lpage>450</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2019.02.081</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Jiang</surname><given-names>W.</given-names></name>; <name><surname>Hu</surname><given-names>F.</given-names></name>; <name><surname>Yao</surname><given-names>S.</given-names></name>; <name><surname>Sun</surname><given-names>Z.</given-names></name>; <name><surname>Wu</surname><given-names>X.</given-names></name>
+<article-title>Hierarchical NiCo<sub>2</sub>O<sub>4</sub> Nanowalls
+Composed of Ultrathin Nanosheets as
+Electrode Materials for Supercapacitor And Li Ion Battery Applications</article-title>. <source>Mater. Res. Bull.</source>
+<year>2017</year>, <volume>93</volume>, <fpage>303</fpage>&#x02013;<lpage>309</lpage>. <pub-id pub-id-type="doi">10.1016/j.materresbull.2017.05.036</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Zhai</surname><given-names>S.</given-names></name>; <name><surname>Karahan</surname><given-names>H. E.</given-names></name>; <name><surname>Wei</surname><given-names>L.</given-names></name>; <name><surname>Qian</surname><given-names>Q.</given-names></name>; <name><surname>Harris</surname><given-names>A. T.</given-names></name>; <name><surname>Minett</surname><given-names>A. I.</given-names></name>; <name><surname>Ramakrishna</surname><given-names>S.</given-names></name>; <name><surname>Ng</surname><given-names>A. K.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>
+<article-title>Textile Energy
+Storage: Structural Design Concepts, Material Selection and Future
+Perspectives</article-title>. <source>Energy Storage Mater.</source>
+<year>2016</year>, <volume>3</volume>, <fpage>123</fpage>&#x02013;<lpage>139</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2016.02.003</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Kyeremateng</surname><given-names>N. A.</given-names></name>; <name><surname>Brousse</surname><given-names>T.</given-names></name>; <name><surname>Pech</surname><given-names>D.</given-names></name>
+<article-title>Microsupercapacitors
+as Miniaturized
+Energy-Storage Components for On-Chip Electronics</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2017</year>, <volume>12</volume>, <fpage>7</fpage>&#x02013;<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2016.196</pub-id>.<pub-id pub-id-type="pmid">27819693</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Jiang</surname><given-names>Q.</given-names></name>; <name><surname>Wu</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>A. C.</given-names></name>; <name><surname>He</surname><given-names>J.-H.</given-names></name>; <name><surname>Wang</surname><given-names>Z. L.</given-names></name>; <name><surname>Alshareef</surname><given-names>H. N.</given-names></name>
+<article-title>MXene Electrochemical
+Microsupercapacitor Integrated
+with Triboelectric Nanogenerator as A Wearable Self-Charging Power
+Unit</article-title>. <source>Nano Energy</source>
+<year>2018</year>, <volume>45</volume>, <fpage>266</fpage>&#x02013;<lpage>272</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2018.01.004</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Zhu</surname><given-names>M.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Tang</surname><given-names>Z.</given-names></name>; <name><surname>Pei</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Shi</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Zhi</surname><given-names>C.</given-names></name>
+<article-title>Towards Wearable Electronic Devices: A Quasi-Solid-State Aqueous
+Lithium-Ion Battery with Outstanding Stability, Flexibility, Safety
+and Breathability</article-title>. <source>Nano Energy</source>
+<year>2018</year>, <volume>44</volume>, <fpage>164</fpage>&#x02013;<lpage>173</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2017.12.006</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Sun</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Sun</surname><given-names>X. M.</given-names></name>; <name><surname>Peng</surname><given-names>H. S.</given-names></name>
+<article-title>Energy
+Harvesting And Storage in 1D Devices</article-title>. <source>Nat. Rev.
+Mater.</source>
+<year>2017</year>, <volume>2</volume>, <fpage>17023</fpage><pub-id pub-id-type="doi">10.1038/natrevmats.2017.23</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Liu</surname><given-names>W.</given-names></name>; <name><surname>Liu</surname><given-names>N.</given-names></name>; <name><surname>Shi</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>C.</given-names></name>; <name><surname>Tao</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Su</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Gao</surname><given-names>Y.</given-names></name>
+<article-title>A Wire-Shaped
+Flexible Asymmetric Supercapacitor Based on Carbon
+Fiber Coated with A Metal Oxide And A Polymer</article-title>. <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>13461</fpage>&#x02013;<lpage>13467</lpage>. <pub-id pub-id-type="doi">10.1039/c5ta01105a</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Wu</surname><given-names>X.</given-names></name>; <name><surname>Yao</surname><given-names>S.</given-names></name>
+<article-title>Flexible Electrode
+Materials Based on WO<sub>3</sub> Nanotube Bundles
+for High Performance Energy Storage Devices</article-title>. <source>Nano Energy</source>
+<year>2017</year>, <volume>42</volume>, <fpage>143</fpage>&#x02013;<lpage>150</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2017.10.058</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Zhao</surname><given-names>H.</given-names></name>; <name><surname>Ma</surname><given-names>X.</given-names></name>; <name><surname>Bai</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>Z.</given-names></name>; <name><surname>Sun</surname><given-names>G.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Pan</surname><given-names>X.</given-names></name>; <name><surname>Lan</surname><given-names>W.</given-names></name>; <name><surname>Zhou</surname><given-names>J. Y.</given-names></name>; <name><surname>Xie</surname><given-names>E.</given-names></name>
+<article-title>Energy Storage Mechanism
+in Aqueous Fiber-Shaped Li-Ion Capacitors Based on Aligned Hydrogenated-Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> Nanowires</article-title>. <source>Nanoscale</source>
+<year>2017</year>, <volume>9</volume>, <fpage>8192</fpage>&#x02013;<lpage>8199</lpage>. <pub-id pub-id-type="doi">10.1039/c7nr02164j</pub-id>.<pub-id pub-id-type="pmid">28580993</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Lv</surname><given-names>T.</given-names></name>; <name><surname>Yao</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>N.</given-names></name>; <name><surname>Chen</surname><given-names>T.</given-names></name>
+<article-title>Wearable Fiber-Shaped Energy Conversion
+and Storage Devices Based on Aligned Carbon nanotubes</article-title>. <source>Nano Today</source>
+<year>2016</year>, <volume>11</volume>, <fpage>644</fpage>&#x02013;<lpage>660</lpage>. <pub-id pub-id-type="doi">10.1016/j.nantod.2016.08.010</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Lu</surname><given-names>L.</given-names></name>; <name><surname>Hu</surname><given-names>Y.</given-names></name>; <name><surname>Dai</surname><given-names>K.</given-names></name>
+<article-title>The Advance
+of Fiber-Shaped Lithium Ion Batteries</article-title>. <source>Mater.
+Today Chem.</source>
+<year>2017</year>, <volume>5</volume>, <fpage>24</fpage>&#x02013;<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1016/j.mtchem.2017.05.003</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Cai</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Fang</surname><given-names>Y.</given-names></name>; <name><surname>Zou</surname><given-names>D.</given-names></name>
+<article-title>Application
+of Carbon Fibers to Flexible, Miniaturized Wire/Fiber-Shaped Energy
+Conversion And Storage Devices</article-title>. <source>J. Mater. Chem.
+A</source>
+<year>2017</year>, <volume>5</volume>, <fpage>2444</fpage>&#x02013;<lpage>2459</lpage>. <pub-id pub-id-type="doi">10.1039/c6ta07868k</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Yadav</surname><given-names>A.</given-names></name>; <name><surname>De</surname><given-names>B.</given-names></name>; <name><surname>Singh</surname><given-names>S. K.</given-names></name>; <name><surname>Sinha</surname><given-names>P.</given-names></name>; <name><surname>Kar</surname><given-names>K. K.</given-names></name>
+<article-title>Facile Development
+Strategy of a Single Carbon-Fiber-Based All-Solid-State Flexible Lithium-Ion
+Battery for Wearable Electronics</article-title>. <source>ACS Appl.
+Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume>, <fpage>7974</fpage>&#x02013;<lpage>7980</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.8b20233</pub-id>.<pub-id pub-id-type="pmid">30715836</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>C.</given-names></name>; <name><surname>Xie</surname><given-names>H.</given-names></name>; <name><surname>Gao</surname><given-names>T.</given-names></name>; <name><surname>Yao</surname><given-names>Y.</given-names></name>; <name><surname>Pastel</surname><given-names>G.</given-names></name>; <name><surname>Han</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Fu</surname><given-names>K. K.</given-names></name>; <name><surname>Hu</surname><given-names>L.</given-names></name>
+<article-title>3D-Printed All-Fiber
+Li-Ion Battery
+toward Wearable Energy Storage</article-title>. <source>Adv. Funct.
+Mater.</source>
+<year>2017</year>, <volume>27</volume>, <fpage>1703140</fpage><pub-id pub-id-type="doi">10.1002/adfm.201703140</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Kwon</surname><given-names>Y. H.</given-names></name>; <name><surname>Woo</surname><given-names>S.-W.</given-names></name>; <name><surname>Jung</surname><given-names>H.-R.</given-names></name>; <name><surname>Yu</surname><given-names>H. K.</given-names></name>; <name><surname>Kim</surname><given-names>K.</given-names></name>; <name><surname>Oh</surname><given-names>B. H.</given-names></name>; <name><surname>Ahn</surname><given-names>S.</given-names></name>; <name><surname>Lee</surname><given-names>S.-Y.</given-names></name>; <name><surname>Song</surname><given-names>S.-W.</given-names></name>; <name><surname>Cho</surname><given-names>J.</given-names></name>; <name><surname>Shin</surname><given-names>H.-C.</given-names></name>; <name><surname>Kim</surname><given-names>J. Y.</given-names></name>
+<article-title>Cable-Type Flexible Lithium Ion Battery
+Based on Hollow Multi-Helix Electrodes</article-title>. <source>Adv.
+Mater.</source>
+<year>2012</year>, <volume>24</volume>, <fpage>5145</fpage><pub-id pub-id-type="doi">10.1002/adma.201202196</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Too</surname><given-names>C. O.</given-names></name>; <name><surname>Wallace</surname><given-names>G. G.</given-names></name>
+<article-title>A Highly Flexible
+Polymer Fibre Battery</article-title>. <source>J. Power Sources</source>
+<year>2005</year>, <volume>150</volume>, <fpage>223</fpage>&#x02013;<lpage>228</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2005.01.046</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Qu</surname><given-names>H.</given-names></name>; <name><surname>Lu</surname><given-names>X.</given-names></name>; <name><surname>Skorobogatiy</surname><given-names>M.</given-names></name>
+<article-title>All-Solid
+Flexible Fiber-Shaped Lithium Ion Batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2018</year>, <volume>165</volume>, <fpage>A688</fpage>&#x02013;<lpage>A695</lpage>. <pub-id pub-id-type="doi">10.1149/2.1001803jes</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Zhu</surname><given-names>M.</given-names></name>; <name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Song</surname><given-names>M.</given-names></name>; <name><surname>Long</surname><given-names>L.</given-names></name>; <name><surname>Siyal</surname><given-names>S. H.</given-names></name>; <name><surname>Yang</surname><given-names>X.</given-names></name>; <name><surname>Sui</surname><given-names>G.</given-names></name>
+<article-title>Recent Advances in Gel Polymer Electrolyte
+for High-Performance Lithium Batteries</article-title>. <source>J. Energy
+Chem.</source>
+<year>2019</year>, <volume>37</volume>, <fpage>126</fpage>&#x02013;<lpage>142</lpage>. <pub-id pub-id-type="doi">10.1016/j.jechem.2018.12.013</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Ren</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Chen</surname><given-names>C.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Cai</surname><given-names>Z.</given-names></name>; <name><surname>Qiu</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Zhu</surname><given-names>X.</given-names></name>; <name><surname>Peng</surname><given-names>H.</given-names></name>
+<article-title>Twisting Carbon Nanotube
+Fibers for Both Wire-Shaped Micro-Supercapacitor and Micro-Battery</article-title>. <source>Adv. Mater.</source>
+<year>2013</year>, <volume>25</volume>, <fpage>1155</fpage>&#x02013;<lpage>1159</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201203445</pub-id>.<pub-id pub-id-type="pmid">23172722</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Weng</surname><given-names>W.</given-names></name>; <name><surname>Sun</surname><given-names>Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Lin</surname><given-names>H.</given-names></name>; <name><surname>Ren</surname><given-names>J.</given-names></name>; <name><surname>Lu</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>M.</given-names></name>; <name><surname>Peng</surname><given-names>H.</given-names></name>
+<article-title>Winding Aligned
+Carbon Nanotube Composite
+Yarns into Coaxial Fiber Full Batteries with High Performances</article-title>. <source>Nano Lett.</source>
+<year>2014</year>, <volume>14</volume>, <fpage>3432</fpage>&#x02013;<lpage>3438</lpage>. <pub-id pub-id-type="doi">10.1021/nl5009647</pub-id>.<pub-id pub-id-type="pmid">24831023</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Bai</surname><given-names>W.</given-names></name>; <name><surname>Cheng</surname><given-names>X.</given-names></name>; <name><surname>Ren</surname><given-names>J.</given-names></name>; <name><surname>Weng</surname><given-names>W.</given-names></name>; <name><surname>Chen</surname><given-names>P.</given-names></name>; <name><surname>Fang</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Peng</surname><given-names>H.</given-names></name>
+<article-title>Flexible and Stretchable
+Lithium-Ion Batteries and Supercapacitors Based on Electrically Conducting
+Carbon Nanotube Fiber Springs</article-title>. <source>Angew. Chem.,
+Int. Ed.</source>
+<year>2014</year>, <volume>53</volume>, <fpage>14564</fpage>&#x02013;<lpage>14568</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201409366</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Whittingham</surname><given-names>M. S.</given-names></name>
+<article-title>Lithium
+Batteries and Cathode Materials</article-title>. <source>Chem. Rev.</source>
+<year>2004</year>, <volume>104</volume>, <fpage>4271</fpage>&#x02013;<lpage>4302</lpage>. <pub-id pub-id-type="doi">10.1021/cr020731c</pub-id>.<pub-id pub-id-type="pmid">15669156</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Yang</surname><given-names>S.</given-names></name>; <name><surname>Song</surname><given-names>Y.</given-names></name>; <name><surname>Ngala</surname><given-names>K.</given-names></name>; <name><surname>Zavalij</surname><given-names>P. Y.</given-names></name>; <name><surname>Stanley
+Whittingham</surname><given-names>M.</given-names></name>
+<article-title>Performance of LiFePO<sub>4</sub> as Lithium Battery
+Cathode and Comparison with Manganese And Vanadium Oxides</article-title>. <source>J. Power Sources</source>
+<year>2003</year>, <volume>119&#x02013;121</volume>, <fpage>239</fpage>&#x02013;<lpage>246</lpage>. <pub-id pub-id-type="doi">10.1016/s0378-7753(03)00240-4</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="book" id="cit32"><person-group person-group-type="allauthors"><name><surname>Yoshio</surname><given-names>M.</given-names></name>; <name><surname>Brodd</surname><given-names>R.
+J.</given-names></name>; <name><surname>Kozawa</surname><given-names>A.</given-names></name></person-group><source>Lithium-Ion Batteries</source>; <publisher-name>Springer</publisher-name>, <year>2009</year>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Ikeda</surname><given-names>T.</given-names></name>; <name><surname>Fukuda</surname><given-names>K.</given-names></name>; <name><surname>Yoshio</surname><given-names>M.</given-names></name>
+<article-title>Effect of Milling on
+The Electrochemical Performance of Natural Graphite as An Anode Material
+for Lithium-Ion Battery</article-title>. <source>J. Power Sources</source>
+<year>1999</year>, <volume>83</volume>, <fpage>141</fpage>&#x02013;<lpage>147</lpage>. <pub-id pub-id-type="doi">10.1016/s0378-7753(99)00288-8</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Yao</surname><given-names>P.</given-names></name>; <name><surname>Yu</surname><given-names>H.</given-names></name>; <name><surname>Ding</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Lu</surname><given-names>J.</given-names></name>; <name><surname>Lavorgna</surname><given-names>M.</given-names></name>; <name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Review on
+Polymer-Based Composite Electrolytes for
+Lithium Batteries</article-title>. <source>Front. Chem.</source>
+<year>2019</year>, <volume>7</volume>, <fpage>522</fpage><pub-id pub-id-type="doi">10.3389/fchem.2019.00522</pub-id>.<pub-id pub-id-type="pmid">31440498</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Xia</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Xia</surname><given-names>X.</given-names></name>; <name><surname>Xu</surname><given-names>R.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Liang</surname><given-names>Y.</given-names></name>; <name><surname>Gu</surname><given-names>C.</given-names></name>; <name><surname>Tu</surname><given-names>J.</given-names></name>
+<article-title>A Newly Designed Composite
+Gel Polymer Electrolyte Based on Poly(Vinylidene Fluoride-Hexafluoropropylene)
+(PVDF-HFP) for Enhanced Solid-State Lithium-Sulfur Batteries</article-title>. <source>Chem.&#x02013;Eur. J.</source>
+<year>2017</year>, <volume>23</volume>, <fpage>15203</fpage>&#x02013;<lpage>15209</lpage>. <pub-id pub-id-type="doi">10.1002/chem.201703464</pub-id>.<pub-id pub-id-type="pmid">28875509</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Osada</surname><given-names>I.</given-names></name>; <name><surname>de|Vries</surname><given-names>H.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>; <name><surname>Passerini</surname><given-names>S.</given-names></name>
+<article-title>Ionic-Liquid-Based
+Polymer Electrolytes for Battery Applications</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2016</year>, <volume>55</volume>, <fpage>500</fpage>&#x02013;<lpage>513</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201504971</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Sun</surname><given-names>B.</given-names></name>; <name><surname>Huang</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>G.</given-names></name>
+<article-title>Honeycomb-Like Porous
+Gel Polymer Electrolyte Membrane for Lithium Ion Batteries with Enhanced
+Safety</article-title>. <source>Sci. Rep.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>6007</fpage><pub-id pub-id-type="doi">10.1038/srep06007</pub-id>.<pub-id pub-id-type="pmid">25168687</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Arya</surname><given-names>A.</given-names></name>; <name><surname>Sharma</surname><given-names>A. L.</given-names></name>
+<article-title>Polymer Electrolytes
+for Lithium Ion Batteries: A Critical
+Study</article-title>. <source>Ionics</source>
+<year>2017</year>, <volume>23</volume>, <fpage>497</fpage>&#x02013;<lpage>540</lpage>. <pub-id pub-id-type="doi">10.1007/s11581-016-1908-6</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Prosini</surname><given-names>P.</given-names></name>; <name><surname>Lisi</surname><given-names>M.</given-names></name>; <name><surname>Zane</surname><given-names>D.</given-names></name>; <name><surname>Pasquali</surname><given-names>M.</given-names></name>
+<article-title>Determination
+of The
+Chemical Diffusion Coefficient of Lithium in LiFePO<sub>4</sub></article-title>. <source>Solid State Ionics</source>
+<year>2002</year>, <volume>148</volume>, <fpage>45</fpage>&#x02013;<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1016/s0167-2738(02)00134-0</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Prosini</surname><given-names>P. P.</given-names></name>; <name><surname>Zane</surname><given-names>D.</given-names></name>; <name><surname>Pasquali</surname><given-names>M.</given-names></name>
+<article-title>Improved Electrochemical
+Performance
+of A LiFePO<sub>4</sub>-Based Composite Cathode</article-title>. <source>Electrochim. Acta</source>
+<year>2001</year>, <volume>46</volume>, <fpage>3517</fpage>&#x02013;<lpage>3523</lpage>. <pub-id pub-id-type="doi">10.1016/s0013-4686(01)00631-4</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Guo</surname><given-names>D.-C.</given-names></name>; <name><surname>Zeng</surname><given-names>X.-R.</given-names></name>; <name><surname>Deng</surname><given-names>F.</given-names></name>; <name><surname>Zou</surname><given-names>J.-Z.</given-names></name>; <name><surname>Sheng</surname><given-names>H.-C.</given-names></name>
+<article-title>Preparation
+and Electrochemical Performance of Carbon nanotubes/Micro-expanded
+Graphite Composite Anodes for Lithium-Ion Batteries</article-title>. <source>J. Inorg. Mater.</source>
+<year>2012</year>, <volume>27</volume>, <fpage>1035</fpage>&#x02013;<lpage>1041</lpage>. <pub-id pub-id-type="doi">10.3724/sp.j.1077.2012.11736</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Krebs</surname><given-names>H.</given-names></name>; <name><surname>Yang</surname><given-names>L.</given-names></name>; <name><surname>Shirshova</surname><given-names>N.</given-names></name>; <name><surname>Steinke</surname><given-names>J. H. G.</given-names></name>
+<article-title>A New Series
+of Cross-Linked Acrylate Polymer Electrolytes for Energy Storage</article-title>. <source>React. Funct. Polym.</source>
+<year>2012</year>, <volume>72</volume>, <fpage>931</fpage>&#x02013;<lpage>938</lpage>. <pub-id pub-id-type="doi">10.1016/j.reactfunctpolym.2012.08.011</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Kim</surname><given-names>T.</given-names></name>; <name><surname>Mo</surname><given-names>Y. H.</given-names></name>; <name><surname>Nahm</surname><given-names>K. S.</given-names></name>; <name><surname>Oh</surname><given-names>S. M.</given-names></name>
+<article-title>Carbon Nanotubes
+as A Buffer Layer in Silicon/CNTs Composite Electrodes for Lithium
+Secondary Batteries</article-title>. <source>J. Power Sources</source>
+<year>2006</year>, <volume>162</volume>, <fpage>1275</fpage>&#x02013;<lpage>1281</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2006.07.062</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Osman</surname><given-names>Z.</given-names></name>; <name><surname>Zainol</surname><given-names>N. H.</given-names></name>; <name><surname>Samin</surname><given-names>S. M.</given-names></name>; <name><surname>Chong</surname><given-names>W. G.</given-names></name>; <name><surname>Md Isa</surname><given-names>K. B.</given-names></name>; <name><surname>Othman</surname><given-names>L.</given-names></name>; <name><surname>Supa&#x02019;at</surname><given-names>I.</given-names></name>; <name><surname>Sonsudin</surname><given-names>F.</given-names></name>
+<article-title>Electrochemical Impedance
+Spectroscopy Studies of Magnesium-Based Polymethylmethacrylate Gel
+Polymer Electroytes</article-title>. <source>Electrochim. Acta</source>
+<year>2014</year>, <volume>131</volume>, <fpage>148</fpage>&#x02013;<lpage>153</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2013.11.189</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Slane</surname><given-names>S.</given-names></name>; <name><surname>Salomon</surname><given-names>M.</given-names></name>
+<article-title>Composite Gel Electrolyte
+for Rechargeable Lithium
+Batteries</article-title>. <source>J. Power Sources</source>
+<year>1995</year>, <volume>55</volume>, <fpage>7</fpage>&#x02013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1016/0378-7753(94)02148-v</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Rodrigues</surname><given-names>S.</given-names></name>; <name><surname>Munichandraiah</surname><given-names>N.</given-names></name>; <name><surname>Shukla</surname><given-names>A. K.</given-names></name>
+<article-title>AC Impedance and
+State-of-Charge
+Analysis of A Sealed Lithium-Ion Rechargeable Battery</article-title>. <source>J. Solid State Electrochem.</source>
+<year>1999</year>, <volume>3</volume>, <fpage>397</fpage>&#x02013;<lpage>405</lpage>. <pub-id pub-id-type="doi">10.1007/s100080050173</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Sun</surname><given-names>W.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>
+<article-title>Fabrication and Tests of A Novel Three Dimensional Micro Supercapacitor</article-title>. <source>Microelectron. Eng.</source>
+<year>2009</year>, <volume>86</volume>, <fpage>1307</fpage>&#x02013;<lpage>1310</lpage>. <pub-id pub-id-type="doi">10.1016/j.mee.2008.12.010</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Zhuang</surname><given-names>X.</given-names></name>; <name><surname>Jia</surname><given-names>K.</given-names></name>; <name><surname>Cheng</surname><given-names>B.</given-names></name>; <name><surname>Feng</surname><given-names>X.</given-names></name>; <name><surname>Shi</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>B.</given-names></name>
+<article-title>Solution Blowing
+of Continuous Carbon Nanofiber Yarn and Its Electrochemical Performance
+for Supercapacitors</article-title>. <source>Chem. Eng. J.</source>
+<year>2014</year>, <volume>237</volume>, <fpage>308</fpage>&#x02013;<lpage>311</lpage>. <pub-id pub-id-type="doi">10.1016/j.cej.2013.10.038</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Stallworth</surname><given-names>P. E.</given-names></name>; <name><surname>Fontanella</surname><given-names>J. J.</given-names></name>; <name><surname>Wintersgill</surname><given-names>M. C.</given-names></name>; <name><surname>Scheidler</surname><given-names>C. D.</given-names></name>; <name><surname>Immel</surname><given-names>J. J.</given-names></name>; <name><surname>Greenbaum</surname><given-names>S. G.</given-names></name>; <name><surname>Gozdz</surname><given-names>A. S.</given-names></name>
+<article-title>NMR, DSC and High
+Pressure Electrical Conductivity Studies of Liquid and Hybrid Electrolytes</article-title>. <source>J. Power Sources</source>
+<year>1999</year>, <volume>81&#x02013;82</volume>, <fpage>739</fpage>&#x02013;<lpage>747</lpage>. <pub-id pub-id-type="doi">10.1016/s0378-7753(99)00144-5</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Zhou</surname><given-names>X.</given-names></name>; <name><surname>Huang</surname><given-names>J.</given-names></name>; <name><surname>Pan</surname><given-names>Z.</given-names></name>; <name><surname>Ouyang</surname><given-names>M.</given-names></name>
+<article-title>Impedance Characterization
+of Lithium-Ion Batteries Aging Under High-Temperature Cycling: Importance
+of Electrolyte-Phase Diffusion</article-title>. <source>J. Power Sources</source>
+<year>2019</year>, <volume>426</volume>, <fpage>216</fpage>&#x02013;<lpage>222</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2019.04.040</pub-id>.</mixed-citation></ref></ref-list></back></article>

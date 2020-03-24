@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC7066648/results/search/country/results.xml">
+  <result pre="Wang Shiren ∥ Zhang Kun * † [†], Donghua University" exact="China" post="[‡], Donghua University China [§], Donghua University China [∥],"/>
+  <result pre="Kun * † [†], Donghua University China [‡], Donghua University" exact="China" post="[§], Donghua University China [∥], Texas A&amp;amp;M University United"/>
+  <result pre="Donghua University China [‡], Donghua University China [§], Donghua University" exact="China" post="[∥], Texas A&amp;amp;M University United States [⊥], Quanzhou Normal"/>
+  <result pre="University China [§], Donghua University China [∥], Texas A&amp;amp;M University" exact="United States" post="[⊥], Quanzhou Normal University PR China *E-mail: kun.zhang@dhu.edu.cn (K.Z.)."/>
+  <result pre="Texas A&amp;amp;M University United States [⊥], Quanzhou Normal University PR" exact="China" post="*E-mail: kun.zhang@dhu.edu.cn (K.Z.). *E-mail: zwu@dhu.edu.cn (Z.W.). epub: 2020-02-02 collection:"/>
+  <result pre="the Central Universities (19D110106), the National Natural Science Foundation of" exact="China" post="(nos. 51603036 and 51973034), the Young Elite Scientists Sponsorship"/>
+ </snippets>
+</snippetsTree>

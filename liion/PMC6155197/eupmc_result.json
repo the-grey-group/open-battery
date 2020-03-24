@@ -1,0 +1,480 @@
+{
+  "id": [
+    "28272327"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28272327"
+  ],
+  "pmcid": [
+    "PMC6155197"
+  ],
+  "doi": [
+    "10.3390/molecules22030403"
+  ],
+  "title": [
+    "The Role of Sub- and Supercritical CO2 as \"Processing Solvent\" for the Recycling and Sample Preparation of Lithium Ion Battery Electrolytes."
+  ],
+  "authorString": [
+    "Nowak S, Winter M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nowak S"
+          ],
+          "firstName": [
+            "Sascha"
+          ],
+          "lastName": [
+            "Nowak"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1508-6073",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Muenster, MEET Battery Research Center, Corrensstraße 46, 48149 Münster, Germany. sascha.nowak@uni-muenster.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Winter M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Winter"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "University of Muenster, MEET Battery Research Center, Corrensstraße 46, 48149 Münster, Germany. martin.winter@uni-muenster.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1508-6073",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2529772"
+      ],
+      "dateOfPublication": [
+        "2017 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "Quantitative electrolyte extraction from lithium ion batteries (LIB) is of great interest for recycling processes. Following the generally valid EU legal guidelines for the recycling of batteries, 50 wt % of a LIB cell has to be recovered, which cannot be achieved without the electrolyte; hence, the electrolyte represents a target component for the recycling of LIBs. Additionally, fluoride or fluorinated compounds, as inevitably present in LIB electrolytes, can hamper or even damage recycling processes in industry and have to be removed from the solid LIB parts, as well. Finally, extraction is a necessary tool for LIB electrolyte aging analysis as well as for post-mortem investigations in general, because a qualitative overview can already be achieved after a few minutes of extraction for well-aged, apparently \"dry\" LIB cells, where the electrolyte is deeply penetrated or even gellified in the solid battery materials."
+  ],
+  "affiliation": [
+    "University of Muenster, MEET Battery Research Center, Corrensstraße 46, 48149 Münster, Germany. sascha.nowak@uni-muenster.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Carbon Dioxide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Electrolytes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Lithium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Solvents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Electric Power Supplies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gas Chromatography-Mass Spectrometry"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Recycling"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Aging",
+        "Recycling",
+        "Sample preparation",
+        "Lithium ion battery",
+        "Post-mortem",
+        "Supercritical Co2",
+        "Lithium Ion Battery Electrolytes",
+        "Liquid Co2",
+        "Subcritical Co2"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Electrolytes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Solvents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Carbon Dioxide"
+          ],
+          "registryNumber": [
+            "142M471B3J"
+          ]
+        },
+        {
+          "name": [
+            "Lithium"
+          ],
+          "registryNumber": [
+            "9FN79X2M3F"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules22030403"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6155197"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6155197?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-05-18"
+  ],
+  "dateOfCreation": [
+    "2017-03-09"
+  ],
+  "firstIndexDate": [
+    "2017-03-09"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-16"
+  ],
+  "dateOfRevision": [
+    "2018-11-14"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-06"
+  ],
+  "firstPublicationDate": [
+    "2017-03-06"
+  ]
+}

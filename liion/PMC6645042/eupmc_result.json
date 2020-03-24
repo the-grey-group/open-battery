@@ -1,0 +1,339 @@
+{
+  "id": [
+    "31457244"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31457244"
+  ],
+  "pmcid": [
+    "PMC6645042"
+  ],
+  "doi": [
+    "10.1021/acsomega.7b01146"
+  ],
+  "title": [
+    "General Strategy for Integrated SnO2/Metal Oxides as Biactive Lithium-Ion Battery Anodes with Ultralong Cycling Life."
+  ],
+  "authorString": [
+    "Bai J, Xi B, Feng Z, Zhang J, Feng J, Xiong S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bai J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Bai"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Crystal Materials and Key Laboratory for Colloid and Interface, Ministry of Education, & School of Chemistry and Chemical Engineering, Shandong University, Jinan, Shandong 250100, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xi B"
+          ],
+          "firstName": [
+            "Baojuan"
+          ],
+          "lastName": [
+            "Xi"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Crystal Materials and Key Laboratory for Colloid and Interface, Ministry of Education, & School of Chemistry and Chemical Engineering, Shandong University, Jinan, Shandong 250100, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Feng Z"
+          ],
+          "firstName": [
+            "Zhenyu"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Crystal Materials and Key Laboratory for Colloid and Interface, Ministry of Education, & School of Chemistry and Chemical Engineering, Shandong University, Jinan, Shandong 250100, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Junhao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Environmental and Chemical Engineering, Jiangsu University of Science and Technology, Zhenjiang, Jiangsu 212003, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Feng J"
+          ],
+          "firstName": [
+            "Jinkui"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Key Laboratory for Liquid-Solid Structural Evolution & Processing of Materials (Ministry of Education), School of Materials Science and Engineering, Shandong University, Jinan, Shandong 250061, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiong S"
+          ],
+          "firstName": [
+            "Shenglin"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Crystal Materials and Key Laboratory for Colloid and Interface, Ministry of Education, & School of Chemistry and Chemical Engineering, Shandong University, Jinan, Shandong 250100, P. R. China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5683-849X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2614634"
+      ],
+      "dateOfPublication": [
+        "2017 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "6415-6423"
+  ],
+  "abstractText": [
+    "Integration of bicomponents into a greater object or assemblage is a new avenue to acquire multifunctionality for metal oxide-based anodes for lithium-ion batteries (LIBs). Herein, we report a versatile means by which precursors serve as self-sacrificing templates to form architectures of SnO2 phase and other metal oxides. The vital challenge is the determination of appropriate synthetic system that can benefit the formation of respective precursors in a structure or single-source precursors of tin and other metal species. In the current work, by the aids of synergy action between l-proline and ethylene glycol (EG), precursors containing two metal ions are generally fabricated. Adequate flexibility of the present method has been achieved for SnO2/M x O y hierarchical hybrids, including Mn2O3, Co3O4, NiO, and Zn2SnO4, by calcination of their corresponding SnMn, SnCo, SnNi, and SnZn precursors, respectively. When evaluated as anode materials for LIBs, the obtained SnO2/Mn2O3 homogeneous hybrids, as expected, show higher specific capacity and ultralong cycling stability, gaining a reversible specific capacity of 610.3 mA h g-1 after 600 cycles with only decay of 0.29 mA h g-1 per cycle at 1 A g-1 and 487 mA h g-1 after 1001 cycles at a high current density of 2 A g-1."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Crystal Materials and Key Laboratory for Colloid and Interface, Ministry of Education, & School of Chemistry and Chemical Engineering, Shandong University, Jinan, Shandong 250100, P. R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.7b01146"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6645042"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6645042?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-29"
+  ],
+  "firstIndexDate": [
+    "2019-08-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-29"
+  ],
+  "dateOfRevision": [
+    "2019-09-01"
+  ],
+  "electronicPublicationDate": [
+    "2017-10-05"
+  ],
+  "firstPublicationDate": [
+    "2017-10-05"
+  ]
+}

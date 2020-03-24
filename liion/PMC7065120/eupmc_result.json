@@ -1,0 +1,495 @@
+{
+  "id": [
+    "31828910"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31828910"
+  ],
+  "pmcid": [
+    "PMC7065120"
+  ],
+  "doi": [
+    "10.1002/anie.201914760"
+  ],
+  "title": [
+    "Quantum-Chemical Study of the FeNCN Conversion-Reaction Mechanism in Lithium- and Sodium-Ion Batteries."
+  ],
+  "authorString": [
+    "Chen K, Fehse M, Laurita A, Arayamparambil JJ, Sougrati MT, Stievano L, Dronskowski R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen K"
+          ],
+          "firstName": [
+            "Kaixuan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7864-7440",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chair of Solid-State and Quantum Chemistry, Institute of Inorganic Chemistry, RWTH Aachen University, 52056, Aachen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Fehse M"
+          ],
+          "firstName": [
+            "Marcus"
+          ],
+          "lastName": [
+            "Fehse"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8650-6974",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut Charles Gerhardt Montpellier, CNRS, Université de Montpellier, 34095, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Laurita A"
+          ],
+          "firstName": [
+            "Angelica"
+          ],
+          "lastName": [
+            "Laurita"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institut Charles Gerhardt Montpellier, CNRS, Université de Montpellier, 34095, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Arayamparambil JJ"
+          ],
+          "firstName": [
+            "Jeethu Jiju"
+          ],
+          "lastName": [
+            "Arayamparambil"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "Institut Charles Gerhardt Montpellier, CNRS, Université de Montpellier, 34095, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Sougrati MT"
+          ],
+          "firstName": [
+            "Moulay Tahar"
+          ],
+          "lastName": [
+            "Sougrati"
+          ],
+          "initials": [
+            "MT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3740-2807",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut Charles Gerhardt Montpellier, CNRS, Université de Montpellier, 34095, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Stievano L"
+          ],
+          "firstName": [
+            "Lorenzo"
+          ],
+          "lastName": [
+            "Stievano"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8548-0231",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut Charles Gerhardt Montpellier, CNRS, Université de Montpellier, 34095, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Dronskowski R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Dronskowski"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1925-9624",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chair of Solid-State and Quantum Chemistry, Institute of Inorganic Chemistry, RWTH Aachen University, 52056, Aachen, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1925-9624",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8650-6974",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7864-7440",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3740-2807",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8548-0231",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "59"
+      ],
+      "journalIssueId": [
+        "2913768"
+      ],
+      "dateOfPublication": [
+        "2020 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Angewandte Chemie (International ed. in English)"
+          ],
+          "ISOAbbreviation": [
+            "Angew. Chem. Int. Ed. Engl."
+          ],
+          "medlineAbbreviation": [
+            "Angew Chem Int Ed Engl"
+          ],
+          "NLMid": [
+            "0370543"
+          ],
+          "ISSN": [
+            "1433-7851"
+          ],
+          "ESSN": [
+            "1521-3773"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "3718-3723"
+  ],
+  "abstractText": [
+    "We report a computational study on 3d transition-metal (Cr, Mn, Fe, and Co) carbodiimides in Li- and Na-ion batteries. The obtained cell voltages semi-quantitatively fit the experiments, highlighting the practicality of PBE+U as an approach for modeling the conversion-reaction mechanism of the FeNCN archetype with lithium and sodium. Also, the calculated voltage profiles agree satisfactorily with experiment both for full (Li-ion battery) and partial (Na-ion battery) discharge, even though experimental atomistic knowledge is missing up to now. Moreover, we rationalize the structural preference of intermediate ternaries and their characteristic lowering in the voltage profile using chemical-bonding and Mulliken-charge analysis. The formation of such ternary intermediates for the lithiation of FeNCN and the contribution of at least one ternary intermediate is also confirmed experimentally. This theoretical approach, aided by experimental findings, supports the atomistic exploration of electrode materials governed by conversion reactions."
+  ],
+  "affiliation": [
+    "Chair of Solid-State and Quantum Chemistry, Institute of Inorganic Chemistry, RWTH Aachen University, 52056, Aachen, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "JARA0179"
+          ],
+          "agency": [
+            "JARA-HPC"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Alexander von Humboldt-Stiftung"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ANR-10-LABX-76-01"
+          ],
+          "agency": [
+            "French National Research Agency (ANR)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PhD and post-doc grants"
+          ],
+          "agency": [
+            "Alistore ERI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Computational Chemistry",
+        "Density Functional Calculations",
+        "Batteries",
+        "Carbodiimides",
+        "Lithium Ions"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/anie.201914760"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7065120"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7065120?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-13"
+  ],
+  "firstIndexDate": [
+    "2019-12-13"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-22"
+  ],
+  "dateOfRevision": [
+    "2020-03-20"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-22"
+  ],
+  "firstPublicationDate": [
+    "2020-01-22"
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "id": [
+    "31597317"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31597317"
+  ],
+  "pmcid": [
+    "PMC6803941"
+  ],
+  "doi": [
+    "10.3390/ma12193270"
+  ],
+  "title": [
+    "Comparative Life Cycle Assessment of a Novel Al-Ion and a Li-Ion Battery for Stationary Applications."
+  ],
+  "authorString": [
+    "Salgado Delgado MA, Usai L, Pan Q, Hammer Strømman A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Salgado Delgado MA"
+          ],
+          "firstName": [
+            "Mario Amin"
+          ],
+          "lastName": [
+            "Salgado Delgado"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Industrial Ecology Program, Norwegian University of Science and Technology, E1-Høgskoleringen 5, 7491 Trondheim, Norway. amin.salgado@ntnu.no."
+          ]
+        },
+        {
+          "fullName": [
+            "Usai L"
+          ],
+          "firstName": [
+            "Lorenzo"
+          ],
+          "lastName": [
+            "Usai"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Industrial Ecology Program, Norwegian University of Science and Technology, E1-Høgskoleringen 5, 7491 Trondheim, Norway. lorenzo.usai@ntnu.no."
+          ]
+        },
+        {
+          "fullName": [
+            "Pan Q"
+          ],
+          "firstName": [
+            "Qiaoyan"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "ACCUREC Recycling GmbH, Bataverstraße 21, DE-47809 Krefeld, Germany. qiaoyan.pan@accurec.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Hammer Strømman A"
+          ],
+          "firstName": [
+            "Anders"
+          ],
+          "lastName": [
+            "Hammer Strømman"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Industrial Ecology Program, Norwegian University of Science and Technology, E1-Høgskoleringen 5, 7491 Trondheim, Norway. anders.hammer.stromman@ntnu.no."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "19"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2867014"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "The foreseen high penetration of fluctuant renewable energy sources, such as wind and solar, will cause an increased need for batteries to store the energy produced and not instantaneously consumed. Due to the high production cost and significant environmental impacts associated with the production of lithium-ion nickel-manganese-cobalt (Li-ion NMC) batteries, several chemistries are proposed as a potential substitute. This study aims to identify and compare the lifecycle environmental impacts springing from a novel Al-ion battery, with the current state-of-the-art chemistry, i.e., Li-ion NMC. The global warming potential (GWP) indicator was selected to express the results due to its relevance to society, policy and to facilitate the comparison of our results with other research. The cradle-to-grave process-based assessment uses two functional units: (1) per-cell manufactured and (2) per-Wh of storage capacity. The results identified the battery's production as the highest carbon intensity phase, being the energy usage the main contributor to GWP. In general, the materials and process involved in the manufacturing and recycling of the novel battery achieve a lower environmental impact in comparison to the Li-ion technology. However, due to the Al-ion's low energy density, a higher amount of materials are needed to deliver equivalent performance than a Li-ion."
+  ],
+  "affiliation": [
+    "Industrial Ecology Program, Norwegian University of Science and Technology, E1-Høgskoleringen 5, 7491 Trondheim, Norway. amin.salgado@ntnu.no."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "646286"
+          ],
+          "agency": [
+            "H2020 European Institute of Innovation and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Industrial ecology",
+        "Life Cycle Assessment",
+        "Lithium-ion",
+        "Cradle-to-grave",
+        "Aluminium-ion",
+        "Decentralized Energy Systems",
+        "Stationary Battery"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma12193270"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6803941"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6803941?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31775368"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Materials (Basel). 2019 Nov 25;12(23):"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-11"
+  ],
+  "firstIndexDate": [
+    "2019-10-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-08"
+  ],
+  "firstPublicationDate": [
+    "2019-10-08"
+  ]
+}

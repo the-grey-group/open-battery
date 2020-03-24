@@ -1,0 +1,339 @@
+{
+  "id": [
+    "31480651"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31480651"
+  ],
+  "pmcid": [
+    "PMC6747796"
+  ],
+  "doi": [
+    "10.3390/ma12172813"
+  ],
+  "title": [
+    "High Temperature Resistant Separator of PVDF-HFP/DBP/C-TiO2 for Lithium-Ion Batteries."
+  ],
+  "authorString": [
+    "Li H, Li L, Zheng S, Wang X, Ma Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Haijuan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "National-Provincial Laboratory of Special Function Thin Film Materials and School of Materials Science and Engineering Xiangtan University, Hunan 411105, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li L"
+          ],
+          "firstName": [
+            "Ling"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "National-Provincial Laboratory of Special Function Thin Film Materials and School of Materials Science and Engineering Xiangtan University, Hunan 411105, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng S"
+          ],
+          "firstName": [
+            "Shuaizhi"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "National-Provincial Laboratory of Special Function Thin Film Materials and School of Materials Science and Engineering Xiangtan University, Hunan 411105, China. shuaizhi@xtu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xinming"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "National-Provincial Laboratory of Special Function Thin Film Materials and School of Materials Science and Engineering Xiangtan University, Hunan 411105, China. wangxm@xtu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma Z"
+          ],
+          "firstName": [
+            "Zengsheng"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "National-Provincial Laboratory of Special Function Thin Film Materials and School of Materials Science and Engineering Xiangtan University, Hunan 411105, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "17"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2854466"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "To improve the thermal shrinkage and ionic conductivity of the separator for lithium-ion batteries, adding carboxylic titanium dioxide nanofiber materials into the matrix is proposed as an effective strategy. In this regard, a poly(vinylidene fluoride-hexafluoro propylene)/dibutyl phthalate/carboxylic titanium dioxide (PVDF-HFP/DBP/C-TiO2) composite separator is prepared with the phase inversion method. When the content of TiO2 nanofibers reaches 5%, the electrochemical performance of the battery and ion conductivity of the separator are optimal. The PVDF-HFP/DBP/C-TiO2 (5%) composite separator shows about 55.5% of porosity and 277.9% of electrolyte uptake. The PVDF-HFP/DBP/C-TiO2 (5%) composite separator has a superior ionic conductivity of 1.26 × 10 -3 S cm-1 and lower interface impedance at room temperature, which brings about better cycle and rate performance. In addition, the cell assembled with a PVDF-HFP/DBP/C-TiO2 separator can be charged or discharged normally and has an outstanding discharge capacity of about 150 mAh g-1 at 110 °C. The battery assembled with the PVDF-HFP/DBP/C-TiO2 composite separator exhibits excellent electrochemical performance under high and room temperature environments."
+  ],
+  "affiliation": [
+    "National-Provincial Laboratory of Special Function Thin Film Materials and School of Materials Science and Engineering Xiangtan University, Hunan 411105, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "11872054"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ionic conductivity",
+        "Phase Inversion",
+        "Thermal Shrinkage",
+        "Pvdf-hfp",
+        "Composite Separator",
+        "Tio2 Nanofiber"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma12172813"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6747796"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6747796?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-05"
+  ],
+  "firstIndexDate": [
+    "2019-09-04"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-02"
+  ],
+  "firstPublicationDate": [
+    "2019-09-02"
+  ]
+}

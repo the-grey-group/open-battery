@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6879760/results/word/frequencies/results.xml">
+  <result title="frequency" word="SLIC" count="96"/>
+  <result title="frequency" word="polymer" count="85"/>
+  <result title="frequency" word="stretchable" count="80"/>
+  <result title="frequency" word="electrolyte" count="62"/>
+  <result title="frequency" word="SLIC-" count="52"/>
+  <result title="frequency" word="battery" count="51"/>
+  <result title="frequency" word="ionic" count="48"/>
+  <result title="frequency" word="mechanical" count="46"/>
+  <result title="frequency" word="conductivity" count="45"/>
+  <result title="frequency" word="Fig." count="43"/>
+  <result title="frequency" word="electrolytes" count="43"/>
+  <result title="frequency" word="electrodes" count="36"/>
+  <result title="frequency" word="properties" count="35"/>
+  <result title="frequency" word="batteries" count="32"/>
+  <result title="frequency" word="wt.%" count="32"/>
+  <result title="frequency" word="shows" count="28"/>
+  <result title="frequency" word="based" count="27"/>
+  <result title="frequency" word="ion" count="27"/>
+  <result title="frequency" word="UPy" count="25"/>
+  <result title="frequency" word="lithium" count="25"/>
+  <result title="frequency" word="Mater." count="24"/>
+  <result title="frequency" word="supramolecular" count="24"/>
+  <result title="frequency" word="Supplementary" count="23"/>
+  <result title="frequency" word="electrode" count="23"/>
+  <result title="frequency" word="high" count="22"/>
+  <result title="frequency" word="polymers" count="22"/>
+ </snippets>
+</snippetsTree>

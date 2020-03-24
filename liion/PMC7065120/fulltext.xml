@@ -1,0 +1,872 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Angew Chem Int Ed Engl</journal-id><journal-id journal-id-type="iso-abbrev">Angew. Chem. Int. Ed. Engl</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1521-3773</journal-id><journal-id journal-id-type="publisher-id">ANIE</journal-id><journal-title-group><journal-title>Angewandte Chemie (International Ed. in English)</journal-title></journal-title-group><issn pub-type="ppub">1433-7851</issn><issn pub-type="epub">1521-3773</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7065120</article-id><article-id pub-id-type="doi">10.1002/anie.201914760</article-id><article-id pub-id-type="publisher-id">ANIE201914760</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject><subj-group subj-group-type="heading"><subject>Computational Chemistry</subject></subj-group></subj-group></article-categories><title-group><article-title>Quantum&#x02010;Chemical Study of the FeNCN Conversion&#x02010;Reaction Mechanism in Lithium&#x02010; and Sodium&#x02010;Ion Batteries</article-title></title-group><contrib-group><contrib id="anie201914760-cr-0001" contrib-type="author"><name><surname>Chen</surname><given-names>Kaixuan</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7864-7440</contrib-id><xref ref-type="aff" rid="anie201914760-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="anie201914760-cr-0002" contrib-type="author"><name><surname>Fehse</surname><given-names>Marcus</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8650-6974</contrib-id><xref ref-type="aff" rid="anie201914760-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="anie201914760-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="anie201914760-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="anie201914760-cr-0003" contrib-type="author"><name><surname>Laurita</surname><given-names>Angelica</given-names></name><xref ref-type="aff" rid="anie201914760-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="anie201914760-cr-0004" contrib-type="author"><name><surname>Arayamparambil</surname><given-names>Jeethu Jiju</given-names><prefix>Dr.</prefix></name><xref ref-type="aff" rid="anie201914760-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="anie201914760-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="anie201914760-cr-0005" contrib-type="author"><name><surname>Sougrati</surname><given-names>Moulay Tahar</given-names><prefix>Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-3740-2807</contrib-id><xref ref-type="aff" rid="anie201914760-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="anie201914760-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="anie201914760-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="anie201914760-cr-0006" contrib-type="author" corresp="yes"><name><surname>Stievano</surname><given-names>Lorenzo</given-names><prefix>Prof.&#x02005;Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8548-0231</contrib-id><xref ref-type="aff" rid="anie201914760-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="anie201914760-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="anie201914760-aff-0005">
+<sup>5</sup>
+</xref><address><email>lorenzo.stievano@umontpellier.fr</email></address></contrib><contrib id="anie201914760-cr-0007" contrib-type="author" corresp="yes"><name><surname>Dronskowski</surname><given-names>Richard</given-names><prefix>Prof.&#x02005;Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1925-9624</contrib-id><xref ref-type="aff" rid="anie201914760-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="anie201914760-aff-0006">
+<sup>6</sup>
+</xref><address><email>drons@HAL9000.ac.rwth-aachen.de</email></address></contrib></contrib-group><aff id="anie201914760-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Chair of Solid-State and Quantum Chemistry</named-content>
+<named-content content-type="organisation-division">Institute of Inorganic Chemistry</named-content>
+<institution>RWTH Aachen University</institution>
+<postal-code>52056</postal-code>
+<city>Aachen</city>
+<country country="DE">Germany</country>
+</aff><aff id="anie201914760-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Institut Charles Gerhardt Montpellier</named-content>
+<named-content content-type="organisation-division">CNRS</named-content>
+<institution>Universit&#x000e9; de Montpellier</institution>
+<postal-code>34095</postal-code>
+<city>Montpellier</city>
+<country country="FR">France</country>
+</aff><aff id="anie201914760-aff-0003">
+<label><sup>3</sup></label>
+<institution>Alistore&#x02014;European Research Institute</institution>
+<named-content content-type="organisation-division">CNRS</named-content>
+<postal-code>80039</postal-code>
+<city>Amiens</city>
+<country country="FR">France</country>
+</aff><aff id="anie201914760-aff-0004">
+<label><sup>4</sup></label>
+<institution>Dutch-Belgian (DUBBLE)</institution>
+<named-content content-type="organisation-division">ESRF-The European Synchrotron</named-content>
+<postal-code>38043</postal-code>
+<city>Grenoble</city>
+<country country="FR">France</country>
+</aff><aff id="anie201914760-aff-0005">
+<label><sup>5</sup></label>
+<institution>Reseau sur le Stockage Electrochimique de l'Energie (RS2E)</institution>
+<named-content content-type="organisation-division">CNRS</named-content>
+<postal-code>80039</postal-code>
+<city>Amiens</city>
+<country country="FR">France</country>
+</aff><aff id="anie201914760-aff-0006">
+<label><sup>6</sup></label>
+<institution>Hoffmann Institute of Advanced Materials</institution>
+<named-content content-type="organisation-division">Shenzhen Polytechnic</named-content>
+<named-content content-type="street">7098 Liuxian Blvd</named-content>
+<city>Nanshan District</city>
+<named-content content-type="country-part">Shenzhen</named-content>
+<country country="CN">China</country>
+</aff><pub-date pub-type="epub"><day>22</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="ppub"><day>24</day><month>2</month><year>2020</year></pub-date><volume>59</volume><issue>9</issue><issue-id pub-id-type="doi">10.1002/anie.v59.9</issue-id><fpage>3718</fpage><lpage>3723</lpage><history><date date-type="received"><day>19</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 Wiley&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. Published by Wiley-VCH Verlag GmbH &#x00026; Co. KGaA.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ANIE-59-3718.pdf"/><abstract><title>Abstract</title><p>We report a computational study on 3d transition&#x02010;metal (Cr, Mn, Fe, and Co) carbodiimides in Li&#x02010; and Na&#x02010;ion batteries. The obtained cell voltages semi&#x02010;quantitatively fit the experiments, highlighting the practicality of PBE+U as an approach for modeling the conversion&#x02010;reaction mechanism of the FeNCN archetype with lithium and sodium. Also, the calculated voltage profiles agree satisfactorily with experiment both for full (Li&#x02010;ion battery) and partial (Na&#x02010;ion battery) discharge, even though experimental atomistic knowledge is missing up to now. Moreover, we rationalize the structural preference of intermediate ternaries and their characteristic lowering in the voltage profile using chemical&#x02010;bonding and Mulliken&#x02010;charge analysis. The formation of such ternary intermediates for the lithiation of FeNCN and the contribution of at least one ternary intermediate is also confirmed experimentally. This theoretical approach, aided by experimental findings, supports the atomistic exploration of electrode materials governed by conversion reactions.</p></abstract><abstract abstract-type="graphical"><p>
+<bold>A clear case</bold>: A computational study on the conversion&#x02010;reaction mechanism of FeNCN in Li&#x02010; and Na&#x02010;ion batteries yields calculated voltage profiles which agree well with experiments, and their characteristic behavior is well explained by chemical&#x02010;bonding and Mulliken&#x02010;charge analysis. Furthermore, a predicted ternary intermediate with composition Li<sub>2</sub>Fe<sub>2</sub>(NCN)<sub>3</sub> during lithiation is confirmed by operando XAS analysis.<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xlink:href="ANIE-59-3718-g006.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="anie201914760-kwd-0001">batteries</kwd><kwd id="anie201914760-kwd-0002">carbodiimides</kwd><kwd id="anie201914760-kwd-0003">computational chemistry</kwd><kwd id="anie201914760-kwd-0004">density functional calculations</kwd><kwd id="anie201914760-kwd-0005">lithium ions</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Alexander von Humboldt-Stiftung </institution><institution-id institution-id-type="open-funder-registry">10.13039/100005156</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0002"><funding-source>French National Research Agency (ANR)</funding-source><award-id>ANR-10-LABX-76-01</award-id></award-group><award-group id="funding-0003"><funding-source>JARA-HPC</funding-source><award-id>JARA0179</award-id></award-group><award-group id="funding-0004"><funding-source>Alistore ERI</funding-source><award-id>PhD and post-doc grants</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="2"/><ref-count count="50"/><page-count count="6"/><word-count count="0"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 24, 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.7 mode:remove_FC converted:11.03.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="self-citation" id="anie201914760-self">K. Chen, M. Fehse, A. Laurita, J. J. Arayamparambil, M. T. Sougrati, L. Stievano, R. Dronskowski, <italic>Angew. Chem. Int. Ed.</italic>
+<bold>2020</bold>, <italic>59</italic>, 3718.</mixed-citation>
+</p></notes></front><body><sec id="anie201914760-sec-0001"><title>Introduction</title><p>With the fast advancement in science and technology, and even faster growing demands by society, the field of energy production and storage is becoming critically important. Regarding high&#x02010;density energy&#x02010;generating approaches, there has been continuous progress in advanced nuclear power such as breeder/burner technology, thorium reactors, generation&#x02005;IV, and even small modular fission concepts.<xref rid="anie201914760-bib-0001" ref-type="ref">1</xref> With respect to low&#x02010;density energy production and storage, extensive attention has been directed at research concerning solar cells,<xref rid="anie201914760-bib-0002" ref-type="ref">2</xref> supercapacitors,<xref rid="anie201914760-bib-0003" ref-type="ref">3</xref> thermoelectrics,<xref rid="anie201914760-bib-0004" ref-type="ref">4</xref> Li&#x02010; and Na&#x02010;ion batteries (LIBs/NIBs),<xref rid="anie201914760-bib-0005" ref-type="ref">5</xref> as well as related fields. For reasons of convenience and the perception of the general public,<xref rid="anie201914760-bib-0006" ref-type="ref">6</xref> LIBs are widely used in various portable devices and electric vehicles,<xref rid="anie201914760-bib-0007" ref-type="ref">7</xref> but this only works as long as cheap primary electric energy is produced to feed them. Technically speaking, the performance of a Li/Na&#x02010;ion battery, determined, for example, by its cell voltage, capacity, and reversible cycling number, essentially depends on the assembly of the electrodes and electrolytes.<xref rid="anie201914760-bib-0008" ref-type="ref">8</xref>
+</p><p>When viewing the frontier research of these electrodes from a somewhat wider perspective, two kinds of mechanisms seem to dominate, namely intercalation and the conversion reaction.<xref rid="anie201914760-bib-0005b" ref-type="ref">5b</xref> Typical commercial electrodes such as LiCoO<sub>2</sub> and graphite follow the intercalation mechanism in which Li ions intercalate into or de&#x02010;intercalate from the electrode host without significantly altering its original structure. Hence, the battery capacity is essentially restricted by the available vacancies in an electrode host to accommodate foreign Li ions. In the conversion&#x02010;reaction mechanism, however, Li ions occupy not only the vacancies but also the sites of the metal cations, accompanied by a deposition of elemental metal particles. Because of this, drastic structural transformations may occur upon charge/discharge cycling, even leading to the forming of new phases. Compounds such as transition&#x02010;metal oxides, nitrides, sulfides, and fluorides are generally governed by a conversion reaction.<xref rid="anie201914760-bib-0005b" ref-type="ref">5b</xref>, <xref rid="anie201914760-bib-0009" ref-type="ref">9</xref>
+</p><p>In recent years, the family of transition&#x02010;metal carbodiimides (TMC)<xref rid="anie201914760-bib-0005a" ref-type="ref">5a</xref>, <xref rid="anie201914760-bib-0010" ref-type="ref">10</xref> has attracted increasing interest. The TMC family adopts the generic formula M<sub><italic>x</italic></sub>(NCN)<sub><italic>y</italic></sub>, where M denotes a transition&#x02010;metal cation and the NCN<sup>2&#x02212;</sup> carbodiimide is the &#x0201c;divalent nitride&#x0201d; anion, mimicking the O<sup>2&#x02212;</sup> anion by a nitrogen functionality. Its members, including Cr<sub>2</sub>(NCN)<sub>3</sub>,<xref rid="anie201914760-bib-0011" ref-type="ref">11</xref> MnNCN,<xref rid="anie201914760-bib-0012" ref-type="ref">12</xref> FeNCN,<xref rid="anie201914760-bib-0013" ref-type="ref">13</xref> CoNCN,<xref rid="anie201914760-bib-0014" ref-type="ref">14</xref> and NiNCN,<xref rid="anie201914760-bib-0015" ref-type="ref">15</xref> have been successfully fabricated by &#x0201c;soft chemistry&#x0201d; (metathesis) routes and furthermore, they turned out to be excellent anode candidates possessing a high reversible capacity upon charge/discharge cycling in Li&#x02010; and Na&#x02010;ion batteries.<xref rid="anie201914760-bib-0005" ref-type="ref">5</xref>, <xref rid="anie201914760-bib-0016" ref-type="ref">16</xref> Nevertheless, the detailed reaction pathway and unsolved structural transformations that occur upon charge/discharge cycling are difficult to detect experimentally because of the often amorphous nature of these materials. Hence, the main focus of this contribution is to carry out an in&#x02010;depth density functional theory (DFT) study of the conversion&#x02010;reaction mechanism of typical FeNCN as a LIB (NIB) electrode material by employing advanced DFT calculations combined with operando X&#x02010;ray absorption spectroscopy (XAS).</p></sec><sec id="anie201914760-sec-0002"><title>Results and Discussion</title><p>We calculated the average cell voltages<xref rid="anie201914760-bib-0017" ref-type="ref">17</xref> of the TMC (TM=Cr, Mn, Fe, Co) vs. pure Li and Na metals using the PBE and PBE+<italic>U</italic> functionals (see the Supporting Information).<xref rid="anie201914760-bib-0018" ref-type="ref">18</xref> Pure PBE produces less reliable voltage data (the largest error being 1.2&#x02005;V for CoNCN in a LIB) because the <italic>U</italic> correction is necessary to model the highly correlated TM electrons.<xref rid="anie201914760-bib-0019" ref-type="ref">19</xref> As shown in Table&#x02005;S2 (Supporting Information), introducing the <italic>U</italic> correction<xref rid="anie201914760-bib-0020" ref-type="ref">20</xref> effectively decreases the voltage errors (to about 0.8&#x02005;V for CoNCN in a LIB), so we chose PBE+<italic>U</italic> for a large&#x02010;scale study.</p><p>Since we focus on the reaction pathways and voltage profiles during the charge/discharge process for the FeNCN archetype in Li/Na&#x02010;ion batteries, the crystal structures of the fully delithiated (desodiated) compound FeNCN and the lithiated (sodiated) compound Li<sub>2</sub>NCN (Na<sub>2</sub>NCN) should be analyzed first (Figure&#x02005;<xref rid="anie201914760-fig-0001" ref-type="fig">1</xref>). FeNCN crystallizes in the hexagonal system with <italic>P</italic>6<sub>3</sub>/<italic>mmc</italic> symmetry, that is, octahedral coordination for Fe and trigonal&#x02010;prismatic coordination for NCN, resembling the nickel arsenide motif. Li<sub>2</sub>NCN (Na<sub>2</sub>NCN), however, adopts a tetragonal <italic>I</italic>4/<italic>mmm</italic> structure with tetrahedral coordination for Li (Na) and a quadratic&#x02010;prismatic coordination for NCN. Like the related oxide compounds, transition&#x02010;metal carbodiimides follow a conversion&#x02010;reaction mechanism when used as electrode materials. That means that drastic structural transformations occur during the charge/discharge process. It is unclear up to which degree the crystal structures of the intermediate compounds may resemble FeNCN or Li<sub>2</sub>NCN in a LIB. It is therefore far from trivial to correctly deduce the atomistic structural details of these ternaries denoted as Li&#x02013;Fe&#x02013;NCN, in particular because reliable experimental models (for example, from X&#x02010;ray diffraction) are missing. Because of this, we tentatively used four kinds of structural bases for a thorough survey of possible Li&#x02013;Fe&#x02013;NCN ternaries: two from divalent carbodiimides,<xref rid="anie201914760-bib-0021" ref-type="ref">21</xref> namely the NiAs&#x02010;type FeNCN and the NaCl&#x02010;type MnNCN, one from Li<sub>2</sub>NCN, and one from Li&#x02010;containing metal oxides such as CuLi<sub>2</sub>O<sub>2</sub> (where one needs to replace O<sup>2&#x02212;</sup> anions with NCN<sup>2&#x02212;</sup> groups).
+</p><fig fig-type="Figure" xml:lang="en" id="anie201914760-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Crystal structures of a)&#x02005;FeNCN and b)&#x02005;Li<sub>2</sub>NCN/Na<sub>2</sub>NCN.</p></caption><graphic id="nlm-graphic-3" xlink:href="ANIE-59-3718-g001"/></fig><p>During the discharge process in a Li&#x02010;ion half&#x02010;battery with Li metal as the anode, the cathode (FeNCN) accommodates both Li<sup>+</sup> cations (through the electrolyte) and electrons (through an external loop) to form Li&#x02013;Fe&#x02013;NCN ternaries. Note that an oxidation reaction in the positive FeNCN electrode forming Fe<sup>3+</sup> cations is prevented during lithiation (cathodic conditions), which rather leads to the reduction of the material producing the deposition of elemental Fe<sup>0</sup>. To maintain electrical neutrality in a Li&#x02013;Fe&#x02013;NCN ternary, Fe<sup>2+</sup>/Fe<sup>0</sup> reduction and Li<sup>0</sup>/Li<sup>+</sup> oxidation must proceed in a 1:2 proportion since one Fe<sup>2+</sup> acts as two Li<sup>+</sup> in the charge compensation. In other words, a cathode host accommodates two Li and precipitates one Fe simultaneously. That is, the intermediate compounds, whatever they may be, share the generic chemical formula Li<sub><italic>x</italic></sub>Fe<sub>(1&#x02212;<italic>x</italic>/2)</sub>NCN with 0&#x0003c;<italic>x</italic>&#x0003c;2. We enforced this confinement due to charge balance when establishing the model&#x02010;type intermediate compounds<xref rid="anie201914760-bib-0022" ref-type="ref">22</xref> as derived from the aforementioned four structural bases and as tabulated in Table&#x02005;<xref rid="anie201914760-tbl-0001" ref-type="table">1</xref>.
+</p><table-wrap id="anie201914760-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Total number of computations to survey the possible Li&#x02013;Fe&#x02013;NCN (Na&#x02013;Fe&#x02013;NCN) ternary compounds.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th valign="top" rowspan="1" colspan="1">
+<p>structural basis</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>space group</p>
+</th><th colspan="2" valign="top" rowspan="1">
+<p>no. of calculated compounds</p>
+</th></tr></thead><tbody valign="top"><tr><td valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>&#x02009;</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic>Li&#x02010;ion</italic>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic>Na&#x02010;ion</italic>
+</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>FeNCN</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic>P</italic>6<sub>3</sub>
+<italic>/mmc</italic> (no.&#x02005;194)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>17</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>17</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>Li<sub>2</sub>NCN/Na<sub>2</sub>NCN</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic>I</italic>4<italic>/mmm</italic> (no.&#x02005;139)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>23</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>16</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>MnNCN</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic>R</italic>
+<mml:math id="nlm-math-1"><mml:mover accent="true"><mml:mn>3</mml:mn><mml:mo>&#x0203e;</mml:mo></mml:mover></mml:math>
+<italic>m</italic> (no.&#x02005;166)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>10</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>10</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>CuLi<sub>2</sub>O<sub>2</sub>
+</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>
+<italic>Immm</italic> (no.&#x02005;71)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>11</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>11</p>
+</td></tr></tbody></table><permissions><copyright-holder>Wiley&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA</copyright-holder></permissions></table-wrap><p>After full optimizations, the structures were used to perform electronic self&#x02010;consistency calculations. To examine the stability of each intermediate compound, its formation energy <italic>E</italic>
+<sub>formation</sub> was calculated, which is defined as the energetic difference between an intermediate compound Li<sub><italic>x</italic></sub>Fe<sub>(1&#x02212;<italic>x</italic>/2)</sub>NCN and its corresponding linear combination of Li<sub>2</sub>NCN (fully lithiated) and FeNCN (fully delithiated):<disp-formula id="anie201914760-disp-0001"><label>(1)</label><mml:math id="nlm-math-2"><mml:mstyle displaystyle="true"><mml:mrow><mml:msub><mml:mi>E</mml:mi><mml:mrow><mml:mi mathvariant="normal">f</mml:mi><mml:mi mathvariant="normal">o</mml:mi><mml:mi mathvariant="normal">r</mml:mi><mml:mi mathvariant="normal">m</mml:mi><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">t</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">o</mml:mi><mml:mi mathvariant="normal">n</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi>E</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:msub><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:mrow><mml:mi>x</mml:mi></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">F</mml:mi><mml:mi mathvariant="normal">e</mml:mi></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>x</mml:mi><mml:mo>/</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">N</mml:mi></mml:mfenced><mml:mo>-</mml:mo><mml:mfrac><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:mfrac><mml:mi>E</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:msub><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">N</mml:mi></mml:mfenced><mml:mo>-</mml:mo><mml:mfenced separators="" open="(" close=")"><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mfrac><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:mfrac></mml:mfenced><mml:mi>E</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:mi mathvariant="normal">F</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">N</mml:mi><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">N</mml:mi></mml:mfenced></mml:mrow></mml:mstyle></mml:math></disp-formula>
+</p><p>Figure&#x02005;<xref rid="anie201914760-fig-0002" ref-type="fig">2</xref>&#x02009;a shows the formation energies of all calculated Li<sub><italic>x</italic></sub>Fe<sub>(1&#x02212;<italic>x</italic>/2)</sub>NCN compounds at various configurations. By convention, the more negative the formation energies, the more stable the compounds. All unstable (or metastable) compounds with positive formation energies were not included in Figure&#x02005;<xref rid="anie201914760-fig-0002" ref-type="fig">2</xref>&#x02009;a. For convenience, a line connecting the compounds that are most stable at each configuration is also depicted in blue (minimum&#x02010;energy curve or energy convex hull).<xref rid="anie201914760-bib-0023" ref-type="ref">23</xref> Given full thermodynamic control, the reaction pathway during the charge/discharge process would have to follow this line (related phase diagram shown in Figure&#x02005;S3).
+</p><fig fig-type="Figure" xml:lang="en" id="anie201914760-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>a)&#x02005;Formation energies (crosses) of the calculated Li&#x02013;Fe&#x02013;NCN ternary compounds together with the energy convex hull as a blue line and b)&#x02005;voltage profile of FeNCN upon lithiation in a LIB.</p></caption><graphic id="nlm-graphic-5" xlink:href="ANIE-59-3718-g002"/></fig><p>Each voltage pair (given by two intermediate compounds with adjacent Li content in the phase diagram) gives a voltage plateau, and a voltage profile can be obtained by combining all voltage plateaus. For example, given a voltage pair of two intermediate compounds written as <mml:math id="nlm-math-3"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">F</mml:mi><mml:mi mathvariant="normal">e</mml:mi></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>/</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">N</mml:mi></mml:mrow></mml:math>
+and <mml:math id="nlm-math-4"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">F</mml:mi><mml:mi mathvariant="normal">e</mml:mi></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>/</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">N</mml:mi></mml:mrow></mml:math>
+(taking <italic>x</italic>
+<sub>1</sub>&#x0003c;<italic>x</italic>
+<sub>2</sub> with FeNCN as a cathode host in a LIB), their reaction reads:<disp-formula id="anie201914760-disp-0002"><label>(2)</label><mml:math id="nlm-math-5"><mml:mstyle displaystyle="true"><mml:mrow><mml:mfenced separators="" open="(" close=")"><mml:msub><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mfenced><mml:mi mathvariant="normal">L</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">F</mml:mi><mml:mi mathvariant="normal">e</mml:mi></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>/</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">N</mml:mi><mml:mspace width="4pt"/><mml:mo>&#x02192;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">F</mml:mi><mml:mi mathvariant="normal">e</mml:mi></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>/</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">N</mml:mi><mml:mo>+</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mn>2</mml:mn></mml:mfrac><mml:mfenced separators="" open="(" close=")"><mml:msub><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mfenced><mml:mi mathvariant="normal">F</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mo>,</mml:mo></mml:mrow></mml:mstyle></mml:math></disp-formula>
+</p><p>so that the voltage plateau <italic>&#x003a6;</italic>(<italic>x</italic>
+<sub>1</sub>, <italic>x</italic>
+<sub>2</sub>) results, similar to that from M<sub>x</sub>(NCN)<sub><italic>y</italic></sub> to Li<sub>2</sub>NCN, in:<disp-formula id="anie201914760-disp-0003"><label>(3)</label><mml:math id="nlm-math-6"><mml:mstyle displaystyle="true"><mml:mrow><mml:mi>&#x003a6;</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mfenced><mml:mo>=</mml:mo><mml:mspace width="2.84526pt"/><mml:mo>-</mml:mo><mml:mfrac><mml:mrow><mml:mi>&#x00394;</mml:mi><mml:mi>G</mml:mi></mml:mrow><mml:mrow><mml:mfenced separators="" open="(" close=")"><mml:msub><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mfenced><mml:mi>z</mml:mi><mml:mi>F</mml:mi></mml:mrow></mml:mfrac><mml:mrow><mml:mo>&#x02248;</mml:mo><mml:mo>-</mml:mo><mml:mo>[</mml:mo><mml:mi>E</mml:mi></mml:mrow><mml:mfenced separators="" open="(" close=")"><mml:msub><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">F</mml:mi><mml:mi mathvariant="normal">e</mml:mi></mml:mrow><mml:mfenced separators="" open="(" close=")"><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mfenced></mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">N</mml:mi></mml:mfenced><mml:mo>+</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mn>2</mml:mn></mml:mfrac><mml:mfenced separators="" open="(" close=")"><mml:msub><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mfenced><mml:mi>E</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:mi mathvariant="normal">F</mml:mi><mml:mi mathvariant="normal">e</mml:mi></mml:mfenced></mml:mrow><mml:mrow><mml:mo>-</mml:mo><mml:mi>E</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:msub><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">F</mml:mi><mml:mi mathvariant="normal">e</mml:mi></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>/</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">N</mml:mi></mml:mfenced><mml:mo>-</mml:mo><mml:mfenced separators="" open="(" close=")"><mml:msub><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mfenced><mml:mi>E</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:mi mathvariant="normal">L</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:mfenced><mml:msup><mml:mrow><mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mfenced separators="" open="[" close="]"><mml:mfenced separators="" open="(" close=")"><mml:msub><mml:mi>x</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mfenced><mml:mi>z</mml:mi><mml:mi>F</mml:mi></mml:mfenced></mml:mrow><mml:mrow><mml:mo>-</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:mstyle></mml:math></disp-formula>
+</p><p>Figure&#x02005;<xref rid="anie201914760-fig-0002" ref-type="fig">2</xref>&#x02009;b depicts the theoretical voltage profile for the archetype FeNCN using a blue solid line, corresponding to the minimum&#x02010;energy curve in Figure&#x02005;<xref rid="anie201914760-fig-0002" ref-type="fig">2</xref>&#x02009;a. The staircase shape originates from the limited number of stable compounds obtained from the also limited number of DFT calculations.</p><p>For conversion&#x02010;reaction mechanism materials, there is clearly a large experimental difference between the first and second lithiation, but the subsequent cycles are identical.<xref rid="anie201914760-bib-0024" ref-type="ref">24</xref> Indeed, during the first lithiation process, large and well&#x02010;crystallized particles are transformed into nanosized and amorphous particles. Only after this irreversible morphological change, the lithiated material becomes the true cycling material. Thus, the experimental profile of FeNCN at the second cycle at a rate of C/50 (corresponding to the reaction of one mole of Li per mole of FeNCN in 50&#x02005;h) is depicted (as a dashed line) for comparison.</p><p>In the theoretical data, an abnormally high voltage plateau (about 4.2&#x02005;V vs. Li<sup>+</sup>/Li<sup>0</sup>) is observed at a low Li content (<italic>x</italic>&#x0003c;0.2). This effect is a computational artifact since an extremely large supercell would be required to perfectly distribute Li sites and Fe vacancies at very low Li content, which cannot be modeled with our limited computational resources. Fortunately, the requirement is much weaker for a medium Li content, which makes the voltage profile more reliable in that range. Another divergence is the maximally available Li content <italic>x</italic>, which should be 2 (theoretically) when the fully lithiated compound Li<sub>2</sub>NCN forms. In the experiment, <italic>x</italic> can become larger than 2, and actually goes up to about 2.8 because of side reactions. We note that the electrode is made not only of FeNCN but also includes 40&#x02005;w&#x02009;% of carbon and binder (CMC, carboxymethyl cellulose). Therefore, the reasons for the larger Li content may include the formation of a passivation layer (SEI, solid&#x02013;electrolyte interface) on the active material and electrolyte degradation. This is also the reason why the capacity of the first lithiation is always higher than that of subsequent cycles. For FeNCN, the SEI (or electrolyte degradation) seems to be largely reversible, and seemingly keeps cycling at more than 2&#x02009;Li. This phenomenon is also observed in transition&#x02010;metal oxides.<xref rid="anie201914760-bib-0014" ref-type="ref">14</xref> Despite the two unavoidable divergences, the calculated voltage profile agrees well with experiment and nicely reproduces a similar voltage plateau for a wide Li range (0.2&#x0003c;<italic>x</italic>&#x0003c;2.0).</p><p>Figure&#x02005;<xref rid="anie201914760-fig-0003" ref-type="fig">3</xref>&#x02009;a,b depicts the minimum&#x02010;energy curve and voltage profile for the FeNCN archetype in a NIB, obtained with the same computational approach as used for the LIB before. An analogous high voltage plateau (about 3.4&#x02005;V vs. Na<sup>+</sup>/Na<sup>0</sup>) appears at a low Na content (<italic>x</italic>&#x0003c;0.2), similar to the LIB. The maximum experimentally achievable Na content, however, is only <italic>x</italic>=1.5. This is because Na fails to react with all FeNCN in experiments, probably due to kinetic hindrance, so there is only a partial reaction (or partial discharge). The SEI (or electrolyte degradation) effect is the same as in a LIB, but with less reversible capacity to form the active material. If we set <italic>x</italic>=1.5 as the theoretical maximum Na content, that is, the discharge process ends at Na<sub>6</sub>Fe(NCN)<sub>4</sub> and not Na<sub>2</sub>NCN, we end up with a new voltage profile for a partial discharge. It is reassuring that this new profile, depicted as a solid orange line in Figure&#x02005;<xref rid="anie201914760-fig-0003" ref-type="fig">3</xref>&#x02009;b, agrees nicely with the experimental result.
+</p><fig fig-type="Figure" xml:lang="en" id="anie201914760-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>a)&#x02005;Formation energies (crosses) of the calculated Na&#x02013;Fe&#x02013;NCN ternary compounds together with the energy convex hull as a yellow line and b)&#x02005;voltage profile of FeNCN upon lithiation in a NIB.</p></caption><graphic id="nlm-graphic-7" xlink:href="ANIE-59-3718-g003"/></fig><p>For further interpretation and understanding of the aforementioned findings, chemical&#x02010;bonding analysis was employed. In the cathode of a LIB or NIB, the ideal reaction pathway (or minimum&#x02010;energy curve) starts at FeNCN, proceeds through a variety of intermediate (amorphous) compounds, and ends at Li<sub>2</sub>NCN or Na<sub>2</sub>NCN. For an intermediate compound with a certain stoichiometric configuration, for example, Li<sub>2</sub>Fe<sub>7</sub>(NCN)<sub>8</sub>, different crystal&#x02010;structure models were computationally established. Taking a thermodynamic point of view, the one crystallizing with the lowest formation energy was preferred but we note that other metastable variants with higher formation energies but lower activation barriers are also possible according to Ostwald's step rule.<xref rid="anie201914760-bib-0025" ref-type="ref">25</xref> In the following, we rationalize the occurrence of structural polymorphs from the aspect of chemical bonding. Figure&#x02005;<xref rid="anie201914760-fig-0004" ref-type="fig">4</xref>&#x02009;a depicts the composition Li<sub>2</sub>Fe<sub>7</sub>(NCN)<sub>8</sub> (corresponding to a Li content of <italic>x</italic>=0.25) for which three structural models (<italic>P</italic>6<sub>3</sub>/<italic>mmc</italic>, <italic>Immm</italic>, and <italic>I</italic>4/<italic>mmm</italic>) were established. Among these, <italic>I</italic>4/<italic>mmm</italic> has the lowest formation energy. Previous research indicates that the structural preference in carbodiimides can be determined from chemical&#x02010;bonding analysis.<xref rid="anie201914760-bib-0021" ref-type="ref">21</xref>, <xref rid="anie201914760-bib-0026" ref-type="ref">26</xref> Figure&#x02005;<xref rid="anie201914760-fig-0004" ref-type="fig">4</xref>&#x02009;a presents a crystal orbital Hamilton population (COHP) analysis of both Fe&#x02212;N and Li&#x02212;N bonds in the three Li<sub>2</sub>Fe<sub>7</sub>(NCN)<sub>8</sub> models adopting <italic>P</italic>6<sub>3</sub>/<italic>mmc</italic>, <italic>Immm</italic>, and <italic>I</italic>4/<italic>mmm</italic> symmetry. Negative (or positive) COHP values indicate energy&#x02010;lowering bonding (or energy&#x02010;increasing anti&#x02010;bonding) interactions. It is apparent that bonding interactions dominate in the low&#x02010;energy valence&#x02010;band region whereas anti&#x02010;bonding states appear in the unoccupied conduction band, but also just below the Fermi level. For a quantitative assessment, all COHP values were integrated up to the Fermi level to yield ICOHP data for the Fe&#x02212;N and Li&#x02212;N bonds and averaged over all corresponding bonds in the unit cell. It turns out that the <italic>I</italic>4/<italic>mmm</italic> model of Li<sub>2</sub>Fe<sub>7</sub>(NCN)<sub>8</sub> not only holds the strongest bonding interactions for both Fe&#x02212;N and Li&#x02212;N bonds but also has the lowest formation energy. Hence, the chemical&#x02010;bonding analysis is useful to deduce where the structural preference of the intermediate compounds originates from.
+</p><fig fig-type="Figure" xml:lang="en" id="anie201914760-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>a)&#x02005;Chemical&#x02010;bonding analysis of the Fe&#x02212;N and Li&#x02212;N bonds in three Li<sub>2</sub>Fe<sub>7</sub>(NCN)<sub>8</sub> structural models. The Fermi level is set to zero. b)&#x02005;Mulliken atomic charges of Fe and ICOHP data of the Fe&#x02212;N bonds in the energetically favorable Na&#x02013;Fe&#x02013;NCN ternaries.</p></caption><graphic id="nlm-graphic-9" xlink:href="ANIE-59-3718-g004"/></fig><p>As discussed above, the cell voltage for FeNCN originates from the potential difference between the Fe<sup>2+</sup>/Fe<sup>0</sup> and Li<sup>+</sup>/Li<sup>0</sup> (Na<sup>+</sup>/Na<sup>0</sup>) redox couples in a LIB (NIB). An ideal voltage profile displays a flat plateau with a theoretical voltage of 1.6&#x02005;V (1.1&#x02005;V) in a LIB (NIB), as tabulated in Table&#x02005;S2. The actual profile, however, exhibits a monotonous decrease in voltage upon lithiation (sodiation) both experimentally and theoretically. We rationalize this decreasing character from a monotonous decrease in the atomic charge of Fe, expressed as <italic>y</italic> in Fe<sup><italic>y</italic>+</sup> in the energetically low&#x02010;lying intermediate ternaries, and evaluated from Mulliken charge analysis in Figure&#x02005;<xref rid="anie201914760-fig-0004" ref-type="fig">4</xref>&#x02009;b. To zeroth order, the higher the cationic charge, the stronger the reduction power. Indeed, the Mulliken charge of Fe decreases from 1.1 in FeNCN to 0.9 in Na<sub>22</sub>Fe<sub>7</sub>(NCN)<sub>18</sub>, seemingly leading to a decrease in the Fe<sup><italic>y</italic>+</sup>/Fe<sup>0</sup> redox potential; note that these (basis&#x02010;set&#x02010;independent) Mulliken charges were numerically projected from the entire wavefunction expanded from plane waves.<xref rid="anie201914760-bib-0027" ref-type="ref">27</xref> Figure&#x02005;<xref rid="anie201914760-fig-0004" ref-type="fig">4</xref>&#x02009;b also demonstrates a more negative ICOHP progression for the Fe&#x02212;N bonds, but now upon sodiation in a NIB. This indicates an almost continuous increase in covalency for the Fe&#x02212;N bonds in the energetically low&#x02010;lying intermediate ternaries, another confirmation of a smaller amount of electron density transferred from Fe to N and, thus, a decrease in the charge of Fe.</p><p>At last, the lithiation of FeNCN was followed experimentally by operando Fe K&#x02010;edge XAS in order to corroborate or falsify the theoretical findings.<xref rid="anie201914760-bib-0028" ref-type="ref">28</xref> In particular, the extended fine structure of the XAS spectrum (EXAFS)<xref rid="anie201914760-bib-0029" ref-type="ref">29</xref> is very sensitive to the modification of the nearest&#x02010;neighbor shell of the Fe atoms and is hence used to validate the DFT&#x02010;predicted ternary intermediates. The complete operando data set depicting the evolution of Fe K&#x02010;edge XAS spectra acquired during the first electrochemical discharge of FeNCN vs. Li is presented as a contour plot in Figure&#x02005;<xref rid="anie201914760-fig-0005" ref-type="fig">5</xref>&#x02009;a. The plot shows a decrease of the edge&#x02010;energy intensity accompanied by a shift to lower edge energy, reflecting the effective chemical reduction of the Fe atoms.
+</p><fig fig-type="Figure" xml:lang="en" id="anie201914760-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>a)&#x02005;Contour plot of the entire Fe K&#x02010;edge XAS operando data set revealing the evolution of the XANES and EXAFS of the Fe K&#x02010;edge upon electrochemical discharge vs. Li; b)&#x02005;Fourier transform of the EXAFS of the Fe K&#x02010;edge of intermediate component 2 obtained via MCR&#x02010;ALS and EXAFS fit with a fitting window.</p></caption><graphic id="nlm-graphic-11" xlink:href="ANIE-59-3718-g005"/></fig><p>Principal component analysis (PCA)<xref rid="anie201914760-bib-0030" ref-type="ref">30</xref> indicates that three independent principal components are needed to reproduce the entire data set, yielding 99.9&#x02009;% total variance, as shown in Figure&#x02005;S4. Subsequently pure spectral components were reconstructed via multivariate curve resolution alternating least squares (MCR&#x02010;ALS).<xref rid="anie201914760-bib-0031" ref-type="ref">31</xref> The EXAFS spectra indicate that component&#x02005;1 and component&#x02005;3 can be easily fitted with the structure of pristine FeNCN and the iron nanoparticles, as shown in Figure&#x02005;S6 and S7, respectively. Component&#x02005;2 represents the ternary intermediate, which reaches its maximum concentration at about one third of the first discharge (Figure&#x02005;S5&#x02009;b), and can therefore be successfully fitted by the theoretical structure of Li<sub>2</sub>Fe<sub>2</sub>(NCN)<sub>3</sub>, in line with the amount of reacted lithium. The compound Li<sub>2</sub>Fe<sub>2</sub>(NCN)<sub>3</sub>, structurally derived from Li<sub>2</sub>NCN, yields satisfactory results, as shown in Figure&#x02005;<xref rid="anie201914760-fig-0005" ref-type="fig">5</xref>&#x02009;b and Table&#x02005;<xref rid="anie201914760-tbl-0002" ref-type="table">2</xref>. The quantum&#x02010;chemical bonding analysis in Figure&#x02005;S8 also indicates that the Fe&#x02212;N bonds in the Li<sub>2</sub>Fe<sub>2</sub>(NCN)<sub>3</sub> structure derived from the Li<sub>2</sub>NCN supercell possess a more negative ICOHP value (meaning stronger bonding, &#x02212;1.84&#x02005;eV) than the ones in the FeNCN supercell (&#x02212;1.46&#x02005;eV). In other words, the good agreement of the DFT&#x02010;predicted structure with the experimental spectra confirms the formation of an intermediate yet amorphous phase compatible with the local structure of Li<sub>2</sub>Fe<sub>2</sub>(NCN)<sub>3</sub> during the conversion reaction of FeNCN vs. Li. Unravelling such transient phases in complex reaction mechanisms is a valuable asset of the MCR&#x02010;ALS approach, was recently shown for sodiation of SnSb.<xref rid="anie201914760-bib-0032" ref-type="ref">32</xref>
+</p><table-wrap id="anie201914760-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>EXAFS fitting parameters of MCR&#x02010;ALS component 2 of the Fe K&#x02010;Edge.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th valign="top" rowspan="1" colspan="1">
+<p>shell</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>coord. no.</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>theor. distance (&#x000c5;)</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>exp. distance (&#x000c5;)</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>
+<italic>&#x003c3;</italic>
+<sup>2</sup>
+</p>
+</th></tr></thead><tbody valign="top"><tr><td valign="top" rowspan="1" colspan="1">
+<p>Fe&#x02212;N</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>4</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>2.07</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>2.14(1)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>0.007(2)</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>Fe&#x02212;C</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>3</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>2.93</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>3.06(5)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>0.01(1)</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>Fe&#x02212;Fe</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>2</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>3.46</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>3.27(1)</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>0.007(3)</p>
+</td></tr></tbody></table><permissions><copyright-holder>Wiley&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA</copyright-holder></permissions></table-wrap></sec><sec id="anie201914760-sec-0003"><title>Conclusion</title><p>In conclusion, given the new family of 3d transition&#x02010;metal carbodiimides which have experimentally turned out as excellent candidates for Li&#x02010; and Na&#x02010;ion batteries, we have demonstrated the first computational attempt to model its electrochemical mechanism. A first&#x02010;principles study on the conversion&#x02010;reaction mechanism of the archetype FeNCN with Li and Na during charge/discharge has been performed by simulating a total of 61 (54) configurations of Li&#x02013;Fe&#x02013;NCN (Na&#x02013;Fe&#x02013;NCN) ternaries. Based on their structures, spin&#x02010;polarized PBE+<italic>U</italic> calculations gave access to voltage profiles which agree nicely with experiment for both full (LIB) and partial (NIB) discharge. The origins of the energetically preferred structures adopted in the intermediate compounds were rationalized by chemical&#x02010;bonding analysis. Additionally, the continuously lowering voltage profile was also mirrored in the COHP progression and the Mulliken charge transfer. Operando XAS analysis performed during the lithiation of FeNCN substantiates the results of these calculations, confirming the formation of an intermediate species with a structure compatible with the theoretically predicted transient phase Li<sub>2</sub>Fe<sub>2</sub>(NCN)<sub>3</sub>. Finally, this study offers a new challenge to chemists in the preparation of metastable Li&#x02013;Fe&#x02013;NCN intermediates.</p></sec><sec sec-type="COI-statement" id="anie201914760-sec-0005"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><p>As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re&#x02010;organized for online delivery, but are not copy&#x02010;edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ANIE-59-3718-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="anie201914760-sec-0004"><title>Acknowledgements</title><p>K.C. gratefully acknowledges financial support from the Alexander von Humboldt Foundation. The simulation work was supported by the IT center of RWTH Aachen University under the JARA&#x02010;HPC grant JARA0179. We thank the NWO and beamline DUBBLE at ESRF, Grenoble (France) for providing beamtime, and in particular Dr. Alessandro Longo for technical advice on beamline operation. This work was supported by the public grant ANR&#x02010;10&#x02010;LABX&#x02010;76&#x02010;01 (Labex STOREX) overseen by the French National Research Agency (ANR) as part of the &#x0201c;Investissements d'Avenir&#x0201d; program. Alistore&#x02010;ERI is warmly thanked for financing the PhD grant of J.J.A. and the post&#x02010;doc grant of M.F.</p></ack><ref-list><ref id="anie201914760-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="anie201914760-cit-0001">&#x000a0;</mixed-citation></ref><ref id="anie201914760-bib-0001a"><label>1a</label><mixed-citation publication-type="book" id="anie201914760-cit-0002">
+<string-name>
+<given-names>D.</given-names>
+<surname>Bodansky</surname>
+</string-name>, <source xml:lang="en">Nuclear Energy: Principles, Practices, and Prospects</source>, <publisher-name>Springer</publisher-name>, <publisher-loc>New York</publisher-loc>, <year>2010</year>;</mixed-citation></ref><ref id="anie201914760-bib-0001b"><label>1b</label><mixed-citation publication-type="book" id="anie201914760-cit-0003">
+<string-name>
+<given-names>P.</given-names>
+<surname>Breeze</surname>
+</string-name>, <source xml:lang="en">Nuclear Power</source>, <publisher-name>Elsevier</publisher-name>, <publisher-loc>Dordrecht</publisher-loc>, <year>2017</year>.</mixed-citation></ref><ref id="anie201914760-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="anie201914760-cit-0004">
+<string-name>
+<given-names>P. K.</given-names>
+<surname>Nayak</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mahesh</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Snaith</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Cahen</surname>
+</string-name>, <source xml:lang="en">Nat. Rev. Mater.</source>
+<year>2019</year>, <volume>4</volume>, <fpage>269</fpage>&#x02013;<lpage>285</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="anie201914760-cit-0005">
+<string-name>
+<given-names>G. Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">Int. Mater. Rev.</source>
+<year>2017</year>, <volume>62</volume>, <fpage>173</fpage>&#x02013;<lpage>202</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0004"><label>4</label><mixed-citation publication-type="miscellaneous" id="anie201914760-cit-0006">&#x000a0;</mixed-citation></ref><ref id="anie201914760-bib-0004a"><label>4a</label><mixed-citation publication-type="journal" id="anie201914760-cit-0007">
+<string-name>
+<given-names>K. X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Lyu</surname>
+</string-name>, <string-name>
+<given-names>X. M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Heng</surname>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Mo</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. C</source>
+<year>2017</year>, <volume>121</volume>, <fpage>13035</fpage>&#x02013;<lpage>13042</lpage>;</mixed-citation></ref><ref id="anie201914760-bib-0004b"><label>4b</label><mixed-citation publication-type="journal" id="anie201914760-cit-0008">
+<string-name>
+<given-names>K. X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X. M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Mo</surname>
+</string-name>, <string-name>
+<given-names>S. S.</given-names>
+<surname>Lyu</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. C</source>
+<year>2015</year>, <volume>119</volume>, <fpage>26706</fpage>&#x02013;<lpage>26711</lpage>;</mixed-citation></ref><ref id="anie201914760-bib-0004c"><label>4c</label><mixed-citation publication-type="journal" id="anie201914760-cit-0009">
+<string-name>
+<given-names>K. X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Mo</surname>
+</string-name>, <string-name>
+<given-names>S. S.</given-names>
+<surname>Lyu</surname>
+</string-name>, <source xml:lang="en">Front. Energy</source>
+<year>2018</year>, <volume>12</volume>, <fpage>97</fpage>&#x02013;<lpage>108</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="anie201914760-cit-0010">&#x000a0;</mixed-citation></ref><ref id="anie201914760-bib-0005a"><label>5a</label><mixed-citation publication-type="journal" id="anie201914760-cit-0011">
+<string-name>
+<given-names>M. T.</given-names>
+<surname>Sougrati</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Darwiche</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Mahmoud</surname>
+</string-name>, <string-name>
+<given-names>R. P.</given-names>
+<surname>Hermann</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Jouen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Monconduit</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Stievano</surname>
+</string-name>, <source xml:lang="en">Angew. Chem. Int. Ed.</source>
+<year>2016</year>, <volume>55</volume>, <fpage>5090</fpage>&#x02013;<lpage>5095</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="anie201914760-cit-0012">
+<source xml:lang="en">Angew. Chem.</source>
+<year>2016</year>, <volume>128</volume>, <fpage>5174</fpage>&#x02013;<lpage>5179</lpage>;</mixed-citation></ref><ref id="anie201914760-bib-0005b"><label>5b</label><mixed-citation publication-type="journal" id="anie201914760-cit-0013">
+<string-name>
+<given-names>J.</given-names>
+<surname>Cabana</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Monconduit</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Larcher</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Palac&#x000ed;n</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2010</year>, <volume>22</volume>, E<fpage>170</fpage>&#x02013;<lpage>192</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0006"><label>6</label><mixed-citation publication-type="miscellaneous" id="anie201914760-cit-0014">The Royal Swedish Academy of Sciences (2019, Oct 9). <italic>The Nobel Prize in Chemistry 2019</italic> Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.nobelprize.org/prizes/chemistry/2019/press-release">https://www.nobelprize.org/prizes/chemistry/2019/press-release</ext-link>.</mixed-citation></ref><ref id="anie201914760-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="anie201914760-cit-0015">
+<string-name>
+<given-names>D.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Nat. Nanotechnol.</source>
+<year>2017</year>, <volume>12</volume>, <fpage>194</fpage>&#x02013;<lpage>206</lpage>.<pub-id pub-id-type="pmid">28265117</pub-id></mixed-citation></ref><ref id="anie201914760-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="anie201914760-cit-0016">&#x000a0;</mixed-citation></ref><ref id="anie201914760-bib-0008a"><label>8a</label><mixed-citation publication-type="journal" id="anie201914760-cit-0017">
+<string-name>
+<given-names>J. B.</given-names>
+<surname>Goodenough</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>Park</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>1167</fpage>&#x02013;<lpage>1176</lpage>;<pub-id pub-id-type="pmid">23294028</pub-id></mixed-citation></ref><ref id="anie201914760-bib-0008b"><label>8b</label><mixed-citation publication-type="journal" id="anie201914760-cit-0018">
+<string-name>
+<given-names>M. V.</given-names>
+<surname>Reddy</surname>
+</string-name>, <string-name>
+<given-names>G. V.</given-names>
+<surname>Subba Rao</surname>
+</string-name>, <string-name>
+<given-names>B. V.</given-names>
+<surname>Chowdari</surname>
+</string-name>, <source xml:lang="en">Chem. Rev.</source>
+<year>2013</year>, <volume>113</volume>, <fpage>5364</fpage>&#x02013;<lpage>5457</lpage>.<pub-id pub-id-type="pmid">23548181</pub-id></mixed-citation></ref><ref id="anie201914760-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="anie201914760-cit-0019">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>L. P.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>Sougrati</surname>
+</string-name>, <string-name>
+<given-names>Z. X.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Leconte</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Fisher</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Srinivasan</surname>
+</string-name>, <string-name>
+<given-names>Z. C.</given-names>
+<surname>Xu</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2017</year>, <volume>7</volume>, <fpage>1601424</fpage>.</mixed-citation></ref><ref id="anie201914760-bib-0010"><label>10</label><mixed-citation publication-type="miscellaneous" id="anie201914760-cit-0020">&#x000a0;</mixed-citation></ref><ref id="anie201914760-bib-0010a"><label>10a</label><mixed-citation publication-type="journal" id="anie201914760-cit-0021">
+<string-name>
+<given-names>T. D.</given-names>
+<surname>Boyko</surname>
+</string-name>, <string-name>
+<given-names>R. J.</given-names>
+<surname>Green</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Moewes</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. C</source>
+<year>2013</year>, <volume>117</volume>, <fpage>12754</fpage>&#x02013;<lpage>12761</lpage>;</mixed-citation></ref><ref id="anie201914760-bib-0010b"><label>10b</label><mixed-citation publication-type="journal" id="anie201914760-cit-0022">
+<string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Nan</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cao</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2017</year>, <volume>7</volume>, <fpage>1601127</fpage>.</mixed-citation></ref><ref id="anie201914760-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="anie201914760-cit-0023">
+<string-name>
+<given-names>X.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Speldrich</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <source xml:lang="en">Angew. Chem. Int. Ed.</source>
+<year>2010</year>, <volume>49</volume>, <fpage>4738</fpage>&#x02013;<lpage>4742</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="anie201914760-cit-0024">
+<source xml:lang="en">Angew. Chem.</source>
+<year>2010</year>, <volume>122</volume>, <fpage>4846</fpage>&#x02013;<lpage>4850</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="anie201914760-cit-0025">
+<string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Krott</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>M&#x000fc;ller</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lueken</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <source xml:lang="en">Inorg. Chem.</source>
+<year>2005</year>, <volume>44</volume>, <fpage>3001</fpage>&#x02013;<lpage>3003</lpage>.<pub-id pub-id-type="pmid">15847401</pub-id></mixed-citation></ref><ref id="anie201914760-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="anie201914760-cit-0026">
+<string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Stork</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Speldrich</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lueken</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <source xml:lang="en">Chem. Eur. J.</source>
+<year>2009</year>, <volume>15</volume>, <fpage>1558</fpage>&#x02013;<lpage>1561</lpage>.<pub-id pub-id-type="pmid">19115292</pub-id></mixed-citation></ref><ref id="anie201914760-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="anie201914760-cit-0027">
+<string-name>
+<given-names>J. J.</given-names>
+<surname>Arayamparambil</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mann</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Fraisse</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Iadecola</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Stievano</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>Sougrati</surname>
+</string-name>, <source xml:lang="en">ChemElectroChem</source>
+<year>2019</year>, <volume>6</volume>, <fpage>5101</fpage>&#x02013;<lpage>5108</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="anie201914760-cit-0028">
+<string-name>
+<given-names>M.</given-names>
+<surname>Krott</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>B. P.</given-names>
+<surname>Fokwa</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Speldrich</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lueken</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <source xml:lang="en">Inorg. Chem.</source>
+<year>2007</year>, <volume>46</volume>, <fpage>2204</fpage>&#x02013;<lpage>2207</lpage>.<pub-id pub-id-type="pmid">17302407</pub-id></mixed-citation></ref><ref id="anie201914760-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="anie201914760-cit-0029">
+<string-name>
+<given-names>M. T.</given-names>
+<surname>Sougrati</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Arayamparambil</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mann</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Slabon</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Stievano</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <source xml:lang="en">Dalton Trans.</source>
+<year>2018</year>, <volume>47</volume>, <fpage>10827</fpage>&#x02013;<lpage>10832</lpage>.<pub-id pub-id-type="pmid">30027198</pub-id></mixed-citation></ref><ref id="anie201914760-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="anie201914760-cit-0030">
+<string-name>
+<given-names>A.</given-names>
+<surname>Urban</surname>
+</string-name>, <string-name>
+<given-names>D.-H.</given-names>
+<surname>Seo</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <source xml:lang="en">NPJ Comput. Mater.</source>
+<year>2016</year>, <volume>2</volume>, <fpage>1</fpage>&#x02013;<lpage>13</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="anie201914760-cit-0031">
+<string-name>
+<given-names>G.</given-names>
+<surname>Kresse</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Furthm&#x000fc;ller</surname>
+</string-name>, <source xml:lang="en">Phys. Rev. B</source>
+<year>1996</year>, <volume>54</volume>, <fpage>11169</fpage>&#x02013;<lpage>11186</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="anie201914760-cit-0032">
+<string-name>
+<given-names>Y. S.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>M. E.</given-names>
+<surname>Arroyo-de Dompablo</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2009</year>, <volume>2</volume>, <fpage>589</fpage>&#x02013;<lpage>609</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="anie201914760-cit-0033">
+<string-name>
+<given-names>A.</given-names>
+<surname>Jain</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hautier</surname>
+</string-name>, <string-name>
+<given-names>S. P.</given-names>
+<surname>Ong</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Moore</surname>
+</string-name>, <string-name>
+<given-names>C. C.</given-names>
+<surname>Fischer</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Persson</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <source xml:lang="en">Phys. Rev. B</source>
+<year>2011</year>, <volume>84</volume>, <fpage>045115</fpage>.</mixed-citation></ref><ref id="anie201914760-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="anie201914760-cit-0034">
+<string-name>
+<given-names>K.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. A</source>
+<year>2019</year>, <volume>123</volume>, <fpage>9328</fpage>&#x02013;<lpage>9335</lpage>.<pub-id pub-id-type="pmid">31584276</pub-id></mixed-citation></ref><ref id="anie201914760-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="anie201914760-cit-0035">
+<string-name>
+<given-names>S. P.</given-names>
+<surname>Ong</surname>
+</string-name>, <string-name>
+<given-names>W. D.</given-names>
+<surname>Richards</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Jain</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hautier</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kocher</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cholia</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Gunter</surname>
+</string-name>, <string-name>
+<given-names>V. L.</given-names>
+<surname>Chevrier</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Persson</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <source xml:lang="en">Comput. Mater. Sci.</source>
+<year>2013</year>, <volume>68</volume>, <fpage>314</fpage>&#x02013;<lpage>319</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="anie201914760-cit-0036">
+<string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>D.-H.</given-names>
+<surname>Seo</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Yeom</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>D. K.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jung</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2012</year>, <volume>24</volume>, <fpage>1205</fpage>&#x02013;<lpage>1211</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="anie201914760-cit-0037">
+<string-name>
+<given-names>M.</given-names>
+<surname>Fehse</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Darwiche</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>Sougrati</surname>
+</string-name>, <string-name>
+<given-names>E. M.</given-names>
+<surname>Kelder</surname>
+</string-name>, <string-name>
+<given-names>A. V.</given-names>
+<surname>Chadwick</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Alfredsson</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Monconduit</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Stievano</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <fpage>10446</fpage>&#x02013;<lpage>10454</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="anie201914760-cit-0038">
+<string-name>
+<given-names>R. A.</given-names>
+<surname>Van Santen</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem.</source>
+<year>1984</year>, <volume>88</volume>, <fpage>5768</fpage>&#x02013;<lpage>5769</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0026"><label>26</label><mixed-citation publication-type="miscellaneous" id="anie201914760-cit-0039">&#x000a0;</mixed-citation></ref><ref id="anie201914760-bib-0026a"><label>26a</label><mixed-citation publication-type="journal" id="anie201914760-cit-0040">
+<string-name>
+<given-names>S.</given-names>
+<surname>Maintz</surname>
+</string-name>, <string-name>
+<given-names>V. L.</given-names>
+<surname>Deringer</surname>
+</string-name>, <string-name>
+<given-names>A. L.</given-names>
+<surname>Tchougr&#x000e9;eff</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <source xml:lang="en">J. Comput. Chem.</source>
+<year>2016</year>, <volume>37</volume>, <fpage>1030</fpage>&#x02013;<lpage>1035</lpage>;<pub-id pub-id-type="pmid">26914535</pub-id></mixed-citation></ref><ref id="anie201914760-bib-0026b"><label>26b</label><mixed-citation publication-type="journal" id="anie201914760-cit-0041">
+<string-name>
+<given-names>W. L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Ertural</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Bogdanovski</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <source xml:lang="en">Inorg. Chem.</source>
+<year>2018</year>, <volume>57</volume>, <fpage>12999</fpage>&#x02013;<lpage>13008</lpage>;<pub-id pub-id-type="pmid">30260645</pub-id></mixed-citation></ref><ref id="anie201914760-bib-0026c"><label>26c</label><mixed-citation publication-type="journal" id="anie201914760-cit-0042">
+<string-name>
+<given-names>S.</given-names>
+<surname>Maintz</surname>
+</string-name>, <string-name>
+<given-names>V. L.</given-names>
+<surname>Deringer</surname>
+</string-name>, <string-name>
+<given-names>A. L.</given-names>
+<surname>Tchougr&#x000e9;eff</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <source xml:lang="en">J. Comput. Chem.</source>
+<year>2013</year>, <volume>34</volume>, <fpage>2557</fpage>&#x02013;<lpage>2567</lpage>;<pub-id pub-id-type="pmid">24022911</pub-id></mixed-citation></ref><ref id="anie201914760-bib-0026d"><label>26d</label><mixed-citation publication-type="journal" id="anie201914760-cit-0043">
+<string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <string-name>
+<given-names>P. E.</given-names>
+<surname>Bl&#x000f6;chl</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem.</source>
+<year>1993</year>, <volume>97</volume>, <fpage>8617</fpage>&#x02013;<lpage>8624</lpage>;</mixed-citation></ref><ref id="anie201914760-bib-0026e"><label>26e</label><mixed-citation publication-type="journal" id="anie201914760-cit-0044">
+<string-name>
+<given-names>V. L.</given-names>
+<surname>Deringer</surname>
+</string-name>, <string-name>
+<given-names>A. L.</given-names>
+<surname>Tchougr&#x000e9;eff</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. A</source>
+<year>2011</year>, <volume>115</volume>, <fpage>5461</fpage>&#x02013;<lpage>5466</lpage>.<pub-id pub-id-type="pmid">21548594</pub-id></mixed-citation></ref><ref id="anie201914760-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="anie201914760-cit-0045">
+<string-name>
+<given-names>C.</given-names>
+<surname>Ertural</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Steinberg</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dronskowski</surname>
+</string-name>, <source xml:lang="en">RSC Adv.</source>
+<year>2019</year>, <volume>9</volume>, <fpage>29821</fpage>&#x02013;<lpage>29830</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="anie201914760-cit-0046">
+<string-name>
+<given-names>J. B.</given-names>
+<surname>Leriche</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hamelet</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Shu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Morcrette</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Masquelier</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ouvrard</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zerrouki</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Soudan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Belin</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Elkaim</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Baudelet</surname>
+</string-name>, <source xml:lang="en">J. Electrochem. Soc.</source>
+<year>2010</year>, <volume>157</volume>, A<fpage>606</fpage>&#x02013;A<lpage>610</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="anie201914760-cit-0047">
+<string-name>
+<given-names>M.</given-names>
+<surname>Fehse</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Iadecola</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>Sougrati</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Conti</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Giorgetti</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Stievano</surname>
+</string-name>, <source xml:lang="en">Energy Storage Mater.</source>
+<year>2019</year>, <volume>18</volume>, <fpage>328</fpage>&#x02013;<lpage>337</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0030"><label>30</label><mixed-citation publication-type="book" id="anie201914760-cit-0048">
+<string-name>
+<given-names>D. L.</given-names>
+<surname>Massart</surname>
+</string-name>, <string-name>
+<given-names>B. G. M.</given-names>
+<surname>Vandeginste</surname>
+</string-name>, <string-name>
+<given-names>L. M. C.</given-names>
+<surname>Buydens</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>De Jong</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Lewi</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Smeyers-Verbeke</surname>
+</string-name>, <source xml:lang="en">Handbook of Chemometrics and Qualimetrics: Part A, Vol.&#x02005;20</source>, <publisher-name>Elsevier</publisher-name>, <publisher-loc>Dordrecht</publisher-loc>, <year>1997</year>.</mixed-citation></ref><ref id="anie201914760-bib-0031"><label>31</label><mixed-citation publication-type="miscellaneous" id="anie201914760-cit-0049">&#x000a0;</mixed-citation></ref><ref id="anie201914760-bib-0031a"><label>31a</label><mixed-citation publication-type="journal" id="anie201914760-cit-0050">
+<string-name>
+<given-names>J.</given-names>
+<surname>Jaumot</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Gargallo</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>de Juan</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Tauler</surname>
+</string-name>, <source xml:lang="en">Chemom. Intell. Lab. Syst.</source>
+<year>2005</year>, <volume>76</volume>, <fpage>101</fpage>&#x02013;<lpage>110</lpage>;</mixed-citation></ref><ref id="anie201914760-bib-0031b"><label>31b</label><mixed-citation publication-type="journal" id="anie201914760-cit-0051">
+<string-name>
+<given-names>J.</given-names>
+<surname>Jaumot</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>de Juan</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Tauler</surname>
+</string-name>, <source xml:lang="en">Chemom. Intell. Lab. Syst.</source>
+<year>2015</year>, <volume>140</volume>, <fpage>1</fpage>&#x02013;<lpage>12</lpage>.</mixed-citation></ref><ref id="anie201914760-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="anie201914760-cit-0052">
+<string-name>
+<given-names>M.</given-names>
+<surname>Fehse</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>Sougrati</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Darwiche</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Gabaudan</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>La Fontaine</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Monconduit</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Stievano</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem. A</source>
+<year>2018</year>, <volume>6</volume>, <fpage>8724</fpage>&#x02013;<lpage>8734</lpage>.</mixed-citation></ref></ref-list></back></article>

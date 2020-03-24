@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6155197/results/word/frequencies/results.xml">
+  <result title="frequency" word="electrolyte" count="88"/>
+  <result title="frequency" word="lithium" count="62"/>
+  <result title="frequency" word="extraction" count="60"/>
+  <result title="frequency" word="Winter" count="52"/>
+  <result title="frequency" word="batteries" count="48"/>
+  <result title="frequency" word="supercritical" count="44"/>
+  <result title="frequency" word="battery" count="40"/>
+  <result title="frequency" word="ion" count="40"/>
+  <result title="frequency" word="Power" count="39"/>
+  <result title="frequency" word="Sources" count="39"/>
+  <result title="frequency" word="recycling" count="38"/>
+  <result title="frequency" word="electrolytes" count="33"/>
+  <result title="frequency" word="Chem." count="32"/>
+  <result title="frequency" word="Figure" count="29"/>
+  <result title="frequency" word="Nowak" count="29"/>
+  <result title="frequency" word="./j.jpowsour..." count="28"/>
+  <result title="frequency" word="lithium-ion" count="28"/>
+  <result title="frequency" word="aging" count="27"/>
+  <result title="frequency" word="carbon" count="27"/>
+  <result title="frequency" word="LIB" count="25"/>
+  <result title="frequency" word="dioxide" count="25"/>
+  <result title="frequency" word="Electrochem." count="24"/>
+  <result title="frequency" word="cell" count="24"/>
+  <result title="frequency" word="recovery" count="24"/>
+  <result title="frequency" word="liquid" count="22"/>
+  <result title="frequency" word="carbonate" count="21"/>
+  <result title="frequency" word="products" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="[1], 0000000121901201 grid.83440.3b Electrochemical Innovation Lab, Department of Chemical Engineering," exact="University College London," post="[2], grid.14467.30 STFC, Rutherford Appleton Laboratory, ISIS Facility, [3],"/>
+ <result pre="Appleton Laboratory, ISIS Facility, [3], 0000 0001 2292 8254 grid.6734.6" exact="Technische Universität Berlin," post="[4], 0000 0001 2199 3636 grid.419357.d National Renewable Energy"/>
+ <result pre="grid.6734.6 Technische Universität Berlin, [4], 0000 0001 2199 3636 grid.419357.d" exact="National Renewable Energy Laboratory," post="[5], grid.502947.d The Faraday Institution, [6], grid.450307.5 Grenoble INP,"/>
+ <result pre="Energie (HZB), [10], 0000 0004 0603 5458 grid.71566.33 Present Address:" exact="Bundesanstalt für Materialforschung und -Prüfung," post="epub: 2020-2-2 pmc-release: 2020-2-2 collection: 2020 11 777 received:"/>
+ <result pre="terms Chemical engineering Batteries Chemical engineering Funding https://doi.org/10.13039/501100000266 RCUK |" exact="Engineering and Physical Sciences Research Council" post="(EPSRC) EP/R020973/1 Shearing Paul R. Funding https://doi.org/10.13039/501100000287 Royal Academy"/>
+ <result pre="Sciences Research Council (EPSRC) EP/R020973/1 Shearing Paul R. Funding https://doi.org/10.13039/501100000287" exact="Royal Academy of Engineering" post="CiET1718\59 Shearing Paul R. Funding Faraday Institution Introduction In"/>
+ <result pre="The experiments were performed at the ID15A beamline at the" exact="European Synchrotron Radiation Facility" post="(ESRF), known for high-speed and high-resolution imaging capability 6,"/>
+ <result pre="EP/S003053/1), grant number FIRG001. We would like to acknowledge the" exact="Royal Academy of Engineering" post="(CiET1718\59) for financial support. This work was authored in"/>
+ <result pre="financial support. This work was authored in part by the" exact="National Renewable Energy Laboratory," post="operated by Alliance for Sustainable Energy, LLC, for the"/>
+ <result pre="Laboratory, operated by Alliance for Sustainable Energy, LLC, for the" exact="U.S. Department of Energy" post="(DOE) under Contract No. DE-AC36-08GO28308. Author contributions R.F.Z. and"/>
+</results>

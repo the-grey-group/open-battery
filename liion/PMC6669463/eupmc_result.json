@@ -1,0 +1,444 @@
+{
+  "id": [
+    "31340552"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31340552"
+  ],
+  "pmcid": [
+    "PMC6669463"
+  ],
+  "doi": [
+    "10.3390/nano9071055"
+  ],
+  "title": [
+    "Activated Carbon-Decorated Spherical Silicon Nanocrystal Composites Synchronously-Derived from Rice Husks for Anodic Source of Lithium-Ion Battery."
+  ],
+  "authorString": [
+    "Sekar S, Aqueel Ahmed AT, Inamdar AI, Lee Y, Im H, Kim DY, Lee S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sekar S"
+          ],
+          "firstName": [
+            "Sankar"
+          ],
+          "lastName": [
+            "Sekar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9554-2328",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Semiconductor Science, Dongguk University-Seoul, Seoul 04620, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Aqueel Ahmed AT"
+          ],
+          "firstName": [
+            "Abu Talha"
+          ],
+          "lastName": [
+            "Aqueel Ahmed"
+          ],
+          "initials": [
+            "AT"
+          ],
+          "affiliation": [
+            "Department of Semiconductor Science, Dongguk University-Seoul, Seoul 04620, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Inamdar AI"
+          ],
+          "firstName": [
+            "Akbar I"
+          ],
+          "lastName": [
+            "Inamdar"
+          ],
+          "initials": [
+            "AI"
+          ],
+          "affiliation": [
+            "Department of Semiconductor Science, Dongguk University-Seoul, Seoul 04620, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee Y"
+          ],
+          "firstName": [
+            "Youngmin"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8685-3033",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Semiconductor Science, Dongguk University-Seoul, Seoul 04620, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Im H"
+          ],
+          "firstName": [
+            "Hyunsik"
+          ],
+          "lastName": [
+            "Im"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4461-8078",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Semiconductor Science, Dongguk University-Seoul, Seoul 04620, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim DY"
+          ],
+          "firstName": [
+            "Deuk Young"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "DY"
+          ],
+          "affiliation": [
+            "Department of Semiconductor Science, Dongguk University-Seoul, Seoul 04620, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee S"
+          ],
+          "firstName": [
+            "Sejoon"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4548-7436",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Semiconductor Science, Dongguk University-Seoul, Seoul 04620, Korea. sejoon@dongguk.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9554-2328",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4548-7436",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8685-3033",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4461-8078",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2834177"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomaterials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "NLMid": [
+            "101610216"
+          ],
+          "ISSN": [
+            "2079-4991"
+          ],
+          "ESSN": [
+            "2079-4991"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "The nanocomposites of activated-carbon-decorated silicon nanocrystals (AC<nc-Si>AC) were synchronously derived in a single step from biomass rice husks, through the simple route of the calcination method together with the magnesiothermic reduction process. The final product, AC<nc-Si>AC, exhibited an aggregated structure of activated-carbon-encapsulated nanocrystalline silicon spheres, and reveals a high specific surface area (498.5 m2/g). Owing to the mutualization of advantages from both silicon nanocrystals (i.e., low discharge potential and high specific capacity) and activated carbon (i.e., high porosity and good electrical conductivity), the AC<nc-Si>AC nanocomposites are able to play a substantial role as an anodic source material for the lithium-ion battery (LIB). Namely, a high coulombic efficiency (97.5%), a high discharge capacity (716 mAh/g), and a high reversible specific capacity (429 mAh/g after 100 cycles) were accomplished when using AC<nc-Si>AC as an LIB anode. The results advocate that the simultaneous synthesis of biomass-derived AC<nc-Si>AC is beneficial for green energy-storage device applications."
+  ],
+  "affiliation": [
+    "Department of Semiconductor Science, Dongguk University-Seoul, Seoul 04620, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017R1A2B4004281"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2016R1A6A1A03012877"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Activated carbon",
+        "Nanocomposite",
+        "Lithium-ion battery",
+        "Silicon Nanocrystal"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nano9071055"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6669463"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6669463?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-26"
+  ],
+  "firstIndexDate": [
+    "2019-07-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-10"
+  ],
+  "dateOfRevision": [
+    "2019-08-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-23"
+  ],
+  "firstPublicationDate": [
+    "2019-07-23"
+  ]
+}

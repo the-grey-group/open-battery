@@ -1,0 +1,682 @@
+{
+  "id": [
+    "31913275"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31913275"
+  ],
+  "pmcid": [
+    "PMC6949258"
+  ],
+  "doi": [
+    "10.1038/s41467-019-13884-x"
+  ],
+  "title": [
+    "Charge distribution guided by grain crystallographic orientations in polycrystalline battery materials."
+  ],
+  "authorString": [
+    "Xu Z, Jiang Z, Kuai C, Xu R, Qin C, Zhang Y, Rahman MM, Wei C, Nordlund D, Sun CJ, Xiao X, Du XW, Zhao K, Yan P, Liu Y, Lin F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xu Z"
+          ],
+          "firstName": [
+            "Zhengrui"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Chemistry, Virginia Tech, Blacksburg, VA, 24061, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang Z"
+          ],
+          "firstName": [
+            "Zhisen"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, Menlo Park, CA, 94025, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuai C"
+          ],
+          "firstName": [
+            "Chunguang"
+          ],
+          "lastName": [
+            "Kuai"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Chemistry, Virginia Tech, Blacksburg, VA, 24061, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu R"
+          ],
+          "firstName": [
+            "Rong"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3694-595X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Mechanical Engineering, Purdue University, West Lafayette, IN, 47907, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Qin C"
+          ],
+          "firstName": [
+            "Changdong"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Beijing Key Laboratory of Microstructure and Properties of Solids, Beijing University of Technology, Beijing, 100124, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, Menlo Park, CA, 94025, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rahman MM"
+          ],
+          "firstName": [
+            "Muhammad Mominur"
+          ],
+          "lastName": [
+            "Rahman"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Department of Chemistry, Virginia Tech, Blacksburg, VA, 24061, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wei C"
+          ],
+          "firstName": [
+            "Chenxi"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, Menlo Park, CA, 94025, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nordlund D"
+          ],
+          "firstName": [
+            "Dennis"
+          ],
+          "lastName": [
+            "Nordlund"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9524-6908",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, Menlo Park, CA, 94025, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun CJ"
+          ],
+          "firstName": [
+            "Cheng-Jun"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "Advanced Photon Source, Argonne National Laboratory, Argonne, IL, 60439, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao X"
+          ],
+          "firstName": [
+            "Xianghui"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7142-3452",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Synchrotron Light Source II, Brookhaven National Laboratory, Upton, NY, 11973, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Du XW"
+          ],
+          "firstName": [
+            "Xi-Wen"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "XW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2811-147X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of New-Energy Materials, School of Materials Science and Engineering, Tianjin University, Tianjin, 300072, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao K"
+          ],
+          "firstName": [
+            "Kejie"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5030-7412",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Mechanical Engineering, Purdue University, West Lafayette, IN, 47907, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan P"
+          ],
+          "firstName": [
+            "Pengfei"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6387-7502",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Beijing Key Laboratory of Microstructure and Properties of Solids, Beijing University of Technology, Beijing, 100124, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yijin"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8417-2488",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, Menlo Park, CA, 94025, USA. liuyijin@slac.stanford.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3729-3148",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry, Virginia Tech, Blacksburg, VA, 24061, USA. fenglin@vt.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5030-7412",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6387-7502",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9524-6908",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8417-2488",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3729-3148",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2811-147X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7142-3452",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3694-595X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2896774"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "83"
+  ],
+  "abstractText": [
+    "Architecting grain crystallographic orientation can modulate charge distribution and chemomechanical properties for enhancing the performance of polycrystalline battery materials. However, probing the interplay between charge distribution, grain crystallographic orientation, and performance remains a daunting challenge. Herein, we elucidate the spatially resolved charge distribution in lithium layered oxides with different grain crystallographic arrangements and establish a model to quantify their charge distributions. While the holistic \"surface-to-bulk\" charge distribution prevails in polycrystalline particles, the crystallographic orientation-guided redox reaction governs the charge distribution in the local charged nanodomains. Compared to the randomly oriented grains, the radially aligned grains exhibit a lower cell polarization and higher capacity retention upon battery cycling. The radially aligned grains create less tortuous lithium ion pathways, thus improving the charge homogeneity as statistically quantified from over 20 million nanodomains in polycrystalline particles. This study provides an improved understanding of the charge distribution and chemomechanical properties of polycrystalline battery materials."
+  ],
+  "affiliation": [
+    "Department of Chemistry, Virginia Tech, Blacksburg, VA, 24061, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DE-AC02-76SF00515"
+          ],
+          "agency": [
+            "U.S. Department of Energy (DOE)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "DE-AC02-06CH11357"
+          ],
+          "agency": [
+            "U.S. Department of Energy (DOE)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "DE-SC0012704"
+          ],
+          "agency": [
+            "U.S. Department of Energy (DOE)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "DMR 1832613"
+          ],
+          "agency": [
+            "National Science Foundation (NSF)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-13884-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6949258"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6949258?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-09"
+  ],
+  "firstIndexDate": [
+    "2020-01-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-12"
+  ],
+  "dateOfRevision": [
+    "2020-03-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-08"
+  ],
+  "firstPublicationDate": [
+    "2020-01-08"
+  ]
+}

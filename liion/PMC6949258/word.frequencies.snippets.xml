@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6949258/results/word/frequencies/results.xml">
+  <result title="frequency" word="charge" count="59"/>
+  <result title="frequency" word="valence" count="54"/>
+  <result title="frequency" word="distribution" count="43"/>
+  <result title="frequency" word="Fig." count="42"/>
+  <result title="frequency" word="state" count="31"/>
+  <result title="frequency" word="cathode" count="30"/>
+  <result title="frequency" word="grain" count="29"/>
+  <result title="frequency" word="(Fig." count="28"/>
+  <result title="frequency" word="materials" count="28"/>
+  <result title="frequency" word="battery" count="26"/>
+  <result title="frequency" word="rod-NMC" count="26"/>
+  <result title="frequency" word="vector" count="25"/>
+  <result title="frequency" word="Supplementary" count="24"/>
+  <result title="frequency" word="crystallographic" count="24"/>
+  <result title="frequency" word="ion" count="22"/>
+  <result title="frequency" word="layered" count="22"/>
+  <result title="frequency" word="polycrystalline" count="22"/>
+ </snippets>
+</snippetsTree>

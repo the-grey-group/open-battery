@@ -1,0 +1,360 @@
+{
+  "id": [
+    "31565321"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31565321"
+  ],
+  "pmcid": [
+    "PMC6607178"
+  ],
+  "doi": [
+    "10.1002/gch2.201700079"
+  ],
+  "title": [
+    "New Insights into the Application of Lithium-Ion Battery Materials: Selective Extraction of Lithium from Brines via a Rocking-Chair Lithium-Ion Battery System."
+  ],
+  "authorString": [
+    "He L, Xu W, Song Y, Luo Y, Liu X, Zhao Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "He L"
+          ],
+          "firstName": [
+            "Lihua"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2230-2136",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Metallurgy and Environment Central South University Changsha Hunan 410083 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu W"
+          ],
+          "firstName": [
+            "Wenhua"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "School of Metallurgy and Environment Central South University Changsha Hunan 410083 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Song Y"
+          ],
+          "firstName": [
+            "Yunfeng"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Metallurgy and Environment Central South University Changsha Hunan 410083 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Luo Y"
+          ],
+          "firstName": [
+            "Yunze"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Metallurgy and Environment Central South University Changsha Hunan 410083 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xuheng"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Metallurgy and Environment Central South University Changsha Hunan 410083 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Z"
+          ],
+          "firstName": [
+            "Zhongwei"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Metallurgy and Environment Central South University Changsha Hunan 410083 P. R. China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2230-2136",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2864823"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Global challenges (Hoboken, NJ)"
+          ],
+          "ISOAbbreviation": [
+            "Glob Chall"
+          ],
+          "medlineAbbreviation": [
+            "Glob Chall"
+          ],
+          "NLMid": [
+            "101705641"
+          ],
+          "ISSN": [
+            "2056-6646"
+          ],
+          "ESSN": [
+            "2056-6646"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1700079"
+  ],
+  "abstractText": [
+    "Lithium extraction from high Mg/Li ratio brine is a key technical problem in the world. Based on the principle of rocking-chair lithium-ion batteries, cathode material LiFePO4 is applied to extract lithium from brine, and a novel lithium-ion battery system of LiFePO4 | NaCl solution | anion-exchange membrane | brine | FePO4 is constructed. In this method, Li+ is selectively absorbed from the brine by FePO4 (Li+ + e + FePO4 = LiFePO4); meanwhile, Li+ is desorbed from LiFePO4 (LiFePO4 - e = Li+ + FePO4) and enriched efficiently. To treat a raw brine solution, the Mg/Li ratio decreases from the initial 134.4 in the brine to 1.2 in the obtained anolyte and 83% lithium is extracted. For the treatment of an old brine solution, the Mg/Li ratio decreases from the initial 48.4 in the brine to 0.5 and the concentration of lithium in the anolyte is accumulated about six times (from the initial 0.51 g L-1 in the brine to 3.2 g L-1 in the anolyte), with the absorption capacity of about 25 mg (Li) g (LiFePO4)-1. Additionally, it displays a great perspective on the application in light of its high selectively, good cycling performance, effective lithium enrichment, environmental friendliness, low cost, and avoidance of poisonous organic reagents and harmful acid or oxidant."
+  ],
+  "affiliation": [
+    "School of Metallurgy and Environment Central South University Changsha Hunan 410083 P. R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Brine",
+        "Lifepo4",
+        "Lithium Extraction",
+        "Rocking‐chair Lithium‐ion Batteries"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/gch2.201700079"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6607178"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6607178?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-01"
+  ],
+  "firstIndexDate": [
+    "2019-10-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-15"
+  ],
+  "firstPublicationDate": [
+    "2018-01-15"
+  ]
+}

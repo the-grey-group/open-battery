@@ -1,0 +1,931 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5700637</article-id><article-id pub-id-type="doi">10.1002/advs.201700205</article-id><article-id pub-id-type="publisher-id">ADVS370</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Full Papers</subject></subj-group></article-categories><title-group><article-title>A Facile Surface Reconstruction Mechanism toward Better Electrochemical Performance of Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> in Lithium&#x02010;Ion Battery</article-title></title-group><contrib-group><contrib id="advs370-cr-0001" contrib-type="author"><name><surname>Qian</surname><given-names>Kun</given-names></name><xref ref-type="aff" rid="advs370-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="advs370-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs370-cr-0002" contrib-type="author"><name><surname>Tang</surname><given-names>Linkai</given-names></name><xref ref-type="aff" rid="advs370-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="advs370-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs370-cr-0003" contrib-type="author"><name><surname>Wagemaker</surname><given-names>Marnix</given-names></name><xref ref-type="aff" rid="advs370-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="advs370-cr-0004" contrib-type="author"><name><surname>He</surname><given-names>Yan&#x02010;Bing</given-names></name><xref ref-type="aff" rid="advs370-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs370-cr-0005" contrib-type="author"><name><surname>Liu</surname><given-names>Dongqing</given-names></name><xref ref-type="aff" rid="advs370-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs370-cr-0006" contrib-type="author"><name><surname>Li</surname><given-names>Hai</given-names></name><xref ref-type="aff" rid="advs370-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="advs370-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs370-cr-0007" contrib-type="author"><name><surname>Shi</surname><given-names>Ruiying</given-names></name><xref ref-type="aff" rid="advs370-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="advs370-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs370-cr-0008" contrib-type="author" corresp="yes"><name><surname>Li</surname><given-names>Baohua</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4876-2659</contrib-id><address><email>libh@mail.sz.tsinghua.edu.cn</email></address><xref ref-type="aff" rid="advs370-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs370-cr-0009" contrib-type="author" corresp="yes"><name><surname>Kang</surname><given-names>Feiyu</given-names></name><address><email>fykang@mail.tsinghua.edu.cn</email></address><xref ref-type="aff" rid="advs370-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="advs370-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="advs370-aff-0003">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="advs370-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Nano Energy Materials Laboratory (NEM)</named-content>
+<named-content content-type="organisation-division">Tsinghua&#x02010;Berkeley Shenzhen Institute (TBSI)</named-content>
+<institution>Tsinghua University</institution>
+<named-content content-type="city">Shenzhen</named-content>
+<named-content content-type="post-code">518055</named-content>
+<country country="CN">P. R. China</country>
+</aff><aff id="advs370-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Laboratory of Advanced Materials</named-content>
+<named-content content-type="organisation-division">School of Materials Science and Engineeing</named-content>
+<institution>Tsinghua University</institution>
+<named-content content-type="city">Beijing</named-content>
+<named-content content-type="post-code">100086</named-content>
+<country country="CN">P. R. China</country>
+</aff><aff id="advs370-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Engineering Laboratory for the Next Generation Power and Energy Storage Batteries</named-content>
+<named-content content-type="organisation-division">Graduate School at Shenzhen</named-content>
+<institution>Tsinghua University</institution>
+<named-content content-type="city">Shenzhen</named-content>
+<named-content content-type="post-code">518055</named-content>
+<country country="CN">P. R. China</country>
+</aff><aff id="advs370-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Radiation Science and Technology</named-content>
+<institution>Delft University of Technology</institution>
+<named-content content-type="street">Mekelweg 15</named-content>
+<named-content content-type="city">Delft</named-content>
+<named-content content-type="post-code">2629JB</named-content>
+<country country="NL">The Netherlands</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>libh@mail.sz.tsinghua.edu.cn</email>, <email>fykang@mail.tsinghua.edu.cn</email></corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>7</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2017</year></pub-date><volume>4</volume><issue>11</issue><issue-id pub-id-type="doi">10.1002/advs.v4.11</issue-id><elocation-id>1700205</elocation-id><history><date date-type="received"><day>04</day><month>5</month><year>2017</year></date><date date-type="rev-recd"><day>19</day><month>5</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 WILEY&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Published by WILEY&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ADVS-4-na.pdf"/><abstract><title>Abstract</title><p>Through a facile sodium sulfide (Na<sub>2</sub>S)&#x02010;assisted hydrothermal treatment, clean and nondefective surfaces are constructed on micrometer&#x02010;sized Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> particles. The remarkable improvement of surface quality shows a higher first cycle Coulombic efficiency (&#x02248;95%), a significantly enhanced cycling performance, and a better rate capability in electrochemical measurements. A combined study of Raman spectroscopy and inductive coupled plasma emission spectroscopy reveals that the evolution of Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> surface in a water&#x02010;based hydrothermal environment is a hydrolysis&#x02013;recrystallization process, which can introduce a new phase of anatase&#x02010;TiO<sub>2</sub>. While, with a small amount of Na<sub>2</sub>S (0.004 mol L<sup>&#x02212;1</sup> at least), the spinel&#x02010;Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> phase is maintained without a second phase. During this process, the alkaline environment created by Na<sub>2</sub>S and the surface adsorption of the sulfur&#x02010;containing group (HS<sup>&#x02212;</sup> or S<sup>2&#x02212;</sup>) can suppress the recrystallization of anatase&#x02010;TiO<sub>2</sub> and renew the particle surfaces. This finding gives a better understanding of the surface&#x02013;property relationship on Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> and guidance on preparation and modification of electrode material other than coating or doping.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs370-kwd-0001">hydrothermal method</kwd><kwd id="advs370-kwd-0002">Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub></kwd><kwd id="advs370-kwd-0003">lithium&#x02010;ion batteries</kwd><kwd id="advs370-kwd-0004">Na<sub>2</sub>S</kwd><kwd id="advs370-kwd-0005">surface modifications</kwd></kwd-group><funding-group><award-group><funding-source>National Key Basic Research Program of China</funding-source><award-id>2014CB932400</award-id></award-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>51202121</award-id><award-id>51232005</award-id></award-group><award-group><funding-source>Shenzhen Basic Research Project</funding-source><award-id>ZDSYS20140509172959981</award-id><award-id>JCYJ20140417115840246</award-id></award-group><award-group><funding-source>Guangdong Province Innovation R&#x00026;D Team Plan for Energy and Environmental Materials</funding-source><award-id>2009010025</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="8"/><word-count count="4851"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>advs370</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.6.1 mode:remove_FC converted:23.11.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs370-cit-0040">
+<string-name>
+<given-names>K.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wagemaker</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;B.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2017</year>, <volume>4</volume>, <elocation-id>1700205</elocation-id>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/advs.370">https://doi.org/10.1002/advs.370</ext-link>
+</mixed-citation>
+</p></notes></front><body><sec id="advs370-sec-0010"><label>1</label><title>Introduction</title><p>As one of the most promising solutions for energy storage and utilization, lithium&#x02010;ion batteries (LIBs) have been attracting tremendous interests on a world scale. Over the past few decades, LIBs with carbonaceous anodes have dominated the portable power market.<xref rid="advs370-bib-0001" ref-type="ref">1</xref>, <xref rid="advs370-bib-0002" ref-type="ref">2</xref> However, this commercial success still cannot extend to the area of large&#x02010;scale energy storage and high power applications at present, in which high safety, long cycle life, and high power density are highly demanded.<xref rid="advs370-bib-0003" ref-type="ref">3</xref>, <xref rid="advs370-bib-0004" ref-type="ref">4</xref> Among the complex causes of the existing defects of commercial LIBs, carbonaceous anodes play a significant role. First of all, the Li&#x02010;insertion voltage of commercial graphite anode is at &#x02248;100 mV versus Li<sup>+</sup>/Li, which is very close to the redox potential of lithium metal.<xref rid="advs370-bib-0005" ref-type="ref">5</xref>, <xref rid="advs370-bib-0006" ref-type="ref">6</xref> Thus, under the condition of high&#x02010;power charge rates, lithium plating is prone to occur on the surface of the anode due to an extensive polarization of carbon materials, then potentially triggering thermal runaway when some lithium dendrites penetrate into the separator. Also, the reduction of electrolyte and formation of solid electrolyte interphase (SEI) layer on the carbon anode, which usually occurs around 1.0 V versus Li<sup>+</sup>/Li, can result in a considerable consumption of electrolyte and cyclable lithium, showing reduced cycle and calendar life.<xref rid="advs370-bib-0007" ref-type="ref">7</xref>, <xref rid="advs370-bib-0008" ref-type="ref">8</xref>
+</p><p>To develop advanced LIBs that will meet the requirements of large&#x02010;scale energy storage, a series of materials have been investigated as alternative anode materials. Among the candidates, spinel Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> (LTO) is attractive to scale up and make high performance and cheap static energy storage viable. Unlike the carbonaceous anode, LTO has a higher Li&#x02010;insertion voltage (&#x02248;1.5 V vs Li<sup>+</sup>/Li),<xref rid="advs370-bib-0009" ref-type="ref">9</xref>, <xref rid="advs370-bib-0010" ref-type="ref">10</xref> which can avoid the formation and breakdown of the SEI layer and reduce the loss of cyclable lithium and electrolyte.<xref rid="advs370-bib-0011" ref-type="ref">11</xref>, <xref rid="advs370-bib-0012" ref-type="ref">12</xref> During charging and discharging, the spinel LTO lattice structure displays practically no volume change. This so&#x02010;called zero&#x02010;strain property is responsible for its excellent reversibility upon cycling, making it potentially an ultralong cycle life, and high safety negative electrode material compared to the graphite anode.<xref rid="advs370-bib-0013" ref-type="ref">13</xref>, <xref rid="advs370-bib-0014" ref-type="ref">14</xref>, <xref rid="advs370-bib-0015" ref-type="ref">15</xref>
+</p><p>However, the commercially available micrometer&#x02010;sized LTO particles have not achieved the outstanding performance that may be expected from the promising material properties. The low intrinsic electronic and ionic conductivity is considered as the main reason. Two main strategies were proposed to improve the conductivity. One strategy is to fabricate a nano&#x02010; or porous structure, which enlarges the specific surface area (over 200 m<sup>2</sup> g<sup>&#x02212;1</sup>), and shortens the ion and electron diffusion lengths.<xref rid="advs370-bib-0016" ref-type="ref">16</xref> The other strategy is the construction of a conductive network by adding conducting agent (such as carbon nanotubes, graphene, and other conductive carbon),<xref rid="advs370-bib-0017" ref-type="ref">17</xref>, <xref rid="advs370-bib-0018" ref-type="ref">18</xref>, <xref rid="advs370-bib-0019" ref-type="ref">19</xref>, <xref rid="advs370-bib-0020" ref-type="ref">20</xref> or doping,<xref rid="advs370-bib-0011" ref-type="ref">11</xref>, <xref rid="advs370-bib-0021" ref-type="ref">21</xref> or coating.<xref rid="advs370-bib-0008" ref-type="ref">8</xref>, <xref rid="advs370-bib-0022" ref-type="ref">22</xref> Although these approaches have been reported effective in terms of excellent high rate capabilities, the nanosizing compromises the tap density and colloidal stability, and the complicated preparation procedures are accompanied by high costs, making this strategy difficult to apply in practice.<xref rid="advs370-bib-0005" ref-type="ref">5</xref>
+</p><p>Here, we propose a different strategy to improve the LTO performance, focusing on the improvement of the quality of the LTO surface and staying within the boundary condition of the low cost and facile modification methods based on the available LIB manufacturing technology. Large&#x02010;scale production of LTO introduces surface defects, for example, an amorphous layer or the presence of impurity ions. In this work, for the first time, we describe a simple surface modification mechanism to prepare LTO particles with pure, clean, and nondefective surfaces through simple hydrothermal treatment with aqueous solution of sodium sulfide (Na<sub>2</sub>S). The modified LTO particles possess a higher first cycle Coulombic efficiency (&#x02248;95%), a significantly enhanced cycling performance, and a better rate capability, making this approach effective and promising for application in LIB technology. The modification process was systematically investigated and based on our results we propose the following mechanism: Under the hydrothermal environment of water, the LTO particles experienced a hydrolysis&#x02010;recrystallization process, which introduces anatase&#x02010;TiO<sub>2</sub> at the LTO surface. Benefiting from the alkaline environment created by Na<sub>2</sub>S and the surface adsorption of the sulfur&#x02010;containing group (HS<sup>&#x02212;</sup> or S<sup>2&#x02212;</sup>), the hydrolysis of LTO is reduced. At the same time, the recrystallization of anatase&#x02010;TiO<sub>2</sub> is suppressed entirely. Thus, the LTO phase is protected while the amorphous phase and impurity ions are removed by the hydrolysis. The surface reconstruction mechanism and the corresponding surface structure&#x02013;electrochemical performance relationship were characterized by Raman, inductive coupled plasma emission spectrometer (ICP) and cyclic voltammetry (CV) tests. This finding gives guidance to electrode material preparation and modification strategies. Furthermore, the proposed approach is facile and easy to scale up and can be combined with other treatments, such as coating or doping, for improving the performance of micro&#x02010; or nanosized LTO electrode materials.</p></sec><sec id="advs370-sec-0020"><label>2</label><title>Results and Discussion</title><p>The LTO particles show a suitable morphology for battery application,<xref rid="advs370-bib-0023" ref-type="ref">23</xref> namely, micrometer&#x02010;sized (&#x02248;12&#x02013;20 &#x000b5;m) secondary particles (<bold>Figure</bold>
+<xref rid="advs370-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref>a) composed of &#x02248;100&#x02013;500 nm primary particles (Figure <xref rid="advs370-fig-0001" ref-type="fig">1</xref>b). The spherical particles are easy to disperse and allow obtaining a high tap density (1.55 g cm<sup>&#x02212;3</sup>), which is a prerequisite for a large volumetric energy density. After modification with Na<sub>2</sub>S solution, the size and morphology of LTO particles do not change noticeable. However, through high&#x02010;resolution transmission electron microscopy (HR&#x02010;TEM), it is observed that the very thin (about 10 nm) outermost amorphous layer on the pristine LTO surface was totally removed (Figure <xref rid="advs370-fig-0001" ref-type="fig">1</xref>c,d), displaying a clear lattice fringe (Figure <xref rid="advs370-fig-0001" ref-type="fig">1</xref>d). The average lattice spacing is 0.487 nm corresponding to the LTO (111) plane, indicating the LTO crystal structure is well maintained after 8 h hydrothermal treatment with Na<sub>2</sub>S. The amorphous layer on the pristine LTO surface is probably generated during solid&#x02010;phase sintering, in which some impurity elements aggregated at the surface of the LTO particles, creating defects, and preventing the ordered arrangement of the Li, Ti, and O ions.<xref rid="advs370-bib-0015" ref-type="ref">15</xref> The significant signal of Cl 2s and Cl 2p X&#x02010;ray photoelectron spectroscopy (XPS) confirmed the presence of this impurity element in the amorphous layer of pristine LTO (Figure S1, Supporting Information). Disappearance of this impurity XPS signal in the modified LTO provided additional evidence on the highly improved quality of LTO surface.</p><fig fig-type="Figure" xml:lang="en" id="advs370-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Morphology and structure of the spherical Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> materials: a) SEM image of the pristine sample; b) magnified SEM image of the pristine sample; HR&#x02010;TEM image of c) pristine sample and d) modified sample (0.008 mol L<sup>&#x02212;1</sup> Na<sub>2</sub>S aqueous solution, 180 &#x000b0;C, 8 h).</p></caption><graphic id="nlm-graphic-3" xlink:href="ADVS-4-na-g001"/></fig><p>Coin&#x02010;type cells were assembled to evaluate the electrochemical properties of pristine LTO and modified LTO. <bold>Figure</bold>
+<xref rid="advs370-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref>a shows the first and second charge&#x02013;discharge profiles at 0.1 C rate (C = 175 mAh g<sup>&#x02212;1</sup>). The results show that the surface modification significantly improved the reversibility of lithium intercalation and deintercalation. This is supported by comparing the voltage during the initial stages of Li&#x02010;ion insertion between the first and the second cycle as indicated in Figure <xref rid="advs370-fig-0002" ref-type="fig">2</xref>a. Clearly, there is a difference in voltage between 1.5 and 2.0 V for the pristine LTO, whereas it is absent for the surface&#x02010;modified LTO. For anode materials, a difference in voltage usually indicates the occurrence of undesirable side reactions, associated with irreversible capacity loss. For example, this phenomenon has often been observed in graphite anodes at &#x02248;0.8 V (vs Li/Li<sup>+</sup>) during the initial discharge, in which the electrolyte decomposed on the graphite surface and then formed a SEI, consuming cyclable lithium, lowering the Coulombic efficiency, and making obvious voltage deviation.<xref rid="advs370-bib-0024" ref-type="ref">24</xref>, <xref rid="advs370-bib-0025" ref-type="ref">25</xref>, <xref rid="advs370-bib-0026" ref-type="ref">26</xref> However, for LTO anodes, the Li<sup>+</sup> insertion&#x02013;extraction process occurs at 1.55 V (vs Li/Li<sup>+</sup>), far from the decomposition voltage of electrolyte and it is generally accepted that LTO surface cannot form a SEI film.<xref rid="advs370-bib-0027" ref-type="ref">27</xref> Thus, the origin of the side reaction most likely comes from the interaction between amorphous layer with the electrolyte. The increase of the average first Coulombic efficiency from 88.5% (pristine) to 94.9% (modified), based on 12 coin&#x02010;type cells for each sample (Figure <xref rid="advs370-fig-0002" ref-type="fig">2</xref>b), also strongly suggests that the impure and amorphous surface of pristine LTO mainly leads to the consumption of cyclable lithium and electrolyte. Furthermore, the side reactions not only cause evident Coulombic efficiency loss during the first one or two cycles, but also severely impaired the cycle life of LTO. Figure <xref rid="advs370-fig-0002" ref-type="fig">2</xref>c compares the cycle performance of pristine and modified LTO under 5 C&#x02010;rate current. After 300 discharge&#x02013;charge cycles, the modified LTO with clean surfaces delivers a specific capacity retention as high as 75%, whereas the pristine sample only keeps 44% of the initial capacity. Figure <xref rid="advs370-fig-0001" ref-type="fig">1</xref>d displays the rate capabilities cycled at current rates from 1 to 20 C. For the currents smaller than 5 C, there is no difference in the specific capacity between the pristine and modified LTO. However, when the cycling rate increases to 10 C and larger, the modified LTO shows better capacity retention. It suggests that the 10 nm amorphous layer, to some degree, forms a diffusion barrier for Li<sup>+</sup> between the electrolyte and the spinel LTO phase, which hinders the charge&#x02010;transfer process, which apparently becomes rate limiting at large currents. Although the rate performance does not achieve that of carbon&#x02010;coated LTO, nano/porous LTO, or other samples based on methods aiming at improving the conductivity,<xref rid="advs370-bib-0028" ref-type="ref">28</xref>, <xref rid="advs370-bib-0029" ref-type="ref">29</xref>, <xref rid="advs370-bib-0030" ref-type="ref">30</xref>, <xref rid="advs370-bib-0031" ref-type="ref">31</xref>, <xref rid="advs370-bib-0032" ref-type="ref">32</xref>, <xref rid="advs370-bib-0033" ref-type="ref">33</xref> these results demonstrate the importance of the surface quality for the performance of electrode materials, giving guidance to design and produce high&#x02010;performance materials.</p><fig fig-type="Figure" xml:lang="en" id="advs370-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Electrochemical performance of the pristine and modified Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> materials: a) charge&#x02013;discharge profile of first two cycles at 0.1 C (1 C = 175 mA g<sup>&#x02212;1</sup>) in a voltage range from 1.0 to 2.5 V; b) the first cycle Coulombic efficiency of pristine and modified samples; c) cycling performance at 5 C current and d) rate capability from 0.1 to 20 C.</p></caption><graphic id="nlm-graphic-5" xlink:href="ADVS-4-na-g002"/></fig><p>In order to find out the surface reconstruction mechanism during a simple hydrothermal treatment, Raman spectroscopy, mainly sensitive to particle surface and near&#x02010;surface region, was employed to measure a series of LTO samples. <bold>Figure</bold>
+<xref rid="advs370-fig-0003" ref-type="fig">
+<bold>3</bold>
+</xref>a shows the Raman spectroscopy results of the pristine and the hydrothermally treated samples with water (0 mol L<sup>&#x02212;1</sup> Na<sub>2</sub>S) for 4, 8, and 12 h, in turn (black color). The Raman spectrum of the initial sample is fully assigned to the F2g mode of bending vibration &#x003b4;(Ti&#x02013;O), can be taken as a characteristic Raman fingerprint of LTO. After 4 h treatment, another group Raman bands appeared and the intensity of these bands increased with the extension of hydrothermal time. According to the theoretical calculation and the Raman result of standard sample of anatase&#x02010;TiO<sub>2</sub> (blue color in Figure <xref rid="advs370-fig-0003" ref-type="fig">3</xref>a), all the emerging Raman bands centered at 141, 392, 512, and 637 cm<sup>&#x02212;1</sup> are attributed to anatase&#x02010;TiO<sub>2</sub>. Powder X&#x02010;ray diffraction results also support the existence of anatase&#x02010;TiO<sub>2</sub> (Figure S2, Supporting Information). Also, the most intense Raman band at 141 cm<sup>&#x02212;1</sup> corresponds to a characteristic Raman indicator of anatase&#x02010;TiO<sub>2</sub>. Herein, we define the intensity ratio of Raman bands at 141 and 231 cm<sup>&#x02212;1</sup> (<italic>I</italic>
+<sub>141</sub>/<italic>I</italic>
+<sub>231</sub> or A/L) as the indicator of anatase&#x02010;TiO<sub>2</sub> content. In other words, the higher the value of A/L, the higher the content of anatase&#x02010;TiO<sub>2</sub>. The Ti&#x02010;O bonds in anatase&#x02010;TiO<sub>2</sub> possess large polarity which tends to react with trace water in electrolyte and form hydroxyl groups on the surface. The hydroxyl groups are Lewis&#x02010;acid sites which are considered to be able to initiate the decomposition of electrolyte solvent. Due to this high catalytic activity, anatase&#x02010;TiO<sub>2</sub> is considered as an undesired phase and potentially triggers severe side reactions and gassing.<xref rid="advs370-bib-0034" ref-type="ref">34</xref>, <xref rid="advs370-bib-0035" ref-type="ref">35</xref> Interestingly, for the hydrothermal treated LTO with 0.008 mol L<sup>&#x02212;1</sup> Na<sub>2</sub>S aqueous solution, the A/L value is always zero from 4 to 12 h, indicating that Na<sub>2</sub>S prevents the formation of anatase&#x02010;TiO<sub>2</sub> phase on the LTO surface. Consistently, no X&#x02010;ray diffraction peaks of anatase&#x02010;TiO<sub>2</sub> were observed (Figure S2, Supporting Information). To verify this result, high resolution of synchrotron X&#x02010;ray was employed for the sample after 12 h treatment. From the synchrotron data, no anatase&#x02010;TiO<sub>2</sub> phase can be found indicting the total inhibition of TiO<sub>2</sub> phase (Figure S3, Supporting Information). Furthermore, compared with the Raman signal of the pristine sample, a significant enhancement was observed in samples after Na<sub>2</sub>S&#x02010;assisted hydrothermal treatments (Figure <xref rid="advs370-fig-0003" ref-type="fig">3</xref>b), actively supporting the removal of amorphous layer observed by HR&#x02010;TEM.</p><fig fig-type="Figure" xml:lang="en" id="advs370-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Raman spectra of hydrothermal treated Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> a) with water and b) with 0.008 mol L<sup>&#x02212;1</sup> Na<sub>2</sub>S aqueous solution.</p></caption><graphic id="nlm-graphic-7" xlink:href="ADVS-4-na-g003"/></fig><p>Through a series of analogous experiments performed with initial LTO (5 g) and different concentrations of Na<sub>2</sub>S (10 levels from 0 to 0.02 mol L<sup>&#x02212;1</sup>) for 8 h (Figure S4 and Table S1, Supporting Information), it is suggested that the anatase&#x02010;TiO<sub>2</sub> phase can be inhibited when the Na<sub>2</sub>S concentration exceeds 0.004 mol L<sup>&#x02212;1</sup> resulting in a high&#x02010;quality LTO surface. <bold>Figure</bold>
+<xref rid="advs370-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref>a displays the concentration of soluble lithium and titanium in the solution during hydrothermal treatment (0 mol L<sup>&#x02212;1</sup> Na<sub>2</sub>S) as a function of time. The data suggest that the dissolved amount of lithium always increases with time, while the soluble Ti first reaches a peak concentration at 4 h (0.26 mg L<sup>&#x02212;1</sup>) after which it decreases to a relatively low level. Thus, combined with the Raman results, this infers that the surface evolution without Na<sub>2</sub>S includes two stages. In the first stage, the outmost layer of Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> begins to hydrolyze, during which the amount of soluble Li and Ti experiences an increase. The hydrolytic process is shown in Equations <xref rid="advs370-disp-0001" ref-type="disp-formula">(1)</xref> and <xref rid="advs370-disp-0002" ref-type="disp-formula">(2)</xref>. Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> first transforms to TiO(OH)<sub>2</sub> and the Li<sup>+</sup> dissolves, subsequently some TiO(OH)<sub>2</sub> transforms to dissolved TiO<sub>3</sub>
+<sup>2&#x02212;</sup> in water. In the second the stage, Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> continues releasing the Li<sup>+</sup> from the lattice, while TiO(OH)<sub>2</sub> no longer hydrolyzes but transforms to anatase&#x02010;TiO<sub>2</sub> (Equation <xref rid="advs370-disp-0003" ref-type="disp-formula">(3)</xref>). Additionally, some dissolved TiO<sub>3</sub>
+<sup>2&#x02212;</sup> may be absorbed again to the particle surface which then recrystallized to anatase&#x02010;TiO<sub>2</sub> (Equation <xref rid="advs370-disp-0004" ref-type="disp-formula">(4)</xref>). This explains why in the second stage the concentration of Li continues increasing while the concentration of Ti drops to a relatively small value. <disp-formula id="advs370-disp-0001"><label>(1)</label><mml:math id="nlm-math-1"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mn>4</mml:mn></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">Ti</mml:mi></mml:mrow><mml:mn>5</mml:mn></mml:msub><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mrow><mml:mn>12</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mfenced><mml:mi mathvariant="normal">s</mml:mi></mml:mfenced></mml:mrow><mml:mo>+</mml:mo><mml:mn>7</mml:mn><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mo>=</mml:mo><mml:mn>5</mml:mn><mml:mi mathvariant="normal">TiO</mml:mi><mml:msub><mml:mrow><mml:mrow><mml:mfenced><mml:mrow><mml:mi mathvariant="normal">OH</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mrow><mml:mfenced><mml:mi mathvariant="normal">s</mml:mi></mml:mfenced></mml:mrow><mml:mo>+</mml:mo><mml:mn>4</mml:mn><mml:msup><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mo>+</mml:mo></mml:msup><mml:mo>+</mml:mo><mml:mn>4</mml:mn><mml:msup><mml:mrow><mml:mi mathvariant="normal">OH</mml:mi></mml:mrow><mml:mo>&#x02212;</mml:mo></mml:msup></mml:mrow></mml:math></disp-formula>
+<disp-formula id="advs370-disp-0002"><label>(2)</label><mml:math id="nlm-math-2"><mml:mrow><mml:mi mathvariant="normal">TiO</mml:mi><mml:msub><mml:mrow><mml:mrow><mml:mfenced><mml:mrow><mml:mi mathvariant="normal">OH</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mrow><mml:mfenced><mml:mi mathvariant="normal">s</mml:mi></mml:mfenced></mml:mrow><mml:mo>+</mml:mo><mml:mn>2</mml:mn><mml:msup><mml:mrow><mml:mi mathvariant="normal">OH</mml:mi></mml:mrow><mml:mo>&#x02212;</mml:mo></mml:msup><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">TiO</mml:mi></mml:mrow><mml:mn>3</mml:mn></mml:msub><mml:msup><mml:mrow/><mml:mrow><mml:mi mathvariant="normal">&#x02009;</mml:mi><mml:mi mathvariant="normal">&#x02009;</mml:mi><mml:mn>2</mml:mn><mml:mo>&#x02212;</mml:mo></mml:mrow></mml:msup><mml:mo>+</mml:mo><mml:mn>2</mml:mn><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi mathvariant="normal">O</mml:mi></mml:mrow></mml:math></disp-formula>
+<disp-formula id="advs370-disp-0003"><label>(3)</label><mml:math id="nlm-math-3"><mml:mrow><mml:mi mathvariant="normal">TiO</mml:mi><mml:msub><mml:mrow><mml:mrow><mml:mfenced><mml:mrow><mml:mi mathvariant="normal">OH</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">TiO</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi mathvariant="normal">O</mml:mi></mml:mrow></mml:math></disp-formula>
+<disp-formula id="advs370-disp-0004"><label>(4)</label><mml:math id="nlm-math-4"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">TiO</mml:mi></mml:mrow><mml:mn>3</mml:mn></mml:msub><mml:msup><mml:mrow/><mml:mrow><mml:mi mathvariant="normal">&#x02009;</mml:mi><mml:mi mathvariant="normal">&#x02009;</mml:mi><mml:mn>2</mml:mn><mml:mo>&#x02212;</mml:mo></mml:mrow></mml:msup><mml:mo>+</mml:mo><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">TiO</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msup><mml:mrow><mml:mi mathvariant="normal">2OH</mml:mi></mml:mrow><mml:mo>&#x02212;</mml:mo></mml:msup></mml:mrow></mml:math></disp-formula>
+</p><fig fig-type="Figure" xml:lang="en" id="advs370-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>The concentration evolution of soluble Li and Ti (data acquired from Inductive Coupled Plasma Emission Spectra) during the hydrothermal treatment process: a) with water and b) with 0.008 mol L<sup>&#x02212;1</sup> Na<sub>2</sub>S aqueous solution. c) Surface modification mechanisms of Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> under hydrothermal environment of water and Na<sub>2</sub>S solution.</p></caption><graphic id="nlm-graphic-9" xlink:href="ADVS-4-na-g004"/></fig><p>This process can be described as the hydrolysis&#x02010;recrystallization process (Figure <xref rid="advs370-fig-0004" ref-type="fig">4</xref>c). When some Na<sub>2</sub>S was added to the solution, the hydrolysis&#x02010;recrystallization process was disturbed. It is directly proved by the ICP data (Figure <xref rid="advs370-fig-0004" ref-type="fig">4</xref>b, 0.008 mol L<sup>&#x02212;1</sup> Na<sub>2</sub>S) that both of the Li and Ti concentration increase, not reaching a maximum during the hydrothermal process. Based on our results, we propose the following surface reconstruction mechanism of LTO, depicted in Figure <xref rid="advs370-fig-0004" ref-type="fig">4</xref>c. The impact of the presence of Na<sub>2</sub>S manifests itself in two aspects. First, the alkaline environment created by Na<sub>2</sub>S may, to some extent, weaken the hydrolysis of Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub>.<xref rid="advs370-bib-0036" ref-type="ref">36</xref> For this reason, the Li concentration after 12 h treatment with Na<sub>2</sub>S is only about 70% of that without Na<sub>2</sub>S (Figure <xref rid="advs370-fig-0004" ref-type="fig">4</xref>a,b). Second, some S<sup>2&#x02212;</sup> or HS<sup>&#x02212;</sup> ions may be adsorbed on the particle surface or replace the position of O<sup>2&#x02212;</sup> on the surface region, enhancing the steric hindrance, avoiding the absorption of TiO<sub>3</sub>
+<sup>2&#x02212;</sup>, and making the recrystallization process impossible (Figure S5, Supporting Information). The consequence is that in the presence of Na<sub>2</sub>S only the hydrolysis occurs which completely removes the amorphous layer including the impurity elements resulting in a pure, clean, and nondefective surface.</p><p>CV measurements were carried out to investigate the relationship of the surface structure with the electrochemical behavior. Figure S6 (Supporting Information) exhibits the typical CV curve of LTO electrode at a scan rate of 0.1 mV s<sup>&#x02212;1</sup> for five cycles. A pair of sharp and intense redox current peaks is observed at about 1.66 and 1.49 V on all the tested samples including the pristine LTO, the hydrothermal treated LTO with water, and with 0.008 mol L<sup>&#x02212;1</sup> Na<sub>2</sub>S aqueous solution. The peaks were due to the Li<sup>+</sup> insertion and deinsertion in LTO.<xref rid="advs370-bib-0037" ref-type="ref">37</xref> Further analysis of the three samples identified that some subtle distinctions are hidden in the CV curves. <bold>Figure</bold>
+<xref rid="advs370-fig-0005" ref-type="fig">
+<bold>5</bold>
+</xref> shows the detailed difference during the selected part of the CV curves, namely, between 2.5 and 1.6 V during the anodic sweep and between 1.8 and 2.5 V during the cathodic sweep. Figure <xref rid="advs370-fig-0005" ref-type="fig">5</xref>a,b displays the CV details of pristine LTO, showing a distinct anodic current peak at 2.0 V during the first lithium insertion process and an almost invisible cathodic current peak in corresponding delithiation process. This is in agreement with our inference that some irreversible reaction occurs on the amorphous layer. Moreover, the nonoverlapping CV curves in the first five cycles (as shown in Figure <xref rid="advs370-fig-0005" ref-type="fig">5</xref>b) also suggests that the surface is not stable despite that the irreversible reaction only appears to occur in the first cycle, which may explain the poor cycling performance of the pristine LTO. The hydrothermal&#x02010;treated LTO with water shows another pair of redox peaks at 1.70 and 2.08 V (Figure <xref rid="advs370-fig-0005" ref-type="fig">5</xref>c,d), attributed to lithium intercalation and deintercalation concerning the anatase&#x02010;TiO<sub>2</sub> phase.<xref rid="advs370-bib-0038" ref-type="ref">38</xref> While for the modified LTO by Na<sub>2</sub>S&#x02010;assisted hydrothermal treatment (Figure <xref rid="advs370-fig-0005" ref-type="fig">5</xref>e,f), no additional current peaks were observed, implying that the high&#x02010;quality surface possesses better electrochemical properties. Thus, the surface&#x02013;property relationship is revealed by the detailed CV analysis, supporting that the high&#x02010;quality surface, without the amorphous or anatase&#x02010;TiO<sub>2</sub> surface layer, is responsible for the improved electrochemical performance.</p><fig fig-type="Figure" xml:lang="en" id="advs370-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Selected parts of the cyclic voltammetry curves at a scan rate of 0.1 mV s<sup>&#x02212;1</sup>: a,b) pristine Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub>; c,d) hydrothermal treated sample with water; e,f) hydrothermal treated sample with 0.008 mol L<sup>&#x02212;1</sup> Na<sub>2</sub>S.</p></caption><graphic id="nlm-graphic-11" xlink:href="ADVS-4-na-g005"/></fig></sec><sec id="advs370-sec-0030"><label>3</label><title>Conclusions</title><p>In summary, a facile modification method was introduced for Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> anode materials existing of simple hydrothermal treatment with a Na<sub>2</sub>S aqueous solution. Based on the HR&#x02010;TEM, XPS, and Raman observations during the treatment, an &#x02248;10 nm amorphous layer at the outmost layer of pristine Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> was entirely removed resulting in clean and nondefective surfaces. The subsequent electrochemical measurements show that the modified Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> spheres possess a higher Coulombic efficiency (94.9%) during the first cycle, a longer cycle life, and a better rate capability. It is interesting that the hydrothermal treatment with water results in anatase&#x02010;TiO<sub>2</sub> on the Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> surface, while the hydrothermal&#x02010;treated Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> sample with the Na<sub>2</sub>S aqueous solution maintains a pure and high&#x02010;quality spinel&#x02010;Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> phase. The surface reconstruction mechanism and chemical process were carefully investigated through a series of experiments with different concentration of Na<sub>2</sub>S aqueous solution and hydrothermal treatment time. The combined Raman and ICP analysis revealed that the interaction of water and Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> particle is a hydrolysis&#x02010;recrystallization process, while with a proper amount of Na<sub>2</sub>S (0.004 mol L<sup>&#x02212;1</sup> at least), the recrystallization process can be totally hindered due to the adsorption of S<sup>2&#x02212;</sup> or HS<sup>&#x02212;</sup> ions. These findings shed new light on the importance of surface phenomena that need to be fully understood and ultimately controlled by developing practical methods for electrode material preparation and modification.</p></sec><sec id="advs370-sec-0040"><label>4</label><title>Experimental Section</title><p>
+<italic>Surface&#x02010;Modified Method</italic>: The LTO material used in this study was purchased from Ishihara Sangyo Kaisha Co. Ltd. (Japan). The LTO particles were modified using a simple hydrothermal procedure. Typically, 5 g of LTO and 0.16 g of Na<sub>2</sub>S&#x02022;9H<sub>2</sub>O (Aldrich) were thoroughly mixed in 80 mL of water (i.e., &#x02248;0.008 mol L<sup>&#x02212;1</sup> Na<sub>2</sub>S solution) at ambient temperature. Then the solution was transferred to a 100 mL Teflon&#x02010;lined stainless reactor and placed in an oven at 180 &#x000b0;C for 8 h. After that, the solution was centrifuged, collected, and taken to detect the concentration of soluble lithium and titanium by ICP tests (Agilent). Meanwhile, the white solid samples were collected by direct filtrating, washing with water, and then drying at 120 &#x000b0;C. To investigate the surface reconstruction process and mechanism, a series of analogous experiments were performed with 5 g LTO and different concentrations of Na<sub>2</sub>S (from 0 to 0.02 mol L<sup>&#x02212;1</sup>) and different hydrothermal duration (2, 4, 8, and 12 h).</p><p>
+<italic>Structural Characterization</italic>: The morphology and size of the LTO were characterized using a HITACHI S4800 scanning electron microscope (SEM). HR&#x02010;TEM was performed using a 300 kV field emission&#x02010;TEM (FE&#x02010;TEM; Tecnai G<sup>2</sup>F30; FEI, USA). The phase and the crystallographic structure of the LTO were characterized by powder X&#x02010;ray diffraction using Cu K&#x003b1; radiation (&#x003bb; = 1.5418 &#x000c5;) at the range of 10&#x000b0;&#x02013;70&#x000b0; (XRD; D/Max 250/PC; Regaku, Japan). Synchrotron X&#x02010;ray was also employed to detect the possible minor phase of anatase&#x02010;TiO2. The X&#x02010;ray diffraction data were obtained at beamline BL14B1 of the Shanghai Synchrotron Radiation Facility (SSRF) using X&#x02010;ray with a wavelength of 0.6896 &#x000c5;. The detailed information about beamline BL14B1 can be found in ref. <xref rid="advs370-bib-0039" ref-type="ref">39</xref>. The surface structures of LTO were characterized by Raman spectroscopy employing an excitation wavelength of 532 nm at room temperature (LabRam HR800; HORIBA Jobin Yvon Co. Ltd., France). XPS analyses were conducted with a spectrometer using focused monochromatized Al K&#x003b1; radiation (Thermo Fisher, ESCALAB 250Xi, USA).</p><p>
+<italic>Electrochemical Characterization</italic>: Electrochemical tests were carried out using coin&#x02010;type cells (CR2032) assembled in an argon&#x02010;filled glove box. The working electrode was fabricated by casting the mixture of active material (LTO; 80 wt%), super&#x02010;P (SP; 10 wt%), and poly(vinyl difluoride) (PVDF; 10 wt%) onto an aluminum foil. A polypropylene film (Celgard 2300; USA) was used as a separator, and the pure metallic lithium foil was used as a counter electrode. The 1 <sc>m</sc> LiPF<sub>6</sub> in ethylene carbonate (EC)/dimethyl carbonate (DMC)/diethyl carbonate (DEC) (1:1:1) solvent was employed as electrolyte. In our study, the loading mass of active materials is about 7.2 mg cm<sup>&#x02212;2</sup>. The cycling and rate capability measurements of the assembled cells were carried out using a Land CT2001A system. The CV tests were performed using an electrochemical workstation (Solartron 1470E, UK). All the described cell tests were performed in the voltage range of 1.0&#x02212;2.5 V (vs Li<sup>+</sup>/Li) at 25 &#x000b0;C.</p></sec><sec id="advs370-sec-0060"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-4-na-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs370-sec-0050"><title>Acknowledgements</title><p>This work was supported by the National Key Basic Research Program of China (2014CB932400), the National Natural Science Foundation of China (51202121 and 51232005), the Shenzhen Basic Research Project (No. ZDSYS20140509172959981 and JCYJ20140417115840246), and the Guangdong Province Innovation R&#x00026;D Team Plan for Energy and Environmental Materials (2009010025). The authors thank beamline BL14B1 (Shanghai Synchrotron Radiation Facility) for providing the beam time and help during experiments.</p></ack><ref-list id="advs370-bibl-0001"><ref id="advs370-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs370-cit-0001">
+<string-name>
+<given-names>E.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Jung</surname>
+</string-name>, <string-name>
+<given-names>G.&#x02010;H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chun</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Wiesner</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Dillon</surname>
+</string-name>, <string-name>
+<given-names>J. K.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2011</year>, <volume>21</volume>, <fpage>4349</fpage>.</mixed-citation></ref><ref id="advs370-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs370-cit-0002">
+<string-name>
+<given-names>X.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>H. C.</given-names>
+<surname>Chiu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>G. P.</given-names>
+<surname>Demopoulos</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2015</year>, <volume>137</volume>, <fpage>1581</fpage>.<pub-id pub-id-type="pmid">25583063</pub-id></mixed-citation></ref><ref id="advs370-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs370-cit-0003">
+<string-name>
+<given-names>W. K.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name>
+<given-names>V. K.</given-names>
+<surname>Peterson</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sharma</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;J.</given-names>
+<surname>Shiu</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;H.</given-names>
+<surname>Wu</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2014</year>, <volume>26</volume>, <fpage>2318</fpage>.</mixed-citation></ref><ref id="advs370-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs370-cit-0004">
+<string-name>
+<given-names>G.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2012</year>, <volume>24</volume>, <fpage>3329</fpage>.</mixed-citation></ref><ref id="advs370-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs370-cit-0005">
+<string-name>
+<given-names>K.</given-names>
+<surname>Amine</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Belharouak</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Tran</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yumoto</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Ota</surname>
+</string-name>, <string-name>
+<given-names>S. T.</given-names>
+<surname>Myung</surname>
+</string-name>, <string-name>
+<given-names>Y. K.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2010</year>, <volume>22</volume>, <fpage>3052</fpage>.<pub-id pub-id-type="pmid">20518042</pub-id></mixed-citation></ref><ref id="advs370-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs370-cit-0006">
+<string-name>
+<given-names>G.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sharma</surname>
+</string-name>, <string-name>
+<given-names>V. K.</given-names>
+<surname>Peterson</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Kimpton</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2011</year>, <volume>21</volume>, <fpage>3990</fpage>.</mixed-citation></ref><ref id="advs370-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs370-cit-0007">
+<string-name>
+<given-names>L.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Uchaker</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cao</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2012</year>, <volume>24</volume>, <fpage>6502</fpage>.<pub-id pub-id-type="pmid">23038151</pub-id></mixed-citation></ref><ref id="advs370-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs370-cit-0008">
+<string-name>
+<given-names>Y. Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X. Q.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tsukimoto</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ikuhara</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Wan</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2012</year>, <volume>134</volume>, <fpage>7874</fpage>.<pub-id pub-id-type="pmid">22530994</pub-id></mixed-citation></ref><ref id="advs370-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs370-cit-0009">
+<string-name>
+<given-names>C.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>N. S.</given-names>
+<surname>Norberg</surname>
+</string-name>, <string-name>
+<given-names>C. T.</given-names>
+<surname>Alexander</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Kostecki</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cabana</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2013</year>, <volume>23</volume>, <fpage>1214</fpage>.</mixed-citation></ref><ref id="advs370-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs370-cit-0010">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2014</year>, <volume>24</volume>, <fpage>4349</fpage>.</mixed-citation></ref><ref id="advs370-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs370-cit-0011">
+<string-name>
+<given-names>H.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>T. G.</given-names>
+<surname>Jeong</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Moon</surname>
+</string-name>, <string-name>
+<given-names>H. H.</given-names>
+<surname>Chun</surname>
+</string-name>, <string-name>
+<given-names>K. Y.</given-names>
+<surname>Chung</surname>
+</string-name>, <string-name>
+<given-names>H. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>B. W.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name>
+<given-names>Y. T.</given-names>
+<surname>Kim</surname>
+</string-name>, <source>Sci. Rep.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>4350</fpage>.<pub-id pub-id-type="pmid">24618982</pub-id></mixed-citation></ref><ref id="advs370-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs370-cit-0012">
+<string-name>
+<given-names>W.</given-names>
+<surname>Schmidt</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Bottke</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sternad</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Gollob</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Hennige</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wilkening</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>1740</fpage>.</mixed-citation></ref><ref id="advs370-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs370-cit-0013">
+<string-name>
+<given-names>T.</given-names>
+<surname>Ohzuku</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Ueda</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yamamota</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>1995</year>, <volume>142</volume>, <fpage>1431</fpage>.</mixed-citation></ref><ref id="advs370-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs370-cit-0014">
+<string-name>
+<given-names>B.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Yoon</surname>
+</string-name>, <source>Electron. Mater. Lett.</source>
+<year>2013</year>, <volume>9</volume>, <fpage>871</fpage>.</mixed-citation></ref><ref id="advs370-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs370-cit-0015">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>S&#x000f8;ndergaard</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Christensen</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Birgisson</surname>
+</string-name>, <string-name>
+<given-names>B. B.</given-names>
+<surname>Iversen</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2014</year>, <volume>26</volume>, <fpage>3679</fpage>.</mixed-citation></ref><ref id="advs370-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs370-cit-0016">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Eltzholtz</surname>
+</string-name>, <string-name>
+<given-names>B. B.</given-names>
+<surname>Iversen</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2013</year>, <volume>25</volume>, <fpage>5023</fpage>.</mixed-citation></ref><ref id="advs370-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs370-cit-0017">
+<string-name>
+<given-names>B.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>11773</fpage>.</mixed-citation></ref><ref id="advs370-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs370-cit-0018">
+<string-name>
+<given-names>C.&#x02010;C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Hwu</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>W.&#x02010;C.</given-names>
+<surname>Chien</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Y.</given-names>
+<surname>Shih</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2014</year>, <volume>125</volume>, <fpage>637</fpage>.</mixed-citation></ref><ref id="advs370-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs370-cit-0019">
+<string-name>
+<given-names>L.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Nie</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2013</year>, <volume>3</volume>, <fpage>1484</fpage>.</mixed-citation></ref><ref id="advs370-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs370-cit-0020">
+<string-name>
+<given-names>L.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Uchaker</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Nie</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cao</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2012</year>, <volume>4</volume>, <fpage>2985</fpage>.<pub-id pub-id-type="pmid">22630038</pub-id></mixed-citation></ref><ref id="advs370-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs370-cit-0021">
+<string-name>
+<given-names>K. S.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Benayad</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>S. G.</given-names>
+<surname>Doo</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2008</year>, <volume>130</volume>, <fpage>14930</fpage>.<pub-id pub-id-type="pmid">18855392</pub-id></mixed-citation></ref><ref id="advs370-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs370-cit-0022">
+<string-name>
+<given-names>L.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>23570</fpage>.</mixed-citation></ref><ref id="advs370-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs370-cit-0023">
+<string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Noh</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Youn</surname>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Yoon</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;K.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2013</year>, <volume>233</volume>, <fpage>121</fpage>.</mixed-citation></ref><ref id="advs370-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs370-cit-0024">
+<string-name>
+<given-names>S.</given-names>
+<surname>Leroy</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Blanchard</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dedryv&#x000e8;re</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Martinez</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Carr&#x000e9;</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Lemordant</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Gonbeau</surname>
+</string-name>, <source>Surf. Interface Anal.</source>
+<year>2005</year>, <volume>37</volume>, <fpage>773</fpage>.</mixed-citation></ref><ref id="advs370-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs370-cit-0025">
+<string-name>
+<given-names>F.</given-names>
+<surname>Kong</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Kostecki</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Nadeau</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zaghib</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kinoshita</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>McLarnon</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2001</year>, <volume>97&#x02013;8</volume>, <fpage>58</fpage>.</mixed-citation></ref><ref id="advs370-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs370-cit-0026">
+<string-name>
+<given-names>G.</given-names>
+<surname>Gourdin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Collins</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Foster</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Qu</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2014</year>, <volume>118</volume>, <fpage>17383</fpage>.</mixed-citation></ref><ref id="advs370-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs370-cit-0027">
+<string-name>
+<given-names>V.</given-names>
+<surname>Aravindan</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;S.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Madhavi</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>1402225</fpage>.</mixed-citation></ref><ref id="advs370-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs370-cit-0028">
+<string-name>
+<given-names>L.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Uchaker</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cao</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2012</year>, <volume>12</volume>, <fpage>5673</fpage>.<pub-id pub-id-type="pmid">23092272</pub-id></mixed-citation></ref><ref id="advs370-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs370-cit-0029">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;H.</given-names>
+<surname>Baek</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2015</year>, <volume>296</volume>, <fpage>109</fpage>.</mixed-citation></ref><ref id="advs370-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs370-cit-0030">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Jiang</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2016</year>, <volume>302</volume>, <fpage>233</fpage>.</mixed-citation></ref><ref id="advs370-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs370-cit-0031">
+<string-name>
+<given-names>L. Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>H. Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S. S.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>Y. K.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>S. T.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Min</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Lei</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>24446</fpage>.</mixed-citation></ref><ref id="advs370-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs370-cit-0032">
+<string-name>
+<given-names>C.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>A.&#x02010;Y.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;B.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Lin</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>13340</fpage>.</mixed-citation></ref><ref id="advs370-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs370-cit-0033">
+<string-name>
+<given-names>G.</given-names>
+<surname>Hasegawa</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kanamori</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kiyomura</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kurata</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Nakanishi</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Abe</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>1400730</fpage>.</mixed-citation></ref><ref id="advs370-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs370-cit-0034">
+<string-name>
+<given-names>Y.&#x02010;B.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Q. H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J. K.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Sci. Rep.</source>
+<year>2012</year>, <volume>2</volume>, <fpage>913</fpage>.<pub-id pub-id-type="pmid">23209873</pub-id></mixed-citation></ref><ref id="advs370-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs370-cit-0035">
+<string-name>
+<given-names>C.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;B.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Q.&#x02010;H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;P.</given-names>
+<surname>Wong</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2017</year>, <volume>5</volume>, <fpage>6368</fpage>.</mixed-citation></ref><ref id="advs370-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs370-cit-0036">
+<string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;B.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2016</year>, <volume>21</volume>, <fpage>133</fpage>.</mixed-citation></ref><ref id="advs370-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs370-cit-0037">
+<string-name>
+<given-names>K.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Y.</given-names>
+<surname>Qiu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;M.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Q.&#x02010;Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>Q.&#x02010;C.</given-names>
+<surname>Zhuang</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2013</year>, <volume>108</volume>, <fpage>841</fpage>.</mixed-citation></ref><ref id="advs370-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs370-cit-0038">
+<string-name>
+<given-names>I. A.</given-names>
+<surname>Stenina</surname>
+</string-name>, <string-name>
+<given-names>T. L.</given-names>
+<surname>Kulova</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Skundin</surname>
+</string-name>, <string-name>
+<given-names>A. B.</given-names>
+<surname>Yaroslavtsev</surname>
+</string-name>, <source>Mater. Res. Bull.</source>
+<year>2016</year>, <volume>75</volume>, <fpage>178</fpage>.</mixed-citation></ref><ref id="advs370-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs370-cit-0039">
+<string-name>
+<given-names>T. Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>G. Z.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>Y. L.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>X. M.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>T. K.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X. T.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>X. Y.</given-names>
+<surname>Gao</surname>
+</string-name>, <source>Nucl. Sci. Technol.</source>
+<year>2015</year>, <volume>26</volume>, <fpage>020101</fpage>&#x02010;<lpage>1</lpage>.</mixed-citation></ref></ref-list></back></article>

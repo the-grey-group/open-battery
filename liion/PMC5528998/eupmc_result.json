@@ -1,0 +1,467 @@
+{
+  "id": [
+    "28746390"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28746390"
+  ],
+  "pmcid": [
+    "PMC5528998"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0181882"
+  ],
+  "title": [
+    "Homogenized modeling methodology for 18650 lithium-ion battery module under large deformation."
+  ],
+  "authorString": [
+    "Tang L, Zhang J, Cheng P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tang L"
+          ],
+          "firstName": [
+            "Liang"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Engineering, Beijing Forestry University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jinjie"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6977-6534",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Engineering, Beijing Forestry University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng P"
+          ],
+          "firstName": [
+            "Pengle"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "School of Engineering, Beijing Forestry University, Beijing, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6977-6534",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2572928"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e0181882"
+  ],
+  "abstractText": [
+    "Effective lithium-ion battery module modeling has become a bottleneck for full-size electric vehicle crash safety numerical simulation. Modeling every single cell in detail would be costly. However, computational accuracy could be lost if the module is modeled by using a simple bulk material or rigid body. To solve this critical engineering problem, a general method to establish a computational homogenized model for the cylindrical battery module is proposed. A single battery cell model is developed and validated through radial compression and bending experiments. To analyze the homogenized mechanical properties of the module, a representative unit cell (RUC) is extracted with the periodic boundary condition applied on it. An elastic-plastic constitutive model is established to describe the computational homogenized model for the module. Two typical packing modes, i.e., cubic dense packing and hexagonal packing for the homogenized equivalent battery module (EBM) model, are targeted for validation compression tests, as well as the models with detailed single cell description. Further, the homogenized EBM model is confirmed to agree reasonably well with the detailed battery module (DBM) model for different packing modes with a length scale of up to 15 × 15 cells and 12% deformation where the short circuit takes place. The suggested homogenized model for battery module makes way for battery module and pack safety evaluation for full-size electric vehicle crashworthiness analysis."
+  ],
+  "affiliation": [
+    "School of Engineering, Beijing Forestry University, Beijing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ions"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lithium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reproducibility of Results"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electricity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Models, Theoretical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computer Simulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electric Power Supplies"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mechanical Phenomena"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Ions"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Lithium"
+          ],
+          "registryNumber": [
+            "9FN79X2M3F"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0181882"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5528998"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5528998?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-10-23"
+  ],
+  "dateOfCreation": [
+    "2017-07-26"
+  ],
+  "firstIndexDate": [
+    "2017-07-31"
+  ],
+  "fullTextReceivedDate": [
+    "2017-08-10"
+  ],
+  "dateOfRevision": [
+    "2017-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2017-07-26"
+  ],
+  "firstPublicationDate": [
+    "2017-07-26"
+  ]
+}

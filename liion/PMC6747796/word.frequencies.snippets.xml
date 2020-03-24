@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6747796/results/word/frequencies/results.xml">
+  <result title="frequency" word="composite" count="78"/>
+  <result title="frequency" word="separators" count="66"/>
+  <result title="frequency" word="separator" count="65"/>
+  <result title="frequency" word="PVDF-HFP/DBP/C-TiO" count="57"/>
+  <result title="frequency" word="batteries" count="44"/>
+  <result title="frequency" word="lithium-ion" count="31"/>
+  <result title="frequency" word="(%)" count="28"/>
+  <result title="frequency" word="PVDF-HFP" count="26"/>
+  <result title="frequency" word="TiO" count="26"/>
+  <result title="frequency" word="electrochemical" count="26"/>
+  <result title="frequency" word="Figure" count="24"/>
+  <result title="frequency" word="thermal" count="24"/>
+  <result title="frequency" word="battery" count="23"/>
+  <result title="frequency" word="ionic" count="23"/>
+  <result title="frequency" word="conductivity" count="22"/>
+  <result title="frequency" word="assembled" count="21"/>
+  <result title="frequency" word="electrolyte" count="21"/>
+ </snippets>
+</snippetsTree>

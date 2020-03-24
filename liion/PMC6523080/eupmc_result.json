@@ -1,0 +1,405 @@
+{
+  "id": [
+    "31018548"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31018548"
+  ],
+  "pmcid": [
+    "PMC6523080"
+  ],
+  "doi": [
+    "10.3390/nano9040650"
+  ],
+  "title": [
+    "Dual Carbonaceous Materials Synergetic Protection Silicon as a High-Performance Free-Standing Anode for Lithium-Ion Battery."
+  ],
+  "authorString": [
+    "Li X, Bai Y, Wang M, Wang G, Ma Y, Huang Y, Zheng J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xing"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "The Center of New Energy Materials and Technology, School of Materials Science and Engineering, Southwest Petroleum University, Chengdu 610500, Sichuan, China. lixing198141@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Bai Y"
+          ],
+          "firstName": [
+            "Yongshun"
+          ],
+          "lastName": [
+            "Bai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "The Center of New Energy Materials and Technology, School of Materials Science and Engineering, Southwest Petroleum University, Chengdu 610500, Sichuan, China. bysdyr@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang M"
+          ],
+          "firstName": [
+            "Mingshan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "The Center of New Energy Materials and Technology, School of Materials Science and Engineering, Southwest Petroleum University, Chengdu 610500, Sichuan, China. ustbwangmingshan@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang G"
+          ],
+          "firstName": [
+            "Guoliang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "The Center of New Energy Materials and Technology, School of Materials Science and Engineering, Southwest Petroleum University, Chengdu 610500, Sichuan, China. wangguoliang1012@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "The Center of New Energy Materials and Technology, School of Materials Science and Engineering, Southwest Petroleum University, Chengdu 610500, Sichuan, China. mayanlouis@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Y"
+          ],
+          "firstName": [
+            "Yun"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "The Center of New Energy Materials and Technology, School of Materials Science and Engineering, Southwest Petroleum University, Chengdu 610500, Sichuan, China. huangyun982@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng J"
+          ],
+          "firstName": [
+            "Jianming"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Research Institute (RI), NingDe Amperex Technology Limited, Ningde 352100, Fujian, China. xmzhjm@126.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2800773"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomaterials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "NLMid": [
+            "101610216"
+          ],
+          "ISSN": [
+            "2079-4991"
+          ],
+          "ESSN": [
+            "2079-4991"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Silicon is the one of the most promising anode material alternatives for next-generation lithium-ion batteries. However, the low electronic conductivity, unstable formation of solid electrolyte interphase, and the extremely high volume expansion (up to 300%) which results in pulverization of Si and rapid fading of its capacity have been identified as primary reasons for hindering its application. In this work, we put forward to introduce dual carbonaceous materials synergetic protection to overcome the drawbacks of the silicon anode. The silicon nanoparticle was coated by pyrolysed carbon, and meanwhile anchored on the surface of reduced graphene oxide, to form a self-standing film composite (C@Si/rGO). The C@Si/rGO film electrode displays high flexibility and an ordered porous structure, which could not only buffer the Si nanoparticle expansion during lithiation/delithiation processes, but also provides the channels for fast electron transfer and lithium ion transport. Therefore, the self-standing C@Si/rGO film electrode shows a high reversible capacity of 1002 mAh g-1 over 100 cycles and exhibits much better rate capability, validating it as a promising anode for constructing high performance lithium-ion batteries."
+  ],
+  "affiliation": [
+    "The Center of New Energy Materials and Technology, School of Materials Science and Engineering, Southwest Petroleum University, Chengdu 610500, Sichuan, China. lixing198141@yahoo.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "16ZB0085"
+          ],
+          "agency": [
+            "Education Department of Sichuan Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2015CXTD04"
+          ],
+          "agency": [
+            "Youth Science and Technology Innovation Team of Energy Material Electrochemistry of Southwest Petroleum University"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "201710615031"
+          ],
+          "agency": [
+            "Undergraduate Innovation and Entrepreneurship Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017JQ0044"
+          ],
+          "agency": [
+            "Science & Technology Department of Sichuan Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Silicon",
+        "Carbon Coating",
+        "Anode",
+        "Reduced Graphene Oxide",
+        "Self-standing Film"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nano9040650"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6523080"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6523080?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-26"
+  ],
+  "firstIndexDate": [
+    "2019-04-25"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-06"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-23"
+  ],
+  "firstPublicationDate": [
+    "2019-04-23"
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "id": [
+    "31979008"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31979008"
+  ],
+  "pmcid": [
+    "PMC7074852"
+  ],
+  "doi": [
+    "10.3390/nano10020191"
+  ],
+  "title": [
+    "Nonstoichiometric Cu0.6Ni0.4Co2O4 Nanowires as an Anode Material for High Performance Lithium Storage."
+  ],
+  "authorString": [
+    "Li J, Jiang N, Liao J, Feng Y, Liu Q, Li H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Junhao"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Chemical Engineering and Light Industry, Guangdong University of Technology, Guangzhou 510006, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang N"
+          ],
+          "firstName": [
+            "Ningyi"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liao J"
+          ],
+          "firstName": [
+            "Jinyun"
+          ],
+          "lastName": [
+            "Liao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of chemistry and Materials Engineering, Huizhou University, Huizhou 516007, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Feng Y"
+          ],
+          "firstName": [
+            "Yufa"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of chemistry and Materials Engineering, Huizhou University, Huizhou 516007, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Q"
+          ],
+          "firstName": [
+            "Quanbing"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "School of Chemical Engineering and Light Industry, Guangdong University of Technology, Guangzhou 510006, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "School of chemistry and Materials Engineering, Huizhou University, Huizhou 516007, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2904497"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomaterials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "NLMid": [
+            "101610216"
+          ],
+          "ISSN": [
+            "2079-4991"
+          ],
+          "ESSN": [
+            "2079-4991"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Transition metal oxide is one of the most promising anode materials for lithium-ion batteries. Generally, the electrochemical property of transition metal oxides can be improved by optimizing their element components and controlling their nano-architecture. Herein, we designed nonstoichiometric Cu0.6Ni0.4Co2O4 nanowires for high performance lithium-ion storage. It is found that the specific capacity of Cu0.6Ni0.4Co2O4 nanowires remain 880 mAh g-1 after 50 cycles, exhibiting much better electrochemical performance than CuCo2O4 and NiCo2O4. After experiencing a large current charge and discharge state, the discharge capacity of Cu0.6Ni0.4Co2O4 nanowires recovers to 780 mAh g-1 at 50 mA g-1, which is ca. 88% of the initial capacity. The high electrochemical performance of Cu0.6Ni0.4Co2O4 nanowires is related to their better electronic conductivity and synergistic effect of metals. This work may provide a new strategy for the design of multicomponent transition metal oxides as anode materials for lithium-ion batteries."
+  ],
+  "affiliation": [
+    "School of Chemical Engineering and Light Industry, Guangdong University of Technology, Guangzhou 510006, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "21606050, U1801257, 21975056)"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Doping",
+        "Lithium-ion battery",
+        "Anode material",
+        "Nonstoichiometric",
+        "Cu0.6ni0.4co2o4 Nanowires"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nano10020191"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7074852"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7074852?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-26"
+  ],
+  "firstIndexDate": [
+    "2020-01-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-23"
+  ],
+  "dateOfRevision": [
+    "2020-03-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-22"
+  ],
+  "firstPublicationDate": [
+    "2020-01-22"
+  ]
+}

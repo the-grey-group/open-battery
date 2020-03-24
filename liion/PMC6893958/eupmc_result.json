@@ -1,0 +1,310 @@
+{
+  "id": [
+    "31815231"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31815231"
+  ],
+  "pmcid": [
+    "PMC6893958"
+  ],
+  "doi": [
+    "10.1021/acsomega.9b02766"
+  ],
+  "title": [
+    "Temperature-Controlled Synthesis of Li- and Mn-Rich Li1.2Mn0.54Ni0.13Co0.13O2 Hollow Nano/Sub-Microsphere Electrodes for High-Performance Lithium-Ion Battery."
+  ],
+  "authorString": [
+    "Alagar S, Karuppiah C, Madhuvilakku R, Piraman S, Yang CC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Alagar S"
+          ],
+          "firstName": [
+            "Srinivasan"
+          ],
+          "lastName": [
+            "Alagar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Sustainable Energy and Smart Materials Research Lab, Department of Nanoscience and Technology, Science Campus, Alagappa University, Karaikudi 630002, Tamil Nadu, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Karuppiah C"
+          ],
+          "firstName": [
+            "Chelladurai"
+          ],
+          "lastName": [
+            "Karuppiah"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Battery Research Center of Green Energy, Ming Chi University of Technology, New Taipei City 24301, Taiwan, ROC."
+          ]
+        },
+        {
+          "fullName": [
+            "Madhuvilakku R"
+          ],
+          "firstName": [
+            "Rajesh"
+          ],
+          "lastName": [
+            "Madhuvilakku"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Sustainable Energy and Smart Materials Research Lab, Department of Nanoscience and Technology, Science Campus, Alagappa University, Karaikudi 630002, Tamil Nadu, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Piraman S"
+          ],
+          "firstName": [
+            "Shakkthivel"
+          ],
+          "lastName": [
+            "Piraman"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Sustainable Energy and Smart Materials Research Lab, Department of Nanoscience and Technology, Science Campus, Alagappa University, Karaikudi 630002, Tamil Nadu, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang CC"
+          ],
+          "firstName": [
+            "Chun-Chen"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Battery Research Center of Green Energy, Ming Chi University of Technology, New Taipei City 24301, Taiwan, ROC."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "23"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2890412"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "20285-20296"
+  ],
+  "abstractText": [
+    "The calcination temperature plays a significant role in the structural, textural, and energy-storage performance of metal oxide nanomaterials in Li-ion battery application. Here, we report the formation of well-crystallized homogeneously dispersed Li1.2Mn0.54Ni0.13Co0.13O2 hollow nano/sub-microsphere architectures through a simple cost-effective coprecipitation and chemical mixing route without surface modification for improving the efficiency of energy storage devices. The synthesized Li1.2Mn0.54Ni0.13Co0.13O2 hollow nano/sub-microsphere cathode materials are calcined at 800, 900, 950, and 1000 °C. Among them, Li1.2Mn0.54Ni0.13Co0.13O2 calcined at 950 °C exhibits a high discharge capacity (277 mAh g-1 at 0.1C rate) and excellent capacity retention (88%) after 50 cycles and also delivers an excellent discharge capacity of >172 mAh g-1 at 5C rate. Good electrochemical performance of Li1.2Mn0.54Ni0.13Co0.13O2-950 is directly related to the optimized size of its primary particles (85 nm) (which constitute the spherical secondary particle, ∼720 nm) and homogeneous cation mixing. Higher calcination temperature (≥950 °C) leads to an increase of the primary particle size, poor cycling stability, and inferior rate capacity of Li1.2Mn0.54Ni0.13Co0.13O2 due to smashing of quasi-hollow spheres upon repeated lithium ion intercalations/deintercalations. Therefore, Li1.2Mn0.54Ni0.13Co0.13O2-950 is a promising electrode for the next-generation high-voltage and high-capacity Li-ion battery application."
+  ],
+  "affiliation": [
+    "Sustainable Energy and Smart Materials Research Lab, Department of Nanoscience and Technology, Science Campus, Alagappa University, Karaikudi 630002, Tamil Nadu, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.9b02766"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6893958"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6893958?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-10"
+  ],
+  "firstIndexDate": [
+    "2019-12-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-09"
+  ],
+  "dateOfRevision": [
+    "2019-12-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-21"
+  ],
+  "firstPublicationDate": [
+    "2019-11-21"
+  ]
+}

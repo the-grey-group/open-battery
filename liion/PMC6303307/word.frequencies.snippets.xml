@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6303307/results/word/frequencies/results.xml">
+  <result title="frequency" word="CuO" count="89"/>
+  <result title="frequency" word="nanowires" count="49"/>
+  <result title="frequency" word="NiO" count="47"/>
+  <result title="frequency" word="anode" count="32"/>
+  <result title="frequency" word="nanosheets" count="31"/>
+  <result title="frequency" word="Fig." count="30"/>
+  <result title="frequency" word="batteries" count="28"/>
+  <result title="frequency" word="nanowire" count="26"/>
+  <result title="frequency" word="CuO/NiO(NiSO" count="24"/>
+  <result title="frequency" word="capacity" count="23"/>
+  <result title="frequency" word="lithium-ion" count="23"/>
+ </snippets>
+</snippetsTree>

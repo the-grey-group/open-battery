@@ -1,0 +1,310 @@
+{
+  "id": [
+    "30023809"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30023809"
+  ],
+  "pmcid": [
+    "PMC6044703"
+  ],
+  "doi": [
+    "10.1021/acsomega.7b01950"
+  ],
+  "title": [
+    "Core-Shell Microcapsules Containing Flame Retardant Tris(2-chloroethyl phosphate) for Lithium-Ion Battery Applications."
+  ],
+  "authorString": [
+    "Baginska M, Sottos NR, White SR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Baginska M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Baginska"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Aerospace Engineering, University of Illinois Urbana-Champaign, 306 Talbot Laboratory, 104 S. Wright Street, Urbana, Illinois 61801, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Sottos NR"
+          ],
+          "firstName": [
+            "Nancy R"
+          ],
+          "lastName": [
+            "Sottos"
+          ],
+          "initials": [
+            "NR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5818-520X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, University of Illinois Urbana-Champaign, Materials Science and Engineering Building, 1304 W. Green Street, Urbana, Illinois 61801, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "White SR"
+          ],
+          "firstName": [
+            "Scott R"
+          ],
+          "lastName": [
+            "White"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0831-9097",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Aerospace Engineering, University of Illinois Urbana-Champaign, 306 Talbot Laboratory, 104 S. Wright Street, Urbana, Illinois 61801, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0831-9097",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5818-520X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2657237"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1609-1613"
+  ],
+  "abstractText": [
+    "Flame retardant tris(2-chloroethyl phosphate) (TCP) is successfully encapsulated in core-shell poly(urea-formaldehyde) microcapsules by in situ polymerization. The microcapsules are electrochemically stable in lithium-ion (Li-ion) battery electrolytes and thermally stable to ca. 200 °C. Thermal triggering of these microcapsules at higher temperatures ruptures the shell wall, releasing the liquid core (flame retardant), and NMR spectroscopy confirms the presence of the flame retardant in the electrolyte solution. Li-ion pouch cell experiments demonstrate that microencapsulation of TCP and its incorporation into the battery electrolyte provide latent fire retardants that improve battery safety while maintaining inherent battery performance and cycling capability."
+  ],
+  "affiliation": [
+    "Department of Aerospace Engineering, University of Illinois Urbana-Champaign, 306 Talbot Laboratory, 104 S. Wright Street, Urbana, Illinois 61801, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.7b01950"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6044703"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6044703?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-20"
+  ],
+  "firstIndexDate": [
+    "2018-07-20"
+  ],
+  "fullTextReceivedDate": [
+    "2018-07-18"
+  ],
+  "dateOfRevision": [
+    "2018-07-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-07"
+  ],
+  "firstPublicationDate": [
+    "2018-02-07"
+  ]
+}

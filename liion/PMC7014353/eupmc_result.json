@@ -1,0 +1,375 @@
+{
+  "id": [
+    "31963411"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31963411"
+  ],
+  "pmcid": [
+    "PMC7014353"
+  ],
+  "doi": [
+    "10.3390/ma13020443"
+  ],
+  "title": [
+    "Sulfur-Deficient Porous SnS2-x Microflowers as Superior Anode for Alkaline Ion Batteries."
+  ],
+  "authorString": [
+    "Zhang L, Yao B, Sun C, Shi S, Xu W, Zhao K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, International School of Materials Science and Engineering, Wuhan University of Technology, Wuhan 430070, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yao B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Biochemistry, University of California, Santa Cruz, 1156 High Street, Santa Cruz, CA 95064, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun C"
+          ],
+          "firstName": [
+            "Congli"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, International School of Materials Science and Engineering, Wuhan University of Technology, Wuhan 430070, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi S"
+          ],
+          "firstName": [
+            "Shanshan"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "College of Sciences & Institute for Sustainable Energy, Shanghai University, Shanghai 200444, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu W"
+          ],
+          "firstName": [
+            "Wangwang"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Mechanical and Industrial Engineering, Louisiana State University Baton Rouge, LA 70830, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao K"
+          ],
+          "firstName": [
+            "Kangning"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2916-4386",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, International School of Materials Science and Engineering, Wuhan University of Technology, Wuhan 430070, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2916-4386",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2902146"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "SnS2 as a high energy anode material has attracted extensive research interest recently. However, the fast capacity decay and low rate performance in alkaline-ion batteries associated with repeated volume variation and low electrical conductivity plague them from practical application. Herein, we propose a facile method to solve this problem by synthesizing porous SnS2 microflowers with in-situ formed sulfur vacancies. The flexible porous nanosheets in the three-dimensional flower-like nanostructure provide facile strain relaxation to avoid stress concentration during the volume changes. Rich sulfur vacancies and porous structure enable the fast and efficient electron transport. The porous SnS2-x microflowers exhibit outstanding performance for lithium ion battery in terms of high capacity (1375 mAh g-1 at 100 mA g-1) and outstanding rate capability (827 mA h g-1 at high rate of 2 A g-1). For sodium ion battery, a high capacity (~522 mAh g-1) can be achieved at 5 A g-1 after 200 cycles for SnS2-x microflowers. The rational design in nanostructures, as well as the chemical compositions, might create new opportunities in designing the new architecture for highly efficient energy storage devices."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, International School of Materials Science and Engineering, Wuhan University of Technology, Wuhan 430070, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "21905169"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium-ion battery",
+        "Sns2",
+        "Sodium-ion Battery",
+        "Sulfur Vacancy",
+        "Porous Nanosheet"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma13020443"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7014353"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7014353?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-23"
+  ],
+  "firstIndexDate": [
+    "2020-01-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-14"
+  ],
+  "dateOfRevision": [
+    "2020-03-12"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-17"
+  ],
+  "firstPublicationDate": [
+    "2020-01-17"
+  ]
+}

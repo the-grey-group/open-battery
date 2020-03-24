@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="0000 0001 1939 4845 grid.187073.a Chemical Sciences and Engineering Division," exact="Argonne National Laboratory," post="[3], 0000 0001 2175 0319 grid.185648.6 Department of Mechanical"/>
+ <result pre="0001 2175 0319 grid.185648.6 Department of Mechanical and Industrial Engineering," exact="University of Illinois at Chicago," post="[4], 0000 0001 1939 4845 grid.187073.a X‐ray Science Division,"/>
+ <result pre="Chicago, [4], 0000 0001 1939 4845 grid.187073.a X‐ray Science Division," exact="Argonne National Laboratory," post="[5], 0000 0001 1939 4845 grid.187073.a Center for Nanoscale"/>
+ <result pre="[5], 0000 0001 1939 4845 grid.187073.a Center for Nanoscale Materials," exact="Argonne National Laboratory," post="[6], 0000000419368956 grid.168010.e Material Science and Engineering, Stanford University,"/>
+ <result pre="Argonne National Laboratory, [6], 0000000419368956 grid.168010.e Material Science and Engineering," exact="Stanford University," post="[7], 0000 0004 0607 035X grid.411975.f Institute for Research"/>
+ <result pre="type coin cells were used to prepare lithium half cells." exact="Celgard" post="2325 separators and 1.2 M LiPF 6 in EC/EMC (3:7)"/>
+ <result pre="initially performed using the BT-1 high-resolution powder diffractometer at the" exact="NIST Center for Neutron Research." post="Powder samples were put in cylindrical v.anadium cans and"/>
+ <result pre="at beamline 11-ID-C of the Advanced Photon Source (APS) at" exact="Argonne National Laboratory." post="Exhibiting high penetration and low absorption, synchrotron HEXRD precisely"/>
+ <result pre="were performed at the 2-ID-E beamline of the APS at" exact="Argonne National Laboratory." post="The sample was excited by 10 keV X-ray photons with"/>
+ <result pre="acknowledge support from the U. S. Department of Energy (DOE)," exact="Office of Energy" post="Efficiency and Renewable Energy, Vehicle Technologies Office. Argonne National"/>
+ <result pre="Office of Energy Efficiency and Renewable Energy, Vehicle Technologies Office." exact="Argonne National Laboratory" post="is operated for DOE Office of Science by UChicago"/>
+ <result pre="Vehicle Technologies Office. Argonne National Laboratory is operated for DOE" exact="Office of Science" post="by UChicago Argonne, LLC, under contract number DE-AC02-06CH11357. This"/>
+ <result pre="This research used resources of the Advanced Photon Source, a" exact="U.S. Department of Energy" post="(DOE) Office of Science User Facility operated for the"/>
+ <result pre="the Advanced Photon Source, a U.S. Department of Energy (DOE)" exact="Office of Science" post="User Facility operated for the DOE Office of Science"/>
+ <result pre="(DOE) Office of Science User Facility operated for the DOE" exact="Office of Science" post="by Argonne National Laboratory under Contract No. DE-AC02-06CH11357. Electron"/>
+ <result pre="User Facility operated for the DOE Office of Science by" exact="Argonne National Laboratory" post="under Contract No. DE-AC02-06CH11357. Electron microscopy was carried out"/>
+ <result pre="was carried out at the Center for Nanoscale Materials, an" exact="Office of Science" post="user facility, supported by the U.S. Department of Energy,"/>
+ <result pre="Materials, an Office of Science user facility, supported by the" exact="U.S. Department of Energy," post="Office of Science, Office of Basic Energy Sciences, under"/>
+ <result pre="Science user facility, supported by the U.S. Department of Energy," exact="Office of Science," post="Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357."/>
+ <result pre="the U.S. Department of Energy, Office of Science, Office of" exact="Basic Energy Sciences," post="under Contract No. DE-AC02-06CH11357. This work made use of"/>
+</results>

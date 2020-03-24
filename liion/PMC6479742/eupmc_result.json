@@ -1,0 +1,368 @@
+{
+  "id": [
+    "30935052"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30935052"
+  ],
+  "pmcid": [
+    "PMC6479742"
+  ],
+  "doi": [
+    "10.3390/ma12071054"
+  ],
+  "title": [
+    "Reliability Modeling Method for Lithium-ion Battery Packs Considering the Dependency of Cell Degradations Based on a Regression Model and Copulas."
+  ],
+  "authorString": [
+    "Wang L, Sun Y, Wang X, Wang Z, Zhao X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lizhi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Unmanned System, Beihang University, Beijing 100191, China. wanglizhi@buaa.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun Y"
+          ],
+          "firstName": [
+            "Yusheng"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7259-1407",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Reliability and Systems Engineering, Beihang University, Beijing 100191, China. sunyusheng@buaa.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiaohong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Reliability and Systems Engineering, Beihang University, Beijing 100191, China. wxhong@buaa.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhuo"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Reliability and Systems Engineering, Beihang University, Beijing 100191, China. 13121698585@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao X"
+          ],
+          "firstName": [
+            "Xuejiao"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Reliability and Systems Engineering, Beihang University, Beijing 100191, China. zhaoxuejiao@buaa.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7259-1407",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2798741"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Lithium-ion batteries are widely used as basic power supplies and storage units for large-scale electric drive products such as electric vehicles. Their reliability is directly related to the life and safe operation of the electric drive products. In fact, the cells have a dependent relationship with the degradation process and they affect the degradation rate of the entire battery pack, thereby affecting its reliability. At present, most research focuses on the reliability of battery packs and assumes that their cells are independent of each other, which may cause the reliability of the evaluation to deviate greatly from the actual level. In order to accurately assess the reliability of lithium-ion batteries, it is necessary to build a reliability model considering the dependency among cells for the overall degradation of lithium-ion battery packs. Therefore, in this study, based on a lithium-ion battery degradation test, the Wiener process is used to analyze the reliability of four basic configurations of lithium-ion battery packs. According to the degradation data of the battery packs, the Copula function is used to quantitatively describe the dependent relationship in the degradation process of a single battery, and the quantitative dependent relationship is combined with the reliability model to form a new reliability model. Finally, taking the battery system of Tesla S as an example, a feasible optimization method for battery pack design is provided based on the model constructed in this work."
+  ],
+  "affiliation": [
+    "Institute of Unmanned System, Beihang University, Beijing 100191, China. wanglizhi@buaa.edu.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "XDA14000000"
+          ],
+          "agency": [
+            "the Intelligent Drilling Technologies, Systems and Theories of Strategic Priority Research Program (Class A) of the Chinese Academy of Sciences"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "51805016"
+          ],
+          "agency": [
+            "the National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Dependency",
+        "Copula Function",
+        "Lithium-ion Battery Pack",
+        "Reliability Models Considering Dependency"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma12071054"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6479742"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6479742?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-03"
+  ],
+  "firstIndexDate": [
+    "2019-04-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-01"
+  ],
+  "dateOfRevision": [
+    "2019-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-30"
+  ],
+  "firstPublicationDate": [
+    "2019-03-30"
+  ]
+}

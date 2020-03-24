@@ -1,0 +1,346 @@
+{
+  "id": [
+    "31434202"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31434202"
+  ],
+  "pmcid": [
+    "PMC6719064"
+  ],
+  "doi": [
+    "10.3390/ma12162642"
+  ],
+  "title": [
+    "Blueprint and Implementation of Rural Stand-Alone Power Grids with Second-Life Lithium Ion Vehicle Traction Battery Systems for Resilient Energy Supply of Tropical or Remote Regions."
+  ],
+  "authorString": [
+    "Nedjalkov A, Meyer J, Göken H, Reimer MV, Schade W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nedjalkov A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Nedjalkov"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "EST Research Center Energy Storage Technologies, Clausthal University of Technology, Am Stollen 19A, 38640 Goslar, Germany. antonio.nedjalkov@hhi.fraunhofer.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Meyer J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Meyer"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department for Fiber Optical Sensor Systems, Fraunhofer Heinrich Hertz Institute, Am Stollen 19H, 38640 Goslar, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Göken H"
+          ],
+          "firstName": [
+            "Heiko"
+          ],
+          "lastName": [
+            "Göken"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "EST Research Center Energy Storage Technologies, Clausthal University of Technology, Am Stollen 19A, 38640 Goslar, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Reimer MV"
+          ],
+          "firstName": [
+            "Maximilian V"
+          ],
+          "lastName": [
+            "Reimer"
+          ],
+          "initials": [
+            "MV"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2685-7937",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Management and Economics, Clausthal University of Technology, Julius-Albert-Straße 2, 38678 Clausthal-Zellerfeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Schade W"
+          ],
+          "firstName": [
+            "Wolfgang"
+          ],
+          "lastName": [
+            "Schade"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "EST Research Center Energy Storage Technologies, Clausthal University of Technology, Am Stollen 19A, 38640 Goslar, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2685-7937",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "16"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2847291"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Developed societies with advanced economic performance are undoubtedly coupled with the availability of electrical energy. Whilst industrialized nations already started to decrease associated carbon emissions in many business sectors, e.g., by substituting combustion engines with battery-powered vehicles, less developed countries still lack broad coverage of reliable electricity supply, particularly in rural regions. Progressive electrification leads to a need for storage capacity and thus to increasing availability of advanced battery systems. To achieve a high degree of sustainability, re-used batteries from the electromobility sector are appropriate, as they do not consume further primary resources and still have sufficient residual capacity for stationary electrical storage applications. In this article, a blueprint for the electrification of a remote region by utilizing second-life lithium ion traction batteries for an integrated energy system in a stand-alone grid is presented and the implementation by the example case of a Tanzanian island in Lake Victoria is demonstrated. First, economic potentials and expected trends in the disposability of second-life lithium ion batteries and their foreseeable costs are outlined. Subsequently, key decision variables are identified to evaluate logistic aspects and the feasibility of the implementation of an off-grid electrical system in remote areas for economically and geographically unfavorable environments. The practical realization is pictured in detail with a focus on technical performance and safety specificities associated with second-life applications. Therefore, a new type of battery management system is introduced, which meets the special requirements of climate compatibility, low maintenance, enhanced cell balancing capability and cell configuration flexibility, and combined with a fiber-optical sensor system, provides reliable status monitoring of the battery. By carrying out on-site measurements, the overall system efficiency is evaluated along with a sustainability analysis. Finally, the socioeconomic and humanitarian impact for the people on the island is debated."
+  ],
+  "affiliation": [
+    "EST Research Center Energy Storage Technologies, Clausthal University of Technology, Am Stollen 19A, 38640 Goslar, Germany. antonio.nedjalkov@hhi.fraunhofer.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "economic development",
+        "Fiber Bragg Grating",
+        "Lithium Ion",
+        "Stationary Energy Storage",
+        "Electromobility",
+        "Fiber-optical Status Monitoring",
+        "Key Decision Variables",
+        "Off-grid Network",
+        "Rural Power Supply",
+        "Second-life Battery"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma12162642"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6719064"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6719064?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-23"
+  ],
+  "firstIndexDate": [
+    "2019-08-23"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-12"
+  ],
+  "dateOfRevision": [
+    "2019-09-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-20"
+  ],
+  "firstPublicationDate": [
+    "2019-08-20"
+  ]
+}

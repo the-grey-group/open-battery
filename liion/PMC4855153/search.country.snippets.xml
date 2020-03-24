@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC4855153/results/search/country/results.xml">
+  <result pre="Chemical and Biochemical Engineering, Missouri University of Science and Technology" exact="United States" post="[2], TEM Laboratory, University of New Mexico United States"/>
+  <result pre="and Technology United States [2], TEM Laboratory, University of New" exact="Mexico" post="United States [3], Department of Chemistry, Missouri University of"/>
+  <result pre="Technology United States [2], TEM Laboratory, University of New Mexico" exact="United States" post="[3], Department of Chemistry, Missouri University of Science and"/>
+  <result pre="[3], Department of Chemistry, Missouri University of Science and Technology" exact="United States" post="a liangxin@mst.edu epub: 2016-05-05 collection: 2016 6 25293 received:"/>
+ </snippets>
+</snippetsTree>

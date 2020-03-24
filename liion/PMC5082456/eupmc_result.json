@@ -1,0 +1,338 @@
+{
+  "id": [
+    "27826503"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27826503"
+  ],
+  "pmcid": [
+    "PMC5082456"
+  ],
+  "doi": [
+    "10.3762/bjnano.7.120"
+  ],
+  "title": [
+    "Improved lithium-ion battery anode capacity with a network of easily fabricated spindle-like carbon nanofibers."
+  ],
+  "authorString": [
+    "Liu M, Xie W, Gu L, Qin T, Hou X, He D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu M"
+          ],
+          "firstName": [
+            "Mengting"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Physical Science and Technology, Key Laboratory for Magnetism and Magnetic Materials of the Ministry of Education, Lanzhou University, Lanzhou 730000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xie W"
+          ],
+          "firstName": [
+            "Wenhe"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "School of Physical Science and Technology, Key Laboratory for Magnetism and Magnetic Materials of the Ministry of Education, Lanzhou University, Lanzhou 730000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gu L"
+          ],
+          "firstName": [
+            "Lili"
+          ],
+          "lastName": [
+            "Gu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Physical Science and Technology, Key Laboratory for Magnetism and Magnetic Materials of the Ministry of Education, Lanzhou University, Lanzhou 730000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qin T"
+          ],
+          "firstName": [
+            "Tianfeng"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "School of Physical Science and Technology, Key Laboratory for Magnetism and Magnetic Materials of the Ministry of Education, Lanzhou University, Lanzhou 730000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hou X"
+          ],
+          "firstName": [
+            "Xiaoyi"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Physical Science and Technology, Key Laboratory for Magnetism and Magnetic Materials of the Ministry of Education, Lanzhou University, Lanzhou 730000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "He D"
+          ],
+          "firstName": [
+            "Deyan"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "School of Physical Science and Technology, Key Laboratory for Magnetism and Magnetic Materials of the Ministry of Education, Lanzhou University, Lanzhou 730000, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2379308"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Beilstein journal of nanotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Beilstein J Nanotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Beilstein J Nanotechnol"
+          ],
+          "NLMid": [
+            "101551563"
+          ],
+          "ISSN": [
+            "2190-4286"
+          ],
+          "ESSN": [
+            "2190-4286"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "1289-1295"
+  ],
+  "abstractText": [
+    "A novel network of spindle-like carbon nanofibers was fabricated via a simplified synthesis involving electrospinning followed by preoxidation in air and postcarbonization in Ar. Not only was the as-obtained carbon network comprised of beads of spindle-like nanofibers but the cubic MnO phase and N elements were successfully anchored into the amorphous carbon matrix. When directly used as a binder-free anode for lithium-ion batteries, the network showed excellent electrochemical performance with high capacity, good rate capacity and reliable cycling stability. Under a current density of 0.2 A g-1, it delivered a high reversible capacity of 875.5 mAh g-1 after 200 cycles and 1005.5 mAh g-1 after 250 cycles with a significant coulombic efficiency of 99.5%."
+  ],
+  "affiliation": [
+    "School of Physical Science and Technology, Key Laboratory for Magnetism and Magnetic Materials of the Ministry of Education, Lanzhou University, Lanzhou 730000, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium-ion battery",
+        "Electrospinning",
+        "Manganese Oxide",
+        "Carbon Nanofiber Network",
+        "Nitrogen Modification"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3762/bjnano.7.120"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5082456"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5082456?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-11-09"
+  ],
+  "firstIndexDate": [
+    "2016-11-11"
+  ],
+  "fullTextReceivedDate": [
+    "2016-12-05"
+  ],
+  "dateOfRevision": [
+    "2016-12-20"
+  ],
+  "electronicPublicationDate": [
+    "2016-09-14"
+  ],
+  "firstPublicationDate": [
+    "2016-09-14"
+  ]
+}

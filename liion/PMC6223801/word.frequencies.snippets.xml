@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6223801/results/word/frequencies/results.xml">
+  <result title="frequency" word="LNMO" count="132"/>
+  <result title="frequency" word="cathode" count="104"/>
+  <result title="frequency" word="batteries" count="84"/>
+  <result title="frequency" word=".Mn" count="78"/>
+  <result title="frequency" word="electrolyte" count="78"/>
+  <result title="frequency" word="LiNi" count="68"/>
+  <result title="frequency" word="lithium" count="59"/>
+  <result title="frequency" word="performance" count="57"/>
+  <result title="frequency" word="electrochemical" count="55"/>
+  <result title="frequency" word="materials" count="55"/>
+  <result title="frequency" word="capacity" count="54"/>
+  <result title="frequency" word="cycling" count="54"/>
+  <result title="frequency" word="Wang" count="51"/>
+  <result title="frequency" word="high" count="51"/>
+  <result title="frequency" word="surface" count="47"/>
+  <result title="frequency" word="coating" count="44"/>
+  <result title="frequency" word="Chem." count="40"/>
+  <result title="frequency" word="material" count="40"/>
+  <result title="frequency" word="stability" count="39"/>
+  <result title="frequency" word="Power" count="38"/>
+  <result title="frequency" word="Sources" count="38"/>
+  <result title="frequency" word="high-voltage" count="38"/>
+  <result title="frequency" word="spinel" count="37"/>
+  <result title="frequency" word="lithium-ion" count="36"/>
+  <result title="frequency" word="Zhang" count="35"/>
+  <result title="frequency" word="cathodes" count="35"/>
+  <result title="frequency" word="Kim" count="34"/>
+  <result title="frequency" word="Mater." count="34"/>
+  <result title="frequency" word="ion" count="32"/>
+  <result title="frequency" word="voltage" count="32"/>
+  <result title="frequency" word="./j.jpowsour..." count="31"/>
+  <result title="frequency" word="Electrochem." count="31"/>
+  <result title="frequency" word="layer" count="30"/>
+  <result title="frequency" word="properties" count="30"/>
+  <result title="frequency" word="Liu" count="29"/>
+  <result title="frequency" word="electrolytes" count="28"/>
+  <result title="frequency" word="LiCoO" count="27"/>
+  <result title="frequency" word="\documentclass[pt]{minimal}" count="27"/>
+  <result title="frequency" word="\setlength{\oddsidemargin}{-pt}" count="27"/>
+  <result title="frequency" word="\usepackage{amsbsy}" count="27"/>
+  <result title="frequency" word="\usepackage{amsfonts}" count="27"/>
+  <result title="frequency" word="\usepackage{amsmath}" count="27"/>
+  <result title="frequency" word="\usepackage{amssymb}" count="27"/>
+  <result title="frequency" word="\usepackage{mathrsfs}" count="27"/>
+  <result title="frequency" word="\usepackage{upgreek}" count="27"/>
+  <result title="frequency" word="\usepackage{wasysym}" count="27"/>
+  <result title="frequency" word="cycle" count="27"/>
+  <result title="frequency" word="Lee" count="26"/>
+  <result title="frequency" word="Li-ion" count="26"/>
+  <result title="frequency" word="Acta" count="25"/>
+  <result title="frequency" word="mAh" count="25"/>
+  <result title="frequency" word="Electrochim." count="24"/>
+  <result title="frequency" word="doping" count="24"/>
+  <result title="frequency" word="battery" count="23"/>
+  <result title="frequency" word="carbonate" count="23"/>
+  <result title="frequency" word="Soc." count="22"/>
+  <result title="frequency" word="solid" count="22"/>
+  <result title="frequency" word="./j.electacta..." count="21"/>
+  <result title="frequency" word="decomposition" count="21"/>
+  <result title="frequency" word="structure" count="21"/>
+ </snippets>
+</snippetsTree>

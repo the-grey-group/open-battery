@@ -1,0 +1,422 @@
+{
+  "id": [
+    "31783562"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31783562"
+  ],
+  "pmcid": [
+    "PMC6960982"
+  ],
+  "doi": [
+    "10.3390/polym11121946"
+  ],
+  "title": [
+    "Lignin Nanoparticle-Coated Celgard Separator for High-Performance Lithium-Sulfur Batteries."
+  ],
+  "authorString": [
+    "Zhang Z, Yi S, Wei Y, Bian H, Wang R, Min Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang Z"
+          ],
+          "firstName": [
+            "Zengyao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Materials and Energy, Center of Emerging Material and Technology, Guangdong University of Technology, Guangzhou 510006, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yi S"
+          ],
+          "firstName": [
+            "Shun"
+          ],
+          "lastName": [
+            "Yi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School of Materials and Energy, Center of Emerging Material and Technology, Guangdong University of Technology, Guangzhou 510006, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wei Y"
+          ],
+          "firstName": [
+            "Yuejia"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Materials and Energy, Center of Emerging Material and Technology, Guangdong University of Technology, Guangzhou 510006, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bian H"
+          ],
+          "firstName": [
+            "Huiyang"
+          ],
+          "lastName": [
+            "Bian"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2470-7508",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Jiangsu Co-innovation Center for Efficient Processing and Utilization of Forestry Resources, Nanjing Forestry University, Nanjing 210037, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang R"
+          ],
+          "firstName": [
+            "Ruibin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6003-2846",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Materials and Energy, Center of Emerging Material and Technology, Guangdong University of Technology, Guangzhou 510006, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Min Y"
+          ],
+          "firstName": [
+            "Yonggang"
+          ],
+          "lastName": [
+            "Min"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Materials and Energy, Center of Emerging Material and Technology, Guangdong University of Technology, Guangzhou 510006, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6003-2846",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2470-7508",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2884446"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Polymers"
+          ],
+          "ISOAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "NLMid": [
+            "101545357"
+          ],
+          "ISSN": [
+            "2073-4360"
+          ],
+          "ESSN": [
+            "2073-4360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Tremendous efforts have been made toward the development of lithium-sulfur (Li-S) batteries as one of the most reasonable solutions to the rapidly increasing demand for portable electronic devices and electric vehicles, owing to their high cost-efficiency and theoretical energy density. However, the shuttle effect caused by soluble polysulfides is generally considered to be an insurmountable challenge, which can significantly reduce the battery lifecycle and sulfur utilization. Here, we report a lignin nanoparticle-coated Celgard (LC) separator to alleviate this problem. The LC separator enables abundant electron-donating groups and is expected to induce chemical binding of polysulfides to hinder the shuttle effect. When a sulfur-containing commercially available acetylene black (approximately 73.8 wt% sulfur content) was used as the cathode without modification, the Li-S battery with the LC separator presented much enhanced cycling stability over that with the Celgard separator for over 500 cycles at a current density of 1 C. The strategy demonstrated in this study is expected to provide more possibilities for the utilization of low-cost biomass-derived nanomaterials as separators for high-performance Li-S batteries."
+  ],
+  "affiliation": [
+    "School of Materials and Energy, Center of Emerging Material and Technology, Guangdong University of Technology, Guangzhou 510006, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2016ZT06C412"
+          ],
+          "agency": [
+            "the Program for Guangdong Introducing Innovative and Entrepreneurial Research Team"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "KL201908"
+          ],
+          "agency": [
+            "the Open Fund of Jiangsu Provincial Key Lab of Pulp and Paper Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "220418095"
+          ],
+          "agency": [
+            "the Hundred Talent Program of Guangdong University of Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "none"
+          ],
+          "agency": [
+            "the Postdoctoral Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biomass",
+        "Separator",
+        "Lignin Nanoparticles",
+        "Li–s Batteries",
+        "Acid Hydrotrope"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/polym11121946"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6960982"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6960982?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-01"
+  ],
+  "firstIndexDate": [
+    "2019-11-30"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-27"
+  ],
+  "dateOfRevision": [
+    "2020-01-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-27"
+  ],
+  "firstPublicationDate": [
+    "2019-11-27"
+  ]
+}

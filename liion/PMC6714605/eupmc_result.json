@@ -1,0 +1,446 @@
+{
+  "id": [
+    "31497715"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31497715"
+  ],
+  "pmcid": [
+    "PMC6714605"
+  ],
+  "doi": [
+    "10.1021/acsomega.9b01706"
+  ],
+  "title": [
+    "Performance and Stability Improvement of Layered NCM Lithium-Ion Batteries at High Voltage by a Microporous Al2O3 Sol-Gel Coating."
+  ],
+  "authorString": [
+    "Wu Y, Li M, Wahyudi W, Sheng G, Miao X, Anthopoulos TD, Huang KW, Li Y, Lai Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Yingqiang"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4841-4918",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Physical Science and Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Li M"
+          ],
+          "firstName": [
+            "Mengliu"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Division of Physical Science and Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Wahyudi W"
+          ],
+          "firstName": [
+            "Wandi"
+          ],
+          "lastName": [
+            "Wahyudi"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Division of Physical Science and Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sheng G"
+          ],
+          "firstName": [
+            "Guan"
+          ],
+          "lastName": [
+            "Sheng"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Division of Physical Science and Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Miao X"
+          ],
+          "firstName": [
+            "Xiaohe"
+          ],
+          "lastName": [
+            "Miao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Core Labs, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Anthopoulos TD"
+          ],
+          "firstName": [
+            "Thomas D"
+          ],
+          "lastName": [
+            "Anthopoulos"
+          ],
+          "initials": [
+            "TD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0978-8813",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Physical Science and Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang KW"
+          ],
+          "firstName": [
+            "Kuo-Wei"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "KW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1900-2658",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Physical Science and Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yangxing"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Watt Research Lab, Central Research Institute, Huawei Technologies Company Limited, Bantian, Longgang District, Shenzhen 518129, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lai Z"
+          ],
+          "firstName": [
+            "Zhiping"
+          ],
+          "lastName": [
+            "Lai"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9555-6009",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Physical Science and Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Saudi Arabia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1900-2658",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4841-4918",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0978-8813",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9555-6009",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1062-0276",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2856765"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "13972-13980"
+  ],
+  "abstractText": [
+    "A simple and low-cost polymer-aided sol-gel method was developed to prepare γ-Al2O3 protective layers for LiNi0.6Co0.2Mn0.2O2 (NCM622) cathode materials. The selected polyvinyl alcohol polymer additive not only facilitates the formation of a uniform and thin γ-Al2O3 layer on the irregular and rough cathode particle surface to protect it from corrosion but also serves as a pore-forming agent to generate micropores in the film after sintering to allow fast transport of lithium ions, which guaranteed the excellent and stable battery performance at high working voltage. Detailed studies in the full battery mode showed that the leached corrosion species from the cathode had a more profound harmful effect to the graphite anode, which seemed to be the dominating factor that caused the battery performance decay."
+  ],
+  "affiliation": [
+    "Division of Physical Science and Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Saudi Arabia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.9b01706"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6714605"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6714605?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-10"
+  ],
+  "firstIndexDate": [
+    "2019-09-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-08"
+  ],
+  "dateOfRevision": [
+    "2019-09-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-19"
+  ],
+  "firstPublicationDate": [
+    "2019-08-19"
+  ]
+}

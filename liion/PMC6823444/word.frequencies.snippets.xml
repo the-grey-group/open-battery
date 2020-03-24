@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6823444/results/word/frequencies/results.xml">
+  <result title="frequency" word="electrolyte" count="83"/>
+  <result title="frequency" word="lithium" count="73"/>
+  <result title="frequency" word="ion" count="58"/>
+  <result title="frequency" word="montmorillonite" count="50"/>
+  <result title="frequency" word="surface" count="49"/>
+  <result title="frequency" word="Fig." count="44"/>
+  <result title="frequency" word="MIP-based" count="41"/>
+  <result title="frequency" word="ether-based" count="39"/>
+  <result title="frequency" word="deposition" count="35"/>
+  <result title="frequency" word="current" count="34"/>
+  <result title="frequency" word="ions" count="33"/>
+  <result title="frequency" word="(Supplementary" count="27"/>
+  <result title="frequency" word="distribution" count="26"/>
+  <result title="frequency" word="concentration" count="25"/>
+  <result title="frequency" word="batteries" count="24"/>
+  <result title="frequency" word="(Fig." count="23"/>
+  <result title="frequency" word="electrolyte," count="22"/>
+  <result title="frequency" word="metal" count="21"/>
+ </snippets>
+</snippetsTree>

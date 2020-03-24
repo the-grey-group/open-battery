@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6456622/results/search/funders/results.xml">
+  <result pre="[1], 0000 0001 2188 4229 grid.202665.5 Center for Functional Nanomaterials," exact="Brookhaven National Laboratory," post="[2], 0000 0001 2188 4229 grid.202665.5 Chemistry Division, Brookhaven"/>
+  <result pre="National Laboratory, [2], 0000 0001 2188 4229 grid.202665.5 Chemistry Division," exact="Brookhaven National Laboratory," post="[3], 0000000119573309 grid.9227.e Beijing Advanced Innovation Center for Materials"/>
+  <result pre="0000000119573309 grid.9227.e Beijing Advanced Innovation Center for Materials Genome Engineering," exact="Institute of Physics," post="Chinese Academy of Sciences, [4], 0000 0001 2264 7233"/>
+  <result pre="Advanced Innovation Center for Materials Genome Engineering, Institute of Physics," exact="Chinese Academy of Sciences," post="[4], 0000 0001 2264 7233 grid.12955.3a Department of Physics"/>
+  <result pre="University, [5], 0000 0001 2231 4551 grid.184769.5 Advanced Light Source," exact="Lawrence Berkeley National Laboratory," post="[6], grid.503008.e Xiamen University Malaysia, [7], 0000 0001 0668"/>
+  <result pre="0000 0001 0668 7243 grid.266093.8 Department of Physics and Astronomy," exact="University of California," post="[8], 0000 0001 2231 4551 grid.184769.5 Energy Storage and"/>
+  <result pre="0001 2231 4551 grid.184769.5 Energy Storage and Distributed Resources Division," exact="Lawrence Berkeley National Laboratory," post="[9], 0000 0001 2181 7878 grid.47840.3f Department of Materials"/>
+  <result pre="[9], 0000 0001 2181 7878 grid.47840.3f Department of Materials Science," exact="University of California" post="Berkeley, [10], 0000 0001 0668 7243 grid.266093.8 Present Address:"/>
+  <result pre="0668 7243 grid.266093.8 Present Address: Department of Physics and Astronomy," exact="University of California," post="epub: 2019-4-4 pmc-release: 2019-4-4 collection: 2019 10 1650 received:"/>
+  <result pre="(STEM) imaging of the LRMO cathode material was performed on" exact="Hitachi" post="HD2700 (200 keV), JEOL Grand ARM (300 KeV), and FEI"/>
+  <result pre="the Center for Functional Nanomaterials, which is a U.S. DOE" exact="Office of Science" post="Facility, and the Scientific Data and Computing Center, a"/>
+  <result pre="Computing Center, a component of the Computational Science Initiative, at" exact="Brookhaven National Laboratory" post="under Contract No. DE-SC0012704. Dr. Enyuan Hu, Dr. Seongmin"/>
+  <result pre="Energy Efficiency and Renewable Energy, Vehicle Technology Office of the" exact="U.S. Department of Energy" post="through the Advanced Battery Materials Research (BMR) Program, including"/>
+  <result pre="R.Z. is partially supported by the U.S. Department of Energy’s" exact="Office of Energy" post="Efficiency and Renewable Energy (EERE) under the Award Number:"/>
+  <result pre="DE-EE0008444. The work at IOP was supported by funding from" exact="Ministry of Science and Technology" post="of China (Grants 2016YFA0202500) and the National Natural Science"/>
+  <result pre="of Science and Technology of China (Grants 2016YFA0202500) and the" exact="National Natural Science Foundation of China" post="(51822211). H.C. and J-C.Z. were supported by the National"/>
+  <result pre="of China (51822211). H.C. and J-C.Z. were supported by the" exact="National Natural Science Foundation of China" post="(51661135011). This research used resources 8-ID, 23-ID-2, and 28-ID-2"/>
+  <result pre="and 28-ID-2 of the National Synchrotron Light Source II, a" exact="U.S. Department of Energy" post="(DOE) Office of Science User Facility operated for the"/>
+  <result pre="Synchrotron Light Source II, a U.S. Department of Energy (DOE)" exact="Office of Science" post="User Facility operated for the DOE Office of Science"/>
+  <result pre="(DOE) Office of Science User Facility operated for the DOE" exact="Office of Science" post="by Brookhaven National Laboratory under Contract No. DE-SC0012704. This"/>
+  <result pre="User Facility operated for the DOE Office of Science by" exact="Brookhaven National Laboratory" post="under Contract No. DE-SC0012704. This research used resources of"/>
+  <result pre="8.0.1 of the Advanced Light Source, which is a DOE" exact="Office of Science" post="User Facility under contract no. DE-AC02-05CH11231. We acknowledge the"/>
+ </snippets>
+</snippetsTree>

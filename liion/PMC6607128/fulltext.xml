@@ -1,0 +1,860 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Glob Chall</journal-id><journal-id journal-id-type="iso-abbrev">Glob Chall</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2056-6646</journal-id><journal-id journal-id-type="publisher-id">GCH2</journal-id><journal-title-group><journal-title>Global Challenges</journal-title></journal-title-group><issn pub-type="epub">2056-6646</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6607128</article-id><article-id pub-id-type="doi">10.1002/gch2.201700050</article-id><article-id pub-id-type="publisher-id">GCH2201700050</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Full Papers</subject></subj-group></article-categories><title-group><article-title>Constructing MoO<sub>2</sub> Porous Architectures Using Graphene Oxide Flexible Supports for Lithium Ion Battery Anodes</article-title></title-group><contrib-group><contrib id="gch2201700050-cr-0001" contrib-type="author"><name><surname>Xu</surname><given-names>Zhanwei</given-names></name><xref ref-type="aff" rid="gch2201700050-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="gch2201700050-cr-0002" contrib-type="author"><name><surname>Yao</surname><given-names>Kai</given-names></name><xref ref-type="aff" rid="gch2201700050-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="gch2201700050-cr-0003" contrib-type="author"><name><surname>Fu</surname><given-names>Hao</given-names></name><xref ref-type="aff" rid="gch2201700050-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="gch2201700050-cr-0004" contrib-type="author"><name><surname>Shen</surname><given-names>Xuetao</given-names></name><xref ref-type="aff" rid="gch2201700050-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="gch2201700050-cr-0005" contrib-type="author"><name><surname>Duan</surname><given-names>Xintong</given-names></name><xref ref-type="aff" rid="gch2201700050-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="gch2201700050-cr-0006" contrib-type="author"><name><surname>Cao</surname><given-names>Liyun</given-names></name><xref ref-type="aff" rid="gch2201700050-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="gch2201700050-cr-0007" contrib-type="author" corresp="yes"><name><surname>Huang</surname><given-names>Jianfeng</given-names></name><xref ref-type="aff" rid="gch2201700050-aff-0001">
+<sup>1</sup>
+</xref><address><email>huangjf@sust.edu.cn</email></address></contrib><contrib id="gch2201700050-cr-0008" contrib-type="author" corresp="yes"><name><surname>Wang</surname><given-names>Huanlei</given-names></name><xref ref-type="aff" rid="gch2201700050-aff-0002">
+<sup>2</sup>
+</xref><address><email>huanleiwang@gmail.com</email></address></contrib></contrib-group><aff id="gch2201700050-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">School of Materials Science and Engineering</named-content>
+<institution>Shaanxi University of Science and Technology</institution>
+<named-content content-type="city">Xi'an</named-content>
+<named-content content-type="post-code">710021</named-content>
+<country country="CN">China</country>
+</aff><aff id="gch2201700050-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Institute of Materials Science and Engineering</named-content>
+<institution>Ocean University of China</institution>
+<named-content content-type="city">Qingdao</named-content>
+<named-content content-type="post-code">266100</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>huangjf@sust.edu.cn</email>, <email>huanleiwang@gmail.com</email></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>8</month><year>2017</year></pub-date><pub-date pub-type="collection"><day>16</day><month>10</month><year>2017</year></pub-date><volume>1</volume><issue>7</issue><issue-id pub-id-type="doi">10.1002/gch2.v1.7</issue-id><elocation-id>1700050</elocation-id><history><date date-type="received"><day>10</day><month>5</month><year>2017</year></date><date date-type="rev-recd"><day>07</day><month>7</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 WILEY&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Published by WILEY&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:GCH2-1-1700050.pdf"/><abstract><title>Abstract</title><p>Graphene oxide flexibly supported MoO<sub>2</sub> porous architectures (MoO<sub>2</sub>/GO) by decomposition of the prepared ammonium molybdate/GO preforms is fabricated. Focused ion beam microscope analysis shows that the inside structures of the architectures strongly depend on the percentages of the GO used as flexible supports: micrometer scale MoO<sub>2</sub> particulates growing on the GO (micrometer MoO<sub>2</sub>/GO), 3D honeycomb&#x02010;like nanoarchitectures (MoO<sub>2</sub>/GO nanohoneycomb), and layered MoO<sub>2</sub>/GO architectures are achieved at the percentage of GO at 4.3, 15.2, and 20.8 wt%, respectively. The lithium storage performance of the MoO<sub>2</sub>/GO architectures strongly depends on their inside structures. At the current density of 100 mA g<sup>&#x02212;1</sup>, the capacities of the micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb, and layered MoO<sub>2</sub>/GO remain at 901, 1127, and 967 mAh g<sup>&#x02212;1</sup> after 100 cycles. The average coulombic efficiencies of micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb, and layered MoO<sub>2</sub>/GO electrodes are 97.6%, 99.3%, and 99.0%. Moreover, the rate performance shows even cycled at a high current density of 5000 mA g<sup>&#x02212;1</sup>, the MoO<sub>2</sub>/GO nanohoneycomb can deliver the capacity as high as 461 mAh g<sup>&#x02212;1</sup>. The MoO<sub>2</sub>/GO nanohoneycomb exhibits best performance attributed to its unique nanohoneycomb structure constructed with ultrafine MoO<sub>2</sub> fixed on the GO flexible supports.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="gch2201700050-kwd-0001">graphene oxide</kwd><kwd id="gch2201700050-kwd-0002">lithium battery anode</kwd><kwd id="gch2201700050-kwd-0003">molybdenum dioxide</kwd><kwd id="gch2201700050-kwd-0004">nanoarchitecture</kwd><kwd id="gch2201700050-kwd-0005">preform</kwd></kwd-group><funding-group><award-group><funding-source>973 Special Preliminary Study</funding-source><award-id>2014CB26041</award-id></award-group><award-group><funding-source>National Key Technology R&#x00026;D Program</funding-source><award-id>2013BAF09B02</award-id></award-group><award-group><funding-source>Academic Team funding of Shaanxi University of Science and Technology</funding-source><award-id>XSD1445</award-id></award-group><award-group><funding-source>Provincial Key Academic Leaders Scientific Research Foundation of Shaanxi University of Science and Technology</funding-source><award-id>BJ15&#x02010;01</award-id></award-group><award-group><funding-source>Shaanxi Natural Science Foundation of China</funding-source><award-id>2017JM5006</award-id></award-group></funding-group><counts><fig-count count="11"/><table-count count="2"/><page-count count="11"/><word-count count="7216"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>gch2201700050</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 16, 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.9 mode:remove_FC converted:26.09.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="gch2201700050-cit-0041">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Global Challenges</source>
+<year>2017</year>, <volume>1</volume>, <elocation-id>1700050</elocation-id>
+<pub-id pub-id-type="doi">10.1002/gch2.201700050</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="gch2201700050-sec-0010"><label>1</label><title>Introduction</title><p>Lithium ion batteries (LIBs) have attracted much interest due to their many applications in the fields of electric vehicles and portable electronic devices, such as mobile phones, laptop computers, and video cameras. Nowadays graphite is employed as the dominant anode materials for commercial LIBs. However, the theoretical capacity of graphite electrodes is 372 mAh g<sup>&#x02212;1</sup>, resulted in an obstacle for their potential applications. The strategies to develop alternative anode materials with improved capacity have been achieved for several decades.<xref rid="gch2201700050-bib-0001" ref-type="ref">1</xref>, <xref rid="gch2201700050-bib-0002" ref-type="ref">2</xref>, <xref rid="gch2201700050-bib-0003" ref-type="ref">3</xref>, <xref rid="gch2201700050-bib-0004" ref-type="ref">4</xref>, <xref rid="gch2201700050-bib-0005" ref-type="ref">5</xref>, <xref rid="gch2201700050-bib-0006" ref-type="ref">6</xref>, <xref rid="gch2201700050-bib-0007" ref-type="ref">7</xref>, <xref rid="gch2201700050-bib-0008" ref-type="ref">8</xref> Among them, nanoscale metal oxides, including MnO,<xref rid="gch2201700050-bib-0009" ref-type="ref">9</xref> SnO<sub>2</sub>,<xref rid="gch2201700050-bib-0010" ref-type="ref">10</xref>, <xref rid="gch2201700050-bib-0011" ref-type="ref">11</xref> Co<sub>3</sub>O<sub>4</sub>,<xref rid="gch2201700050-bib-0012" ref-type="ref">12</xref> NiO,<xref rid="gch2201700050-bib-0013" ref-type="ref">13</xref> and Fe<sub>3</sub>O<sub>4</sub>,<xref rid="gch2201700050-bib-0014" ref-type="ref">14</xref>, <xref rid="gch2201700050-bib-0015" ref-type="ref">15</xref> used as anode active materials for LIBs have been paid much attention attributed to their promising theoretical capacity. However, in most cases, the capacity decays rapidly as cycled due to high electrical resistivity and mechanism failure.<xref rid="gch2201700050-bib-0016" ref-type="ref">16</xref> Molybdenum oxide (MoO<sub>2</sub>) is different from other metal oxides. It possesses metallic conductivity (its electrical resistivity is 8.8 &#x000d7; 10<sup>&#x02212;5</sup> &#x003a9; cm at 300 K in bulk sample), with a theoretical capacity as high as 836 mAh g<sup>&#x02212;1</sup>.<xref rid="gch2201700050-bib-0017" ref-type="ref">17</xref> However, the capacity of bulk MoO<sub>2</sub> is low due to sluggish lithiation/delithiation kinetics.<xref rid="gch2201700050-bib-0017" ref-type="ref">17</xref>, <xref rid="gch2201700050-bib-0018" ref-type="ref">18</xref>, <xref rid="gch2201700050-bib-0019" ref-type="ref">19</xref>, <xref rid="gch2201700050-bib-0020" ref-type="ref">20</xref>
+</p><p>On the other hand, the nanoporous structure constructed with lots of interconnect nanounits to form numbers of nanoscale pore provides adequate spaces for electrochemical reaction and connected pathways for ion diffusion.<xref rid="gch2201700050-bib-0021" ref-type="ref">21</xref>, <xref rid="gch2201700050-bib-0022" ref-type="ref">22</xref> The nano&#x02010;MoO<sub>2</sub> porous structures have been synthesized by using mesoporous silica as hard templates, followed removing this hard templates by hydrofluoric acid,<xref rid="gch2201700050-bib-0023" ref-type="ref">23</xref> or by a sulfur&#x02010;assisted decomposition process.<xref rid="gch2201700050-bib-0024" ref-type="ref">24</xref> The prepared MoO<sub>2</sub> porous materials have displayed improved capacity for LIBs. However, the capacity fade after charge/discharge process is attributed to the pure MoO<sub>2</sub> skeleton that will be possibly collapsed. The cycle stability needs to be improved further. It should be desired for the MoO<sub>2</sub> porous structure with flexible supports via retarding the pulverization from pure MoO<sub>2</sub> skeleton.</p><p>Carbon nanomaterials, especially, graphene with large specific surface area and high toughness, are suitable for both substrates and supports for MoO<sub>2</sub> electrode active materials. However, owing to graphene being liable to stack together, it is difficult to prepare well distributed graphene templated metal oxide architectures. The strategies, including solid&#x02010;state graphenothermal reduction method,<xref rid="gch2201700050-bib-0025" ref-type="ref">25</xref> microwave&#x02010;assisted hydrothermal process,<xref rid="gch2201700050-bib-0026" ref-type="ref">26</xref> and soft&#x02010;templated hydrothermal method,<xref rid="gch2201700050-bib-0027" ref-type="ref">27</xref> have been used to synthesize MoO<sub>2</sub>/C nanocomposites, exhibiting promising performance for LIBs. In our present study, in order to construct the MoO<sub>2</sub>&#x02010;based nanoporous which can baffle the mechanical failure, the graphene oxide (GO) was used as the flexible supports for MoO<sub>2</sub> active material to slow down the stress during charge/discharge process and keep the structure intact. The GO supported MoO<sub>2</sub> nanoarchitectures were fabricated by a preform ammonium molybdate/GO prepared, followed a solid decomposition process, ensuring the GO uniform dispersion and to construct well&#x02010;distributed porous materials.<xref rid="gch2201700050-bib-0028" ref-type="ref">28</xref> Focused ion beam (FIB) microscope analysis was employed to show the inside structure, which is the main part as the porous materials. It shows the quantity of the GO supports strongly affects the inside structures of the MoO<sub>2</sub>/GO architectures: micrometer scale MoO<sub>2</sub> particles growing on the graphene oxide (micrometer MoO<sub>2</sub>/GO), 3D honeycomb&#x02010;like nanoarchitecture (MoO<sub>2</sub>/GO nanohoneycomb), and MoO<sub>2</sub>/GO layered structure (layered MoO<sub>2</sub>/GO) are achieved at the percentage of graphene 4.3, 15.2, and 20.8 wt%, respectively. The analysis based on the galvanostatic discharge/charge voltage profiles, differential curves, cycle life behavior as well as rate performance demonstrates their lithium storage performance strongly depend on the inside structures of the MoO<sub>2</sub>/GO architectures.</p></sec><sec id="gch2201700050-sec-0020"><label>2</label><title>Results and Discussion</title><p>In order to show the effects of the inside pore structure of MoO<sub>2</sub>/GO on the performance used as LIB anodes, the GO used as flexible supports and a ammonium molybdate were adjusted on various ratios to build up kinds of pore structures of MoO<sub>2</sub>/GO. A preform&#x02010;decomposition process was employed to synthesize MoO<sub>2</sub>/GO architectures,<xref rid="gch2201700050-bib-0028" ref-type="ref">28</xref> which are shown in <bold>Scheme</bold>
+<xref rid="gch2201700050-fig-0010" ref-type="fig">
+<bold>1</bold>
+</xref>. The GO disperses in water, then ammonium molybdate dissolves in GO aqueous dispersion. After evaporation of water, an ammonium molybdate/GO preform formed. The MoO<sub>2</sub>/GO architectures were achieved by decomposition of the preform at around 500 &#x000b0;C under the atmosphere of argon.</p><fig fig-type="Scheme" xml:lang="en" id="gch2201700050-fig-0010" orientation="portrait" position="float"><label>Scheme 1</label><caption><p>Schematic illustration of MoO<sub>2</sub>/GO synthesis and structure. The MoO<sub>2</sub>/GO is prepared by decomposition of an ammonium molybdate/GO preform.</p></caption><graphic id="nlm-graphic-3" xlink:href="GCH2-1-1700050-g010"/></fig><p>
+<bold>Figure</bold>
+<xref rid="gch2201700050-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref>a shows the X&#x02010;ray diffraction (XRD) patterns of the GO, bulk (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>&#x000b7;4H<sub>2</sub>O, and the prepared preforms, in which the weight ratios of ammonium molybdate: GO are 20:1, 10:1, and 5:1. The XRD patterns of the GO supports show the peak around 2&#x003b8; = 9.8&#x000b0;, indicating interlayer spacing is 0.80 nm. Another peak at 2&#x003b8; = 24.0&#x000b0; (0.37 nm) has appeared, suggesting a trace of graphite flakes present in the GO.<xref rid="gch2201700050-bib-0029" ref-type="ref">29</xref> XRD patterns show the prepared preforms are composed of (NH<sub>4</sub>)<sub>2</sub>Mo<sub>2</sub>O<sub>7</sub> mainly (ICDD 00&#x02010;027&#x02010;1013), a small amount of (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>&#x000b7;4H<sub>2</sub>O (ICDD 01&#x02010;070&#x02010;1706) as well as the GO. Scanning electron microscopy (SEM) image of the raw material (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>&#x000b7;4H<sub>2</sub>O displays a large particle bulk morphology (Figure <xref rid="gch2201700050-fig-0001" ref-type="fig">1</xref>b). SEM image s of the prepared preforms&#x02010;1&#x02013;3 are shown in Figure <xref rid="gch2201700050-fig-0001" ref-type="fig">1</xref>c&#x02013;e, respectively. A loose layered structure composed of a great number pieces of (NH<sub>4</sub>)<sub>2</sub>Mo<sub>2</sub>O<sub>7</sub> or (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>&#x000b7;4H<sub>2</sub>O are obtained at the low ratio of GO supports (the weight ratio is 1:20, Preform&#x02010;1, Figure <xref rid="gch2201700050-fig-0001" ref-type="fig">1</xref>c), and a very dense layered structure is prepared at the high ratio of GO supports (the weight ratio is 1:5, Preform&#x02010;3, Figure <xref rid="gch2201700050-fig-0001" ref-type="fig">1</xref>e). At a moderate percentage GO, it can be observed from the cross&#x02010;section the prepared preform shows a transmit morphology among them (the weight ratio is 1:10, Preform&#x02010;2, Figure <xref rid="gch2201700050-fig-0001" ref-type="fig">1</xref>d).</p><fig fig-type="Figure" xml:lang="en" id="gch2201700050-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>a) XRD patterns of the prepared preform&#x02010;1&#x02013;3, (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>&#x000b7;4H<sub>2</sub>O, and graphene oxide. SEM images of b) the bulk (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>&#x000b7;4H<sub>2</sub>O, c) the prepared preform&#x02010;1, d) preform&#x02010;2, and e) preform&#x02010;3.</p></caption><graphic id="nlm-graphic-5" xlink:href="GCH2-1-1700050-g001"/></fig><p>
+<bold>Figure</bold>
+<xref rid="gch2201700050-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref>a shows the XRD patterns of the MoO<sub>2</sub>/GO&#x02010;1&#x02013;3 prepared by decomposition of the preform&#x02010;1&#x02013;preform&#x02010;3 as well as the reference MoO<sub>2</sub> particulates synthesized by the decomposition of bulk (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>&#x000b7;4H<sub>2</sub>O (SEM morphology of the MoO<sub>2</sub> particles are shown in Figure S1, Supporting Information). All of the diffraction peaks of the samples and the reference can be indexed to MoO<sub>2</sub> (ICDD 00&#x02010;032&#x02010;671, P21 (4), <italic>a</italic> = 5.610, <italic>b</italic> = 4.843, <italic>c</italic> = 5.526).<xref rid="gch2201700050-bib-0030" ref-type="ref">30</xref> The reference MoO<sub>2</sub> particles and the MoO<sub>2</sub>/GO&#x02010;1 display 2 peaks in the range 26.00&#x000b0;, assigned the reflections of (110) and (011), two peaks at 37.00&#x000b0; and 37.30&#x000b0;, assigned to the reflections of (020) and (111), as well as three peaks at 53.10&#x000b0;, 53.50&#x000b0;, and 53.90&#x000b0;, assigned to the reflections of (&#x02212;222), (022), and (112). As to the MoO<sub>2</sub>/GO&#x02010;2, and MoO<sub>2</sub>/GO&#x02010;3, the peaks around 26.00&#x000b0;, 37.20&#x000b0;, and 53.50&#x000b0; display three broaden and merged peaks, indicating that the size of MoO<sub>2</sub> of MoO<sub>2</sub>/GO&#x02010;2, MoO<sub>2</sub>/GO&#x02010;3 is smaller than the reference MoO<sub>2</sub> particles as well as the MoO<sub>2</sub>/GO&#x02010;1, which will be confirmed further by FIB&#x02013;SEM analysis. Different from the preforms, the XRD pattern related to the well&#x02010;distributed GO can hardly to be observed, attributed to the MoO<sub>2</sub> growth on GO surface, and the stacking of the graphene was inhibited.<xref rid="gch2201700050-bib-0031" ref-type="ref">31</xref> Transmission electron microscopy (TEM) spectroscopy analysis was employed to get more information. For TEM observation, the sample MoO<sub>2</sub>/GO&#x02010;2 was disperse in ethanol. After a strong ultrasonic vibration, the MoO<sub>2</sub> nanoparticles and the GO were exposed. The selected area electron diffraction (SAED) patterns indicate the MoO<sub>2</sub> particle is a nanocrystalline phase (Figure <xref rid="gch2201700050-fig-0002" ref-type="fig">2</xref>b). The MoO<sub>2</sub> has highly crystallized structure with the interplanar distance of 0.34 nm, corresponding to the d&#x02010;spacing of its (&#x02212;111) reflection (Figure <xref rid="gch2201700050-fig-0002" ref-type="fig">2</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="gch2201700050-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>a) XRD patterns of the MoO<sub>2</sub>/GO architectures and the reference MoO<sub>2</sub>. b) Typical SAED patterns of MoO<sub>2</sub>/GO&#x02010;2. c) High&#x02010;resolution transmission electron microscopy (HRTEM) image of the MoO<sub>2</sub>.</p></caption><graphic id="nlm-graphic-7" xlink:href="GCH2-1-1700050-g002"/></fig><p>The average atomic ratios of the products were determined by energy dispersive X&#x02010;ray spectroscopy (EDS) analysis performed with a Hitachi S&#x02010;3000 N scanning electron microscope (shown in <bold>Table</bold>
+<xref rid="gch2201700050-tbl-0001" ref-type="table">
+<bold>1</bold>
+</xref>). It shows the ratios of MoO<sub>2</sub>:C in the MoO<sub>2</sub>/GO&#x02010;1&#x02013;3 are 95.7:4.3, 84.8:15.2, and 79.2:20.8 by weight. The atomic ratios of Mo, C, and O elements are also provided in Table <xref rid="gch2201700050-tbl-0001" ref-type="table">1</xref>. The ratios of O: Mo is higher than the value 2 possible attributed that a small amount of MoO<sub>2</sub> in the surface oxidized in air or from the graphene&#x02010;oxide supports.<xref rid="gch2201700050-bib-0030" ref-type="ref">30</xref> X&#x02010;ray photoelectron spectroscopy (XPS) spectra show the surface atomic composition of Mo, C, and O of MoO<sub>2</sub>/GO&#x02010;1 are 26.5%, 19.2%, and 54.3%, respectively. The surface of MoO<sub>2</sub>/GO&#x02010;2 is composed of 20.43%, 36.57%, and 43.00% of Mo, C, and O atoms, respectively. While, the MoO<sub>2</sub>/GO&#x02010;3 is composed of 14.48, 53.02, and 32.51% of Mo, C, and O atoms at surface. The results are consistent with the EDS analysis.</p><table-wrap id="gch2201700050-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Elemental composition of GO substrated MoO<sub>2</sub>
+</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">As prepared composite</th><th colspan="3" align="center" style="border-bottom:solid 1px #000000" rowspan="1">wt%</th><th colspan="3" align="center" style="border-bottom:solid 1px #000000" rowspan="1">at%</th></tr></thead><tbody><tr style="border-bottom:solid 1px #000000"><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">C</td><td align="center" rowspan="1" colspan="1">O</td><td align="center" rowspan="1" colspan="1">Mo</td><td align="center" rowspan="1" colspan="1">C</td><td align="center" rowspan="1" colspan="1">O</td><td align="center" rowspan="1" colspan="1">Mo</td></tr><tr><td align="left" rowspan="1" colspan="1">MoO<sub>2</sub>/GO&#x02010;1</td><td align="center" rowspan="1" colspan="1">4.41</td><td align="center" rowspan="1" colspan="1">24.62</td><td align="center" rowspan="1" colspan="1">70.99</td><td align="center" rowspan="1" colspan="1">23.29</td><td align="center" rowspan="1" colspan="1">52.40</td><td align="center" rowspan="1" colspan="1">24.31</td></tr><tr><td align="left" rowspan="1" colspan="1">MoO<sub>2</sub>/GO&#x02010;2</td><td align="center" rowspan="1" colspan="1">15.24</td><td align="center" rowspan="1" colspan="1">21.82</td><td align="center" rowspan="1" colspan="1">62.94</td><td align="center" rowspan="1" colspan="1">38.58</td><td align="center" rowspan="1" colspan="1">41.47</td><td align="center" rowspan="1" colspan="1">19.95</td></tr><tr><td align="left" rowspan="1" colspan="1">MoO<sub>2</sub>/GO&#x02010;3</td><td align="center" rowspan="1" colspan="1">21.58</td><td align="center" rowspan="1" colspan="1">21.09</td><td align="center" rowspan="1" colspan="1">57.33</td><td align="center" rowspan="1" colspan="1">48.52</td><td align="center" rowspan="1" colspan="1">35.56</td><td align="center" rowspan="1" colspan="1">16.11</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>The air thermal gravimetric analysis (TGA) curve of the baseline MoO<sub>2</sub> particles shows two main weight change steps. The first is a significant weight increase starting at around 410 &#x000b0;C and lasting to &#x02248;500 &#x000b0;C. This is attributed to the oxidation of MoO<sub>2</sub> to MoO<sub>3</sub>, with a corresponding 12.2% weight increase that agrees well with theoretical value 12.5%. The second step is a large weight loss starting at around 760 &#x000b0;C due to the sublimation of MoO<sub>3</sub>.<xref rid="gch2201700050-bib-0024" ref-type="ref">24</xref> The air TGA curve of GO exhibits two weight loss steps. The initial weight loss occurs starting at around 50 &#x000b0;C and lasting to around 150 &#x000b0;C, attributed to the evaporation of physically adsorbed water on the higher surface area GO.<xref rid="gch2201700050-bib-0021" ref-type="ref">21</xref> The exothermal peak at &#x02248;510 &#x000b0;C can be assigned to the ignition of GO. As to the MoO<sub>2</sub>/GO&#x02010;1, MoO<sub>2</sub>/GO&#x02010;2, and MoO<sub>2</sub>/GO&#x02010;3, the first is a significant weight increase starting at around 400, 330, and 350 &#x000b0;C, respectively. The MoO<sub>2</sub>/GO&#x02010;2 exhibits the earliest, followed by MoO<sub>2</sub>/GO&#x02010;3, then MoO<sub>2</sub>/GO&#x02010;1, possibly attributed that the MoO<sub>2</sub> with nanosize is liable to oxide into MoO<sub>3</sub> in air than micrometer or bulk MoO<sub>2</sub>. The TGA curves of the MoO<sub>2</sub>/GO&#x02010;2, MoO<sub>2</sub>/GO&#x02010;3 achieved their peaks around 400 &#x000b0;C, then dropped. As to MoO<sub>2</sub>/GO&#x02010;1, a weak peak around 420 &#x000b0;C occurred. However, there is no peak, just a platform appeared in the TGA curve of the pure bulk MoO<sub>2</sub> (<bold>Figure</bold>
+<xref rid="gch2201700050-fig-0003" ref-type="fig">
+<bold>3</bold>
+</xref>). These are attributed to the oxidation of MoO<sub>2</sub> of the MoO<sub>2</sub>/GO architectures to MoO<sub>3</sub> and the ignition of GO of MoO<sub>2</sub>/GO happened simultaneously during this period. There is a higher quantity of GO in the MoO<sub>2</sub>/GO&#x02010;2, MoO<sub>2</sub>/GO&#x02010;3 than MoO<sub>2</sub>/GO&#x02010;1. To the MoO<sub>2</sub>/GO&#x02010;1, MoO<sub>2</sub>/GO&#x02010;2, and MoO<sub>2</sub>/GO&#x02010;3, the corresponding weight increases 11.8%, 10.5%, and 9.5%, respectively. These values are consistent to the EDS analysis.</p><fig fig-type="Figure" xml:lang="en" id="gch2201700050-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>a) TGA curves of the MoO<sub>2</sub>/GO architectures, MoO<sub>2</sub>/GO&#x02010;1 (green), MoO<sub>2</sub>/GO&#x02010;2(red), MoO<sub>2</sub>/GO&#x02010;3(blue), the reference MoO<sub>2</sub> particulates (pink), and graphene oxide (black). b) Enlarged TGA curves from (a).</p></caption><graphic id="nlm-graphic-9" xlink:href="GCH2-1-1700050-g003"/></fig><p>SEM analysis and FIB&#x02013;SEM analysis were employed to show the morphologies both the surface and inside of the prepared MoO<sub>2</sub>/GO composites (<bold>Figure</bold>
+<xref rid="gch2201700050-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref>). From the views of the surface SEM images, very dense MoO<sub>2</sub> nanoparticles around 200 nm in size connected each other can be observed in all of the graphene&#x02010;oxide supported MoO<sub>2</sub> assemblies. (Figure <xref rid="gch2201700050-fig-0004" ref-type="fig">4</xref>a&#x02013;c). It is very difficult to distinguish the composites with various ratios of MoO<sub>2</sub> to GO based on their surface morphologies. FIB&#x02013;SEM analysis was employed to show the inside structures of the porous materials. A composite of micrometer (around 0.5 &#x003bc;m) MoO<sub>2</sub> particles growing on the graphene oxide with irregular micrometer level connected hollows (from 0.2 to 1 &#x003bc;m) is obtained at the low ratio of GO (4.3% GO by weight, micrometer MoO<sub>2</sub>/GO) (Figure <xref rid="gch2201700050-fig-0004" ref-type="fig">4</xref>d,g). A hybrid with MoO<sub>2</sub> thinner layer&#x02010;graphene&#x02010;oxide layered structure is obtained at the high ratio of GO (20.8% GO by weight) (Figure <xref rid="gch2201700050-fig-0004" ref-type="fig">4</xref>f,i), mingled with irregular microchannels (layered MoO<sub>2</sub>/GO). The inside of the architectures exhibits sandwich like structure both at higher and lower ratios of MoO<sub>2</sub> to GO. However, when we control the ratio at optimized value (MoO<sub>2</sub> to GO is 84.8:15.2 wt%), a 3D honeycomb&#x02010;like structure with nanoscale pores around 50 nm in size is achieved (MoO<sub>2</sub>/GO nanohoneycomb, Figure <xref rid="gch2201700050-fig-0004" ref-type="fig">4</xref>e,h). TEM microscopy was employed to investigate the structures of MoO<sub>2</sub>/GO architectures further. The TEM image of micrometer MoO<sub>2</sub>/GO displays MoO<sub>2</sub> in the size around 0.5 &#x003bc;m connected to GO (provided in Figure S3a, Supporting Information). By contrast, the MoO<sub>2</sub>/GO nanohoneycomb exhibits GO substrates anchored by lots of nanosize (&#x02248;100 nm) MoO<sub>2</sub> (Figure S3b, Supporting Information). As for the layered MoO<sub>2</sub>/GO, the TEM shows MoO<sub>2</sub> sheets covered on GO substrates (Figure S3c, Supporting Information). These are consistent with the FIB&#x02013;SEM analysis. The results indicate the ratios of GO supports strongly affect the inside structure of MoO<sub>2</sub> assemblies. Nitrogen adsorption&#x02013;desorption isotherms of MoO<sub>2</sub>/GO architectures are provided in Figure S4 in the Supporting Information. The surface area of the micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb and layered MoO<sub>2</sub>/GO are 9.3, 38.4 and 11.2 m<sup>2</sup> g<sup>&#x02212;1</sup>, respectively. The MoO<sub>2</sub>/GO nanohoneycomb exhibits the highest surface area among them. Fourier transform infrared spectroscopy (FTIR) spectrum shows the presence of C=O (1716 cm<sup>&#x02212;1</sup>), C&#x02014;O (1015 cm<sup>&#x02212;1</sup>), OH (3361 cm<sup>&#x02212;1</sup>), and COOH (3583 cm<sup>&#x02212;1</sup>) in the GO (Figure S5a, Supporting Information). These functional groups make the GO connect with MoO<sub>2</sub> via hydrogen bond between H of GO and O of MoO<sub>2</sub> as well as the coordination bond through the O of GO and Mo of MoO<sub>2</sub> (Figure S5b, Supporting Information). The MoO<sub>2</sub>/GO&#x02010;2 has high surface area. A large interface and strong force exist between the nanoscale MoO<sub>2</sub> and the GO. Therefore, the GO connected with nanoscale MoO<sub>2</sub> tightly, ensuring a stable structure.</p><fig fig-type="Figure" xml:lang="en" id="gch2201700050-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Field emission scanning electron microscopy (FESEM) images of a) MoO<sub>2</sub>/GO&#x02010;1, b) MoO<sub>2</sub>/GO&#x02010;2, and c) MoO<sub>2</sub>/GO&#x02010;3. FIB images of d) MoO<sub>2</sub>/GO&#x02010;1, e) MoO<sub>2</sub>/GO&#x02010;2, and f) MoO<sub>2</sub>/GO&#x02010;3. Magnified FIB images of g) MoO<sub>2</sub>/GO&#x02010;1, h) MoO<sub>2</sub>/GO&#x02010;2, and i) MoO<sub>2</sub>/GO&#x02010;3.</p></caption><graphic id="nlm-graphic-11" xlink:href="GCH2-1-1700050-g004"/></fig><p>The electrochemical performance of the GO supported MoO<sub>2</sub> architectures was tested as anode in half cells, which was investigated by galvanostatic discharge/charge experiments. The MoO<sub>2</sub> particles synthesized with the identical method but in the absent of the GO supports and the GO were tested as the baselines. The constant current discharge/charge voltage profiles of MoO<sub>2</sub>/GO architecture as well as the MoO<sub>2</sub> particle electrodes cycled at the current of 100 mA g<sup>&#x02212;1</sup> are shown in <bold>Figure</bold>
+<xref rid="gch2201700050-fig-0005" ref-type="fig">
+<bold>5</bold>
+</xref>. To get a clearer view, the corresponding differential curves d<italic>Q</italic>/d<italic>V</italic> with the maximum of each peak labeled are provided in <bold>Figure</bold>
+<xref rid="gch2201700050-fig-0006" ref-type="fig">
+<bold>6</bold>
+</xref>. The d<italic>Q</italic>/d<italic>V</italic> curves of the pure MoO<sub>2</sub> particles display two irreversible peaks around 0.27 and 0.49 V at the first cycle (Figure <xref rid="gch2201700050-fig-0006" ref-type="fig">6</xref>a). When the GO was employed as the flexible supports for the MoO<sub>2</sub>/GO architectures, the peak at 0.49 V has disappeared. (Figure <xref rid="gch2201700050-fig-0006" ref-type="fig">6</xref>b&#x02013;d). The irreversible capacity at the initial cycle is resulted by the decomposition of the electrolyte as well as the formation of solid&#x02013;electrolyte interphases (SEIs).<xref rid="gch2201700050-bib-0032" ref-type="ref">32</xref> These are possibly attributed to that the GO as the flexible supports and backbones making the MoO<sub>2</sub> more stable. The coulombic efficiency (CE) at the first cycle is one of the vital criterions for the electrochemical energy storage systems.<xref rid="gch2201700050-bib-0033" ref-type="ref">33</xref> For Li ion full&#x02010;cell testing, the number of Li ions in the system is limited, the irreversible Li ion loss will lead to the capacity loss permanently.<xref rid="gch2201700050-bib-0032" ref-type="ref">32</xref> The initial discharge capacities of the pure MoO<sub>2</sub> particles, micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb, and layered MoO<sub>2</sub>/GO are 914, 1057, 1075, and 904 mAh g<sup>&#x02212;1</sup>, respectively. The initial CE of pure MoO<sub>2</sub> is 75.3%, the corresponding initial CEs of the micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb and layered MoO<sub>2</sub>/GO are 71.3%, 82.1%, and 74.0%, respectively. The CE of the MoO<sub>2</sub>/GO nanohoneycomb exhibits the highest value among the MoO<sub>2</sub>/GO architectures, which is also higher than the pure MoO<sub>2</sub> particles, attributed to its unique nanohoneycomb microstructure constructed with ultrafine MoO<sub>2</sub> fixed by the GO intimately, providing stability of the structure. From the second cycle, the two sets of reversible redox peaks at around 1.55 V (red)/1.75 V (oxid) and 1.26 V (red)/1.45 V (oxid) correspond to insertion of Li into the MoO<sub>2</sub> to form LiMoO<sub>2</sub> associated monoclinic&#x02013;orthorhombic&#x02013;monoclinic phase transitions with the theoretical capacity 209 mAh g<sup>&#x02212;1</sup>.<sup>[21,29]</sup> These are consist with the cyclic voltammetry curves of micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb, and layered MoO<sub>2</sub>/GO electrodes at a scan rate of 0.1 mV s<sup>&#x02212;1</sup> provided in Figure S6 in the Supporting Information. Another set of peaks 0.27 V/0.5 V related to the reversible conversion reaction LiMoO<sub>2</sub> + 3Li<sup>+</sup> + 3e<sup>&#x02212;</sup> = &#x0003e; Mo + 4Li<sub>2</sub>O induces an additional capacity 627 mAh g<sup>&#x02212;1</sup>.<xref rid="gch2201700050-bib-0020" ref-type="ref">20</xref> As the cycle increase from the 1st to the 2nd, next to the 5th, 10th, and 20th, it is amazing that the peak at 0.25 V of the MoO<sub>2</sub>/GO nanohoneycomb and layered MoO<sub>2</sub>/GO increases during the whole 20 cycles (Figure <xref rid="gch2201700050-fig-0006" ref-type="fig">6</xref>c,d), exhibiting a cycle induced activated process. Theses cycle induced activation process occurred in fine MoO<sub>2</sub> particles, especially nanoscale MoO<sub>2</sub>.<xref rid="gch2201700050-bib-0023" ref-type="ref">23</xref>, <xref rid="gch2201700050-bib-0034" ref-type="ref">34</xref>, <xref rid="gch2201700050-bib-0035" ref-type="ref">35</xref> While that peak of the pure MoO<sub>2</sub> particles have a significant decay as cycling. As to the micrometer MoO<sub>2</sub>/GO, it decreases from the first cycle to 10th cycle than increases from the 10th cycle to the 20th cycle, showing a transition between the MoO<sub>2</sub>/GO nanohoneycomb, layered MoO<sub>2</sub>/GO and bulk MoO<sub>2</sub> particle, possibly attributed to that the size of MoO<sub>2</sub> of micrometer MoO<sub>2</sub>/GO is in micrometer lever, which is between nanoscale MoO<sub>2</sub> in the MoO<sub>2</sub>/GO nanohoneycomb and bulk lever MoO<sub>2</sub>. Another peaks at 2.50 V (red)/1.78 V (oxid) is ascribe to GO (The constant current discharge/charge voltage profile and the corresponding d<italic>Q</italic>/d<italic>V</italic> of the GO are provided in Figure S7, Supporting Information). It can be observed that peaks occurred in the MoO<sub>2</sub>/GO nanohoneycomb and layered MoO<sub>2</sub>/GO. This is attributed to that the quantity of GO in the MoO<sub>2</sub>/GO nanohoneycomb and layered MoO<sub>2</sub>/GO is higher than that of micrometer MoO<sub>2</sub>/GO. Especially, as to MoO<sub>2</sub>/GO nanohoneycomb, the ultrafine particle MoO<sub>2</sub> adjacent on the GO supports, benefitting the GO exposed, providing the possibility for Li ion to access to the GO. The GO in the MoO<sub>2</sub>/GO nanohoneycomb and layered MoO<sub>2</sub> function as both supports and active materials.</p><fig fig-type="Figure" xml:lang="en" id="gch2201700050-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Galvanostatic discharge/charge voltage profiles of a) MoO<sub>2</sub> particles, b) MoO<sub>2</sub>/GO&#x02010;1, c) MoO<sub>2</sub>/GO&#x02010;2, and d) MoO<sub>2</sub>/GO&#x02010;3 at the current density of 100 mA g<sup>&#x02212;1</sup>.</p></caption><graphic id="nlm-graphic-13" xlink:href="GCH2-1-1700050-g005"/></fig><fig fig-type="Figure" xml:lang="en" id="gch2201700050-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Corresponding differential curves of a) MoO<sub>2</sub> particles, b) MoO<sub>2</sub>/GO&#x02010;1, c) MoO<sub>2</sub>/GO&#x02010;2, and d) MoO<sub>2</sub>/GO&#x02010;3 at the current density of 100 mA g<sup>&#x02212;1</sup>.</p></caption><graphic id="nlm-graphic-15" xlink:href="GCH2-1-1700050-g006"/></fig><p>To show an overall view of the electrochemical performance, the MoO<sub>2</sub>/GO architecture electrodes were tested for 150 cycles at the current density of 100 mA g<sup>&#x02010;1</sup>. The pure MoO<sub>2</sub> particles were tested as the baseline, which is shown in <bold>Figure</bold>
+<xref rid="gch2201700050-fig-0007" ref-type="fig">
+<bold>7</bold>
+</xref>a. The capacity of the pure MoO<sub>2</sub> particle baseline displays a continuous decrease to 356 mAh g<sup>&#x02212;1</sup> until the 17th cycle then gradually increase afterward, the capacity reaches to 470 mAh g<sup>&#x02212;1</sup> at the 100th cycle, which is consistent with MoO<sub>2</sub> with the size in microscale.<xref rid="gch2201700050-bib-0025" ref-type="ref">25</xref>, <xref rid="gch2201700050-bib-0026" ref-type="ref">26</xref> As we have already discussed above, the micrometer MoO<sub>2</sub>/GO also exhibits an induced activation process. The discharge capacity of the micrometer MoO<sub>2</sub>/GO decreases to 801 mAh g<sup>&#x02212;1</sup> at the 7th cycle then continuously increases to 901 mAh g<sup>&#x02212;1</sup> at the 100th cycle. The MoO<sub>2</sub>/GO nanohoneycomb clearly displays the best cycle performance. The reversible discharge capacity achieves to 1004 mAh g<sup>&#x02212;1</sup> at the 4th cycle, with the corresponding CE 98.2%. Then it increases to a peak capacity 1235 mAh g<sup>&#x02212;1</sup> at the 34th cycle. Even after 100 cycles the discharge capacity still remains 1127 mAh g<sup>&#x02212;1</sup>, which is 4.9% higher than the initial capacity. The calculated theoretical capacity (836 mAh g<sup>&#x02212;1</sup>) is on the basis of phase transitions, and conversion reaction.<xref rid="gch2201700050-bib-0023" ref-type="ref">23</xref>, <xref rid="gch2201700050-bib-0034" ref-type="ref">34</xref> The substantial additional capacity beyond the theoretical value suggests that all the reversible Li<sup>+</sup> storage mechanisms are not to be accounted for. Surface adsorption is partially responsible for the extra capacity beyond the theoretical value.<xref rid="gch2201700050-bib-0019" ref-type="ref">19</xref>, <xref rid="gch2201700050-bib-0035" ref-type="ref">35</xref> Another conceivable explanation for the extra capacity is that the formation of a polymer gel on the surface of nanostructured conversion electrodes during lithiation, with its consequent dissolution upon delithiation.<xref rid="gch2201700050-bib-0024" ref-type="ref">24</xref> The layered MoO<sub>2</sub>/GO displays a similar trend as that of MoO<sub>2</sub>/GO nanohoneycomb but the value is around 350 mAh g<sup>&#x02212;1</sup> lower than that of MoO<sub>2</sub>/GO nanohoneycomb from the 10th cycle, possibly contributed to its larger size of the pores and particles. When further test to 150 cycles, the retained capacity of micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb, and layered MoO<sub>2</sub>/GO are 908, 1095, and 937, respectively. The micrometer MoO<sub>2</sub>/GO electrodes still exhibit very stable, while the MoO<sub>2</sub>/GO nanohoneycomb electrodes deliver the highest capacity. The CE is a key factor for the lithium ion battery. The CEs of the MoO<sub>2</sub>/GO architectures are provided in Figure S8 in the Supporting Information. The MoO<sub>2</sub>/GO nanohoneycomb exhibits the best besides at the 1st mentioned above. From the 3rd to 100th cycle, the CE of MoO<sub>2</sub>/GO nanohoneycomb reaches to 97.5% at the 3rd cycle. While the CEs of MoO<sub>2</sub> particles and micrometer MoO<sub>2</sub>/GO at the 3rd cycle are 89.1% and 90.1%, respectively. The CEs of MoO<sub>2</sub> particles and micrometer MoO<sub>2</sub>/GO achieved 97.4% and 97.3% at the 15th cycle, which is 12 cycles later than that of MoO<sub>2</sub>/GO nanohoneycomb reached similar value. This is possibly attributed that the size of MoO<sub>2</sub> particles and micrometer MoO<sub>2</sub>/GO is significantly larger than that of MoO<sub>2</sub>/GO nanohoneycomb, needing more cycle for adjustments and activation. Moreover, it also strongly a<underline underline-style="single">ffect the overall view of the CEs</underline>. The average CEs of the MoO<sub>2</sub> particles, micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb, and layered MoO<sub>2</sub>/GO are 98.1%, 97.6%, 99.3%, and 99.0%, respectively. The CEs of the GO are provided in Figure S9 in the Supporting Information. The average CE of the GO used as the supports is 95.6%. The MoO<sub>2</sub>/GO nanohoneycomb is able to achieve to the reversible and their average CEs are higher than both of the MoO<sub>2</sub> particles and GO supports, possibly attributed that to its unique nanohoneycomb structure constructed with ultrafine MoO<sub>2</sub> fixed on the GO supports.</p><fig fig-type="Figure" xml:lang="en" id="gch2201700050-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>a) Cycle performance and b) rate capacities of MoO<sub>2</sub> particulates (pink), MoO<sub>2</sub>/GO&#x02010;1 (green), MoO<sub>2</sub>/GO&#x02010;2 (red), and MoO<sub>2</sub>/GO&#x02010;3 (blue).</p></caption><graphic id="nlm-graphic-17" xlink:href="GCH2-1-1700050-g007"/></fig><p>The rate performance of the micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb, and layered MoO<sub>2</sub>/GO is investigated to observe their potential for fast charge/discharge, the MoO<sub>2</sub> particulates were also tested as the baselines (Figure <xref rid="gch2201700050-fig-0007" ref-type="fig">7</xref>b). The rate performance of the GO supports is provided in Figure S10 in the Supporting Information. Generally, the MoO<sub>2</sub>/GO architectures show much higher capacity than the GO and MoO<sub>2</sub> particulates at all tested current densities. Among them, the MoO<sub>2</sub>/GO nanohoneycomb displays the best. At a current density of 100 mA g<sup>&#x02212;1</sup>, at the first cycle, the GO shows the discharge capacity as high as 1183 mAh g<sup>&#x02212;1</sup>, then it decreases very fast. After 20 cycles, the residue capacity is as low as 520 mAh g<sup>&#x02212;1</sup>, agreeing well to the previous works.<xref rid="gch2201700050-bib-0036" ref-type="ref">36</xref> The initial discharge capacities of the micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb, and layered MoO<sub>2</sub>/GO and the reference MoO<sub>2</sub> particles are 1057.5, 1074.6, 903.9, and 914.9 mAh g<sup>&#x02212;1</sup>, respectively. The second discharge capacities of micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb, and layered MoO<sub>2</sub>/GO decrease to 994.1, 906.6, and 651.4 mAh g<sup>&#x02212;1</sup>. After around five cycles, then the capacities of the hybrid exhibit increasing trend, these phenomena are similar as ultrafine MoO<sub>2</sub> nanorods,<xref rid="gch2201700050-bib-0035" ref-type="ref">35</xref> the hierarchical MoO<sub>2</sub> nanoarchitectures<xref rid="gch2201700050-bib-0030" ref-type="ref">30</xref> as well as MoO<sub>2</sub> nanonetworks.<xref rid="gch2201700050-bib-0024" ref-type="ref">24</xref> After 20 cycles, the capacities of the micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb and layered MoO<sub>2</sub>/GO reach to 900.8, 1193.2, and 990.7 mAh g<sup>&#x02212;1</sup>, respectively. The reference MoO<sub>2</sub> prepared under similar conditions but without graphene&#x02010;oxide deliver a discharge capacity 350.2 mAh g<sup>&#x02212;1</sup>, which is consistent to the previous results.<xref rid="gch2201700050-bib-0024" ref-type="ref">24</xref>, <xref rid="gch2201700050-bib-0037" ref-type="ref">37</xref> At the current densities of 200 mA g<sup>&#x02212;1</sup> after 30 cycles, the micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb, and layered MoO<sub>2</sub>/GO, the GO, and the MoO<sub>2</sub> particulates show the capacities of 822, 1078, 943, 397, and 286 mAh g<sup>&#x02212;1</sup>, respectively. At the current density of 500 mA g<sup>&#x02212;1</sup> after 40 cycles, the capacities of them are 718, 934, 921, 275, and 211 mAh g<sup>&#x02212;1</sup>, respectively. When the current density reaches to 1000 mA g<sup>&#x02212;1</sup>, they display the capacities as high as 631, 801, 694, 191, and 143 mAh g<sup>&#x02212;1</sup> after 50 cycles, respectively. At the current density of 5000 mA g<sup>&#x02212;1</sup>, the capacities are 342, 461, 375, 125, and 85 mAh g<sup>&#x02212;1</sup>, respectively. The MoO<sub>2</sub>/GO nanohoneycomb shows much higher capacity compared with the other two MoO<sub>2</sub>/GO architectures, attributed to that fine MoO<sub>2</sub> particles (around 50 nm) anchored on GO supports to form a honeycomb&#x02010;like network structure with nanoscale pores (around 50 nm). All these provide efficient space for electrolyte transfer, and significantly decrease the diffusion distance of lithium ions and electrons. After 60 cycles, these samples tested at the current density of 100 mA g<sup>&#x02212;1</sup> again, the capacities of the MoO<sub>2</sub>/GO nanohoneycomb and layered MoO<sub>2</sub>/GO are 1169 and 963 mAh g<sup>&#x02212;1</sup> after 80 cycles, similar as that at the beginning. These attributed to that porosity structures can buffer against the volume change during lithium insertion&#x02013;desertion, improving the cycling performance.<xref rid="gch2201700050-bib-0038" ref-type="ref">38</xref>, <xref rid="gch2201700050-bib-0039" ref-type="ref">39</xref> While, the capacity of micrometer MoO<sub>2</sub>/GO is 1073 mAh g<sup>&#x02212;1</sup>, which is 8.4% higher than that at the beginning after 20 cycles, possibly attributed to that particles of MoO<sub>2</sub> of micrometer MoO<sub>2</sub>/GO is the largest one among them, needing more charge&#x02013;discharge cycles for activation. The trends of the MoO<sub>2</sub>/GO nanohoneycomb, and layered MoO<sub>2</sub>/GO are similar, while the micrometer MoO<sub>2</sub>/GO is transition between the MoO<sub>2</sub> particulates and the other two MoO<sub>2</sub>/GO architectures, possibly attributed to that the micrometer MoO<sub>2</sub>/GO has smaller quantity of GO and larger size MoO<sub>2</sub> particles.</p><p>In order to show the correlation between the electrochemical behavior and the MoO<sub>2</sub>/GO porous structure further, electrochemical impedance spectroscopy (EIS) measurements were carried out in order to compare the impedance differences among the MoO<sub>2</sub>/GO architectures and pure MoO<sub>2</sub> particulates. The Nyquist plots, shown in <bold>Figure</bold>
+<xref rid="gch2201700050-fig-0008" ref-type="fig">
+<bold>8</bold>
+</xref>, were collected from 100 kHz to 0.01 Hz after the electrodes underwent 100 charge/discharge cycles. The equivalent series resistance of the four tested materials is on par due to all of them consist primarily of MoO<sub>2</sub> with high electrical conductivity. The high&#x02010;frequency region of the Nyquist plot also consists of two overlapping semicircles, with their combined diameter being the total charge transfer resistance of the electrodes. In cycled materials the charge transfer resistance is normally attributed to a combination of the charge transfer resistance at the original electrode surface and through the interfaces of the SEI. Among them, the charge transfer resistance in the cycled MoO<sub>2</sub>/GO nanohoneycomb is significantly lower than the micrometer MoO<sub>2</sub>/GO, and layered MoO<sub>2</sub>/GO, as well as the MoO<sub>2</sub> particulates attributed to a more facile ion transfer pathway at the nanohoneycomb porous structures. Another significant difference comes from the Warburg region, namely the slope of the 45&#x000b0; portion right after the semicircles. The overall length of the Warburg line is indicative of diffusional limitations in the material, with bulk ion insertion and conversion electrodes being solid&#x02010;state diffusion limited. The nanohoneycomb porous structures demonstrate a much shorter Warburg region than others, which is expected due to the markedly smaller diffusion lengths in the former.</p><fig fig-type="Figure" xml:lang="en" id="gch2201700050-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Nyquist plots comparing MoO<sub>2</sub> particulates (pink), MoO<sub>2</sub>/GO&#x02010;1 (green), MoO<sub>2</sub>/GO&#x02010;2 (red), and MoO<sub>2</sub>/GO&#x02010;3 (blue), after 80 cycles (fully charged).</p></caption><graphic id="nlm-graphic-19" xlink:href="GCH2-1-1700050-g008"/></fig><p>The comparison of our MoO<sub>2</sub>/GO nanohoneycomb with the state&#x02010;of&#x02010;the&#x02010;art in previously literatures on the MoO<sub>2</sub> base is show in <bold>Figure</bold>
+<xref rid="gch2201700050-fig-0009" ref-type="fig">
+<bold>9</bold>
+</xref>. The corresponding data are provided <bold>Table</bold>
+<xref rid="gch2201700050-tbl-0002" ref-type="table">
+<bold>2</bold>
+</xref>. Generally at all tested current densities, the carbon supported MoO<sub>2</sub> composites<xref rid="gch2201700050-bib-0003" ref-type="ref">3</xref>, <xref rid="gch2201700050-bib-0008" ref-type="ref">8</xref>, <xref rid="gch2201700050-bib-0025" ref-type="ref">25</xref>, <xref rid="gch2201700050-bib-0027" ref-type="ref">27</xref>, <xref rid="gch2201700050-bib-0033" ref-type="ref">33</xref> deliver higher capacities than the MoO<sub>2</sub> skeleton nanoporous materials at each current density.<xref rid="gch2201700050-bib-0023" ref-type="ref">23</xref>, <xref rid="gch2201700050-bib-0024" ref-type="ref">24</xref>, <xref rid="gch2201700050-bib-0030" ref-type="ref">30</xref> Especially, at a high current density of 1000 mA g<sup>&#x02212;1</sup>, the capacity of the MoO<sub>2</sub>/N&#x02010;GNS,<xref rid="gch2201700050-bib-0008" ref-type="ref">8</xref> MoO<sub>2</sub>/GO nanohoneycomb, and MoO<sub>2</sub>/Graphene<xref rid="gch2201700050-bib-0034" ref-type="ref">34</xref> are 873.7, 801, and 598 mAh g<sup>&#x02212;1</sup>, respectively, while the MoO<sub>2</sub> skeleton porous structure only delivers 480 mAh g<sup>&#x02212;1</sup>. Even at the current density reach to 4190 mA g<sup>&#x02212;1</sup>, the MoO<sub>2</sub>/graphene microspheres exhibits a capacity of 390 mAh g<sup>&#x02212;1</sup>.<xref rid="gch2201700050-bib-0026" ref-type="ref">26</xref> As to the MoO<sub>2</sub>/GO nanohoneycomb electrodes, it can deliver a capacity as high as 461 mAh g<sup>&#x02212;1</sup> at a much higher current density of 5000 mA g<sup>&#x02212;1</sup>.</p><fig fig-type="Figure" xml:lang="en" id="gch2201700050-fig-0009" orientation="portrait" position="float"><label>Figure 9</label><caption><p>Comparison of the capacity versus current density of the MoO<sub>2</sub>/GO nanohoneycomb (blue balls) versus the state&#x02010;of&#x02010;the&#x02010;art MoO<sub>2</sub> results from literatures. Hollow, MoO<sub>2</sub> skeleton porous structures; solid, MoO<sub>2</sub>/carbon&#x02010;based composites.</p></caption><graphic id="nlm-graphic-21" xlink:href="GCH2-1-1700050-g009"/></fig><table-wrap id="gch2201700050-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Cycling performance comparison of MoS<sub>2</sub>/GO nanohoneycomb with state&#x02010;of&#x02010;the&#x02010;art literature for MoO<sub>2</sub>&#x02010;based materials, all tested as half cells versus Li/Li<sup>+</sup>
+</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Materials</th><th align="center" rowspan="1" colspan="1">Synthesis method</th><th align="center" rowspan="1" colspan="1">Capacity [mAh g<sup>&#x02212;1</sup>]</th><th align="center" rowspan="1" colspan="1">Current density [mA g<sup>&#x02212;1</sup>]</th><th align="center" rowspan="1" colspan="1">Voltage [V]</th><th align="center" rowspan="1" colspan="1">Reference</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">MoO<sub>2</sub>/graphene oxide flexible supports</td><td align="center" rowspan="1" colspan="1">Preform decomposition</td><td align="center" rowspan="1" colspan="1">1127 (100) 1078 (typical) 934 (typical) 801 (typical) 461 (typical)</td><td align="center" rowspan="1" colspan="1">100 200 500 1000 5000</td><td align="center" rowspan="1" colspan="1">0.01&#x02013;3.00</td><td align="center" rowspan="1" colspan="1">This work</td></tr><tr><td align="left" rowspan="1" colspan="1">Mesoporous crystalline MoO<sub>2</sub>
+</td><td align="center" rowspan="1" colspan="1">Template nanocasting strategy</td><td align="center" rowspan="1" colspan="1">750 (30)</td><td align="center" rowspan="1" colspan="1">42 (0.05C)</td><td align="center" rowspan="1" colspan="1">0.01&#x02013;3.00</td><td align="center" rowspan="1" colspan="1">Shi et al.<xref rid="gch2201700050-bib-0023" ref-type="ref">23</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">MoS<sub>2</sub>/MoO<sub>2</sub> nanonetworks</td><td align="center" rowspan="1" colspan="1">Sulfur&#x02010;assisted decomposition</td><td align="center" rowspan="1" colspan="1">1163 (80) 1025 (typical) 654 (typical) 480 (typical) 390 (typical)</td><td align="center" rowspan="1" colspan="1">100 200 500 1000 2000</td><td align="center" rowspan="1" colspan="1">0.01&#x02013;3.00</td><td align="center" rowspan="1" colspan="1">Xu et al.<xref rid="gch2201700050-bib-0024" ref-type="ref">24</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">MoO<sub>2</sub>@C nanooctahedrons</td><td align="center" rowspan="1" colspan="1">Precursor</td><td align="center" rowspan="1" colspan="1">1442 (50) 443.8 (850)</td><td align="center" rowspan="1" colspan="1">100 1000</td><td align="center" rowspan="1" colspan="1">0.01&#x02013;3.00</td><td align="center" rowspan="1" colspan="1">Xia et al.<xref rid="gch2201700050-bib-0003" ref-type="ref">3</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">MoO<sub>2</sub>/N&#x02010;GNS</td><td align="center" rowspan="1" colspan="1">Hydrothermal&#x02010;calcination method</td><td align="center" rowspan="1" colspan="1">1138.5 (60) 873.7 (60)</td><td align="center" rowspan="1" colspan="1">100 1000</td><td align="center" rowspan="1" colspan="1">0.01&#x02013;3.00</td><td align="center" rowspan="1" colspan="1">Wang et al.<xref rid="gch2201700050-bib-0008" ref-type="ref">8</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">MoO<sub>2</sub>/graphene microspheres</td><td align="center" rowspan="1" colspan="1">Microwave&#x02010;assisted hydrothermal process</td><td align="center" rowspan="1" colspan="1">1330 (100) 913 (typical) 390 (typical)</td><td align="center" rowspan="1" colspan="1">83.8 (0.1C) 1676 (2C) 4190 (5C)</td><td align="center" rowspan="1" colspan="1">0.01&#x02013;3.00</td><td align="center" rowspan="1" colspan="1">Palanisamy et al.<xref rid="gch2201700050-bib-0026" ref-type="ref">26</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Hierarchical MoO<sub>2</sub>
+</td><td align="center" rowspan="1" colspan="1">Templated</td><td align="center" rowspan="1" colspan="1">719 (20)</td><td align="center" rowspan="1" colspan="1">200</td><td align="center" rowspan="1" colspan="1">0.01&#x02013;3.00</td><td align="center" rowspan="1" colspan="1">Sun et al.<xref rid="gch2201700050-bib-0030" ref-type="ref">30</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">MoO<sub>2</sub>/Graphene Nanoarchitectures</td><td align="center" rowspan="1" colspan="1">Solution and annealed</td><td align="center" rowspan="1" colspan="1">598 (70)</td><td align="center" rowspan="1" colspan="1">1000</td><td align="center" rowspan="1" colspan="1">0.01&#x02013;3.00</td><td align="center" rowspan="1" colspan="1">Sun et al.<xref rid="gch2201700050-bib-0034" ref-type="ref">34</xref>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="gch2201700050-sec-0030"><label>3</label><title>Conclusion</title><p>In summary, graphene&#x02010;oxide&#x02010;supported MoO<sub>2</sub> nanoarchitectures were prepared by decomposing ammonium molybdate/graphene&#x02010;oxide preform. The GO acts as a flexible supports to construct MoO<sub>2</sub> architectures. The inside structures of the architectures can be controlled by altering the percentages of the GO used as flexible supports: micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb, and layered MoO<sub>2</sub>/GO architectures were achieved at the percentage of GO at 4.3, 15.2, and 20.8 wt%, respectively. The lithium storage performance of the MoO<sub>2</sub>/GO strongly depends on their inside structures. The micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb, and layered MoO<sub>2</sub>/GO delivered their initial discharge capacities as high as 1057, 1075, and 904 mAh g<sup>&#x02212;1</sup> at the current density of 100 mA g<sup>&#x02212;1</sup>, remaining at the values 901, 1127, and 967 mAh g<sup>&#x02212;1</sup> after 100 cycles, respectively. The average coulombic efficiencies of the micrometer MoO<sub>2</sub>/GO, MoO<sub>2</sub>/GO nanohoneycomb, and layered MoO<sub>2</sub>/GO are 97.6%, 99.3%, and 99.0%, respectively. Moreover, they showed the rate capacities 631, 801, and 694 mAh g<sup>&#x02212;1</sup> at a higher current density of 1000 mA g<sup>&#x02212;1</sup>, exhibiting 342, 461, and 375 mAh g<sup>&#x02212;1</sup> at the current as high as 5000 mA g<sup>&#x02212;1</sup>, respectively. The obtained MoO<sub>2</sub>/GO nanohoneycomb exhibits the best, attributed to its honeycomb&#x02010;like structure with ultrafine MoO<sub>2</sub> fixed by the flexible GO supports, as well as the excellent electroconductivity of MoO<sub>2</sub>.</p></sec><sec id="gch2201700050-sec-0040"><label>4</label><title>Experimental Section</title><p>
+<italic>Synthesis of MoO<sub>2</sub>/GO and Reference MoO<sub>2</sub></italic>: GO was synthesized by using Hummers method.<xref rid="gch2201700050-bib-0040" ref-type="ref">40</xref> Graphite flakes were added to the mixture of concentrated H<sub>2</sub>SO<sub>4</sub> and NaNO<sub>3</sub>, and the mixture was cooled to about 0 &#x000b0;C for 0.5 h. KMnO<sub>4</sub> was added slowly in the mixture, keeping the temperature below 5 &#x000b0;C for 1 h. The mixture was heated to 35 &#x000b0;C remaining for 2 h. Added water slowly produced a large heat to 98 &#x000b0;C and kept for 2 h. H<sub>2</sub>O<sub>2</sub> was added to the mixture until the bubbles disappeared. The filtrate was centrifuged (2500 rpm) and the supernatant was decanted away. The remained solid material was washed in succession with 200 mL of water and 200 mL of 5% HCl. The steps were repeated at least three times until the pH was close to 7.0. The product was dried by vacuum freeze drying method.</p><p>The MoO<sub>2</sub>/GO was synthesized by decomposition of the prepared ammonium molybdate/GO preform.<xref rid="gch2201700050-bib-0028" ref-type="ref">28</xref> In the experiments of the preparation of MoO<sub>2</sub>/GO, 0.36 g GO dispersed in &#x02248;50 mL water under magnetic stirring at room temperature for 48 h. 4.8 g (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>&#x000b7;4H<sub>2</sub>O dissolved in &#x02248;50 mL water to form (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub> aqueous solution. Then the (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub> aqueous solution was added to the GO/H<sub>2</sub>O disperse under magnetic stirring for &#x02248;12 h. After evaporation of H<sub>2</sub>O at &#x02248;120 &#x000b0;C, the ammonium molybdate/GO preform&#x02010;1 formed. The preform&#x02010;2 and preform&#x02010;3 were prepared using 0.36 g GO/3.6 g (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>&#x000b7;4H<sub>2</sub>O and 0.36 g GO/1.8 g (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>&#x000b7;4H<sub>2</sub>O, respectively.</p><p>The MoO<sub>2</sub>/GO&#x02010;1, MoO<sub>2</sub>/GO&#x02010;2, and MoO<sub>2</sub>/GO&#x02010;3 were prepared by decomposition of preform&#x02010;1, preform&#x02010;2, and preform&#x02010;3 at 500 &#x000b0;C for 40 min under the atmosphere of argon, respectively. The as&#x02010;prepared products were washed by water for several times and dried under vacuum at 70 &#x000b0;C overnight. Yields of MoO<sub>2</sub>/GO&#x02010;1, MoO<sub>2</sub>/GO&#x02010;2, and MoO<sub>2</sub>/GO&#x02010;3 were 4.53, 3.12, and 1.61 g, respectively.</p><p>For the synthesis of the pure MoO<sub>2</sub> as baseline, MoO<sub>3</sub> was prepared by decomposition of (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub> in air. In brief, 2.00 g (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>&#x000b7;4H<sub>2</sub>O was ground. Then it was transferred to a quartz boat. The quartz boat was placed in the middle of the heating zone. The tube furnace was heated to 500 &#x000b0;C with the heating rate of 10 &#x000b0;C min<sup>&#x02212;1</sup> and remained at 500 &#x000b0;C for 2 h. Then the system was cooled naturally to room temperature. The as&#x02010;prepared product was washed by water for several times and dried under vacuum at 70 &#x000b0;C overnight. Yield: 1.75 g. The reference MoO<sub>2</sub> was synthesized in a horizontal tube furnace. In brief, 0.50 g of the prepared MoO<sub>3</sub> was transferred to a quartz boat. The quartz boat was placed in the middle of the heating zone. The tube furnace was heated to 500 &#x000b0;C with a heating rate of 10 &#x000b0;C min<sup>&#x02212;1</sup> and remained there for 2 h. The experiments were carried out under the atmosphere of a mixture of hydrogen and argon. (1:1, volume ratio), the flow of the mixture gas was maintained at 10 sccm. Then the system was cooled naturally to room temperature under an argon atmosphere with a flow of 10 sccm. The as&#x02010;prepared product was washed by water for several times and dried under vacuum at 70 &#x000b0;C overnight. Yield: 0.40 g.</p><p>
+<italic>Characterization</italic>: XRD analysis of the samples was performed using a Bruker Discover 8 Diffractometer, with Cu <italic>K</italic>
+<sub>&#x003b1;</sub> radiation (&#x003bb; = 1.5406 &#x000c5;) that was monochromatized using a single Gobel mirror. XPS spectra were recorded on an Axis Ultra spectrometer with Al (Mono) <italic>K</italic>
+<sub>&#x003b1;</sub> X&#x02010;ray source (1486.6 eV). The base pressure of the analysis chamber was below 10<sup>&#x02212;9</sup> mbar.</p><p>SEM analysis was performed using a Hitachi S&#x02010;4800 field emission scanning electron microscope. The samples were also analyzed using a FIB microscope for micro&#x02010;cross&#x02010;sectioning. FIB analysis was performed using a Zeiss NVision 40 dual beam system. The FIB used a 30 kV Ga liquid metal ion source with ion currents of 0.15&#x02013;45 pA. The system was equipped with a vertical SEM column that was situated at 36&#x000b0; relative to the FIB column. Cross&#x02010;sections were milled with the FIB and then imaged with the SEM. The FIB SEM was operated at 3 kV to optimize surface sensitivity. TEM analysis was performed using a JEOL 2100 Lab6 TEM, at a 200 kV accelerating voltage. For TEM analysis the samples were dispersed in alcohol with the aid of ultrasonic agitation for several minutes. A drop of the dispersion was deposited onto a copper grid covered by ultrathin carbon film supported by a lacey carbon film. Energy dispersive X&#x02010;ray analysis was employed by using a Hitachi S&#x02010;3000 N scanning electron microscope. TGA and differential scanning calorimetry analysis (DSC) were performed on an SDT Q600, TA Instruments DSC&#x02013;TGA, in air with a heating rate of 10 &#x000b0;C min<sup>&#x02212;1</sup>.</p><p>
+<italic>Electrochemistry</italic>: The electrode materials were prepared by mixing the active material with 15 wt% carbon black and 10 wt% Polyvinylidene fluoride (PVDF) (binder) in <italic>N</italic>&#x02010;methylpyrrolidone to form a homogeneous slurry. The well&#x02010;mixed slurry was then spread onto a copper foil and dried at 105 &#x000b0;C in a vacuum oven for 12 h. Circular disk electrodes were punched from the foil and used as the anode. The obtained electrodes, polyethene separators, and Li metal foils were assembled into a button cell filed with electrolytes (1 <sc>m</sc> LiPF<sub>6</sub> in ethylene carbonate/dimethyl carbonate) in argon atmosphere. Electrochemical characterization was performed in a CR2032&#x02010;type coin cell with a multichannel&#x02010;current static system (Wuhan, LANHE&#x02010;CT2001A, China) in the voltage range of 0.01&#x02013;3.00 V (vs Li/Li<sup>+</sup>). The discharge/charge experiments were done under a constant current density. Electrochemical impedance spectroscopy (EIS) measurements were carried out using a using a PARSTAT MC electrochemical measurement system (Ametek Co., Ltd. USA). The impedance spectra were recorded on cells in the frequency range between 100 kHz and 10 mHz with a perturbation amplitude of 5 mV.</p></sec><sec sec-type="COI-statement" id="gch2201700050-sec-0060"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="GCH2-1-1700050-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="gch2201700050-sec-0050"><title>Acknowledgements</title><p>This work was supported by 973 Special Preliminary Study Plan No. 2014CB26041, National Key Technology R&#x00026;D Program No. 2013BAF09B02, Academic Team funding of Shaanxi University of Science and Technology No. XSD1445, Provincial Key Academic Leaders Scientific Research Foundation of Shaanxi University of Science and Technology No. BJ15&#x02010;01, and Shaanxi Natural Science Foundation of China No. 2017JM5006.</p></ack><ref-list id="gch2201700050-bibl-0001"><ref id="gch2201700050-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0001">
+<string-name>
+<given-names>A.</given-names>
+<surname>Ambrosi</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Sofer</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Pumera</surname>
+</string-name>, <source xml:lang="en">Small</source>
+<year>2015</year>, <volume>11</volume>, <fpage>605</fpage>.<pub-id pub-id-type="pmid">25207749</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0002">
+<string-name>
+<given-names>K.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>J. T.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J. T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>H. Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Inter.</source>
+<year>2016</year>, <volume>8</volume>, <fpage>17402</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0003">
+<string-name>
+<given-names>G. L.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>F. C.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>Q. W.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem. A</source>
+<year>2016</year>, <volume>4</volume>, <fpage>12434</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0004">
+<string-name>
+<given-names>K.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>X. K.</given-names>
+<surname>Mu</surname>
+</string-name>, <string-name>
+<given-names>P. A.</given-names>
+<surname>van Aken</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Maier</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2013</year>, <volume>3</volume>, <fpage>49</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0005">
+<string-name>
+<given-names>Y. Z.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>D. Q.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H. W.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>P. F.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Feng</surname>
+</string-name>, <source xml:lang="en">ACS Nano</source>
+<year>2012</year>, <volume>6</volume>, <fpage>8349</fpage>.<pub-id pub-id-type="pmid">22931096</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0006">
+<string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>X. J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X. Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>S. D.</given-names>
+<surname>Xun</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>P. K.</given-names>
+<surname>Koech</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Lemmon</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2011</year>, <volume>21</volume>, <fpage>2840</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0007">
+<string-name>
+<given-names>Y. Y.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H. L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Regier</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Dai</surname>
+</string-name>, <source xml:lang="en">Nat. Mater.</source>
+<year>2011</year>, <volume>10</volume>, <fpage>780</fpage>.<pub-id pub-id-type="pmid">21822263</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0008">
+<string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>J. Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L. N.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Cao</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2015</year>, <volume>274</volume>, <fpage>142</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0009">
+<string-name>
+<given-names>X.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yue</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>H. Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y. T.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>X. B.</given-names>
+<surname>Zhao</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>1037</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0010">
+<string-name>
+<given-names>W. J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cho</surname>
+</string-name>, <source xml:lang="en">Chem. Commun.</source>
+<year>2010</year>, <volume>46</volume>, <fpage>622</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0011">
+<string-name>
+<given-names>L. S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L. Y.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>W. D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Wan</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem.</source>
+<year>2010</year>, <volume>20</volume>, <fpage>5462</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0012">
+<string-name>
+<given-names>Y. G.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>Y. Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">Nano Lett.</source>
+<year>2008</year>, <volume>8</volume>, <fpage>265</fpage>.<pub-id pub-id-type="pmid">18072799</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0013">
+<string-name>
+<given-names>P.</given-names>
+<surname>Poizot</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Laruelle</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Grugeon</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Dupont</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <source xml:lang="en">Nature</source>
+<year>2000</year>, <volume>407</volume>, <fpage>496</fpage>.<pub-id pub-id-type="pmid">11028997</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0014">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K. L.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>S. S.</given-names>
+<surname>Fan</surname>
+</string-name>, <source xml:lang="en">Nano Lett.</source>
+<year>2013</year>, <volume>13</volume>, <fpage>818</fpage>.<pub-id pub-id-type="pmid">23297784</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0015">
+<string-name>
+<given-names>W. M.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Wan</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2008</year>, <volume>18</volume>, <fpage>3941</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0016">
+<string-name>
+<given-names>D.</given-names>
+<surname>Belov</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Yang</surname>
+</string-name>, <source xml:lang="en">J. Solid State Electrochem.</source>
+<year>2008</year>, <volume>12</volume>, <fpage>885</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0017">
+<string-name>
+<given-names>U. K.</given-names>
+<surname>Sen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Shaligram</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mitra</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2014</year>, <volume>6</volume>, <fpage>14311</fpage>.<pub-id pub-id-type="pmid">25062365</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0018">
+<string-name>
+<given-names>D. B.</given-names>
+<surname>Rogers</surname>
+</string-name>, <string-name>
+<given-names>R. D.</given-names>
+<surname>Shannon</surname>
+</string-name>, <string-name>
+<given-names>A. W.</given-names>
+<surname>Sleight</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Gillson</surname>
+</string-name>, <source xml:lang="en">Inorg. Chem.</source>
+<year>1969</year>, <volume>8</volume>, <fpage>841</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0019">
+<string-name>
+<given-names>L. C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Q. S.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>Y. P.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">Electrochem. Commun.</source>
+<year>2008</year>, <volume>10</volume>, <fpage>118</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0020">
+<string-name>
+<given-names>J. J.</given-names>
+<surname>Auborn</surname>
+</string-name>, <string-name>
+<given-names>Y. L.</given-names>
+<surname>Barberio</surname>
+</string-name>, <source xml:lang="en">J. Electrochem. Soc.</source>
+<year>1987</year>, <volume>134</volume>, <fpage>638</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0021">
+<string-name>
+<given-names>Y. S.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Sigle</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hore</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Balaya</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Maier</surname>
+</string-name>, <source xml:lang="en">Nat. Mater.</source>
+<year>2006</year>, <volume>5</volume>, <fpage>713</fpage>.<pub-id pub-id-type="pmid">16906142</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0022">
+<string-name>
+<given-names>S.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>N. S.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name>
+<given-names>H. K.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>G. X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Park</surname>
+</string-name>, <source xml:lang="en">Small</source>
+<year>2017</year>, <volume>13</volume>, <fpage>1603045</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0023">
+<string-name>
+<given-names>Y. F.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>B. K.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Corr</surname>
+</string-name>, <string-name>
+<given-names>Q. H.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>K. R.</given-names>
+<surname>Heier</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Seshadri</surname>
+</string-name>, <string-name>
+<given-names>G. D.</given-names>
+<surname>Stucky</surname>
+</string-name>, <source xml:lang="en">Nano Lett.</source>
+<year>2009</year>, <volume>9</volume>, <fpage>4215</fpage>.<pub-id pub-id-type="pmid">19775084</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0024">
+<string-name>
+<given-names>Z. W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>H. L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kohandehghan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Mitlin</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. C</source>
+<year>2014</year>, <volume>118</volume>, <fpage>18387</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0025">
+<string-name>
+<given-names>S.</given-names>
+<surname>Petnikota</surname>
+</string-name>, <string-name>
+<given-names>K. W.</given-names>
+<surname>Teo</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sim</surname>
+</string-name>, <string-name>
+<given-names>S. K.</given-names>
+<surname>Marka</surname>
+</string-name>, <string-name>
+<given-names>M. V.</given-names>
+<surname>Reddy</surname>
+</string-name>, <string-name>
+<given-names>V. V. S. S.</given-names>
+<surname>Srikanth</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Adams</surname>
+</string-name>, <string-name>
+<given-names>B. V. R.</given-names>
+<surname>Chowdari</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Inter.</source>
+<year>2016</year>, <volume>8</volume>, <fpage>10884</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0026">
+<string-name>
+<given-names>K.</given-names>
+<surname>Palanisamy</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>W. S.</given-names>
+<surname>Yoon</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2015</year>, <volume>275</volume>, <fpage>351</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0027">
+<string-name>
+<given-names>X. L.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>W. X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>W. H.</given-names>
+<surname>Hou</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>968</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0028">
+<string-name>
+<given-names>J. F.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z. W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>L. Y.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>Q. L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H. B.</given-names>
+<surname>Ouyang</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Li</surname>
+</string-name>, <source xml:lang="en">Energy Technol.</source>
+<year>2015</year>, <volume>3</volume>, <fpage>1108</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0029">
+<string-name>
+<given-names>D. C.</given-names>
+<surname>Marcano</surname>
+</string-name>, <string-name>
+<given-names>D. V.</given-names>
+<surname>Kosynkin</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Berlin</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sinitskii</surname>
+</string-name>, <string-name>
+<given-names>Z. Z.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Slesarev</surname>
+</string-name>, <string-name>
+<given-names>L. B.</given-names>
+<surname>Alemany</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Tour</surname>
+</string-name>, <source xml:lang="en">ACS Nano</source>
+<year>2010</year>, <volume>4</volume>, <fpage>4806</fpage>.<pub-id pub-id-type="pmid">20731455</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0030">
+<string-name>
+<given-names>Y. M.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>L. X.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>W. X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Huang</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2011</year>, <volume>4</volume>, <fpage>2870</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0031">
+<string-name>
+<given-names>K.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>W. X.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">ACS Nano</source>
+<year>2011</year>, <volume>5</volume>, <fpage>4720</fpage>.<pub-id pub-id-type="pmid">21574610</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0032">
+<string-name>
+<given-names>Q. L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X. C.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>W. D.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Y. T.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>M. W.</given-names>
+<surname>Verbrugge</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>1401398</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0033">
+<string-name>
+<given-names>X. Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X. N.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Y. C.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Y. T.</given-names>
+<surname>Qian</surname>
+</string-name>, <source xml:lang="en">Small</source>
+<year>2016</year>, <volume>12</volume>, <fpage>2484</fpage>.<pub-id pub-id-type="pmid">26997521</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0034">
+<string-name>
+<given-names>Y. M.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Huang</surname>
+</string-name>, <source xml:lang="en">ACS Nano</source>
+<year>2011</year>, <volume>5</volume>, <fpage>7100</fpage>.<pub-id pub-id-type="pmid">21823572</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0035">
+<string-name>
+<given-names>B. K.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>X. P.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y. F.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>C. Y.</given-names>
+<surname>Ouyang</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Z. X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>G. D.</given-names>
+<surname>Stucky</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2012</year>, <volume>24</volume>, <fpage>457</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0036">
+<string-name>
+<given-names>T.</given-names>
+<surname>Bhardwaj</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Antic</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Pavan</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Barone</surname>
+</string-name>, <string-name>
+<given-names>B. D.</given-names>
+<surname>Fahlman</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>2010</year>, <volume>132</volume>, <fpage>12556</fpage>.<pub-id pub-id-type="pmid">20731378</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0037">
+<string-name>
+<given-names>Y. M.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>Y. H.</given-names>
+<surname>Huang</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem.</source>
+<year>2012</year>, <volume>22</volume>, <fpage>425</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0038">
+<string-name>
+<given-names>J. S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>X. H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>H. G.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>X. W.</given-names>
+<surname>Lou</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>2010</year>, <volume>132</volume>, <fpage>13162</fpage>.<pub-id pub-id-type="pmid">20822139</pub-id></mixed-citation></ref><ref id="gch2201700050-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0039">
+<string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>F. L.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>J. N.</given-names>
+<surname>Yao</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. C</source>
+<year>2009</year>, <volume>113</volume>, <fpage>15553</fpage>.</mixed-citation></ref><ref id="gch2201700050-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="gch2201700050-cit-0040">
+<string-name>
+<given-names>W. S.</given-names>
+<surname>Hummers</surname>
+</string-name>, <string-name>
+<given-names>R. E.</given-names>
+<surname>Offeman</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>1958</year>, <volume>80</volume>, <fpage>1339</fpage>.</mixed-citation></ref></ref-list></back></article>

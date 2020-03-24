@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="0004 0532 0580 grid.38348.34 Department of Engineering and System Science," exact="National Tsing Hua University," post="[2], 0000 0004 1792 6846 grid.35030.35 Department of mechanical"/>
+ <result pre="0004 1792 6846 grid.35030.35 Department of mechanical and biomedical engineering," exact="City University of Hong Kong," post="[3], 0000 0004 0532 3255 grid.64523.36 Department of Materials"/>
+ <result pre="1792 6846 grid.35030.35 Department of mechanical and biomedical engineering, City" exact="University of Hong Kong," post="[3], 0000 0004 0532 3255 grid.64523.36 Department of Materials"/>
+ <result pre="phase evolution rate of FSN additive in LIB. Funding https://doi.org/10.13039/501100004663" exact="Ministry of Science and Technology," post="Taiwan (Ministry of Science and Technology of Taiwan) MOST"/>
+ <result pre="(NCHC), Taiwan. T.-Y. Chen thanks the funding support from the" exact="Ministry of Science and Technology," post="Taiwan (MOST 106-2112-M-007-016-MY3 and MOST 105-3113-E-006-019-CC2). Author Contributions C.-W.H."/>
+ <result pre="crystalline silicon nanopillars during electrochemical lithium insertion Proceedings of the" exact="National Academy of Sciences" post="2012 109 4080 4085 10.1073/pnas.1201088109 5. Su X et"/>
+ <result pre="Graphene Sheets and Carbon Nanoparticles for High-Performance Silicon Anode ACS" exact="Applied Materials" post="&amp;amp; Interfaces 2012 4 2824 2828 10.1021/am3005576 22563769 13."/>
+ <result pre="as a Lithium Ion Battery Electrode Material Journal of the" exact="American Chemical Society" post="2011 133 20914 20921 10.1021/ja208232h 22070459 15. Hou S-C"/>
+</results>

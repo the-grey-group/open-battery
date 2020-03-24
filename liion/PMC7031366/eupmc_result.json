@@ -1,0 +1,423 @@
+{
+  "id": [
+    "32075978"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32075978"
+  ],
+  "pmcid": [
+    "PMC7031366"
+  ],
+  "doi": [
+    "10.1038/s41467-020-14748-5"
+  ],
+  "title": [
+    "An organic/inorganic electrode-based hydronium-ion battery."
+  ],
+  "authorString": [
+    "Guo Z, Huang J, Dong X, Xia Y, Yan L, Wang Z, Wang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Guo Z"
+          ],
+          "firstName": [
+            "Zhaowei"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Institute of New Energy, iChEM (Collaborative Innovation Centre of Chemistry for Energy Materials), Fudan University, Shanghai, 200433, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang J"
+          ],
+          "firstName": [
+            "Jianhang"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Institute of New Energy, iChEM (Collaborative Innovation Centre of Chemistry for Energy Materials), Fudan University, Shanghai, 200433, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dong X"
+          ],
+          "firstName": [
+            "Xiaoli"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3267-7548",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry and Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Institute of New Energy, iChEM (Collaborative Innovation Centre of Chemistry for Energy Materials), Fudan University, Shanghai, 200433, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xia Y"
+          ],
+          "firstName": [
+            "Yongyao"
+          ],
+          "lastName": [
+            "Xia"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Institute of New Energy, iChEM (Collaborative Innovation Centre of Chemistry for Energy Materials), Fudan University, Shanghai, 200433, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Institute of New Energy, iChEM (Collaborative Innovation Centre of Chemistry for Energy Materials), Fudan University, Shanghai, 200433, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhuo"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Institute of New Energy, iChEM (Collaborative Innovation Centre of Chemistry for Energy Materials), Fudan University, Shanghai, 200433, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yonggang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2447-4679",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry and Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Institute of New Energy, iChEM (Collaborative Innovation Centre of Chemistry for Energy Materials), Fudan University, Shanghai, 200433, China. ygwang@fudan.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3267-7548",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2447-4679",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2908364"
+      ],
+      "dateOfPublication": [
+        "2020 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "959"
+  ],
+  "abstractText": [
+    "Hydronium-ion batteries are regarded as one of the most promising energy technologies as next-generation power sources, benefiting from their cost effectivity and sustainability merits. Herein, we propose a hydronium-ion battery which is based on an organic pyrene-4,5,9,10-tetraone anode and an inorganic MnO2@graphite felt cathode in an acid electrolyte. Its operation involves a quinone/hydroquinone redox reaction on anode and a MnO2/Mn2+ conversion reaction on cathode, in parallel with the transfer of H3O+ between two electrodes. The distinct operation mechanism affords this hydronium-ion battery an energy density up to 132.6 Wh kg-1 and a supercapacitor-comparable power density of 30.8 kW kg-1, along with a long-term cycling life over 5000 cycles. Furthermore, surprisingly, this hydronium-ion battery works well even with a frozen electrolyte under -40 °C, and superior rate performance and cycle stability remain at -70 °C."
+  ],
+  "affiliation": [
+    "Department of Chemistry and Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Institute of New Energy, iChEM (Collaborative Innovation Centre of Chemistry for Energy Materials), Fudan University, Shanghai, 200433, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "21622303"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China (National Science Foundation of China)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "21975052"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China (National Science Foundation of China)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-020-14748-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7031366"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7031366?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-02-21"
+  ],
+  "firstIndexDate": [
+    "2020-02-21"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-06"
+  ],
+  "dateOfRevision": [
+    "2020-03-05"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-19"
+  ],
+  "firstPublicationDate": [
+    "2020-02-19"
+  ]
+}

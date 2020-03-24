@@ -1,0 +1,424 @@
+{
+  "id": [
+    "31807408"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31807408"
+  ],
+  "pmcid": [
+    "PMC6880811"
+  ],
+  "doi": [
+    "10.3762/bjnano.10.215"
+  ],
+  "title": [
+    "A novel all-fiber-based LiFePO4/Li4Ti5O12 battery with self-standing nanofiber membrane electrodes."
+  ],
+  "authorString": [
+    "Chen LL, Yang H, Jing MX, Han C, Chen F, Hu XY, Yuan WY, Yao SS, Shen XQ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen LL"
+          ],
+          "firstName": [
+            "Li-Li"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "LL"
+          ],
+          "affiliation": [
+            "Institute for Advanced Materials, School of Materials Science & Engineering, Jiangsu University, Zhenjiang 212013, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang H"
+          ],
+          "firstName": [
+            "Hua"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Institute for Advanced Materials, School of Materials Science & Engineering, Jiangsu University, Zhenjiang 212013, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jing MX"
+          ],
+          "firstName": [
+            "Mao-Xiang"
+          ],
+          "lastName": [
+            "Jing"
+          ],
+          "initials": [
+            "MX"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8372-5776",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Advanced Materials, School of Materials Science & Engineering, Jiangsu University, Zhenjiang 212013, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Han C"
+          ],
+          "firstName": [
+            "Chong"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Institute for Advanced Materials, School of Materials Science & Engineering, Jiangsu University, Zhenjiang 212013, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Institute for Advanced Materials, School of Materials Science & Engineering, Jiangsu University, Zhenjiang 212013, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu XY"
+          ],
+          "firstName": [
+            "Xin-Yu"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "XY"
+          ],
+          "affiliation": [
+            "Institute for Advanced Materials, School of Materials Science & Engineering, Jiangsu University, Zhenjiang 212013, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan WY"
+          ],
+          "firstName": [
+            "Wei-Yong"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "WY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2194-0301",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Clean Energy & Advanced Material, Southwest University, Chongqing, 400715, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yao SS"
+          ],
+          "firstName": [
+            "Shan-Shan"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Institute for Advanced Materials, School of Materials Science & Engineering, Jiangsu University, Zhenjiang 212013, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shen XQ"
+          ],
+          "firstName": [
+            "Xiang-Qian"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "XQ"
+          ],
+          "affiliation": [
+            "Institute for Advanced Materials, School of Materials Science & Engineering, Jiangsu University, Zhenjiang 212013, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8372-5776",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2194-0301",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2774165"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Beilstein Journal of Nanotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Beilstein J Nanotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Beilstein J Nanotechnol"
+          ],
+          "NLMid": [
+            "101551563"
+          ],
+          "ISSN": [
+            "2190-4286"
+          ],
+          "ESSN": [
+            "2190-4286"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2229-2237"
+  ],
+  "abstractText": [
+    "Electrodes with high conductivity and flexibility are crucial to the development of flexible lithium-ion batteries. In this study, three-dimensional (3D) LiFePO4 and Li4Ti5O12 fiber membrane materials were prepared through electrospinning and directly used as self-standing electrodes for lithium-ion batteries. The structure and morphology of the fibers, and the electrochemical performance of the electrodes and the full battery were characterized. The results show that the LiFePO4 and Li4Ti5O12 fiber membrane electrodes exhibit good rate and cycle performance. In particular, the all-fiber-based gel-state battery composed of LiFePO4 and Li4Ti5O12 fiber membrane electrodes can be charged/discharged for 800 cycles at 1C with a retention capacity of more than 100 mAh·g-1 and a coulombic efficiency close to 100%. The good electrochemical performance is attributed to the high electronic and ionic conductivity provided by the 3D network structure of the self-standing electrodes. This design and preparation method for all-fiber-based lithium-ion batteries provides a novel strategy for the development of high-performance flexible batteries."
+  ],
+  "affiliation": [
+    "Institute for Advanced Materials, School of Materials Science & Engineering, Jiangsu University, Zhenjiang 212013, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium ion battery",
+        "Electrospinning",
+        "Nanofiber",
+        "Flexible Electrodes",
+        "3D Network",
+        "Self-standing Electrodes"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3762/bjnano.10.215"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6880811"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6880811?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-07"
+  ],
+  "firstIndexDate": [
+    "2019-12-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-07"
+  ],
+  "dateOfRevision": [
+    "2020-03-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-13"
+  ],
+  "firstPublicationDate": [
+    "2019-11-13"
+  ]
+}

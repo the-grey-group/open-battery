@@ -1,0 +1,324 @@
+{
+  "id": [
+    "31492003"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31492003"
+  ],
+  "pmcid": [
+    "PMC6765966"
+  ],
+  "doi": [
+    "10.3390/ma12182871"
+  ],
+  "title": [
+    "In Situ Synthesis of Silicon-Carbon Composites and Application as Lithium-Ion Battery Anode Materials."
+  ],
+  "authorString": [
+    "Kim DY, Kim HV, Kang J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim DY"
+          ],
+          "firstName": [
+            "Dae-Yeong"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "DY"
+          ],
+          "affiliation": [
+            "Division of Marine Engineering, Korea Maritime and Ocean University, 727 Taejong-ro, Yeongdo-gu, Busan 49112, Korea. smap1211@kmou.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim HV"
+          ],
+          "firstName": [
+            "Han-Vin"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "HV"
+          ],
+          "affiliation": [
+            "Department of Electrical and Electronic Engineering, Tokyo Institute of Technology, 2-12-1 Ookayama, Meguro-ku, Tokyo 152-8550, Japan. kim@hv.ee.e.titech.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Kang J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1797-4878",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Marine Engineering, Korea Maritime and Ocean University, 727 Taejong-ro, Yeongdo-gu, Busan 49112, Korea. junkang@kmou.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1797-4878",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "18"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2856040"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Silicon can be used in a variety of applications. Particularly, silicon particles are attracting increased attention as energy storage materials for lithium-ion batteries. However, silicon has a limited cycling performance owing to its peeling from the current collector and the volume expansion that occurs during alloying with lithium in the charging process. Significant contributors to this problem are the even distribution of silicon nanoparticles within the carbon matrix and their deep placement in the internal structure. In this study, we synthesized silicon nanoparticles and carbon materials via a bottom-up approach using a new method called plasma in solution. Silicon nanoparticles and the carbon matrix were synthesized in a structure similar to carbon black. It was confirmed that the silicon particles were evenly distributed in the carbon matrix. In addition, the evaluation of the electrochemical performance of the silicon-carbon matrix (Si-C) composite material showed that it exhibited stable cycling performance with high reversible capacity."
+  ],
+  "affiliation": [
+    "Division of Marine Engineering, Korea Maritime and Ocean University, 727 Taejong-ro, Yeongdo-gu, Busan 49112, Korea. smap1211@kmou.ac.kr."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2018R1C1B5046894"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium-ion battery",
+        "Anode Materials",
+        "Bottom-up Approach",
+        "Plasma In Solution",
+        "Silicon–carbon Composites"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma12182871"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6765966"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6765966?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-08"
+  ],
+  "firstIndexDate": [
+    "2019-09-07"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-07"
+  ],
+  "dateOfRevision": [
+    "2019-10-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-05"
+  ],
+  "firstPublicationDate": [
+    "2019-09-05"
+  ]
+}

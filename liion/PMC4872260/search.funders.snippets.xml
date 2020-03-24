@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC4872260/results/search/funders/results.xml">
+  <result pre="b 1 [1], Graduate School of Human and Environmental Studies," exact="Kyoto University" post="Japan [2], Office of Society-Academia Collaboration for Innovation, Kyoto"/>
+  <result pre="Kyoto University Japan [2], Office of Society-Academia Collaboration for Innovation," exact="Kyoto University" post="Japan [3], Department of Applied Chemistry, Ritsumeikan University Japan"/>
+  <result pre="for Innovation, Kyoto University Japan [3], Department of Applied Chemistry," exact="Ritsumeikan University" post="Japan [4], Research Organization of Science and Engineering, Ritsumeikan"/>
+  <result pre="Ritsumeikan University Japan [4], Research Organization of Science and Engineering," exact="Ritsumeikan University" post="Japan [5], National Institute of Advanced Industrial Science and"/>
+  <result pre="section polisher (CP, JEOL SM-09010) and scanning electron microscope (SEM," exact="Hitachi" post="SU-70). In order to observe the cross section views"/>
+  <result pre="Supplementary Information LINK This work was partially supported by the" exact="Research and Development" post="Initiative for Scientific Innovation of New Generation Battery (RISING)"/>
+ </snippets>
+</snippetsTree>

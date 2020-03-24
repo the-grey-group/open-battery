@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" word="{border-style" count="20"/>
+ <result title="frequency" word="px;}" count="18"/>
+ <result title="frequency" word="#ffffff;}" count="17"/>
+ <result title="frequency" word="data" count="12"/>
+ <result title="frequency" word="Data" count="9"/>
+ <result title="frequency" word="LIBs" count="9"/>
+ <result title="frequency" word="px;" count="8"/>
+ <result title="frequency" word="used" count="8"/>
+ <result title="frequency" word="{font-family" count="8"/>
+ <result title="frequency" word="font-size" count="7"/>
+ <result title="frequency" word="article" count="6"/>
+ <result title="frequency" word="behavior" count="6"/>
+ <result title="frequency" word="double;" count="6"/>
+ <result title="frequency" word="ultracapacitor" count="6"/>
+ <result title="frequency" word="Appendix" count="5"/>
+ <result title="frequency" word="Supplementary" count="5"/>
+ <result title="frequency" word="border-color" count="5"/>
+ <result title="frequency" word="border-width" count="5"/>
+ <result title="frequency" word="solid;" count="5"/>
+ <result title="frequency" word="ultracapacitors," count="5"/>
+ <result title="frequency" word="{font-style" count="5"/>
+ <result title="frequency" word="{font-weight" count="5"/>
+ <result title="frequency" word="DST" count="4"/>
+ <result title="frequency" word="Experimental" count="4"/>
+ <result title="frequency" word="LIB" count="4"/>
+ <result title="frequency" word="Neware" count="4"/>
+ <result title="frequency" word="UDDS" count="4"/>
+ <result title="frequency" word="analyze" count="4"/>
+ <result title="frequency" word="battery" count="4"/>
+ <result title="frequency" word="bold" count="4"/>
+ <result title="frequency" word="courier;" count="4"/>
+ <result title="frequency" word="current" count="4"/>
+ <result title="frequency" word="dynamic" count="4"/>
+ <result title="frequency" word="em;" count="4"/>
+ <result title="frequency" word="material" count="4"/>
+ <result title="frequency" word="pt;}" count="4"/>
+ <result title="frequency" word="test" count="4"/>
+</results>

@@ -1,0 +1,276 @@
+{
+  "id": [
+    "31867496"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31867496"
+  ],
+  "pmcid": [
+    "PMC6921248"
+  ],
+  "doi": [
+    "10.1021/acsomega.9b02393"
+  ],
+  "title": [
+    "Effect of Particle Size and Electronic Percolation on Low-Temperature Performance in Lithium Titanate-Based Batteries."
+  ],
+  "authorString": [
+    "Park JS, Margez CL, Greszler TA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Park JS"
+          ],
+          "firstName": [
+            "Joong Sun"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "affiliation": [
+            "SAFT America, Inc., Cockeysville, Maryland 21030, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Margez CL"
+          ],
+          "firstName": [
+            "Carine L"
+          ],
+          "lastName": [
+            "Margez"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            "SAFT America, Inc., Cockeysville, Maryland 21030, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Greszler TA"
+          ],
+          "firstName": [
+            "Thomas A"
+          ],
+          "lastName": [
+            "Greszler"
+          ],
+          "initials": [
+            "TA"
+          ],
+          "affiliation": [
+            "SAFT America, Inc., Cockeysville, Maryland 21030, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "25"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2892667"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "21048-21053"
+  ],
+  "abstractText": [
+    "The effect of particle size and electronic percolation on low-temperature power performance in the lithium titanate (LTO) cell is reported. Particle size and carbon contents in negative electrodes are systematically controlled to understand ionic and electronic contribution. The LTO cell with a small particle size, that is, high surface area, showed superior power performance, while additional electronic percolation did not improve the performance at -30 °C when coupled with a lithium manganese spinel cathode. The results are supported by electrochemical impedance spectroscopy measurements, which indicate that smaller LTO particles exhibit lower charge transfer-related impedance and guide rational design and fabrication of electrode architectures at low temperature."
+  ],
+  "affiliation": [
+    "SAFT America, Inc., Cockeysville, Maryland 21030, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.9b02393"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6921248"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6921248?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-24"
+  ],
+  "firstIndexDate": [
+    "2019-12-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-23"
+  ],
+  "dateOfRevision": [
+    "2019-12-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-04"
+  ],
+  "firstPublicationDate": [
+    "2019-12-04"
+  ]
+}

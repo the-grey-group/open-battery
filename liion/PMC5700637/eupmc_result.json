@@ -1,0 +1,412 @@
+{
+  "id": [
+    "29201618"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29201618"
+  ],
+  "pmcid": [
+    "PMC5700637"
+  ],
+  "doi": [
+    "10.1002/advs.201700205"
+  ],
+  "title": [
+    "A Facile Surface Reconstruction Mechanism toward Better Electrochemical Performance of Li4Ti5O12 in Lithium-Ion Battery."
+  ],
+  "authorString": [
+    "Qian K, Tang L, Wagemaker M, He YB, Liu D, Li H, Shi R, Li B, Kang F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Qian K"
+          ],
+          "firstName": [
+            "Kun"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Nano Energy Materials Laboratory (NEM) Tsinghua-Berkeley Shenzhen Institute (TBSI) Tsinghua University Shenzhen 518055 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang L"
+          ],
+          "firstName": [
+            "Linkai"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Laboratory of Advanced Materials School of Materials Science and Engineeing Tsinghua University Beijing 100086 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wagemaker M"
+          ],
+          "firstName": [
+            "Marnix"
+          ],
+          "lastName": [
+            "Wagemaker"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Radiation Science and Technology Delft University of Technology Mekelweg 15 Delft 2629 JB The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "He YB"
+          ],
+          "firstName": [
+            "Yan-Bing"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "YB"
+          ],
+          "affiliation": [
+            "Engineering Laboratory for the Next Generation Power and Energy Storage Batteries Graduate School at Shenzhen Tsinghua University Shenzhen 518055 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu D"
+          ],
+          "firstName": [
+            "Dongqing"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Engineering Laboratory for the Next Generation Power and Energy Storage Batteries Graduate School at Shenzhen Tsinghua University Shenzhen 518055 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Hai"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Laboratory of Advanced Materials School of Materials Science and Engineeing Tsinghua University Beijing 100086 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi R"
+          ],
+          "firstName": [
+            "Ruiying"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Laboratory of Advanced Materials School of Materials Science and Engineeing Tsinghua University Beijing 100086 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li B"
+          ],
+          "firstName": [
+            "Baohua"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4876-2659",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Engineering Laboratory for the Next Generation Power and Energy Storage Batteries Graduate School at Shenzhen Tsinghua University Shenzhen 518055 P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Kang F"
+          ],
+          "firstName": [
+            "Feiyu"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Nano Energy Materials Laboratory (NEM) Tsinghua-Berkeley Shenzhen Institute (TBSI) Tsinghua University Shenzhen 518055 P. R. China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4876-2659",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2625180"
+      ],
+      "dateOfPublication": [
+        "2017 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+          ],
+          "ISOAbbreviation": [
+            "Adv Sci (Weinh)"
+          ],
+          "medlineAbbreviation": [
+            "Adv Sci (Weinh)"
+          ],
+          "NLMid": [
+            "101664569"
+          ],
+          "ISSN": [
+            "2198-3844"
+          ],
+          "ESSN": [
+            "2198-3844"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1700205"
+  ],
+  "abstractText": [
+    "Through a facile sodium sulfide (Na2S)-assisted hydrothermal treatment, clean and nondefective surfaces are constructed on micrometer-sized Li4Ti5O12 particles. The remarkable improvement of surface quality shows a higher first cycle Coulombic efficiency (≈95%), a significantly enhanced cycling performance, and a better rate capability in electrochemical measurements. A combined study of Raman spectroscopy and inductive coupled plasma emission spectroscopy reveals that the evolution of Li4Ti5O12 surface in a water-based hydrothermal environment is a hydrolysis-recrystallization process, which can introduce a new phase of anatase-TiO2. While, with a small amount of Na2S (0.004 mol L-1 at least), the spinel-Li4Ti5O12 phase is maintained without a second phase. During this process, the alkaline environment created by Na2S and the surface adsorption of the sulfur-containing group (HS- or S2-) can suppress the recrystallization of anatase-TiO2 and renew the particle surfaces. This finding gives a better understanding of the surface-property relationship on Li4Ti5O12 and guidance on preparation and modification of electrode material other than coating or doping."
+  ],
+  "affiliation": [
+    "Nano Energy Materials Laboratory (NEM) Tsinghua-Berkeley Shenzhen Institute (TBSI) Tsinghua University Shenzhen 518055 P. R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hydrothermal Method",
+        "Li4ti5o12",
+        "Surface Modifications",
+        "Lithium‐ion Batteries",
+        "Na2s"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/advs.201700205"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5700637"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5700637?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-12-05"
+  ],
+  "firstIndexDate": [
+    "2017-12-06"
+  ],
+  "fullTextReceivedDate": [
+    "2017-12-02"
+  ],
+  "dateOfRevision": [
+    "2019-01-18"
+  ],
+  "electronicPublicationDate": [
+    "2017-07-10"
+  ],
+  "firstPublicationDate": [
+    "2017-07-10"
+  ]
+}

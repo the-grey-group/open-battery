@@ -1,0 +1,373 @@
+{
+  "id": [
+    "31331000"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31331000"
+  ],
+  "pmcid": [
+    "PMC6669548"
+  ],
+  "doi": [
+    "10.3390/nano9071032"
+  ],
+  "title": [
+    "Characterization of Sn4P3-Carbon Composite Films for Lithium-Ion Battery Anode Fabricated by Aerosol Deposition."
+  ],
+  "authorString": [
+    "Moritaka T, Yamashita Y, Tojo T, Inada R, Sakurai Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Moritaka T"
+          ],
+          "firstName": [
+            "Toki"
+          ],
+          "lastName": [
+            "Moritaka"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Electrical and Electronic Information Engineering, Toyohashi University of Technology, 1-1 Tempaku-cho, Toyohashi, Aichi 4418580, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamashita Y"
+          ],
+          "firstName": [
+            "Yuh"
+          ],
+          "lastName": [
+            "Yamashita"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Electrical and Electronic Information Engineering, Toyohashi University of Technology, 1-1 Tempaku-cho, Toyohashi, Aichi 4418580, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tojo T"
+          ],
+          "firstName": [
+            "Tomohiro"
+          ],
+          "lastName": [
+            "Tojo"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9712-5974",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Electrical and Electronic Engineering, Shizuoka Institute of Science and Technology, 2200-2 Toyosawa, Fukuroi, Shizuoka 437-8555, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Inada R"
+          ],
+          "firstName": [
+            "Ryoji"
+          ],
+          "lastName": [
+            "Inada"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6357-092X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Electrical and Electronic Information Engineering, Toyohashi University of Technology, 1-1 Tempaku-cho, Toyohashi, Aichi 4418580, Japan. inada@ee.tut.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Sakurai Y"
+          ],
+          "firstName": [
+            "Yoji"
+          ],
+          "lastName": [
+            "Sakurai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Electrical and Electronic Information Engineering, Toyohashi University of Technology, 1-1 Tempaku-cho, Toyohashi, Aichi 4418580, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9712-5974",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6357-092X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2834177"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomaterials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "NLMid": [
+            "101610216"
+          ],
+          "ISSN": [
+            "2079-4991"
+          ],
+          "ESSN": [
+            "2079-4991"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "We fabricated tin phosphide-carbon (Sn4P3/C) composite film by aerosol deposition (AD) and investigated its electrochemical performance for a lithium-ion battery anode. Sn4P3/C composite powders prepared by a ball milling was used as raw material and deposited onto a stainless steel substrate to form the composite film via impact consolidation. The Sn4P3/C composite film fabricated by AD showed much better electrochemical performance than the Sn4P3 film without complexing carbon. Although both films showed initial discharge (Li+ extraction) capacities of approximately 1000 mAh g-1, Sn4P3/C films retained higher reversible capacity above 700 mAh g-1 after 100 cycles of charge and discharge processes while the capacity of Sn4P3 film rapidly degraded with cycling. In addition, by controlling the potential window in galvanostatic testing, Sn4P3/C composite film retained the reversible capacity of 380 mAh g-1 even after 400 cycles. The complexed carbon works not only as a buffer to suppress the collapse of electrodes by large volume change of Sn4P3 in charge and discharge reactions but also as an electronic conduction path among the atomized active material particles in the film."
+  ],
+  "affiliation": [
+    "Department of Electrical and Electronic Information Engineering, Toyohashi University of Technology, 1-1 Tempaku-cho, Toyohashi, Aichi 4418580, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "16K06218, 16KK0127"
+          ],
+          "agency": [
+            "Japan Society for the Promotion of Science"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Carbon",
+        "Lithium-ion battery",
+        "Anode",
+        "Composite Film",
+        "Aerosol Deposition",
+        "Tin Phosphide"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nano9071032"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6669548"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6669548?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-24"
+  ],
+  "firstIndexDate": [
+    "2019-07-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-10"
+  ],
+  "dateOfRevision": [
+    "2019-08-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-19"
+  ],
+  "firstPublicationDate": [
+    "2019-07-19"
+  ]
+}

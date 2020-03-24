@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6645351/results/word/frequencies/results.xml">
+  <result title="frequency" word="SiCN" count="93"/>
+  <result title="frequency" word="#SiCN" count="64"/>
+  <result title="frequency" word="anode" count="55"/>
+  <result title="frequency" word="Figure" count="51"/>
+  <result title="frequency" word="capacity" count="39"/>
+  <result title="frequency" word="carbon" count="38"/>
+  <result title="frequency" word="materials" count="29"/>
+  <result title="frequency" word="anodes" count="28"/>
+  <result title="frequency" word="electrochemical" count="23"/>
+  <result title="frequency" word="material" count="23"/>
+  <result title="frequency" word="mol" count="23"/>
+  <result title="frequency" word="batteries" count="21"/>
+  <result title="frequency" word="charge/discharge" count="21"/>
+  <result title="frequency" word="polymer" count="21"/>
+  <result title="frequency" word="–#SiCN" count="21"/>
+ </snippets>
+</snippetsTree>

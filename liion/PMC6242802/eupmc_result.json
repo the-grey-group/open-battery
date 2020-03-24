@@ -1,0 +1,394 @@
+{
+  "id": [
+    "30456445"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30456445"
+  ],
+  "pmcid": [
+    "PMC6242802"
+  ],
+  "doi": [
+    "10.1186/s11671-018-2788-7"
+  ],
+  "title": [
+    "A Novel Flexible Full-Cell Lithium Ion Battery Based on Electrospun Carbon Nanofibers Through a Simple Plastic Package."
+  ],
+  "authorString": [
+    "Shen X, Cao Z, Chen M, Zhang J, Chen D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shen X"
+          ],
+          "firstName": [
+            "Xueyang"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5989-2133",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Electronic and Optical Engineering and College of Microelectronics, Nanjing University of Posts and Telecommunications, Nanjing, 210046, China. shenxy2014@njupt.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Cao Z"
+          ],
+          "firstName": [
+            "Ziping"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "College of Telecommunication and Information Engineering, Nanjing University of Posts and Telecommunications, Nanjing, 210046, China. caozp@njupt.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen M"
+          ],
+          "firstName": [
+            "Miao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "College of Mechanical and Electrical Engineering, Jinling Institute of Technology, Nanjing, 21169, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jinya"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Electronic and Optical Engineering and College of Microelectronics, Nanjing University of Posts and Telecommunications, Nanjing, 210046, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen D"
+          ],
+          "firstName": [
+            "Dong"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Narada Power Source Co., LTD, Hangzhou, 310000, Zhejiang, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5989-2133",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2745055"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanoscale research letters"
+          ],
+          "ISOAbbreviation": [
+            "Nanoscale Res Lett"
+          ],
+          "medlineAbbreviation": [
+            "Nanoscale Res Lett"
+          ],
+          "NLMid": [
+            "101279750"
+          ],
+          "ISSN": [
+            "1931-7573"
+          ],
+          "ESSN": [
+            "1556-276X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "367"
+  ],
+  "abstractText": [
+    "The paper reports a novel flexible full-cell lithium ion battery (LIB) through a simple plastic package method. Carbon nanofibers (CNFs) are synthesized by electrospinning technology and the subsequent carbonation process. The CNFs with three-dimensional interconnected fibrous nanostructure exhibit a stable reversible capacity of 412 mAh g-1 after 100 cycles in the half-cell testing. A full cell is assembled by using CNF anode and commercial LiCoO2 cathode, and it displays good flexibility and lighting LED ability. The aggregate thickness of the constructed full-cell LIB is approximately 500 μm, consisting of a CNFs/Cu film, a separator, a LiCoO2/Al film, electrolyte, and two polyvinyl chloride (PVC) films. The structure, morphology, and the electrochemical performances of electrospun CNFs and LiCoO2 electrodes are analyzed in details."
+  ],
+  "affiliation": [
+    "College of Electronic and Optical Engineering and College of Microelectronics, Nanjing University of Posts and Telecommunications, Nanjing, 210046, China. shenxy2014@njupt.edu.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "14KJA510002"
+          ],
+          "agency": [
+            "Excellent Young Talents Fund Program of Higher Education Institutions of Anhui Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NY214054"
+          ],
+          "agency": [
+            "Scientific Research Foundation of Nanjing University of Posts and Telecommunications"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BK20160897"
+          ],
+          "agency": [
+            "Natural Science Foundation of Jiangsu Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NY214151"
+          ],
+          "agency": [
+            "Scientific Research Foundation of Nanjing University of Posts and Telecommunications"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Flexible",
+        "Carbon Nanofiber",
+        "Anode",
+        "Lithium Batteries",
+        "Full Cell"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s11671-018-2788-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6242802"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6242802?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-21"
+  ],
+  "firstIndexDate": [
+    "2018-11-21"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-05"
+  ],
+  "dateOfRevision": [
+    "2018-11-20"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-20"
+  ],
+  "firstPublicationDate": [
+    "2018-11-20"
+  ]
+}

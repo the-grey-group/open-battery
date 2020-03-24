@@ -1,0 +1,1441 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Molecules</journal-id><journal-id journal-id-type="iso-abbrev">Molecules</journal-id><journal-id journal-id-type="publisher-id">molecules</journal-id><journal-title-group><journal-title>Molecules : A Journal of Synthetic Chemistry and Natural Product Chemistry</journal-title></journal-title-group><issn pub-type="epub">1420-3049</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6155197</article-id><article-id pub-id-type="doi">10.3390/molecules22030403</article-id><article-id pub-id-type="publisher-id">molecules-22-00403</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>The Role of Sub- and Supercritical CO<sub>2</sub> as &#x0201c;Processing Solvent&#x0201d; for the Recycling and Sample Preparation of Lithium Ion Battery Electrolytes</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Nowak</surname><given-names>Sascha</given-names></name><xref ref-type="aff" rid="af1-molecules-22-00403">1</xref><xref rid="c1-molecules-22-00403" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Winter</surname><given-names>Martin</given-names></name><xref ref-type="aff" rid="af1-molecules-22-00403">1</xref><xref ref-type="aff" rid="af2-molecules-22-00403">2</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Yang</surname><given-names>Yu</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-molecules-22-00403"><label>1</label>MEET Battery Research Center, University of Muenster, Corrensstra&#x000df;e 46, 48149 M&#x000fc;nster, Germany; <email>martin.winter@uni-muenster.de</email></aff><aff id="af2-molecules-22-00403"><label>2</label>Helmholtz Institute M&#x000fc;nster, IEK-12, Forschungszentrum J&#x000fc;lich, Corrensstra&#x000df;e 46, 48149 M&#x000fc;nster, Germany</aff><author-notes><corresp id="c1-molecules-22-00403"><label>*</label>Correspondence: <email>sascha.nowak@uni-muenster.de</email>; Tel.: +49-251-833-6735</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>3</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2017</year></pub-date><volume>22</volume><issue>3</issue><elocation-id>403</elocation-id><history><date date-type="received"><day>30</day><month>1</month><year>2017</year></date><date date-type="accepted"><day>27</day><month>2</month><year>2017</year></date></history><permissions><copyright-statement>&#x000a9; 2017 by the authors.</copyright-statement><copyright-year>2017</copyright-year><license license-type="open-access"><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Quantitative electrolyte extraction from lithium ion batteries (LIB) is of great interest for recycling processes. Following the generally valid EU legal guidelines for the recycling of batteries, 50 wt % of a LIB cell has to be recovered, which cannot be achieved without the electrolyte; hence, the electrolyte represents a target component for the recycling of LIBs. Additionally, fluoride or fluorinated compounds, as inevitably present in LIB electrolytes, can hamper or even damage recycling processes in industry and have to be removed from the solid LIB parts, as well. Finally, extraction is a necessary tool for LIB electrolyte aging analysis as well as for post-mortem investigations in general, because a qualitative overview can already be achieved after a few minutes of extraction for well-aged, apparently &#x0201c;dry&#x0201d; LIB cells, where the electrolyte is deeply penetrated or even gellified in the solid battery materials.</p></abstract><kwd-group><kwd>supercritical CO<sub>2</sub></kwd><kwd>subcritical CO<sub>2</sub></kwd><kwd>liquid CO<sub>2</sub></kwd><kwd>lithium ion battery electrolytes</kwd><kwd>lithium ion battery</kwd><kwd>recycling</kwd><kwd>sample preparation</kwd><kwd>aging</kwd><kwd>post-mortem</kwd></kwd-group></article-meta></front><body><sec id="sec1-molecules-22-00403"><title>1. Introduction</title><p>Due to unrivalled high energy densities and high specific energies, lithium ion batteries (LIBs) are used in everyday modern portable consumer electronics, such as tablets, smartphones and laptops. Furthermore, they are considered the most promising battery technology for pure electric and hybrid electric vehicles (xEVs) [<xref rid="B1-molecules-22-00403" ref-type="bibr">1</xref>,<xref rid="B2-molecules-22-00403" ref-type="bibr">2</xref>,<xref rid="B3-molecules-22-00403" ref-type="bibr">3</xref>] and, due to high energy efficiencies, also for stationary energy storage applications [<xref rid="B4-molecules-22-00403" ref-type="bibr">4</xref>]. This widespread application for private and industrial purposes will inevitably raise a demand for reutilization and recycling of the lithium ion battery components. Due to the high prices of Ni and Co, which are deployed in the form of oxides in the LIB cathode, and of Cu used as current collector at the anode [<xref rid="B5-molecules-22-00403" ref-type="bibr">5</xref>], recycling is also of economic interest. Recycling processes for the metals in the cathode already exist. The recycling value of these metals would, however, be increased if direct recovery as ready to use battery raw constituents were possible. However, the high purity requirements of the battery material manufacturers diminish this approach. In addition, the recycling of LIBs or its single constituents is encouraged by legislation. Lithium, for example, has no actual substitute and due to its growing application, the demands might exceed the global production by the 2020s [<xref rid="B6-molecules-22-00403" ref-type="bibr">6</xref>,<xref rid="B7-molecules-22-00403" ref-type="bibr">7</xref>]. Therefore, Li recycling needs to be established. For the EU, limited occurrences were reported, e.g., in Portugal [<xref rid="B8-molecules-22-00403" ref-type="bibr">8</xref>,<xref rid="B9-molecules-22-00403" ref-type="bibr">9</xref>] or the Czech Republic [<xref rid="B10-molecules-22-00403" ref-type="bibr">10</xref>]. Thus, the European Parliament and Council of the European Union issued several directives such as the Waste of Electrical and Electronic Equipment (WEEE) 2012/19/EU and the End of Life Vehicles (ELV) 2000/53/EC, which deal with the recycling of batteries from electronic products and electric vehicles. Beginning in 2016, at least 45 wt % of electrical and electronic equipment needs to be collected by the EU members. The reuse and recovery rate for end of life vehicles is set to at least 85% regarding both the weight per vehicle and the calendar year. Furthermore, the Battery Directive 2006/66/EC was instituted as the most advanced battery recycling legislation worldwide. Each EU member state has to meet a collection rate of 45% and at least a recycling efficiency of 50 wt % for non-lead-acid and non-nickel-cadmium batteries [<xref rid="B11-molecules-22-00403" ref-type="bibr">11</xref>,<xref rid="B12-molecules-22-00403" ref-type="bibr">12</xref>,<xref rid="B13-molecules-22-00403" ref-type="bibr">13</xref>].</p><p>With regard to upcoming pilot processes and plants, the LIB aging has to be taken into account. New or only lightly used LIBs from electric vehicles are not the focus of recycling strategies. Foremost, damaged batteries or batteries that have achieved the end of life (EOL), i.e., strongly aged batteries, are in the focus of recycling. Aging is one of the main performance deteriorations of LIBs as aging leads to capacity loss, resistance increase, power and energy loss and therefore to a reduced lifetime [<xref rid="B14-molecules-22-00403" ref-type="bibr">14</xref>,<xref rid="B15-molecules-22-00403" ref-type="bibr">15</xref>]. Aging may also be responsible for safety changes of batteries [<xref rid="B16-molecules-22-00403" ref-type="bibr">16</xref>]. However, there is no &#x0201c;universal aging mechanism&#x0201d;; in fact, numerous aging mechanisms occur and they can affect each other. Reports in the literature usually focused on the individual parts of the LIB cell such as the reactions between the electrolyte and the anode, solid electrolyte interphase (SEI) growth, the decomposition of cathode and anode, or lithium metal deposition on the anode [<xref rid="B17-molecules-22-00403" ref-type="bibr">17</xref>,<xref rid="B18-molecules-22-00403" ref-type="bibr">18</xref>,<xref rid="B19-molecules-22-00403" ref-type="bibr">19</xref>,<xref rid="B20-molecules-22-00403" ref-type="bibr">20</xref>,<xref rid="B21-molecules-22-00403" ref-type="bibr">21</xref>,<xref rid="B22-molecules-22-00403" ref-type="bibr">22</xref>,<xref rid="B23-molecules-22-00403" ref-type="bibr">23</xref>,<xref rid="B24-molecules-22-00403" ref-type="bibr">24</xref>,<xref rid="B25-molecules-22-00403" ref-type="bibr">25</xref>,<xref rid="B26-molecules-22-00403" ref-type="bibr">26</xref>,<xref rid="B27-molecules-22-00403" ref-type="bibr">27</xref>,<xref rid="B28-molecules-22-00403" ref-type="bibr">28</xref>,<xref rid="B29-molecules-22-00403" ref-type="bibr">29</xref>] or on the interaction between the different materials [<xref rid="B30-molecules-22-00403" ref-type="bibr">30</xref>]. Additionally, the operating conditions have a great influence of the degradation behavior [<xref rid="B31-molecules-22-00403" ref-type="bibr">31</xref>,<xref rid="B32-molecules-22-00403" ref-type="bibr">32</xref>,<xref rid="B33-molecules-22-00403" ref-type="bibr">33</xref>]. However, the decomposition of the electrolyte is challenging to investigate due to its complex composition. Because of the sensitivity towards water and thermal influence, the literature reveals numerous reports about aging products and mechanisms. The variety of decomposition products includes HF [<xref rid="B34-molecules-22-00403" ref-type="bibr">34</xref>,<xref rid="B35-molecules-22-00403" ref-type="bibr">35</xref>,<xref rid="B36-molecules-22-00403" ref-type="bibr">36</xref>,<xref rid="B37-molecules-22-00403" ref-type="bibr">37</xref>,<xref rid="B38-molecules-22-00403" ref-type="bibr">38</xref>,<xref rid="B39-molecules-22-00403" ref-type="bibr">39</xref>,<xref rid="B40-molecules-22-00403" ref-type="bibr">40</xref>], inorganic and organic (fluoro)phosphates (OPs) [<xref rid="B41-molecules-22-00403" ref-type="bibr">41</xref>,<xref rid="B42-molecules-22-00403" ref-type="bibr">42</xref>,<xref rid="B43-molecules-22-00403" ref-type="bibr">43</xref>,<xref rid="B44-molecules-22-00403" ref-type="bibr">44</xref>,<xref rid="B45-molecules-22-00403" ref-type="bibr">45</xref>,<xref rid="B46-molecules-22-00403" ref-type="bibr">46</xref>,<xref rid="B47-molecules-22-00403" ref-type="bibr">47</xref>,<xref rid="B48-molecules-22-00403" ref-type="bibr">48</xref>], CO<sub>2</sub> [<xref rid="B49-molecules-22-00403" ref-type="bibr">49</xref>,<xref rid="B50-molecules-22-00403" ref-type="bibr">50</xref>], dicarboxylates and oligocarbonate based products [<xref rid="B51-molecules-22-00403" ref-type="bibr">51</xref>,<xref rid="B52-molecules-22-00403" ref-type="bibr">52</xref>,<xref rid="B53-molecules-22-00403" ref-type="bibr">53</xref>], diols [<xref rid="B54-molecules-22-00403" ref-type="bibr">54</xref>] and alkyl fluorides [<xref rid="B36-molecules-22-00403" ref-type="bibr">36</xref>,<xref rid="B45-molecules-22-00403" ref-type="bibr">45</xref>,<xref rid="B50-molecules-22-00403" ref-type="bibr">50</xref>]. Furthermore, the applied analysis methods and corresponding reaction mechanisms have been intensively discussed in literature and new reports are constantly added [<xref rid="B55-molecules-22-00403" ref-type="bibr">55</xref>,<xref rid="B56-molecules-22-00403" ref-type="bibr">56</xref>].</p><p>Especially, the fluorinated decomposition compounds and, in particular HF, are in special focus with regard to pilot processes and plants, since, due their chemically aggressive nature and their toxicity, they can seriously hamper or damage the industrial recycling approaches. Therefore, these compounds need to be removed before the recycling process. However, aged LIBs, where the liquid electrolyte is partially decomposed into solid and gaseous products, often appear as &#x0201c;dry&#x0201d;. During operation, the electrolyte immobilizes into the deeper layers of the electrode and into the solid electrolyte decomposition products and can therefore not easily be recovered either for simple removal or subsequent analysis.</p><p>Sub- and supercritical CO<sub>2</sub> are attractive extraction tools for overcoming both challenges. While it is still a young research field, the usage of CO<sub>2</sub> as a recycling or sample preparation tool for the recovery and analysis of materials is repeatedly found in the literature in the last years.</p></sec><sec id="sec2-molecules-22-00403"><title>2. Lithium Ion Batteries Electrolytes</title><p>Lithium ion batteries consist of a carbon/graphite based anode, a lithium transition metal oxide cathode and an electrolyte soaked polyolefin-based separator [<xref rid="B57-molecules-22-00403" ref-type="bibr">57</xref>,<xref rid="B58-molecules-22-00403" ref-type="bibr">58</xref>]. The electrolyte inside a lithium ion battery has to fulfill several requirements: wide electrochemical stability window, high ionic conductivity and redox stability are some of the desired requirements [<xref rid="B59-molecules-22-00403" ref-type="bibr">59</xref>]. Additionally, the chemical and electrochemical compatibility with the other cell constituents should be ensured; furthermore, the electrolyte should be non-toxic, safe, environmentally friendly and cost efficient [<xref rid="B60-molecules-22-00403" ref-type="bibr">60</xref>,<xref rid="B61-molecules-22-00403" ref-type="bibr">61</xref>]. In order to meet these requirements, the electrolyte system typically consists of a conducting salt (1 M), dissolved in a mixture of different linear carbonates, e.g., dimethyl carbonate (DMC), ethyl methyl carbonate (EMC) or dimethyl carbonate (DEC), and a cyclic carbonate such as propylene carbonate (PC) or ethylene carbonate (EC) [<xref rid="B62-molecules-22-00403" ref-type="bibr">62</xref>,<xref rid="B63-molecules-22-00403" ref-type="bibr">63</xref>,<xref rid="B64-molecules-22-00403" ref-type="bibr">64</xref>] (<xref ref-type="fig" rid="molecules-22-00403-f001">Figure 1</xref>). The most commercially applied conducting is lithium hexafluorophosphate (LiPF<sub>6</sub>) (<xref ref-type="fig" rid="molecules-22-00403-f001">Figure 1</xref>) while alternatives such as lithium tetraborate (LIBF<sub>4</sub>), lithium bis-(oxalato)borate (LiBOB) or ionic liquids (ILs) are possible [<xref rid="B62-molecules-22-00403" ref-type="bibr">62</xref>,<xref rid="B65-molecules-22-00403" ref-type="bibr">65</xref>,<xref rid="B66-molecules-22-00403" ref-type="bibr">66</xref>,<xref rid="B67-molecules-22-00403" ref-type="bibr">67</xref>,<xref rid="B68-molecules-22-00403" ref-type="bibr">68</xref>,<xref rid="B69-molecules-22-00403" ref-type="bibr">69</xref>,<xref rid="B70-molecules-22-00403" ref-type="bibr">70</xref>]. Electrolyte additives are used up to 5%, either by weight or by volume [<xref rid="B71-molecules-22-00403" ref-type="bibr">71</xref>]. Due to the application of additives, the electrolyte properties can be influenced: improvement of the flammability, enabling overcharge protection [<xref rid="B71-molecules-22-00403" ref-type="bibr">71</xref>,<xref rid="B72-molecules-22-00403" ref-type="bibr">72</xref>,<xref rid="B73-molecules-22-00403" ref-type="bibr">73</xref>] or the SEI formation [<xref rid="B25-molecules-22-00403" ref-type="bibr">25</xref>,<xref rid="B74-molecules-22-00403" ref-type="bibr">74</xref>,<xref rid="B75-molecules-22-00403" ref-type="bibr">75</xref>,<xref rid="B76-molecules-22-00403" ref-type="bibr">76</xref>,<xref rid="B77-molecules-22-00403" ref-type="bibr">77</xref>,<xref rid="B78-molecules-22-00403" ref-type="bibr">78</xref>]. The SEI is formed during the first charge/discharge (formation cycles) of the LIB cell and is essential for safety and performance due to its protection of the electrolyte from further reductive decomposition at the anode surface [<xref rid="B79-molecules-22-00403" ref-type="bibr">79</xref>,<xref rid="B80-molecules-22-00403" ref-type="bibr">80</xref>,<xref rid="B81-molecules-22-00403" ref-type="bibr">81</xref>].</p></sec><sec id="sec3-molecules-22-00403"><title>3. Aging of Lithium Ion Battery Electrolytes</title><p>For a better customer acceptance of LIBs, their capacity loss and therefore the reduction of their operating lifetime has to be minimized. The lifetime is limited by several aging mechanisms inside the cell and its components [<xref rid="B14-molecules-22-00403" ref-type="bibr">14</xref>,<xref rid="B15-molecules-22-00403" ref-type="bibr">15</xref>,<xref rid="B30-molecules-22-00403" ref-type="bibr">30</xref>,<xref rid="B82-molecules-22-00403" ref-type="bibr">82</xref>,<xref rid="B83-molecules-22-00403" ref-type="bibr">83</xref>]. As stated in <xref ref-type="sec" rid="sec2-molecules-22-00403">Section 2</xref>, the electrolyte is a mixture since it has to meet several requirements. Unfortunately, the salt lithium hexafluorophosphate is neither chemically nor thermally stable. A thermal equilibrium between LiPF<sub>6</sub> and LiF/PF<sub>5</sub> (Equation (1)) exists and PF<sub>5</sub> as a strong Lewis acid then further reacts with traces of water (present due to the high hygroscopicity of PF<sub>6</sub>) to POF<sub>3</sub> (Equation (2)). With additional water, POF<sub>3</sub> is hydrolyzed to difluorophosphoric acid (Equation (3)), monofluorophosphoric acid (Equation (4)) and finally to phosphoric acid (Equation (5)) [<xref rid="B35-molecules-22-00403" ref-type="bibr">35</xref>,<xref rid="B84-molecules-22-00403" ref-type="bibr">84</xref>,<xref rid="B85-molecules-22-00403" ref-type="bibr">85</xref>,<xref rid="B86-molecules-22-00403" ref-type="bibr">86</xref>,<xref rid="B87-molecules-22-00403" ref-type="bibr">87</xref>,<xref rid="B88-molecules-22-00403" ref-type="bibr">88</xref>].
+<disp-formula>LiPF<sub>6</sub> &#x021c6; LiF + PF<sub>5</sub><label>(1)</label></disp-formula>
+<disp-formula>PF<sub>5</sub> + H<sub>2</sub>O &#x021c6; 2HF + POF<sub>3</sub><label>(2)</label></disp-formula>
+<disp-formula>POF<sub>3</sub> + H<sub>2</sub>O &#x021c6; HF + HPO<sub>2</sub>F<sub>2</sub><label>(3)</label></disp-formula>
+<disp-formula>HPO<sub>2</sub>F<sub>2</sub> + H<sub>2</sub>O &#x021c6; HF + H<sub>2</sub>PO<sub>3</sub>F<label>(4)</label></disp-formula>
+<disp-formula>H<sub>2</sub>PO<sub>3</sub>F + H<sub>2</sub>O &#x021c6; HF + H<sub>3</sub>PO<sub>4</sub><label>(5)</label></disp-formula></p><p>PF<sub>5</sub> can also initiate the transesterification of EMC to DMC and DEC (<xref ref-type="fig" rid="molecules-22-00403-f002">Figure 2</xref>a) [<xref rid="B89-molecules-22-00403" ref-type="bibr">89</xref>]. Furthermore, the described hydrolysis products can react with the organic carbonate solvent to foster numerous organophosphate-based and organic fluorophosphate-based aging products (<xref ref-type="fig" rid="molecules-22-00403-f002">Figure 2</xref>c,d) [<xref rid="B43-molecules-22-00403" ref-type="bibr">43</xref>]. Oligomeric carbonate-based decomposition products are formed by the electrochemically induced ring opening of EC and reaction with the linear carbonates (<xref ref-type="fig" rid="molecules-22-00403-f002">Figure 2</xref>b) [<xref rid="B84-molecules-22-00403" ref-type="bibr">84</xref>,<xref rid="B90-molecules-22-00403" ref-type="bibr">90</xref>,<xref rid="B91-molecules-22-00403" ref-type="bibr">91</xref>]. The exact formation mechanism of the oligomeric carbonate-based compounds is still under discussion.</p><p>The formed organic fluorophosphates have a high potential toxicity, and toxicological data are available for dimethyl fluorophosphate (DMFP) and diethyl fluorophosphate (DEFP) (<xref rid="molecules-22-00403-t001" ref-type="table">Table 1</xref>). The LD<sub>50</sub> value represents the amount of a solid or liquid material that it takes to kill 50% of the test animals in one experiment. The LC<sub>50</sub> is the corresponding value for vapors, gases or dusts [<xref rid="B92-molecules-22-00403" ref-type="bibr">92</xref>,<xref rid="B93-molecules-22-00403" ref-type="bibr">93</xref>,<xref rid="B94-molecules-22-00403" ref-type="bibr">94</xref>,<xref rid="B95-molecules-22-00403" ref-type="bibr">95</xref>,<xref rid="B96-molecules-22-00403" ref-type="bibr">96</xref>,<xref rid="B97-molecules-22-00403" ref-type="bibr">97</xref>,<xref rid="B98-molecules-22-00403" ref-type="bibr">98</xref>,<xref rid="B99-molecules-22-00403" ref-type="bibr">99</xref>,<xref rid="B100-molecules-22-00403" ref-type="bibr">100</xref>].</p><p>The World Health Organization has five categories for hazardous substances with classified toxicity. Despite the lowered toxicity compared to sarin, according to toxicity data and classification, both DMFP and DEFP are classified in category 1, which is the most dangerous (fatal by swallowing &#x0003c;5 mg) and fatal by contact with the skin &#x0003c;40 mg/kg) [<xref rid="B101-molecules-22-00403" ref-type="bibr">101</xref>]. Therefore, due to the P&#x02013;F bond in many electrolyte decomposition products, they are considered hazardous as well. As an example, the neurotoxin diisopropyl fluorophosphate is known for its high toxicity as a consequence of the reaction with the enzyme acetylcholinesterase (AChE). The regular function of AChE is to hydrolyze acetylcholine, an essential neurotransmitter for the peripheral nervous system (PNS), which consists of the nerves and ganglia outside of the brain and spinal cord. The PNS is responsible for the connection of the central nervous system with limbs (skeletal muscle movement) and organs. By reaction between the organophosphate and AChE, a covalent bond is formed and the enzyme is stopped from regular functioning. This leads to an accumulation of unhydrolyzed acetylcholine and the symptoms of the intoxications are convulsions, suffocation and myosis, which ultimately can lead to death [<xref rid="B102-molecules-22-00403" ref-type="bibr">102</xref>,<xref rid="B103-molecules-22-00403" ref-type="bibr">103</xref>].</p><p>Besides the dangers regarding working safety when handling spent lithium ion batteries or shredded recycling waste, the fluorinated compounds and hydrofluoric acid can interfere or damage industrial scaled recycling processes and therefore have to be removed before the recycling process by extraction [<xref rid="B104-molecules-22-00403" ref-type="bibr">104</xref>]. For post-mortem analysis and aging analysis of LIB electrolytes, extraction is inevitable, as well. While the electrolyte is introduced as a liquid during cell assembly, it penetrates and immobilizes in the electrodes during electrochemical operation (<xref ref-type="fig" rid="molecules-22-00403-f003">Figure 3</xref>). Thus, an opened LIB appears in most of the cases as &#x0201c;dry&#x0201d; after electrochemical operation.</p><p>Direct sampling of the electrolyte from a LIB, whenever possible, is the method of choice. However, it is seldom applicable. The extraction with an appropriate solvent can yield quantitative results but significant amounts of the electrode material are extracted as well and will be present as impurities. The extraction with sub- and supercritical CO<sub>2</sub> in comparison can yield quantitative results without a dilution factor.</p></sec><sec id="sec4-molecules-22-00403"><title>4. Recycling of Lithium Ion Batteries Electrolytes</title><p>Lab-scale and commercial LIB recycling processes are focused on the recovery of the heavy metals (Ni, Co and Mn) and lithium itself from the cathode active material or on the current collectors, which consist of copper and aluminum [<xref rid="B105-molecules-22-00403" ref-type="bibr">105</xref>,<xref rid="B106-molecules-22-00403" ref-type="bibr">106</xref>,<xref rid="B107-molecules-22-00403" ref-type="bibr">107</xref>]. The electrolyte is not recovered but simply combusted or disposed during the process or the handling of the electrolytes is not mentioned at all in the literature [<xref rid="B108-molecules-22-00403" ref-type="bibr">108</xref>,<xref rid="B109-molecules-22-00403" ref-type="bibr">109</xref>,<xref rid="B110-molecules-22-00403" ref-type="bibr">110</xref>]. However, due to the directive 2006/66/EC from the European Parliament and the Council &#x0003e;50 wt % of LIB cell materials have to be recycled. The weight fraction of an electrolyte in a LIB cell is around 10&#x02013;15 wt %, depending on the cell chemistry and geometry. The first approach for electrolyte recovery was the extraction with an appropriate regular solvent [<xref rid="B108-molecules-22-00403" ref-type="bibr">108</xref>]. Nevertheless, general recycling procedures always referenced to the already published articles and procedures for electrolyte recycling [<xref rid="B111-molecules-22-00403" ref-type="bibr">111</xref>,<xref rid="B112-molecules-22-00403" ref-type="bibr">112</xref>,<xref rid="B113-molecules-22-00403" ref-type="bibr">113</xref>,<xref rid="B114-molecules-22-00403" ref-type="bibr">114</xref>]. Sloop et al. were the first to propose the application of supercritical carbon dioxide as an extraction medium for LIB electrolytes [<xref rid="B115-molecules-22-00403" ref-type="bibr">115</xref>]. However, the given information about extraction conditions and the resulting extraction behavior is limited. In addition, the supercritical extraction procedure was not reported to be applied in a real recycling process, and not even on the lab-scale. However, compared to solvent extractions, the recycling efficiency with regard to the used amount of kg/CO<sub>2</sub> per kg/shredded material is in the same region for the reported methods.</p><p>Since spent LIBs are primarily from portable consumer applications and therefore only possess a limited amount of recyclable materials, the established pyro-hydrometallurgical recycling strategy by Umicore AG &#x00026; Co. KG (Brussels, Belgium) is currently the most economic process [<xref rid="B116-molecules-22-00403" ref-type="bibr">116</xref>]. Nickel metal hydride (Ni-MH) batteries and LIBs are delivered to a furnace and molten at temperatures of up to 1450 &#x000b0;C. With the help of co-added slag formers, Ni, Co and Cu form an alloy, while Li, Fe, Mn and Fe accumulate inside the slag and are disposed. The organic cell components including the electrolyte are incinerated. In the following hydro-metallurgical step, the alloy fraction is separated and refined for re-utilization [<xref rid="B116-molecules-22-00403" ref-type="bibr">116</xref>].</p><p>With the growing market for xEVs, the amount of spent LIBs will drastically increase. Considering several hundred kilograms of LIB cell material per car and taking into account that similar cell chemistries are used by the manufacturers, a continuous material flow is created. Therefore, a more holistic recycling process can be applied (<xref ref-type="fig" rid="molecules-22-00403-f004">Figure 4</xref>), including the recovery of the electrolyte [<xref rid="B117-molecules-22-00403" ref-type="bibr">117</xref>]. This mechanical-hydrometallurgical process aims to meet the demands of the EU directive and therefore the utilization of most cell materials from a LIB. The deep discharged (by external resistance or power) battery packs are dismantled to the individual cell level and shredded in an inert atmosphere [<xref rid="B108-molecules-22-00403" ref-type="bibr">108</xref>,<xref rid="B114-molecules-22-00403" ref-type="bibr">114</xref>,<xref rid="B118-molecules-22-00403" ref-type="bibr">118</xref>]. The electrolyte evaporated during this first step is collected by condensation. The electrolyte remaining in the shredded material is subject to three possible recovery methods: (i) a thermal drying step with the disadvantage of losing the conducting salt, which is the most costly component of the electrolyte; (ii) application of supercritical CO<sub>2</sub> in a static setup; and (iii) supercritical CO<sub>2</sub> in a flow-through setup with co-solvents for the recovery of the whole electrolyte including the conducting salt. The latter two setups will be discussed in <xref ref-type="sec" rid="sec6-molecules-22-00403">Section 6</xref>, here we concentrate on method (i): the shredded material is further processed by removing iron parts via a magnetic separation tool and then the electrode material is parted from the separator by air flow. The binder in the electrodes is removed by heating up to 400&#x02013;600 &#x000b0;C which additionally causes the detachment of the current collectors from the active material particles. The graphite anode material and the copper and aluminum current collectors are taken out of the process and lithium is leached out of the cathode material, while the active material is dissolved in an acidic mixture. Several approaches are carried out to separate the heavy metals from each other: complexing agents such as di(2,4,4,trimethylpentyl)phosphinic acid [<xref rid="B119-molecules-22-00403" ref-type="bibr">119</xref>]; or leaching with oxalate [<xref rid="B120-molecules-22-00403" ref-type="bibr">120</xref>], ascorbic [<xref rid="B121-molecules-22-00403" ref-type="bibr">121</xref>], citric [<xref rid="B122-molecules-22-00403" ref-type="bibr">122</xref>] or concentrated acids [<xref rid="B123-molecules-22-00403" ref-type="bibr">123</xref>,<xref rid="B124-molecules-22-00403" ref-type="bibr">124</xref>,<xref rid="B125-molecules-22-00403" ref-type="bibr">125</xref>]. However, biological approaches are also investigated [<xref rid="B126-molecules-22-00403" ref-type="bibr">126</xref>]. The performance of the resynthesized cathode and anode material was reported by electrochemically and analytically characterized [<xref rid="B127-molecules-22-00403" ref-type="bibr">127</xref>,<xref rid="B128-molecules-22-00403" ref-type="bibr">128</xref>].</p></sec><sec id="sec5-molecules-22-00403"><title>5. Carbon Dioxide and Its Extraction Properties</title><p>Besides being infamous as greenhouse gas [<xref rid="B129-molecules-22-00403" ref-type="bibr">129</xref>,<xref rid="B130-molecules-22-00403" ref-type="bibr">130</xref>,<xref rid="B131-molecules-22-00403" ref-type="bibr">131</xref>,<xref rid="B132-molecules-22-00403" ref-type="bibr">132</xref>], CO<sub>2</sub> is substantial to many chemical reactions. These reactions include the application as a monomer in materials synthesis [<xref rid="B133-molecules-22-00403" ref-type="bibr">133</xref>] or as a C1 block in the fabrication of polycarbonates [<xref rid="B134-molecules-22-00403" ref-type="bibr">134</xref>] or other organic compounds [<xref rid="B135-molecules-22-00403" ref-type="bibr">135</xref>]. Furthermore, CO<sub>2</sub> is involved in the synthesis of linear and cyclic carbonates for LIB electrolytes as well [<xref rid="B136-molecules-22-00403" ref-type="bibr">136</xref>,<xref rid="B137-molecules-22-00403" ref-type="bibr">137</xref>,<xref rid="B138-molecules-22-00403" ref-type="bibr">138</xref>,<xref rid="B139-molecules-22-00403" ref-type="bibr">139</xref>]. It has been applied for lithium metal and lithium ion batteries as a SEI forming additive [<xref rid="B140-molecules-22-00403" ref-type="bibr">140</xref>] and graphite anode surface modifications [<xref rid="B141-molecules-22-00403" ref-type="bibr">141</xref>,<xref rid="B142-molecules-22-00403" ref-type="bibr">142</xref>]. Additionally, due to the reduction or oxidation of the electrolyte CO<sub>2</sub> is produced and present in LIBs [<xref rid="B143-molecules-22-00403" ref-type="bibr">143</xref>,<xref rid="B144-molecules-22-00403" ref-type="bibr">144</xref>].</p><p>Aside from the standard phases (solid, liquid and gaseous), the supercritical phase is reached relatively non-elaborate. Temperature and pressure need to be increased above the critical point of 31 &#x000b0;C and 74 bar (<xref ref-type="fig" rid="molecules-22-00403-f005">Figure 5</xref>) [<xref rid="B145-molecules-22-00403" ref-type="bibr">145</xref>]. In this state, supercritical CO<sub>2</sub> has the density of liquid CO<sub>2</sub> and the viscosity of gaseous CO<sub>2</sub>. The physical properties are between those of the liquid and gaseous phase with greatly enhanced dissolution characteristics [<xref rid="B146-molecules-22-00403" ref-type="bibr">146</xref>]. In combination with additional solvents, a wide variety of organic substances can be extracted and, therefore, supercritical carbon dioxide is the most applied supercritical medium for extraction [<xref rid="B147-molecules-22-00403" ref-type="bibr">147</xref>]. It is normally used in food chemistry, with the well-known example of coffee decaffeination [<xref rid="B148-molecules-22-00403" ref-type="bibr">148</xref>,<xref rid="B149-molecules-22-00403" ref-type="bibr">149</xref>,<xref rid="B150-molecules-22-00403" ref-type="bibr">150</xref>,<xref rid="B151-molecules-22-00403" ref-type="bibr">151</xref>,<xref rid="B152-molecules-22-00403" ref-type="bibr">152</xref>]. Other application areas include as a reaction medium for metal nanoparticle synthesis [<xref rid="B153-molecules-22-00403" ref-type="bibr">153</xref>] or olefin polymerization [<xref rid="B154-molecules-22-00403" ref-type="bibr">154</xref>], as a drying aid for electrode material synthesis [<xref rid="B155-molecules-22-00403" ref-type="bibr">155</xref>] and crack-free silica aerogel production [<xref rid="B156-molecules-22-00403" ref-type="bibr">156</xref>,<xref rid="B157-molecules-22-00403" ref-type="bibr">157</xref>]. In supercritical fluid chromatography it functions as the eluent [<xref rid="B147-molecules-22-00403" ref-type="bibr">147</xref>].</p><p>For supercritical extraction, commercial flow-through units with a corresponding compressor for the generation of supercritical CO<sub>2</sub> from liquid CO<sub>2</sub> are available. However, helium head pressure carbon dioxide (HHPCO<sub>2</sub>) can be used as an alternative. Here, liquid carbon dioxide is compressed with a helium head pressure to 120 bar. Because of the different densities, in the two-phase system, supercritical carbon dioxide is available. Nevertheless, there are small deviations in the extraction behavior of HHPCO<sub>2</sub> compared to supercritical CO<sub>2</sub> due to little amounts of dissolved helium in the CO<sub>2</sub> phase. This results in decreasing density of the helium head pressure carbon dioxide with reduced dissolving power towards aromatic analytes [<xref rid="B160-molecules-22-00403" ref-type="bibr">160</xref>].</p><p>Nonetheless, compared to liquid solvent extraction, subcritical and supercritical CO<sub>2</sub> extraction offers unique advantages. The extraction is fast, highly selective and efficient. Furthermore, pre- or post-concentration or cleanup steps are not necessary [<xref rid="B161-molecules-22-00403" ref-type="bibr">161</xref>].</p></sec><sec id="sec6-molecules-22-00403"><title>6. Application of Subcritical and Supercritical CO<sub>2</sub> for Recycling of LIB Electrolytes</title><p>The use of CO<sub>2</sub> as an extraction medium was first mentioned in a patent by Sloop et al. Typical for a patent, the details about conditions and parameters as well as influence of the processing on the battery materials were not disclosed [<xref rid="B115-molecules-22-00403" ref-type="bibr">115</xref>]. There are no further reports about any application of the patented process.</p><p>The first application of supercritical CO<sub>2</sub> for the extraction of LIB electrolytes was reported by Gr&#x000fc;tzke et al., 2014 [<xref rid="B19-molecules-22-00403" ref-type="bibr">19</xref>]. They applied supercritical helium head pressure carbon dioxide (scHHPCO<sub>2</sub>) in an autoclave and investigated the extraction behavior with a set of two different separators and electrolytes (<xref ref-type="fig" rid="molecules-22-00403-f006">Figure 6</xref>). The extracts were analyzed by gas chromatography&#x02013;mass spectrometry and ion chromatography&#x02013;electrospray ionization&#x02013;mass spectrometry to determine the recovery rate and the nature of the obtained electrolyte composition. It was stated that the recovery rates and extract compositions were strongly depending on the material of which the electrolyte was extracted. The highest achieved recovery rate was 73.5 &#x000b1; 3.6 wt %.</p><p>After these proof-of-principle-experiments, commercial 18,650 cells were investigated as real samples. In addition to a reference cell, which was opened and extracted after formation, i.e., as supplied, LIB cells were electrochemically aged at 20 &#x000b0;C and 45 &#x000b0;C for post-mortem studies. The extracts were again analyzed by both mentioned techniques. Beside the electrolyte constituents, the following aging products were found and characterized: dimethyl-2,5-dioxahexane dicarboxylate (DMDOHC), ethylmethyl-2,5-dioxahexane dicarboxylate (EMDOHC) and diethyl-2,5-dioxahexane dicarboxylate (DEDOHC).</p><p>In all experiments, they showed the applicability of the CO<sub>2</sub> extraction. Furthermore, besides the application as a recycling tool, they showed the usefulness of the method for aging investigations on electrochemically treated cells. However, due to the obtained recovery rate, flow-through experiments with additional co-solvents were proposed in order to optimize the recovery rate.</p><p>Dai et al. described an alternative approach for the recovery of LIB electrolytes from separators with a commercial extraction system [<xref rid="B162-molecules-22-00403" ref-type="bibr">162</xref>] (<xref ref-type="fig" rid="molecules-22-00403-f007">Figure 7</xref>). Fourier transform infrared spectroscopy (FT-IR), gas chromatography-mass spectrometry (GC-MS), <sup>19</sup>F- and <sup>31</sup>P-NMR and inductively plasma-optical emission spectrometry (ICP-OES) were applied to systematically investigate the extract. The final recovery rate was determined as 85.07% &#x000b1; 0.36%, however the conducting salt could not be recovered in sufficient amounts. They proposed that LIPF<sub>6</sub> was hydrolyzed during the supercritical CO<sub>2</sub> extraction process extraction, which was investigated with NMR to observe typical PF<sub>6</sub><sup>&#x02212;</sup> hydrolysis products. Furthermore, the extraction parameters were optimized by varying the operating parameters (extraction pressure, temperature and static time) according to the Box&#x02013;Behnken design (<xref ref-type="fig" rid="molecules-22-00403-f008">Figure 8</xref>). With the help of a polynomial regression model, the mildest experimental conditions were determined (23.4 MPa, 40 &#x000b0;C and 45 min). The predicted recovery rate, 85.22%, was in very good agreement with the experimental recovery rate of 85.07%. Additionally, the results of the experiment showed that the extraction pressure is the major decisive factor for electrolyte extraction.</p><p>In agreement with Gr&#x000fc;tzke et al. [<xref rid="B19-molecules-22-00403" ref-type="bibr">19</xref>], they emphasized the usefulness of supercritical CO<sub>2</sub> as an efficient and environment-friendly electrolyte separation method.</p><p>Following their static experiments, Gr&#x000fc;tzke et al. applied a flow-through design [<xref rid="B163-molecules-22-00403" ref-type="bibr">163</xref>]. They used supercritical and liquid carbon dioxide (sc and liq CO<sub>2</sub>) under addition of different solvents for the optimized extraction of the electrolyte from commercial LiNi<sub>0.33</sub>Co<sub>0.33</sub>Mn<sub>0.33</sub>O<sub>2</sub> (NMC))/graphite 18,650 cells (<xref ref-type="fig" rid="molecules-22-00403-f009">Figure 9</xref>). With 89.1 &#x000b1; 3.4 wt %, the best overall recovery rate was achieved for the added ACN/PC mixture with the highest concentrations for EC and LiPF<sub>6</sub> (<xref ref-type="fig" rid="molecules-22-00403-f010">Figure 10</xref>). In addition, they investigated the time dependency of the recovered electrolyte for both setups. It was demonstrated that the developed method was suitable for LIB electrolyte extraction and post-mortem or aging investigations of LIB cell components because a qualitative overview was achieved after a few minutes of extraction also for apparently &#x0201c;dry&#x0201d; cells, where the electrolyte is deeply incorporated and immobilized in the electrode material.</p><p>In their second work on the topic, Dai et al. applied supercritical carbon dioxide as an extraction medium for the investigation of the extraction temperature and pressure (15 to 35 MPa), temperature (30 to 50 &#x000b0;C) [<xref rid="B164-molecules-22-00403" ref-type="bibr">164</xref>]. The electrolytes were again adsorbed on a separator and investigated regarding the pressure (15&#x02013;35 MPa), the temperature (30 to 50 &#x000b0;C) and the dynamical extraction time (25 to 65 min). Afterwards, the extract was analyzed with GC-FID (flame ionization detector) (<xref ref-type="fig" rid="molecules-22-00403-f011">Figure 11</xref> and <xref ref-type="fig" rid="molecules-22-00403-f012">Figure 12</xref>). The effect of the extraction pressure was examined using five levels from 15 to 35 MPa. The overall extraction yield was enhanced with higher pressures. This was attributed to the increased EC extraction yield under higher pressures due to the high polarity of supercritical CO<sub>2</sub>.</p><p>The effect of temperature was investigated in a similar way (5 levels from 30 to 50 &#x000b0;C). Here, the temperature showed the same trend: with raising temperature, the overall extraction yield was increased. However, the extraction of EC was contradictory to the pressure experiments. The polarity of the supercritical carbon dioxide was reduced with higher temperatures; thus, Dai et al. [<xref rid="B164-molecules-22-00403" ref-type="bibr">164</xref>] concluded that the polarity played a more important role than the supercritical fluid density.</p><p>The overall highest recovery rate was reported as 88.71 &#x000b1; 0.87 wt % but only in regard to the organic carbonate solvents. The conducting salt and aging products were not reported. As a conclusion of the extraction pressure and temperature experiments, they showed that the extraction process of carbonate is a predominantly determined by polarity. Furthermore, nonpolar carbonates should be extracted with non-polar or weakly polar extraction media. In comparison, polar carbonates should be extracted with polar solvents or with the addition of medium polarity co-solvents into non-polar solvents.</p><p>Rothermel et al. applied the methods by Gr&#x000fc;tzke et al. for the extraction of electrolytes and the subsequently effect on the graphite anode recycling efficiency [<xref rid="B127-molecules-22-00403" ref-type="bibr">127</xref>]. Therefore, they applied three different approaches for their investigations: (i) thermal evaporation of volatile electrolyte components; (ii) electrolyte extraction with subcritical CO<sub>2</sub> and acetonitrile (ACN); and (iii) electrolyte extraction with supercritical CO<sub>2</sub>. It should be noted that they replaced the term liquid CO<sub>2</sub> with subcritical CO<sub>2</sub> due to the fact that the used parameters were in fact subcritical and not liquid conditions for the CO<sub>2</sub>. However, they concluded that the application of the supercritical carbon dioxide extraction method was unfavorable for the resulting crystallinity size of the graphite particles and therefore had an adverse impact on the electrochemical performance. In comparison, the electrolyte extraction using subcritical carbon dioxide was considered to be the &#x0201c;best&#x0201d; recycling method, as the recycled graphite showed the best electrochemical performance and the electrolyte was recovered by 90% including the conductive salt. In general, with the help of analytical and electrochemical characterization techniques it was shown that graphite originating from a previously electrochemically aged commercial cell subjected to a subcritical carbon dioxide assisted electrolyte in combination with a thermal treatment demonstrated the best electrochemical characteristics outperforming even fresh commercial synthetic graphite TIMREX<sup>&#x000ae;</sup> SLP50 which was used as benchmark (<xref rid="molecules-22-00403-t002" ref-type="table">Table 2</xref>).</p></sec><sec id="sec7-molecules-22-00403"><title>7. Application of Subcritical and Supercritical CO<sub>2</sub> as a Sample Preparation Tool</title><p>Besides minor aging investigations after supercritical or subcritical extraction (presented by Gr&#x000fc;tzke et al. [<xref rid="B19-molecules-22-00403" ref-type="bibr">19</xref>,<xref rid="B104-molecules-22-00403" ref-type="bibr">104</xref>,<xref rid="B163-molecules-22-00403" ref-type="bibr">163</xref>]) and the influence of the extraction method on the recyclability of graphite (reported by Rothermel et al. [<xref rid="B127-molecules-22-00403" ref-type="bibr">127</xref>]), there is a recent study which focused primarily on aging investigations [<xref rid="B165-molecules-22-00403" ref-type="bibr">165</xref>]. The aging experiments were conducted on commercial 18,650-type state-of-the-art cells to determine the influence of temperature during electrochemical cycling on the aging behavior of the different cell components. The cells, based on the Li(Ni<sub>0.5</sub>Co<sub>0.2</sub>Mn<sub>0.3</sub>)O<sub>2</sub>/graphite chemistry, were aged at 20 &#x000b0;C and 45 &#x000b0;C to different states of health. The electrolyte was extracted based on the methods by Gr&#x000fc;tzke et al. [<xref rid="B19-molecules-22-00403" ref-type="bibr">19</xref>,<xref rid="B163-molecules-22-00403" ref-type="bibr">163</xref>]. With the help of electrolyte aging analysis by GC-MS, it was shown, that temperature dependent cycling leads to differences in SEI composition. The electrolyte samples which were extracted with supercritical CO<sub>2</sub> from fresh and aged cells and revealed the following composition: the electrolyte of the fresh cell consisted of DMC and EC and PC as solvents, whereas fluoroethylene carbonate (FEC) [<xref rid="B166-molecules-22-00403" ref-type="bibr">166</xref>] and succinonitrile [<xref rid="B167-molecules-22-00403" ref-type="bibr">167</xref>] were identified as electrolyte additives in significant amounts. Furthermore, traces of vinylene carbonate (VC) [<xref rid="B75-molecules-22-00403" ref-type="bibr">75</xref>] and 1,3-propane sultone [<xref rid="B168-molecules-22-00403" ref-type="bibr">168</xref>] were detected in the electrolyte (<xref ref-type="fig" rid="molecules-22-00403-f013">Figure 13</xref>). The cell aged at 45 &#x000b0;C shows traces of FEC in the electrolyte after more than 1000 cycles. In contrast, the additive FEC was no longer detected in the cells cycled at 20 &#x000b0;C. With the help of the supercritical CO<sub>2</sub> extraction, which made even traces of electrolyte additives and decomposition products available, they could conclude that after FEC consumption, the amount of organic SEI components increased and PC could co-intercalate, thus leading to a poorer performing SEI for the cells cycled at 20 &#x000b0;C compared to those cells at 45 &#x000b0;C.</p></sec><sec id="sec8-molecules-22-00403"><title>8. Conclusions</title><p>Contrary to previous reports, the role of CO<sub>2</sub> as an extraction medium is important in general and very promising for future applications as LIB cell extraction. For the sake of more refined post-mortem and aging analyses of LIB cell components, the quantitative extraction with subcritical/liquid and supercritical CO<sub>2</sub> holds the advantage that there is no loss of information due to dilution factors (which occurs with regular solvents) or by missing compounds that could not be extracted due to polarity/non-polarity of the target compounds.</p><p>Since the numbers of used portable consumer products rise enormously and, more important, xEVs are penetrating the market in greater and greater quantities, new strategies are needed. Especially recycling, as growing application and research field in a holistic treatment of lithium ion batteries relies on novel, more effective and efficient process techniques such as CO<sub>2</sub> extraction. Together with a strict legislation on the recycling rate and the decreasing availability of the raw battery materials, the enormous growth rates in used LIBs will become most significant for further growth in importance of this processing technique.</p></sec></body><back><ack><title>Acknowledgments</title><p>We kindly acknowledge the Federal Ministry of Education and Research for funding the Project Elektrolytlabor (project grant number: 03X4632) and the Federal Ministry for the Environment, Nature Conservation and Nuclear Safety for funding of the project LithoRec II (project grant number: 16EM1025).</p></ack><notes><title>Author Contributions</title><p>S.N. wrote the paper with input and editing from M.W.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-molecules-22-00403"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wagner</surname><given-names>R.</given-names></name><name><surname>Preschitschek</surname><given-names>N.</given-names></name><name><surname>Passerini</surname><given-names>S.</given-names></name><name><surname>Leker</surname><given-names>J.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name></person-group>
+<article-title>Current research trends and prospects among the various materials and designs used in lithium-based batteries</article-title>
+<source>J. Appl. Electrochem.</source>
+<year>2013</year>
+<volume>43</volume>
+<fpage>481</fpage>
+<lpage>496</lpage>
+<pub-id pub-id-type="doi">10.1007/s10800-013-0533-6</pub-id>
+</element-citation></ref><ref id="B2-molecules-22-00403"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Brodd</surname><given-names>R.J.</given-names></name></person-group>
+<article-title>What Are Batteries, Fuel Cells, and Supercapacitors?</article-title>
+<source>Chem. Rev.</source>
+<year>2004</year>
+<volume>104</volume>
+<fpage>4245</fpage>
+<lpage>4270</lpage>
+<pub-id pub-id-type="doi">10.1021/cr020730k</pub-id>
+<?supplied-pmid 15669155?><pub-id pub-id-type="pmid">15669155</pub-id></element-citation></ref><ref id="B3-molecules-22-00403"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bieker</surname><given-names>P.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name></person-group>
+<article-title>Lithium-Ionen-Technologie und was danach kommen k&#x000f6;nnte</article-title>
+<source>Chem. Unserer Zeit</source>
+<year>2016</year>
+<volume>50</volume>
+<fpage>172</fpage>
+<lpage>186</lpage>
+<pub-id pub-id-type="doi">10.1002/ciuz.201600745</pub-id>
+</element-citation></ref><ref id="B4-molecules-22-00403"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meister</surname><given-names>P.</given-names></name><name><surname>Jia</surname><given-names>H.</given-names></name><name><surname>Li</surname><given-names>J.</given-names></name><name><surname>Kloepsch</surname><given-names>R.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Placke</surname><given-names>T.</given-names></name></person-group>
+<article-title>Best Practice: Performance and Cost Evaluation of Lithium Ion Battery Active Materials with Special Emphasis on Energy Efficiency</article-title>
+<source>Chem. Mater.</source>
+<year>2016</year>
+<volume>28</volume>
+<fpage>7203</fpage>
+<lpage>7217</lpage>
+<pub-id pub-id-type="doi">10.1021/acs.chemmater.6b02895</pub-id>
+</element-citation></ref><ref id="B5-molecules-22-00403"><label>5.</label><element-citation publication-type="book">
+<article-title>Current Calendar Year Monthly Average Settlement Prices (30 June 2015)</article-title>
+<publisher-name>The London Metal Exchange Limited</publisher-name>
+<publisher-loc>London, UK</publisher-loc>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="http://www.lme.com/~/media/Files/Market%20data/Historic%20Data/2015/June%202015.xlsx">http://www.lme.com/~/media/Files/Market%20data/Historic%20Data/2015/June%202015.xlsx</ext-link></comment>
+<date-in-citation>(accessed on 2 April 2016)</date-in-citation>
+</element-citation></ref><ref id="B6-molecules-22-00403"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sonoc</surname><given-names>A.</given-names></name><name><surname>Jeswiet</surname><given-names>J.</given-names></name></person-group>
+<article-title>A Review of Lithium Supply and Demand and a Preliminary Investigation of a Room Temperature Method to Recycle Lithium Ion Batteries to Recover Lithium and Other Materials</article-title>
+<source>Procedia CIRP</source>
+<year>2014</year>
+<volume>15</volume>
+<fpage>289</fpage>
+<lpage>293</lpage>
+<pub-id pub-id-type="doi">10.1016/j.procir.2014.06.006</pub-id>
+</element-citation></ref><ref id="B7-molecules-22-00403"><label>7.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Reuter</surname><given-names>M.</given-names></name><name><surname>Hudson</surname><given-names>C.</given-names></name><name><surname>Van Schaik</surname><given-names>A.</given-names></name><name><surname>Heiskanen</surname><given-names>K.</given-names></name><name><surname>Meskers</surname><given-names>C.</given-names></name><name><surname>Hagel&#x000fc;ken</surname><given-names>C.</given-names></name></person-group>
+<source>Metal Recycling: Opportunities, Limits, Infrastructure</source>
+<publisher-name>United Nations Environment Programme</publisher-name>
+<publisher-loc>Paris, France</publisher-loc>
+<year>2013</year>
+<fpage>1</fpage>
+<lpage>320</lpage>
+</element-citation></ref><ref id="B8-molecules-22-00403"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gruber</surname><given-names>P.W.</given-names></name><name><surname>Medina</surname><given-names>P.A.</given-names></name><name><surname>Keoleian</surname><given-names>G.A.</given-names></name><name><surname>Kesler</surname><given-names>S.E.</given-names></name><name><surname>Everson</surname><given-names>M.P.</given-names></name><name><surname>Wallington</surname><given-names>T.J.</given-names></name></person-group>
+<article-title>Global lithium availability</article-title>
+<source>J. Ind. Ecol.</source>
+<year>2011</year>
+<volume>15</volume>
+<fpage>760</fpage>
+<lpage>775</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1530-9290.2011.00359.x</pub-id>
+</element-citation></ref><ref id="B9-molecules-22-00403"><label>9.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Perez</surname><given-names>A.A.</given-names></name><name><surname>Safirova</surname><given-names>E.</given-names></name><name><surname>Anderson</surname><given-names>S.T.</given-names></name></person-group>
+<source>The Mineral Industries of Europe and Central Eurasia</source>
+<publisher-name>U.S. Geological Survey</publisher-name>
+<publisher-loc>Reston, VA, USA</publisher-loc>
+<year>2014</year>
+<fpage>1</fpage>
+<lpage>34</lpage>
+</element-citation></ref><ref id="B10-molecules-22-00403"><label>10.</label><element-citation publication-type="webpage">
+<article-title>Battery-Kutter News</article-title>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="https://www.battery-kutter.de/main/news_detail&#x00026;nid=52">https://www.battery-kutter.de/main/news_detail&#x00026;nid=52</ext-link></comment>
+<date-in-citation>(accessed on 28 January 2017)</date-in-citation>
+</element-citation></ref><ref id="B11-molecules-22-00403"><label>11.</label><element-citation publication-type="book">
+<source>Directive 2006/66/EC on Batteries and Accumulators and Waste Batteries and Accumulators</source>
+<publisher-name>The European Parliament and the Council of the European Union</publisher-name>
+<publisher-loc>Brussels, Belgium</publisher-loc>
+<year>2006</year>
+<volume>Volume L 266/1</volume>
+</element-citation></ref><ref id="B12-molecules-22-00403"><label>12.</label><element-citation publication-type="book">
+<source>Directive 2012/19/EU on Waste Electrical and Electronic Equipment (WEEE)</source>
+<publisher-name>The European Parliament and the Council of the European Union</publisher-name>
+<publisher-loc>Brussels, Belgium</publisher-loc>
+<year>2012</year>
+<volume>Volume L 197/38</volume>
+</element-citation></ref><ref id="B13-molecules-22-00403"><label>13.</label><element-citation publication-type="book">
+<source>Directive 2000/53/EC on End-of Life Vehicles</source>
+<publisher-name>The European Parliament and the Council of the European Union</publisher-name>
+<publisher-loc>Brussels, Belgium</publisher-loc>
+<year>2000</year>
+<volume>Volume L 269/34</volume>
+</element-citation></ref><ref id="B14-molecules-22-00403"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vetter</surname><given-names>J.</given-names></name><name><surname>Nov&#x000e1;k</surname><given-names>P.</given-names></name><name><surname>Wagner</surname><given-names>M.</given-names></name><name><surname>Veit</surname><given-names>C.</given-names></name><name><surname>M&#x000f6;ller</surname><given-names>K.-C.</given-names></name><name><surname>Besenhard</surname><given-names>J.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Wohlfahrt-Mehrens</surname><given-names>M.</given-names></name><name><surname>Vogler</surname><given-names>C.</given-names></name><name><surname>Hammouche</surname><given-names>A.</given-names></name></person-group>
+<article-title>Ageing mechanisms in lithium-ion batteries</article-title>
+<source>J. Power Sources</source>
+<year>2005</year>
+<volume>147</volume>
+<fpage>269</fpage>
+<lpage>281</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2005.01.006</pub-id>
+</element-citation></ref><ref id="B15-molecules-22-00403"><label>15.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Garche</surname><given-names>J.</given-names></name><name><surname>Dyer</surname><given-names>C.K.</given-names></name><name><surname>Moseley</surname><given-names>P.T.</given-names></name><name><surname>Ogumi</surname><given-names>Z.</given-names></name><name><surname>Rand</surname><given-names>D.A.</given-names></name><name><surname>Scrosati</surname><given-names>B.</given-names></name></person-group>
+<source>Encyclopedia of Electrochemical Power Sources</source>
+<edition>1st ed.</edition>
+<publisher-name>Elsevier Science</publisher-name>
+<publisher-loc>Amsterdam, The Netherlands</publisher-loc>
+<year>2013</year>
+<fpage>4538</fpage>
+</element-citation></ref><ref id="B16-molecules-22-00403"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>B&#x000f6;rner</surname><given-names>M.</given-names></name><name><surname>Friesen</surname><given-names>A.</given-names></name><name><surname>Gr&#x000fc;tzke</surname><given-names>M.</given-names></name><name><surname>Stenzel</surname><given-names>Y.</given-names></name><name><surname>Brunklaus</surname><given-names>G.</given-names></name><name><surname>Haetge</surname><given-names>J.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name><name><surname>Schappacher</surname><given-names>F.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name></person-group>
+<article-title>Correlation of aging and thermal stability of commercial 18650-type lithium ion batteries</article-title>
+<source>J. Power Sources</source>
+<year>2017</year>
+<volume>342</volume>
+<fpage>382</fpage>
+<lpage>392</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2016.12.041</pub-id>
+</element-citation></ref><ref id="B17-molecules-22-00403"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gr&#x000fc;tzke</surname><given-names>M.</given-names></name><name><surname>Kraft</surname><given-names>V.</given-names></name><name><surname>Hoffmann</surname><given-names>B.</given-names></name><name><surname>Klamor</surname><given-names>S.</given-names></name><name><surname>Diekmann</surname><given-names>J.</given-names></name><name><surname>Kwade</surname><given-names>A.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Aging investigations of a lithium-ion battery electrolyte from a field-tested hybrid electric vehicle</article-title>
+<source>J. Power Sources</source>
+<year>2015</year>
+<volume>273</volume>
+<fpage>83</fpage>
+<lpage>88</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.09.064</pub-id>
+</element-citation></ref><ref id="B18-molecules-22-00403"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kraft</surname><given-names>V.</given-names></name><name><surname>Gr&#x000fc;tzke</surname><given-names>M.</given-names></name><name><surname>Weber</surname><given-names>W.</given-names></name><name><surname>Menzel</surname><given-names>J.</given-names></name><name><surname>Wiemers-Meyer</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Two-dimensional ion chromatography for the separation of ionic organophosphates generated in thermally decomposed lithium hexafluorophosphate-based lithium ion battery electrolytes</article-title>
+<source>J. Chromatogr. A</source>
+<year>2015</year>
+<volume>1409</volume>
+<fpage>201</fpage>
+<lpage>209</lpage>
+<pub-id pub-id-type="doi">10.1016/j.chroma.2015.07.054</pub-id>
+<?supplied-pmid 26209196?><pub-id pub-id-type="pmid">26209196</pub-id></element-citation></ref><ref id="B19-molecules-22-00403"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gr&#x000fc;tzke</surname><given-names>M.</given-names></name><name><surname>Kraft</surname><given-names>V.</given-names></name><name><surname>Weber</surname><given-names>W.</given-names></name><name><surname>Wendt</surname><given-names>C.</given-names></name><name><surname>Friesen</surname><given-names>A.</given-names></name><name><surname>Klamor</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Supercritical carbon dioxide extraction of lithium-ion battery electrolytes</article-title>
+<source>J. Supercrit. Fluids</source>
+<year>2014</year>
+<volume>94</volume>
+<fpage>216</fpage>
+<lpage>222</lpage>
+<pub-id pub-id-type="doi">10.1016/j.supflu.2014.07.014</pub-id>
+</element-citation></ref><ref id="B20-molecules-22-00403"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fleischhammer</surname><given-names>M.</given-names></name><name><surname>Waldmann</surname><given-names>T.</given-names></name><name><surname>Bisle</surname><given-names>G.</given-names></name><name><surname>Hogg</surname><given-names>B.-I.</given-names></name><name><surname>Wohlfahrt-Mehrens</surname><given-names>M.</given-names></name></person-group>
+<article-title>Interaction of cyclic ageing at high-rate and low temperatures and safety in lithium-ion batteries</article-title>
+<source>J. Power Sources</source>
+<year>2015</year>
+<volume>274</volume>
+<fpage>432</fpage>
+<lpage>439</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.08.135</pub-id>
+</element-citation></ref><ref id="B21-molecules-22-00403"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gachot</surname><given-names>G.</given-names></name><name><surname>Grugeon</surname><given-names>S.</given-names></name><name><surname>Eshetu</surname><given-names>G.G.</given-names></name><name><surname>Mathiron</surname><given-names>D.</given-names></name><name><surname>Ribi&#x000e8;re</surname><given-names>P.</given-names></name><name><surname>Armand</surname><given-names>M.</given-names></name><name><surname>Laruelle</surname><given-names>S.</given-names></name></person-group>
+<article-title>Thermal behaviour of the lithiated-graphite/electrolyte interface through GC/MS analysis</article-title>
+<source>Electrochim. Acta</source>
+<year>2012</year>
+<volume>83</volume>
+<fpage>402</fpage>
+<lpage>409</lpage>
+<pub-id pub-id-type="doi">10.1016/j.electacta.2012.08.016</pub-id>
+</element-citation></ref><ref id="B22-molecules-22-00403"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Krueger</surname><given-names>S.</given-names></name><name><surname>Kloepsch</surname><given-names>R.</given-names></name><name><surname>Li</surname><given-names>J.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name><name><surname>Passerini</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name></person-group>
+<article-title>How do reactions at the anode/electrolyte interface determine the cathode performance in lithium-ion batteries?</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>2013</year>
+<volume>160</volume>
+<fpage>A542</fpage>
+<lpage>A548</lpage>
+<pub-id pub-id-type="doi">10.1149/2.022304jes</pub-id>
+</element-citation></ref><ref id="B23-molecules-22-00403"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>B&#x000f6;rner</surname><given-names>M.</given-names></name><name><surname>Klamor</surname><given-names>S.</given-names></name><name><surname>Hoffmann</surname><given-names>B.</given-names></name><name><surname>Schroeder</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name><name><surname>W&#x000fc;rsig</surname><given-names>A.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Schappacher</surname><given-names>F.</given-names></name></person-group>
+<article-title>Investigations on the C-Rate and Temperature Dependence of Manganese Dissolution/Deposition in LiMn<sub>2</sub>O<sub>4</sub>/Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> Lithium Ion Batteries</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>2016</year>
+<volume>163</volume>
+<fpage>A831</fpage>
+<lpage>A837</lpage>
+<pub-id pub-id-type="doi">10.1149/2.0191606jes</pub-id>
+</element-citation></ref><ref id="B24-molecules-22-00403"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jung</surname><given-names>S.K.</given-names></name><name><surname>Gwon</surname><given-names>H.</given-names></name><name><surname>Hong</surname><given-names>J.</given-names></name><name><surname>Park</surname><given-names>K.Y.</given-names></name><name><surname>Seo</surname><given-names>D.H.</given-names></name><name><surname>Kim</surname><given-names>H.</given-names></name><name><surname>Hyun</surname><given-names>J.</given-names></name><name><surname>Yang</surname><given-names>W.</given-names></name><name><surname>Kang</surname><given-names>K.</given-names></name></person-group>
+<article-title>Understanding the degradation mechanisms of LiNi<sub>0.5</sub>Co<sub>0.2</sub>Mn<sub>0.3</sub>O<sub>2</sub> cathode material in lithium ion batteries</article-title>
+<source>Adv. Energy Mater.</source>
+<year>2014</year>
+<volume>4</volume>
+<pub-id pub-id-type="doi">10.1002/aenm.201300787</pub-id>
+</element-citation></ref><ref id="B25-molecules-22-00403"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Winter</surname><given-names>M.</given-names></name></person-group>
+<article-title>The solid electrolyte interphase&#x02014;The most important and the least understood solid electrolyte in rechargeable Li batteries</article-title>
+<source>Z. Phys. Chem. Int. J. Res. Phys. Chem. Chem. Phys.</source>
+<year>2009</year>
+<volume>223</volume>
+<fpage>1395</fpage>
+<lpage>1406</lpage>
+<pub-id pub-id-type="doi">10.1524/zpch.2009.6086</pub-id>
+</element-citation></ref><ref id="B26-molecules-22-00403"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Peled</surname><given-names>E.</given-names></name></person-group>
+<article-title>The electrochemical behavior of alkali and alkaline earth metals in nonaqueous battery systems&#x02014;The solid electrolyte interphase model</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>1979</year>
+<volume>126</volume>
+<fpage>2047</fpage>
+<lpage>2051</lpage>
+<pub-id pub-id-type="doi">10.1149/1.2128859</pub-id>
+</element-citation></ref><ref id="B27-molecules-22-00403"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Agubra</surname><given-names>V.A.</given-names></name><name><surname>Fergus</surname><given-names>J.W.</given-names></name><name><surname>Fu</surname><given-names>R.</given-names></name><name><surname>Choe</surname><given-names>S.-Y.</given-names></name></person-group>
+<article-title>Analysis of effects of the state of charge on the formation and growth of the deposit layer on graphite electrode of pouch type lithium ion polymer batteries</article-title>
+<source>J. Power Sources</source>
+<year>2014</year>
+<volume>270</volume>
+<fpage>213</fpage>
+<lpage>220</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.07.126</pub-id>
+</element-citation></ref><ref id="B28-molecules-22-00403"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chung</surname><given-names>G.C.</given-names></name><name><surname>Kim</surname><given-names>H.J.</given-names></name><name><surname>Yu</surname><given-names>S.I.</given-names></name><name><surname>Jun</surname><given-names>S.H.</given-names></name><name><surname>Choi</surname><given-names>J.W.</given-names></name><name><surname>Kim</surname><given-names>M.H.</given-names></name></person-group>
+<article-title>Origin of graphite exfoliation an investigation of the important role of solvent cointercalation</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>2000</year>
+<volume>147</volume>
+<fpage>4391</fpage>
+<lpage>4398</lpage>
+<pub-id pub-id-type="doi">10.1149/1.1394076</pub-id>
+</element-citation></ref><ref id="B29-molecules-22-00403"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klett</surname><given-names>M.</given-names></name><name><surname>Svens</surname><given-names>P.</given-names></name><name><surname>Tengstedt</surname><given-names>C.</given-names></name><name><surname>Seyeux</surname><given-names>A.</given-names></name><name><surname>&#x0015a;wiatowska</surname><given-names>J.</given-names></name><name><surname>Lindbergh</surname><given-names>G.R.</given-names></name><name><surname>Wreland Lindstr&#x000f6;m</surname><given-names>R.</given-names></name></person-group>
+<article-title>Uneven film formation across depth of porous graphite electrodes in cycled commercial Li-ion batteries</article-title>
+<source>J. Phys. Chem. C</source>
+<year>2014</year>
+<volume>119</volume>
+<fpage>90</fpage>
+<lpage>100</lpage>
+<pub-id pub-id-type="doi">10.1021/jp509665e</pub-id>
+</element-citation></ref><ref id="B30-molecules-22-00403"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wiemers-Meyer</surname><given-names>S.</given-names></name><name><surname>Jeremias</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Influence of Battery Cell Components and Water on the Thermal and Chemical Stability of LiPF<sub>6</sub> Based Lithium Ion Battery Electrolytes</article-title>
+<source>Electrochim. Acta</source>
+<year>2016</year>
+<volume>222</volume>
+<fpage>1267</fpage>
+<lpage>1271</lpage>
+<pub-id pub-id-type="doi">10.1016/j.electacta.2016.11.100</pub-id>
+</element-citation></ref><ref id="B31-molecules-22-00403"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Niehoff</surname><given-names>P.</given-names></name><name><surname>Kraemer</surname><given-names>E.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name></person-group>
+<article-title>Parametrisation of the influence of different cycling conditions on the capacity fade and the internal resistance increase for lithium nickel manganese cobalt oxide/graphite cells</article-title>
+<source>J. Electroanal. Chem.</source>
+<year>2013</year>
+<volume>707</volume>
+<fpage>110</fpage>
+<lpage>116</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jelechem.2013.08.032</pub-id>
+</element-citation></ref><ref id="B32-molecules-22-00403"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Friesen</surname><given-names>A.</given-names></name><name><surname>Schultz</surname><given-names>C.</given-names></name><name><surname>Brunklaus</surname><given-names>G.</given-names></name><name><surname>Rodehorst</surname><given-names>U.</given-names></name><name><surname>Wilken</surname><given-names>A.</given-names></name><name><surname>Haetge</surname><given-names>J.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Schappacher</surname><given-names>F.</given-names></name></person-group>
+<article-title>Long Term Aging of Automotive Type Lithium-Ion Cells</article-title>
+<source>ECS Trans.</source>
+<year>2015</year>
+<volume>69</volume>
+<fpage>89</fpage>
+<lpage>99</lpage>
+<pub-id pub-id-type="doi">10.1149/06918.0089ecst</pub-id>
+</element-citation></ref><ref id="B33-molecules-22-00403"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Friesen</surname><given-names>A.</given-names></name><name><surname>Horsthemke</surname><given-names>F.</given-names></name><name><surname>M&#x000f6;nnighoff</surname><given-names>X.</given-names></name><name><surname>Brunklaus</surname><given-names>G.</given-names></name><name><surname>Krafft</surname><given-names>R.</given-names></name><name><surname>B&#x000f6;rner</surname><given-names>M.</given-names></name><name><surname>Risthaus</surname><given-names>T.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Schappacher</surname><given-names>F.M.</given-names></name></person-group>
+<article-title>Impact of cycling at low temperatures on the safety behavior of 18650-type lithium ion cells: Combined study of mechanical and thermal abuse testing accompanied by <italic>post-mortem</italic> analysis</article-title>
+<source>J. Power Sources</source>
+<year>2016</year>
+<volume>334</volume>
+<fpage>1</fpage>
+<lpage>11</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2016.09.120</pub-id>
+</element-citation></ref><ref id="B34-molecules-22-00403"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lux</surname><given-names>S.F.</given-names></name><name><surname>Chevalier</surname><given-names>J.</given-names></name><name><surname>Lucas</surname><given-names>I.T.</given-names></name><name><surname>Kostecki</surname><given-names>R.</given-names></name></person-group>
+<article-title>HF Formation in LiPF<sub>6</sub>-Based Organic Carbonate Electrolytes</article-title>
+<source>ECS Electrochem. Lett.</source>
+<year>2013</year>
+<volume>2</volume>
+<fpage>A121</fpage>
+<lpage>A123</lpage>
+<pub-id pub-id-type="doi">10.1149/2.005312eel</pub-id>
+</element-citation></ref><ref id="B35-molecules-22-00403"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Terborg</surname><given-names>L.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name><name><surname>Passerini</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Karst</surname><given-names>U.</given-names></name><name><surname>Haddad</surname><given-names>P.R.</given-names></name><name><surname>Nesterenko</surname><given-names>P.N.</given-names></name></person-group>
+<article-title>Ion chromatographic determination of hydrolysis products of hexafluorophosphate salts in aqueous solution</article-title>
+<source>Anal. Chim. Acta</source>
+<year>2012</year>
+<volume>714</volume>
+<fpage>121</fpage>
+<lpage>126</lpage>
+<pub-id pub-id-type="doi">10.1016/j.aca.2011.11.056</pub-id>
+<?supplied-pmid 22244145?><pub-id pub-id-type="pmid">22244145</pub-id></element-citation></ref><ref id="B36-molecules-22-00403"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Terborg</surname><given-names>L.</given-names></name><name><surname>Weber</surname><given-names>S.</given-names></name><name><surname>Blaske</surname><given-names>F.</given-names></name><name><surname>Passerini</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Karst</surname><given-names>U.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Investigation of thermal aging and hydrolysis mechanisms in commercial lithium ion battery electrolyte</article-title>
+<source>J. Power Sources</source>
+<year>2013</year>
+<volume>242</volume>
+<fpage>832</fpage>
+<lpage>837</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2013.05.125</pub-id>
+</element-citation></ref><ref id="B37-molecules-22-00403"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Handel</surname><given-names>P.</given-names></name><name><surname>Fauler</surname><given-names>G.</given-names></name><name><surname>Kapper</surname><given-names>K.</given-names></name><name><surname>Schmuck</surname><given-names>M.</given-names></name><name><surname>Stangl</surname><given-names>C.</given-names></name><name><surname>Fischer</surname><given-names>R.</given-names></name><name><surname>Uhlig</surname><given-names>F.</given-names></name><name><surname>Koller</surname><given-names>S.</given-names></name></person-group>
+<article-title>Thermal aging of electrolytes used in lithium-ion batteries&#x02014;An investigation of the impact of protic impurities and different housing materials</article-title>
+<source>J. Power Sources</source>
+<year>2014</year>
+<volume>267</volume>
+<fpage>255</fpage>
+<lpage>259</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.05.080</pub-id>
+</element-citation></ref><ref id="B38-molecules-22-00403"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>H.</given-names></name><name><surname>Zhuang</surname><given-names>G.V.</given-names></name><name><surname>Ross</surname><given-names>P.N.</given-names></name></person-group>
+<article-title>Thermal stability of LiPF<sub>6</sub> salt and Li-ion battery electrolytes containing LiPF<sub>6</sub></article-title>
+<source>J. Power Sources</source>
+<year>2006</year>
+<volume>161</volume>
+<fpage>573</fpage>
+<lpage>579</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2006.03.058</pub-id>
+</element-citation></ref><ref id="B39-molecules-22-00403"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pyschik</surname><given-names>M.</given-names></name><name><surname>Klein-Hitpa&#x000df;</surname><given-names>M.</given-names></name><name><surname>Girod</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Capillary electrophoresis with contactless conductivity detection for the quantification of fluoride in lithium ion battery electrolytes and in ionic liquids&#x02014;A comparison to the results gained with a fluoride ion-selective electrode</article-title>
+<source>Electrophoresis</source>
+<year>2016</year>
+<pub-id pub-id-type="doi">10.1002/elps.201600361</pub-id>
+<?supplied-pmid 27770453?><pub-id pub-id-type="pmid">27770453</pub-id></element-citation></ref><ref id="B40-molecules-22-00403"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wilken</surname><given-names>A.</given-names></name><name><surname>Kraft</surname><given-names>V.</given-names></name><name><surname>Girod</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>A fluoride-selective electrode (Fse) for the quantification of fluoride in lithium-ion battery (Lib) electrolytes</article-title>
+<source>Anal. Methods</source>
+<year>2016</year>
+<volume>8</volume>
+<fpage>6932</fpage>
+<lpage>6940</lpage>
+<pub-id pub-id-type="doi">10.1039/C6AY02264B</pub-id>
+</element-citation></ref><ref id="B41-molecules-22-00403"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Campion</surname><given-names>C.L.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name><name><surname>Euler</surname><given-names>W.B.</given-names></name><name><surname>Lucht</surname><given-names>B.L.</given-names></name><name><surname>Ravdel</surname><given-names>B.</given-names></name><name><surname>DiCarlo</surname><given-names>J.F.</given-names></name><name><surname>Gitzendanner</surname><given-names>R.</given-names></name><name><surname>Abraham</surname><given-names>K.</given-names></name></person-group>
+<article-title>Suppression of toxic compounds produced in the decomposition of lithium-ion battery electrolytes</article-title>
+<source>Electrochem. Solid-State Lett.</source>
+<year>2004</year>
+<volume>7</volume>
+<fpage>A194</fpage>
+<lpage>A197</lpage>
+<pub-id pub-id-type="doi">10.1149/1.1738551</pub-id>
+</element-citation></ref><ref id="B42-molecules-22-00403"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Campion</surname><given-names>C.L.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name><name><surname>Lucht</surname><given-names>B.L.</given-names></name></person-group>
+<article-title>Thermal decomposition of LiPF<sub>6</sub>-based electrolytes for lithium-ion batteries</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>2005</year>
+<volume>152</volume>
+<fpage>A2327</fpage>
+<lpage>A2334</lpage>
+<pub-id pub-id-type="doi">10.1149/1.2083267</pub-id>
+</element-citation></ref><ref id="B43-molecules-22-00403"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kraft</surname><given-names>V.</given-names></name><name><surname>Gr&#x000fc;tzke</surname><given-names>M.</given-names></name><name><surname>Weber</surname><given-names>W.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Ion chromatography electrospray ionization mass spectrometry method development and investigation of lithium hexafluorophosphate-based organic electrolytes and their thermal decomposition products</article-title>
+<source>J. Chromatogr. A</source>
+<year>2014</year>
+<volume>1354</volume>
+<fpage>92</fpage>
+<lpage>100</lpage>
+<pub-id pub-id-type="doi">10.1016/j.chroma.2014.05.066</pub-id>
+<?supplied-pmid 24939088?><pub-id pub-id-type="pmid">24939088</pub-id></element-citation></ref><ref id="B44-molecules-22-00403"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vortmann</surname><given-names>B.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name><name><surname>Engelhard</surname><given-names>C.</given-names></name></person-group>
+<article-title>Rapid characterization of lithium ion battery electrolytes and thermal aging products by low-temperature plasma ambient ionization high-resolution mass spectrometry</article-title>
+<source>Anal. Chem.</source>
+<year>2013</year>
+<volume>85</volume>
+<fpage>3433</fpage>
+<lpage>3438</lpage>
+<pub-id pub-id-type="doi">10.1021/ac4001404</pub-id>
+<?supplied-pmid 23394434?><pub-id pub-id-type="pmid">23394434</pub-id></element-citation></ref><ref id="B45-molecules-22-00403"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weber</surname><given-names>W.</given-names></name><name><surname>Kraft</surname><given-names>V.</given-names></name><name><surname>Gr&#x000fc;tzke</surname><given-names>M.</given-names></name><name><surname>Wagner</surname><given-names>R.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Identification of alkylated phosphates by gas chromatography&#x02013;mass spectrometric investigations with different ionization principles of a thermally aged commercial lithium ion battery electrolyte</article-title>
+<source>J. Chromatogr. A</source>
+<year>2015</year>
+<volume>1394</volume>
+<fpage>128</fpage>
+<lpage>136</lpage>
+<pub-id pub-id-type="doi">10.1016/j.chroma.2015.03.048</pub-id>
+<?supplied-pmid 25846260?><pub-id pub-id-type="pmid">25846260</pub-id></element-citation></ref><ref id="B46-molecules-22-00403"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weber</surname><given-names>W.</given-names></name><name><surname>Wagner</surname><given-names>R.</given-names></name><name><surname>Streipert</surname><given-names>B.</given-names></name><name><surname>Kraft</surname><given-names>V.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Ion and gas chromatography mass spectrometry investigations of organophosphates in lithium ion battery electrolytes by electrochemical aging at elevated cathode potentials</article-title>
+<source>J. Power Sources</source>
+<year>2016</year>
+<volume>306</volume>
+<fpage>193</fpage>
+<lpage>199</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2015.12.025</pub-id>
+</element-citation></ref><ref id="B47-molecules-22-00403"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kraft</surname><given-names>V.</given-names></name><name><surname>Weber</surname><given-names>W.</given-names></name><name><surname>Gr&#x000fc;tzke</surname><given-names>M.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Study of decomposition products by gas chromatography-mass spectrometry and ion chromatography-electrospray ionization-mass spectrometry in thermally decomposed lithium hexafluorophosphate-based lithium ion battery electrolytes</article-title>
+<source>RSC Adv.</source>
+<year>2015</year>
+<volume>5</volume>
+<fpage>80150</fpage>
+<lpage>80157</lpage>
+<pub-id pub-id-type="doi">10.1039/C5RA16679A</pub-id>
+</element-citation></ref><ref id="B48-molecules-22-00403"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kraft</surname><given-names>V.</given-names></name><name><surname>Weber</surname><given-names>W.</given-names></name><name><surname>Streipert</surname><given-names>B.</given-names></name><name><surname>Wagner</surname><given-names>R.</given-names></name><name><surname>Schultz</surname><given-names>C.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Qualitative and quantitative investigation of organophosphates in an electrochemically and thermally treated lithium hexafluorophosphate-based lithium ion battery electrolyte by a developed liquid chromatography-tandem quadrupole mass spectrometry method</article-title>
+<source>RSC Adv.</source>
+<year>2016</year>
+<volume>6</volume>
+<fpage>8</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="doi">10.1039/C5RA23624J</pub-id>
+</element-citation></ref><ref id="B49-molecules-22-00403"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ravdel</surname><given-names>B.</given-names></name><name><surname>Abraham</surname><given-names>K.</given-names></name><name><surname>Gitzendanner</surname><given-names>R.</given-names></name><name><surname>DiCarlo</surname><given-names>J.</given-names></name><name><surname>Lucht</surname><given-names>B.</given-names></name><name><surname>Campion</surname><given-names>C.</given-names></name></person-group>
+<article-title>Thermal stability of lithium-ion battery electrolytes</article-title>
+<source>J. Power Sources</source>
+<year>2003</year>
+<volume>119</volume>
+<fpage>805</fpage>
+<lpage>810</lpage>
+<pub-id pub-id-type="doi">10.1016/S0378-7753(03)00257-X</pub-id>
+</element-citation></ref><ref id="B50-molecules-22-00403"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gachot</surname><given-names>G.</given-names></name><name><surname>Ribi&#x000e8;re</surname><given-names>P.</given-names></name><name><surname>Mathiron</surname><given-names>D.</given-names></name><name><surname>Grugeon</surname><given-names>S.</given-names></name><name><surname>Armand</surname><given-names>M.</given-names></name><name><surname>Leriche</surname><given-names>J.-B.</given-names></name><name><surname>Pilard</surname><given-names>S.</given-names></name><name><surname>Laruelle</surname><given-names>S.P.</given-names></name></person-group>
+<article-title>Gas chromatography/mass spectrometry as a suitable tool for the Li-ion battery electrolyte degradation mechanisms study</article-title>
+<source>Anal. Chem.</source>
+<year>2010</year>
+<volume>83</volume>
+<fpage>478</fpage>
+<lpage>485</lpage>
+<pub-id pub-id-type="doi">10.1021/ac101948u</pub-id>
+<?supplied-pmid 21155595?><pub-id pub-id-type="pmid">21155595</pub-id></element-citation></ref><ref id="B51-molecules-22-00403"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schultz</surname><given-names>C.</given-names></name><name><surname>Kraft</surname><given-names>V.</given-names></name><name><surname>Pyschik</surname><given-names>M.</given-names></name><name><surname>Weber</surname><given-names>S.</given-names></name><name><surname>Schappacher</surname><given-names>F.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Separation and quantification of organic electrolyte components in lithium-ion batteries via a developed HPLC method</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>2015</year>
+<volume>162</volume>
+<fpage>A629</fpage>
+<lpage>A634</lpage>
+<pub-id pub-id-type="doi">10.1149/2.0401504jes</pub-id>
+</element-citation></ref><ref id="B52-molecules-22-00403"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schultz</surname><given-names>C.</given-names></name><name><surname>Vedder</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Qualitative Investigation of the Decomposition of Organic Solvent Based Lithium Ion Battery Electrolytes with LC-IT-TOF-MS</article-title>
+<source>Anal. Chem.</source>
+<year>2016</year>
+<volume>88</volume>
+<fpage>11160</fpage>
+<lpage>11168</lpage>
+<pub-id pub-id-type="doi">10.1021/acs.analchem.6b03379</pub-id>
+<?supplied-pmid 27748587?><pub-id pub-id-type="pmid">27748587</pub-id></element-citation></ref><ref id="B53-molecules-22-00403"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gr&#x000fc;tzke</surname><given-names>M.</given-names></name><name><surname>Weber</surname><given-names>W.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Structure determination of organic aging products in lithium-ion battery electrolytes with gas chromatography chemical ionization mass spectrometry (GC-CI-MS)</article-title>
+<source>RSC Adv.</source>
+<year>2016</year>
+<volume>6</volume>
+<fpage>57253</fpage>
+<lpage>57260</lpage>
+<pub-id pub-id-type="doi">10.1039/C6RA09323J</pub-id>
+</element-citation></ref><ref id="B54-molecules-22-00403"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Terborg</surname><given-names>L.</given-names></name><name><surname>Weber</surname><given-names>S.</given-names></name><name><surname>Passerini</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Karst</surname><given-names>U.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Development of gas chromatographic methods for the analyses of organic carbonate-based electrolytes</article-title>
+<source>J. Power Sources</source>
+<year>2014</year>
+<volume>245</volume>
+<fpage>836</fpage>
+<lpage>840</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2013.07.030</pub-id>
+</element-citation></ref><ref id="B55-molecules-22-00403"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wiemers-Meyer</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Mechanistic insights into lithium ion battery electrolyte degradation&#x02014;A quantitative NMR study</article-title>
+<source>Phys. Chem. Chem. Phys.</source>
+<year>2016</year>
+<volume>18</volume>
+<fpage>26595</fpage>
+<lpage>26601</lpage>
+<pub-id pub-id-type="doi">10.1039/C6CP05276B</pub-id>
+<?supplied-pmid 27711648?><pub-id pub-id-type="pmid">27711648</pub-id></element-citation></ref><ref id="B56-molecules-22-00403"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wiemers-Meyer</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Battery Cell for In Situ NMR Measurements of Liquid Electrolytes</article-title>
+<source>Phys. Chem. Chem. Phys.</source>
+<year>2017</year>
+<volume>19</volume>
+<fpage>4962</fpage>
+<lpage>4966</lpage>
+<pub-id pub-id-type="doi">10.1039/C6CP08653E</pub-id>
+<?supplied-pmid 28168265?><pub-id pub-id-type="pmid">28168265</pub-id></element-citation></ref><ref id="B57-molecules-22-00403"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abraham</surname><given-names>K.</given-names></name></person-group>
+<article-title>Directions in secondary lithium battery research and development</article-title>
+<source>Electrochim. Acta</source>
+<year>1993</year>
+<volume>38</volume>
+<fpage>1233</fpage>
+<lpage>1248</lpage>
+<pub-id pub-id-type="doi">10.1016/0013-4686(93)80054-4</pub-id>
+</element-citation></ref><ref id="B58-molecules-22-00403"><label>58.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Balbuena</surname><given-names>P.B.</given-names></name><name><surname>Wang</surname><given-names>Y.</given-names></name></person-group>
+<source>Lithium-Ion Batteries: Solid-Electrolyte Interphase</source>
+<publisher-name>World Scientific</publisher-name>
+<publisher-loc>Singapore</publisher-loc>
+<year>2004</year>
+<fpage>424</fpage>
+</element-citation></ref><ref id="B59-molecules-22-00403"><label>59.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Jow</surname><given-names>T.R.</given-names></name><name><surname>Xu</surname><given-names>K.</given-names></name><name><surname>Borodin</surname><given-names>O.</given-names></name><name><surname>Makoto</surname><given-names>U.</given-names></name></person-group>
+<source>Electrolytes for Lithium and Lithium-Ion Batteries</source>
+<publisher-name>Springer</publisher-name>
+<publisher-loc>Berlin, Germany</publisher-loc>
+<year>2014</year>
+<volume>Volum 58</volume>
+</element-citation></ref><ref id="B60-molecules-22-00403"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>K.</given-names></name></person-group>
+<article-title>Electrolytes and interphases in Li-ion batteries and beyond</article-title>
+<source>Chem. Rev.</source>
+<year>2014</year>
+<volume>114</volume>
+<fpage>11503</fpage>
+<lpage>11618</lpage>
+<pub-id pub-id-type="doi">10.1021/cr500003w</pub-id>
+<?supplied-pmid 25351820?><pub-id pub-id-type="pmid">25351820</pub-id></element-citation></ref><ref id="B61-molecules-22-00403"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>K.</given-names></name></person-group>
+<article-title>Nonaqueous liquid electrolytes for lithium-based rechargeable batteries</article-title>
+<source>Chem. Rev.</source>
+<year>2004</year>
+<volume>104</volume>
+<fpage>4303</fpage>
+<lpage>4418</lpage>
+<pub-id pub-id-type="doi">10.1021/cr030203g</pub-id>
+<?supplied-pmid 15669157?><pub-id pub-id-type="pmid">15669157</pub-id></element-citation></ref><ref id="B62-molecules-22-00403"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schmitz</surname><given-names>R.W.</given-names></name><name><surname>Murmann</surname><given-names>P.</given-names></name><name><surname>Schmitz</surname><given-names>R.</given-names></name><name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name><name><surname>Kr&#x000e4;mer</surname><given-names>L.</given-names></name><name><surname>Kasnatscheew</surname><given-names>J.</given-names></name><name><surname>Isken</surname><given-names>P.</given-names></name><name><surname>Niehoff</surname><given-names>P.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name><name><surname>R&#x000f6;schenthaler</surname><given-names>G.-V.</given-names></name></person-group>
+<article-title>Investigations on novel electrolytes, solvents and SEI additives for use in lithium-ion batteries: Systematic electrochemical characterization and detailed analysis by spectroscopic methods</article-title>
+<source>Prog. Solid State Chem.</source>
+<year>2014</year>
+<volume>42</volume>
+<fpage>65</fpage>
+<lpage>84</lpage>
+<pub-id pub-id-type="doi">10.1016/j.progsolidstchem.2014.04.003</pub-id>
+</element-citation></ref><ref id="B63-molecules-22-00403"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tasaki</surname><given-names>K.</given-names></name><name><surname>Goldberg</surname><given-names>A.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name></person-group>
+<article-title>On the difference in cycling behaviors of lithium-ion battery cell between the ethylene carbonate-and propylene carbonate-based electrolytes</article-title>
+<source>Electrochim. Acta</source>
+<year>2011</year>
+<volume>56</volume>
+<fpage>10424</fpage>
+<lpage>10435</lpage>
+<pub-id pub-id-type="doi">10.1016/j.electacta.2011.05.112</pub-id>
+</element-citation></ref><ref id="B64-molecules-22-00403"><label>64.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Wakihara</surname><given-names>M.</given-names></name><name><surname>Yamamoto</surname><given-names>O.</given-names></name></person-group>
+<source>Lithium Ion Batteries: Fundamentals and Performance</source>
+<publisher-name>John Wiley &#x00026; Sons</publisher-name>
+<publisher-loc>Hoboken, NJ, USA</publisher-loc>
+<year>2008</year>
+</element-citation></ref><ref id="B65-molecules-22-00403"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aurbach</surname><given-names>D.</given-names></name><name><surname>Talyosef</surname><given-names>Y.</given-names></name><name><surname>Markovsky</surname><given-names>B.</given-names></name><name><surname>Markevich</surname><given-names>E.</given-names></name><name><surname>Zinigrad</surname><given-names>E.</given-names></name><name><surname>Asraf</surname><given-names>L.</given-names></name><name><surname>Gnanaraj</surname><given-names>J.S.</given-names></name><name><surname>Kim</surname><given-names>H.-J.</given-names></name></person-group>
+<article-title>Design of electrolyte solutions for Li and Li-ion batteries: A review</article-title>
+<source>Electrochim. Acta</source>
+<year>2004</year>
+<volume>50</volume>
+<fpage>247</fpage>
+<lpage>254</lpage>
+<pub-id pub-id-type="doi">10.1016/j.electacta.2004.01.090</pub-id>
+</element-citation></ref><ref id="B66-molecules-22-00403"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kr&#x000e4;mer</surname><given-names>E.</given-names></name><name><surname>Passerini</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name></person-group>
+<article-title>Dependency of aluminum collector corrosion in lithium ion batteries on the electrolyte solvent</article-title>
+<source>ECS Electrochem. Lett.</source>
+<year>2012</year>
+<volume>1</volume>
+<fpage>C9</fpage>
+<lpage>C11</lpage>
+<pub-id pub-id-type="doi">10.1149/2.004205eel</pub-id>
+</element-citation></ref><ref id="B67-molecules-22-00403"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Newman</surname><given-names>G.</given-names></name><name><surname>Francis</surname><given-names>R.</given-names></name><name><surname>Gaines</surname><given-names>L.</given-names></name><name><surname>Rao</surname><given-names>B.</given-names></name></person-group>
+<article-title>Hazard investigations of LiClO<sub>4</sub>/dioxolane electrolyte</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>1980</year>
+<volume>127</volume>
+<fpage>2025</fpage>
+<lpage>2027</lpage>
+<pub-id pub-id-type="doi">10.1149/1.2130056</pub-id>
+</element-citation></ref><ref id="B68-molecules-22-00403"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ding</surname><given-names>M.S.</given-names></name><name><surname>Xu</surname><given-names>K.</given-names></name><name><surname>Jow</surname><given-names>T.R.</given-names></name></person-group>
+<article-title>Conductivity and Viscosity of PC-DEC and PC-EC Solutions of LiBOB</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>2005</year>
+<volume>152</volume>
+<fpage>A132</fpage>
+<lpage>A140</lpage>
+<pub-id pub-id-type="doi">10.1149/1.1833611</pub-id>
+</element-citation></ref><ref id="B69-molecules-22-00403"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Amereller</surname><given-names>M.</given-names></name><name><surname>Schedlbauer</surname><given-names>T.</given-names></name><name><surname>Moosbauer</surname><given-names>D.</given-names></name><name><surname>Schreiner</surname><given-names>C.</given-names></name><name><surname>Stock</surname><given-names>C.</given-names></name><name><surname>Wudy</surname><given-names>F.</given-names></name><name><surname>Zugmann</surname><given-names>S.</given-names></name><name><surname>Hammer</surname><given-names>H.</given-names></name><name><surname>Maurer</surname><given-names>A.</given-names></name><name><surname>Gschwind</surname><given-names>R.</given-names></name></person-group>
+<article-title>Electrolytes for lithium and lithium ion batteries: From synthesis of novel lithium borates and ionic liquids to development of novel measurement methods</article-title>
+<source>Prog. Solid State Chem.</source>
+<year>2014</year>
+<volume>42</volume>
+<fpage>39</fpage>
+<lpage>56</lpage>
+<pub-id pub-id-type="doi">10.1016/j.progsolidstchem.2014.04.001</pub-id>
+</element-citation></ref><ref id="B70-molecules-22-00403"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rupp</surname><given-names>B.</given-names></name><name><surname>Schmuck</surname><given-names>M.</given-names></name><name><surname>Balducci</surname><given-names>A.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Kern</surname><given-names>W.</given-names></name></person-group>
+<article-title>Polymer electrolyte for lithium batteries based on photochemically crosslinked poly(ethylene oxide) and ionic liquid</article-title>
+<source>Eur. Polym. J.</source>
+<year>2008</year>
+<volume>44</volume>
+<fpage>2986</fpage>
+<lpage>2990</lpage>
+<pub-id pub-id-type="doi">10.1016/j.eurpolymj.2008.06.022</pub-id>
+</element-citation></ref><ref id="B71-molecules-22-00403"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>S.S.</given-names></name></person-group>
+<article-title>A review on electrolyte additives for lithium-ion batteries</article-title>
+<source>J. Power Sources</source>
+<year>2006</year>
+<volume>162</volume>
+<fpage>1379</fpage>
+<lpage>1394</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2006.07.074</pub-id>
+</element-citation></ref><ref id="B72-molecules-22-00403"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shigematsu</surname><given-names>Y.</given-names></name><name><surname>Kinoshita</surname><given-names>S.-I.</given-names></name><name><surname>Ue</surname><given-names>M.</given-names></name></person-group>
+<article-title>Thermal behavior of a C&#x02215;LiCoO<sub>2</sub> cell, its components, and their combinations and the effects of electrolyte additives</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>2006</year>
+<volume>153</volume>
+<fpage>A2166</fpage>
+<lpage>A2170</lpage>
+<pub-id pub-id-type="doi">10.1149/1.2347100</pub-id>
+</element-citation></ref><ref id="B73-molecules-22-00403"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tobishima</surname><given-names>S.</given-names></name><name><surname>Ogino</surname><given-names>Y.</given-names></name><name><surname>Watanabe</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Influence of electrolyte additives on safety and cycle life of rechargeable lithium cells</article-title>
+<source>J. Appl. Electrochem.</source>
+<year>2003</year>
+<volume>33</volume>
+<fpage>143</fpage>
+<lpage>150</lpage>
+<pub-id pub-id-type="doi">10.1023/A:1024039302020</pub-id>
+</element-citation></ref><ref id="B74-molecules-22-00403"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>M&#x000f6;ller</surname><given-names>K.-C.</given-names></name><name><surname>Santner</surname><given-names>H.</given-names></name><name><surname>Kern</surname><given-names>W.</given-names></name><name><surname>Yamaguchi</surname><given-names>S.</given-names></name><name><surname>Besenhard</surname><given-names>J.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name></person-group>
+<article-title>In situ characterization of the SEI formation on graphite in the presence of a vinylene group containing film-forming electrolyte additives</article-title>
+<source>J. Power Sources</source>
+<year>2003</year>
+<volume>119</volume>
+<fpage>561</fpage>
+<lpage>566</lpage>
+<pub-id pub-id-type="doi">10.1016/S0378-7753(03)00289-1</pub-id>
+</element-citation></ref><ref id="B75-molecules-22-00403"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Santner</surname><given-names>H.</given-names></name><name><surname>Korepp</surname><given-names>C.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Besenhard</surname><given-names>J.</given-names></name><name><surname>M&#x000f6;ller</surname><given-names>K.-C.</given-names></name></person-group>
+<article-title>In-situ FTIR investigations on the reduction of vinylene electrolyte additives suitable for use in lithium-ion batteries</article-title>
+<source>Anal. Bioanal. Chem.</source>
+<year>2004</year>
+<volume>379</volume>
+<fpage>266</fpage>
+<lpage>271</lpage>
+<pub-id pub-id-type="doi">10.1007/s00216-004-2522-4</pub-id>
+<?supplied-pmid 14968287?><pub-id pub-id-type="pmid">14968287</pub-id></element-citation></ref><ref id="B76-molecules-22-00403"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vogl</surname><given-names>U.</given-names></name><name><surname>Schmitz</surname><given-names>A.</given-names></name><name><surname>Stock</surname><given-names>C.</given-names></name><name><surname>Badillo</surname><given-names>J.P.</given-names></name><name><surname>Gores</surname><given-names>H.J.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name></person-group>
+<article-title>Investigation of <italic>N</italic>-ethyl-2-pyrrolidone (NEP) as electrolyte additive in regard to overcharge protecting characteristics</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>2014</year>
+<volume>161</volume>
+<fpage>A1407</fpage>
+<lpage>A1414</lpage>
+<pub-id pub-id-type="doi">10.1149/2.1021409jes</pub-id>
+</element-citation></ref><ref id="B77-molecules-22-00403"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dippel</surname><given-names>C.</given-names></name><name><surname>Schmitz</surname><given-names>R.</given-names></name><name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name><name><surname>B&#x000f6;ttcher</surname><given-names>T.</given-names></name><name><surname>Kunze</surname><given-names>M.</given-names></name><name><surname>Lex-Balducci</surname><given-names>A.</given-names></name><name><surname>R&#x000f6;schenthaler</surname><given-names>G.-V.</given-names></name><name><surname>Passerini</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name></person-group>
+<article-title>Carbene Adduct as Overcharge Protecting Agent in Lithium Ion Batteries</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>2012</year>
+<volume>159</volume>
+<fpage>A1587</fpage>
+<lpage>A1590</lpage>
+<pub-id pub-id-type="doi">10.1149/2.006210jes</pub-id>
+</element-citation></ref><ref id="B78-molecules-22-00403"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Korepp</surname><given-names>C.</given-names></name><name><surname>Kern</surname><given-names>W.</given-names></name><name><surname>Lanzer</surname><given-names>E.</given-names></name><name><surname>Raimann</surname><given-names>P.</given-names></name><name><surname>Besenhard</surname><given-names>J.</given-names></name><name><surname>Yang</surname><given-names>M.</given-names></name><name><surname>M&#x000f6;ller</surname><given-names>K.-C.</given-names></name><name><surname>Shieh</surname><given-names>D.-T.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name></person-group>
+<article-title>4-Bromobenzyl isocyanate versus benzyl isocyanate&#x02014;New film-forming electrolyte additives and overcharge protection additives for lithium ion batteries</article-title>
+<source>J. Power Sources</source>
+<year>2007</year>
+<volume>174</volume>
+<fpage>637</fpage>
+<lpage>642</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2007.06.142</pub-id>
+</element-citation></ref><ref id="B79-molecules-22-00403"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schranzhofer</surname><given-names>H.</given-names></name><name><surname>Bugajski</surname><given-names>J.</given-names></name><name><surname>Santner</surname><given-names>H.</given-names></name><name><surname>Korepp</surname><given-names>C.</given-names></name><name><surname>M&#x000f6;ller</surname><given-names>K.-C.</given-names></name><name><surname>Besenhard</surname><given-names>J.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Sitte</surname><given-names>W.</given-names></name></person-group>
+<article-title>Electrochemical impedance spectroscopy study of the SEI formation on graphite and metal electrodes</article-title>
+<source>J. Power Sources</source>
+<year>2006</year>
+<volume>153</volume>
+<fpage>391</fpage>
+<lpage>395</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2005.05.034</pub-id>
+</element-citation></ref><ref id="B80-molecules-22-00403"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dey</surname><given-names>A.</given-names></name></person-group>
+<article-title>Lithium anode film and organic and inorganic electrolyte batteries</article-title>
+<source>Thin Solid Films</source>
+<year>1977</year>
+<volume>43</volume>
+<fpage>131</fpage>
+<lpage>171</lpage>
+<pub-id pub-id-type="doi">10.1016/0040-6090(77)90383-2</pub-id>
+</element-citation></ref><ref id="B81-molecules-22-00403"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Peled</surname><given-names>E.</given-names></name><name><surname>Yamin</surname><given-names>H.</given-names></name></person-group>
+<article-title>Kinetics of Lithium in Lithium LiAlCl<sub>4</sub>-SoCl<sub>2</sub> Solutions</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>1979</year>
+<fpage>C308</fpage>
+</element-citation></ref><ref id="B82-molecules-22-00403"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dupr&#x000e9;</surname><given-names>N.</given-names></name><name><surname>Martin</surname><given-names>J.-F.</given-names></name><name><surname>Degryse</surname><given-names>J.</given-names></name><name><surname>Fernandez</surname><given-names>V.</given-names></name><name><surname>Soudan</surname><given-names>P.</given-names></name><name><surname>Guyomard</surname><given-names>D.</given-names></name></person-group>
+<article-title>Aging of the LiFePO<sub>4</sub> positive electrode interface in electrolyte</article-title>
+<source>J. Power Sources</source>
+<year>2010</year>
+<volume>195</volume>
+<fpage>7415</fpage>
+<lpage>7425</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2010.05.042</pub-id>
+</element-citation></ref><ref id="B83-molecules-22-00403"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kong</surname><given-names>W.</given-names></name><name><surname>Li</surname><given-names>H.</given-names></name><name><surname>Huang</surname><given-names>X.</given-names></name><name><surname>Chen</surname><given-names>L.</given-names></name></person-group>
+<article-title>Gas evolution behaviors for several cathode materials in lithium-ion batteries</article-title>
+<source>J. Power Sources</source>
+<year>2005</year>
+<volume>142</volume>
+<fpage>285</fpage>
+<lpage>291</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2004.10.008</pub-id>
+</element-citation></ref><ref id="B84-molecules-22-00403"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sloop</surname><given-names>S.E.</given-names></name><name><surname>Kerr</surname><given-names>J.B.</given-names></name><name><surname>Kinoshita</surname><given-names>K.</given-names></name></person-group>
+<article-title>The role of Li-ion battery electrolyte reactivity in performance decline and self-discharge</article-title>
+<source>J. Power Sources</source>
+<year>2003</year>
+<volume>119</volume>
+<fpage>330</fpage>
+<lpage>337</lpage>
+<pub-id pub-id-type="doi">10.1016/S0378-7753(03)00149-6</pub-id>
+</element-citation></ref><ref id="B85-molecules-22-00403"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sloop</surname><given-names>S.E.</given-names></name><name><surname>Pugh</surname><given-names>J.K.</given-names></name><name><surname>Wang</surname><given-names>S.</given-names></name><name><surname>Kerr</surname><given-names>J.</given-names></name><name><surname>Kinoshita</surname><given-names>K.</given-names></name></person-group>
+<article-title>Chemical Reactivity of PF<sub>5</sub> and LiPF<sub>6</sub> in Ethylene Carbonate/Dimethyl Carbonate Solutions</article-title>
+<source>Electrochem. Solid-State Lett.</source>
+<year>2001</year>
+<volume>4</volume>
+<fpage>A42</fpage>
+<lpage>A44</lpage>
+<pub-id pub-id-type="doi">10.1149/1.1353158</pub-id>
+</element-citation></ref><ref id="B86-molecules-22-00403"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wilken</surname><given-names>S.</given-names></name><name><surname>Treskow</surname><given-names>M.</given-names></name><name><surname>Scheers</surname><given-names>J.</given-names></name><name><surname>Johansson</surname><given-names>P.</given-names></name><name><surname>Jacobsson</surname><given-names>P.</given-names></name></person-group>
+<article-title>Initial stages of thermal decomposition of LiPF<sub>6</sub>-based lithium ion battery electrolytes by detailed Raman and NMR spectroscopy</article-title>
+<source>RSC Adv.</source>
+<year>2013</year>
+<volume>3</volume>
+<fpage>16359</fpage>
+<lpage>16364</lpage>
+<pub-id pub-id-type="doi">10.1039/c3ra42611d</pub-id>
+</element-citation></ref><ref id="B87-molecules-22-00403"><label>87.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kawamura</surname><given-names>T.</given-names></name><name><surname>Okada</surname><given-names>S.</given-names></name><name><surname>Yamaki</surname><given-names>J.-I.</given-names></name></person-group>
+<article-title>Decomposition reaction of LiPF<sub>6</sub>-based electrolytes for lithium ion cells</article-title>
+<source>J. Power Sources</source>
+<year>2006</year>
+<volume>156</volume>
+<fpage>547</fpage>
+<lpage>554</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2005.05.084</pub-id>
+</element-citation></ref><ref id="B88-molecules-22-00403"><label>88.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Plakhotnyk</surname><given-names>A.V.</given-names></name><name><surname>Ernst</surname><given-names>L.</given-names></name><name><surname>Schmutzler</surname><given-names>R.</given-names></name></person-group>
+<article-title>Hydrolysis in the system LiPF<sub>6</sub>&#x02014;Propylene Carbonate&#x02014;Dimethyl carbonate&#x02014;H<sub>2</sub>O</article-title>
+<source>J. Fluorine Chem.</source>
+<year>2005</year>
+<volume>126</volume>
+<fpage>27</fpage>
+<lpage>31</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jfluchem.2004.09.027</pub-id>
+</element-citation></ref><ref id="B89-molecules-22-00403"><label>89.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blomgren</surname><given-names>G.E.</given-names></name></person-group>
+<article-title>Electrolytes for advanced batteries</article-title>
+<source>J. Power Sources</source>
+<year>1999</year>
+<volume>81</volume>
+<fpage>112</fpage>
+<lpage>118</lpage>
+<pub-id pub-id-type="doi">10.1016/S0378-7753(99)00188-3</pub-id>
+</element-citation></ref><ref id="B90-molecules-22-00403"><label>90.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sasaki</surname><given-names>T.</given-names></name><name><surname>Abe</surname><given-names>T.</given-names></name><name><surname>Iriyama</surname><given-names>Y.</given-names></name><name><surname>Inaba</surname><given-names>M.</given-names></name><name><surname>Ogumi</surname><given-names>Z.</given-names></name></person-group>
+<article-title>Formation mechanism of alkyl dicarbonates in Li-ion cells</article-title>
+<source>J. Power Sources</source>
+<year>2005</year>
+<volume>150</volume>
+<fpage>208</fpage>
+<lpage>215</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2005.02.021</pub-id>
+</element-citation></ref><ref id="B91-molecules-22-00403"><label>91.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sasaki</surname><given-names>T.</given-names></name><name><surname>Jeong</surname><given-names>S.-K.</given-names></name><name><surname>Abe</surname><given-names>T.</given-names></name><name><surname>Iriyama</surname><given-names>Y.</given-names></name><name><surname>Inaba</surname><given-names>M.</given-names></name><name><surname>Ogumi</surname><given-names>Z.</given-names></name></person-group>
+<article-title>Effect of an alkyl dicarbonate on Li-ion cell performance</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>2005</year>
+<volume>152</volume>
+<fpage>A1963</fpage>
+<lpage>A1968</lpage>
+<pub-id pub-id-type="doi">10.1149/1.2008987</pub-id>
+</element-citation></ref><ref id="B92-molecules-22-00403"><label>92.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Silver</surname><given-names>S.</given-names></name></person-group>
+<article-title>The Toxieity of Dimethyl-, Diethyl-, and Diisopropyl Fluorophosphate Vapors</article-title>
+<source>J. Ind. Hyg. Toxicol.</source>
+<year>1948</year>
+<volume>30</volume>
+<fpage>307</fpage>
+<lpage>311</lpage>
+<?supplied-pmid 18881087?><pub-id pub-id-type="pmid">18881087</pub-id></element-citation></ref><ref id="B93-molecules-22-00403"><label>93.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tripathi</surname><given-names>H.L.</given-names></name><name><surname>Dewey</surname><given-names>W.L.</given-names></name></person-group>
+<article-title>Comparison of the effects of diisopropylfluorophosphate, sarin, soman, and tabun on toxicity and brain acetylcholinesterase activity in mice</article-title>
+<source>J. Toxicol. Environ. Health Part A</source>
+<year>1989</year>
+<volume>26</volume>
+<fpage>437</fpage>
+<lpage>446</lpage>
+<pub-id pub-id-type="doi">10.1080/15287398909531267</pub-id>
+<?supplied-pmid 2709438?><pub-id pub-id-type="pmid">2709438</pub-id></element-citation></ref><ref id="B94-molecules-22-00403"><label>94.</label><element-citation publication-type="webpage">
+<article-title>Referenced to Journal of Toxicology and Environmental Health 1989, 26, 437</article-title>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="www.lookchem.com">www.lookchem.com</ext-link></comment>
+<date-in-citation>(accessed on 28 April 2017)</date-in-citation>
+</element-citation></ref><ref id="B95-molecules-22-00403"><label>95.</label><element-citation publication-type="webpage">
+<article-title>Referenced to NTIS (National Technical Information Service)</article-title>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="www.lookchem.com">www.lookchem.com</ext-link></comment>
+<date-in-citation>(accessed on 28 April 2017)</date-in-citation>
+</element-citation></ref><ref id="B96-molecules-22-00403"><label>96.</label><element-citation publication-type="webpage">
+<article-title>Referenced to Deutsche Gesundheitswesen 1960, 15, 2179</article-title>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="www.lookchem.com">www.lookchem.com</ext-link></comment>
+<date-in-citation>(accessed on 28 April 2017)</date-in-citation>
+</element-citation></ref><ref id="B97-molecules-22-00403"><label>97.</label><element-citation publication-type="webpage">
+<article-title>Referenced to RTECS (Registry of Toxic Effects of Chemical Substances)</article-title>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="www.sigmaaldrich.com">www.sigmaaldrich.com</ext-link></comment>
+<date-in-citation>(accessed on 28 April 2017)</date-in-citation>
+</element-citation></ref><ref id="B98-molecules-22-00403"><label>98.</label><element-citation publication-type="gov">
+<article-title>TOXNET Database</article-title>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="https://toxnet.nlm.nih.gov/">https://toxnet.nlm.nih.gov/</ext-link></comment>
+<date-in-citation>(accessed on 10 September 2016)</date-in-citation>
+</element-citation></ref><ref id="B99-molecules-22-00403"><label>99.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Patnaik</surname><given-names>P.</given-names></name></person-group>
+<source>A Comprehensive Guide to the Hazardous Properties of Chemical Substances</source>
+<publisher-name>John Wiley &#x00026; Sons</publisher-name>
+<publisher-loc>Hoboken, NJ, USA</publisher-loc>
+<year>2007</year>
+</element-citation></ref><ref id="B100-molecules-22-00403"><label>100.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Delfino</surname><given-names>R.T.</given-names></name><name><surname>Ribeiro</surname><given-names>T.S.</given-names></name><name><surname>Figueroa-Villar</surname><given-names>J.D.</given-names></name></person-group>
+<article-title>Organophosphorus compounds as chemical warfare agents: A review</article-title>
+<source>J. Braz. Chem. Soc.</source>
+<year>2009</year>
+<volume>20</volume>
+<fpage>407</fpage>
+<lpage>428</lpage>
+<pub-id pub-id-type="doi">10.1590/S0103-50532009000300003</pub-id>
+</element-citation></ref><ref id="B101-molecules-22-00403"><label>101.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Copplestone</surname><given-names>J.F.</given-names></name></person-group>
+<article-title>The development of the WHO Recommended Classification of Pesticides by Hazard</article-title>
+<source>Bull. World Health Org.</source>
+<year>1988</year>
+<volume>66</volume>
+<fpage>545</fpage>
+<?supplied-pmid 3264763?><pub-id pub-id-type="pmid">3264763</pub-id></element-citation></ref><ref id="B102-molecules-22-00403"><label>102.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Raushel</surname><given-names>F.M.</given-names></name></person-group>
+<article-title>Chemical biology: Catalytic detoxification</article-title>
+<source>Nature</source>
+<year>2011</year>
+<volume>469</volume>
+<fpage>310</fpage>
+<lpage>311</lpage>
+<pub-id pub-id-type="doi">10.1038/469310a</pub-id>
+<?supplied-pmid 21248836?><pub-id pub-id-type="pmid">21248836</pub-id></element-citation></ref><ref id="B103-molecules-22-00403"><label>103.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Costa</surname><given-names>L.G.</given-names></name></person-group>
+<article-title>Current issues in organophosphate toxicology</article-title>
+<source>Clin. Chim. Acta</source>
+<year>2006</year>
+<volume>366</volume>
+<fpage>1</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cca.2005.10.008</pub-id>
+<?supplied-pmid 16337171?><pub-id pub-id-type="pmid">16337171</pub-id></element-citation></ref><ref id="B104-molecules-22-00403"><label>104.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gr&#x000fc;tzke</surname><given-names>M.</given-names></name><name><surname>Kr&#x000fc;ger</surname><given-names>S.</given-names></name><name><surname>Kraft</surname><given-names>V.</given-names></name><name><surname>Vortmann</surname><given-names>B.</given-names></name><name><surname>Rothermel</surname><given-names>S.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Investigation of the Storage Behavior of Shredded Lithium-Ion Batteries from Electric Vehicles for Recycling Purposes</article-title>
+<source>ChemSusChem</source>
+<year>2015</year>
+<volume>8</volume>
+<fpage>3433</fpage>
+<lpage>3438</lpage>
+<pub-id pub-id-type="doi">10.1002/cssc.201500920</pub-id>
+<?supplied-pmid 26360935?><pub-id pub-id-type="pmid">26360935</pub-id></element-citation></ref><ref id="B105-molecules-22-00403"><label>105.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>P.</given-names></name><name><surname>Yokoyama</surname><given-names>T.</given-names></name><name><surname>Itabashi</surname><given-names>O.</given-names></name><name><surname>Suzuki</surname><given-names>T.M.</given-names></name><name><surname>Inoue</surname><given-names>K.</given-names></name></person-group>
+<article-title>Hydrometallurgical process for recovery of metal values from spent lithium-ion secondary batteries</article-title>
+<source>Hydrometallurgy</source>
+<year>1998</year>
+<volume>47</volume>
+<fpage>259</fpage>
+<lpage>271</lpage>
+<pub-id pub-id-type="doi">10.1016/S0304-386X(97)00050-9</pub-id>
+</element-citation></ref><ref id="B106-molecules-22-00403"><label>106.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Freitas</surname><given-names>M.</given-names></name><name><surname>Garcia</surname><given-names>E.</given-names></name></person-group>
+<article-title>Electrochemical recycling of cobalt from cathodes of spent lithium-ion batteries</article-title>
+<source>J. Power Sources</source>
+<year>2007</year>
+<volume>171</volume>
+<fpage>953</fpage>
+<lpage>959</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2007.07.002</pub-id>
+</element-citation></ref><ref id="B107-molecules-22-00403"><label>107.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Swain</surname><given-names>B.</given-names></name><name><surname>Jeong</surname><given-names>J.</given-names></name><name><surname>Lee</surname><given-names>J.-C.</given-names></name><name><surname>Lee</surname><given-names>G.-H.</given-names></name><name><surname>Sohn</surname><given-names>J.-S.</given-names></name></person-group>
+<article-title>Hydrometallurgical process for recovery of cobalt from waste cathodic active material generated during manufacturing of lithium ion batteries</article-title>
+<source>J. Power Sources</source>
+<year>2007</year>
+<volume>167</volume>
+<fpage>536</fpage>
+<lpage>544</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2007.02.046</pub-id>
+</element-citation></ref><ref id="B108-molecules-22-00403"><label>108.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lain</surname><given-names>M.J.</given-names></name></person-group>
+<article-title>Recycling of lithium ion cells and batteries</article-title>
+<source>J. Power Sources</source>
+<year>2001</year>
+<volume>97</volume>
+<fpage>736</fpage>
+<lpage>738</lpage>
+<pub-id pub-id-type="doi">10.1016/S0378-7753(01)00600-0</pub-id>
+</element-citation></ref><ref id="B109-molecules-22-00403"><label>109.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Georgi-Maschler</surname><given-names>T.</given-names></name><name><surname>Friedrich</surname><given-names>B.</given-names></name><name><surname>Weyhe</surname><given-names>R.</given-names></name><name><surname>Heegn</surname><given-names>H.</given-names></name><name><surname>Rutz</surname><given-names>M.</given-names></name></person-group>
+<article-title>Development of a recycling process for Li-ion batteries</article-title>
+<source>J. Power Sources</source>
+<year>2012</year>
+<volume>207</volume>
+<fpage>173</fpage>
+<lpage>182</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2012.01.152</pub-id>
+</element-citation></ref><ref id="B110-molecules-22-00403"><label>110.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Contestabile</surname><given-names>M.</given-names></name><name><surname>Panero</surname><given-names>S.</given-names></name><name><surname>Scrosati</surname><given-names>B.</given-names></name></person-group>
+<article-title>A laboratory-scale lithium-ion battery recycling process</article-title>
+<source>J. Power Sources</source>
+<year>2001</year>
+<volume>92</volume>
+<fpage>65</fpage>
+<lpage>69</lpage>
+<pub-id pub-id-type="doi">10.1016/S0378-7753(00)00523-1</pub-id>
+</element-citation></ref><ref id="B111-molecules-22-00403"><label>111.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Castillo</surname><given-names>S.</given-names></name><name><surname>Ansart</surname><given-names>F.</given-names></name><name><surname>Laberty-Robert</surname><given-names>C.</given-names></name><name><surname>Portal</surname><given-names>J.</given-names></name></person-group>
+<article-title>Advances in the recovering of spent lithium battery compounds</article-title>
+<source>J. Power Sources</source>
+<year>2002</year>
+<volume>112</volume>
+<fpage>247</fpage>
+<lpage>254</lpage>
+<pub-id pub-id-type="doi">10.1016/S0378-7753(02)00361-0</pub-id>
+</element-citation></ref><ref id="B112-molecules-22-00403"><label>112.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bernardes</surname><given-names>A.</given-names></name><name><surname>Espinosa</surname><given-names>D.C.R.</given-names></name><name><surname>Ten&#x000f3;rio</surname><given-names>J.S.</given-names></name></person-group>
+<article-title>Recycling of batteries: A review of current processes and technologies</article-title>
+<source>J. Power Sources</source>
+<year>2004</year>
+<volume>130</volume>
+<fpage>291</fpage>
+<lpage>298</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2003.12.026</pub-id>
+</element-citation></ref><ref id="B113-molecules-22-00403"><label>113.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Espinosa</surname><given-names>D.C.R.</given-names></name><name><surname>Bernardes</surname><given-names>A.M.</given-names></name><name><surname>Ten&#x000f3;rio</surname><given-names>J.A.S.</given-names></name></person-group>
+<article-title>An overview on the current processes for the recycling of batteries</article-title>
+<source>J. Power Sources</source>
+<year>2004</year>
+<volume>135</volume>
+<fpage>311</fpage>
+<lpage>319</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2004.03.083</pub-id>
+</element-citation></ref><ref id="B114-molecules-22-00403"><label>114.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>J.</given-names></name><name><surname>Thomas</surname><given-names>H.</given-names></name><name><surname>Francis</surname><given-names>R.W.</given-names></name><name><surname>Lum</surname><given-names>K.R.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Liang</surname><given-names>B.</given-names></name></person-group>
+<article-title>A review of processes and technologies for the recycling of lithium-ion secondary batteries</article-title>
+<source>J. Power Sources</source>
+<year>2008</year>
+<volume>177</volume>
+<fpage>512</fpage>
+<lpage>527</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2007.11.074</pub-id>
+</element-citation></ref><ref id="B115-molecules-22-00403"><label>115.</label><element-citation publication-type="patent">
+<person-group person-group-type="author"><name><surname>Sloop</surname><given-names>S.E.</given-names></name></person-group>
+<article-title>System and Method for Removing an Electrolyte from an Energy Storage and/or Conversion Device Using a Supercritical Fluid</article-title>
+<source>U.S. Patent</source>
+<patent>7198865 B2</patent>
+<day>3</day>
+<month>4</month>
+<year>2007</year>
+</element-citation></ref><ref id="B116-molecules-22-00403"><label>116.</label><element-citation publication-type="patent">
+<person-group person-group-type="author"><name><surname>Cheret</surname><given-names>D.</given-names></name><name><surname>Santen</surname><given-names>S.</given-names></name></person-group>
+<article-title>Battery Recycling</article-title>
+<source>U.S. Patent</source>
+<patent>20050235775 A1</patent>
+<day>27</day>
+<month>10</month>
+<year>2005</year>
+</element-citation></ref><ref id="B117-molecules-22-00403"><label>117.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Hanisch</surname><given-names>C.</given-names></name><name><surname>Haselrieder</surname><given-names>W.</given-names></name><name><surname>Kwade</surname><given-names>A.</given-names></name></person-group>
+<article-title>Recycling von Lithium-Ionen-Batterien&#x02014;Das Projekt LithoRec</article-title>
+<source>Recycling und Rohstoffe</source>
+<person-group person-group-type="editor"><name><surname>Thom&#x000e9;-Kozmiensky</surname><given-names>K.J.</given-names></name></person-group>
+<publisher-name>VIVIS</publisher-name>
+<publisher-loc>Neuruppin, Germany</publisher-loc>
+<year>2012</year>
+<volume>Volume 5</volume>
+<fpage>691</fpage>
+<lpage>698</lpage>
+</element-citation></ref><ref id="B118-molecules-22-00403"><label>118.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bahgat</surname><given-names>M.</given-names></name><name><surname>Farghaly</surname><given-names>F.</given-names></name><name><surname>Basir</surname><given-names>S.A.</given-names></name><name><surname>Fouad</surname><given-names>O.</given-names></name></person-group>
+<article-title>Synthesis, characterization and magnetic properties of microcrystalline lithium cobalt ferrite from spent lithium-ion batteries</article-title>
+<source>J. Mater. Process. Technol.</source>
+<year>2007</year>
+<volume>183</volume>
+<fpage>117</fpage>
+<lpage>121</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jmatprotec.2006.10.005</pub-id>
+</element-citation></ref><ref id="B119-molecules-22-00403"><label>119.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kathryn</surname><given-names>C.S.</given-names></name></person-group>
+<article-title>Solvent Extraction and Liquid Membranes</article-title>
+<source>Solvent Extraction and Liquid Membranes</source>
+<person-group person-group-type="editor"><name><surname>Aguilar</surname><given-names>M.</given-names></name><name><surname>Cortina</surname><given-names>J.L.</given-names></name></person-group>
+<publisher-name>CRC Press</publisher-name>
+<publisher-loc>Boca Raton, FL, USA</publisher-loc>
+<year>2008</year>
+<fpage>141</fpage>
+<lpage>200</lpage>
+</element-citation></ref><ref id="B120-molecules-22-00403"><label>120.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sun</surname><given-names>L.</given-names></name><name><surname>Qiu</surname><given-names>K.</given-names></name></person-group>
+<article-title>Organic oxalate as leachant and precipitant for the recovery of valuable metals from spent lithium-ion batteries</article-title>
+<source>Waste Manag.</source>
+<year>2012</year>
+<volume>32</volume>
+<fpage>1575</fpage>
+<lpage>1582</lpage>
+<pub-id pub-id-type="doi">10.1016/j.wasman.2012.03.027</pub-id>
+<?supplied-pmid 22534072?><pub-id pub-id-type="pmid">22534072</pub-id></element-citation></ref><ref id="B121-molecules-22-00403"><label>121.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>L.</given-names></name><name><surname>Lu</surname><given-names>J.</given-names></name><name><surname>Ren</surname><given-names>Y.</given-names></name><name><surname>Zhang</surname><given-names>X.X.</given-names></name><name><surname>Chen</surname><given-names>R.J.</given-names></name><name><surname>Wu</surname><given-names>F.</given-names></name><name><surname>Amine</surname><given-names>K.</given-names></name></person-group>
+<article-title>Ascorbic-acid-assisted recovery of cobalt and lithium from spent Li-ion batteries</article-title>
+<source>J. Power Sources</source>
+<year>2012</year>
+<volume>218</volume>
+<fpage>21</fpage>
+<lpage>27</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2012.06.068</pub-id>
+</element-citation></ref><ref id="B122-molecules-22-00403"><label>122.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>L.</given-names></name><name><surname>Ge</surname><given-names>J.</given-names></name><name><surname>Wu</surname><given-names>F.</given-names></name><name><surname>Chen</surname><given-names>R.</given-names></name><name><surname>Chen</surname><given-names>S.</given-names></name><name><surname>Wu</surname><given-names>B.</given-names></name></person-group>
+<article-title>Recovery of cobalt and lithium from spent lithium ion batteries using organic citric acid as leachant</article-title>
+<source>J. Hazard. Mater.</source>
+<year>2010</year>
+<volume>176</volume>
+<fpage>288</fpage>
+<lpage>293</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jhazmat.2009.11.026</pub-id>
+<?supplied-pmid 19954882?><pub-id pub-id-type="pmid">19954882</pub-id></element-citation></ref><ref id="B123-molecules-22-00403"><label>123.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shin</surname><given-names>S.M.</given-names></name><name><surname>Kim</surname><given-names>N.H.</given-names></name><name><surname>Sohn</surname><given-names>J.S.</given-names></name><name><surname>Yang</surname><given-names>D.H.</given-names></name><name><surname>Kim</surname><given-names>Y.H.</given-names></name></person-group>
+<article-title>Development of a metal recovery process from Li-ion battery wastes</article-title>
+<source>Hydrometallurgy</source>
+<year>2005</year>
+<volume>79</volume>
+<fpage>172</fpage>
+<lpage>181</lpage>
+<pub-id pub-id-type="doi">10.1016/j.hydromet.2005.06.004</pub-id>
+</element-citation></ref><ref id="B124-molecules-22-00403"><label>124.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ferreira</surname><given-names>D.A.</given-names></name><name><surname>Prados</surname><given-names>L.M.Z.</given-names></name><name><surname>Majuste</surname><given-names>D.</given-names></name><name><surname>Mansur</surname><given-names>M.B.</given-names></name></person-group>
+<article-title>Hydrometallurgical separation of aluminium, cobalt, copper and lithium from spent Li-ion batteries</article-title>
+<source>J. Power Sources</source>
+<year>2009</year>
+<volume>187</volume>
+<fpage>238</fpage>
+<lpage>246</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2008.10.077</pub-id>
+</element-citation></ref><ref id="B125-molecules-22-00403"><label>125.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dorella</surname><given-names>G.</given-names></name><name><surname>Mansur</surname><given-names>M.B.</given-names></name></person-group>
+<article-title>A study of the separation of cobalt from spent Li-ion battery residues</article-title>
+<source>J. Power Sources</source>
+<year>2007</year>
+<volume>170</volume>
+<fpage>210</fpage>
+<lpage>215</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2007.04.025</pub-id>
+</element-citation></ref><ref id="B126-molecules-22-00403"><label>126.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zeng</surname><given-names>G.</given-names></name><name><surname>Deng</surname><given-names>X.</given-names></name><name><surname>Luo</surname><given-names>S.</given-names></name><name><surname>Luo</surname><given-names>X.</given-names></name><name><surname>Zou</surname><given-names>J.</given-names></name></person-group>
+<article-title>A copper-catalyzed bioleaching process for enhancement of cobalt dissolution from spent lithium-ion batteries</article-title>
+<source>J. Hazard. Mater.</source>
+<year>2012</year>
+<volume>199</volume>
+<fpage>164</fpage>
+<lpage>169</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jhazmat.2011.10.063</pub-id>
+<?supplied-pmid 22100221?><pub-id pub-id-type="pmid">22100221</pub-id></element-citation></ref><ref id="B127-molecules-22-00403"><label>127.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rothermel</surname><given-names>S.</given-names></name><name><surname>Evertz</surname><given-names>M.</given-names></name><name><surname>Kasnatscheew</surname><given-names>J.</given-names></name><name><surname>Qi</surname><given-names>X.</given-names></name><name><surname>Gr&#x000fc;tzke</surname><given-names>M.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Graphite Recycling from Spent Lithium-Ion Batteries</article-title>
+<source>ChemSusChem</source>
+<year>2016</year>
+<volume>9</volume>
+<fpage>3473</fpage>
+<lpage>3484</lpage>
+<pub-id pub-id-type="doi">10.1002/cssc.201601062</pub-id>
+<?supplied-pmid 27860314?><pub-id pub-id-type="pmid">27860314</pub-id></element-citation></ref><ref id="B128-molecules-22-00403"><label>128.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kr&#x000fc;ger</surname><given-names>S.</given-names></name><name><surname>Hanisch</surname><given-names>C.</given-names></name><name><surname>Kwade</surname><given-names>A.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Effect of impurities caused by a recycling process on the electrochemical performance of Li[Ni<sub>0.33</sub>Co<sub>0.33</sub>Mn<sub>0.33</sub>]O<sub>2</sub></article-title>
+<source>J. Electroanal. Chem.</source>
+<year>2014</year>
+<volume>726</volume>
+<fpage>91</fpage>
+<lpage>96</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jelechem.2014.05.017</pub-id>
+</element-citation></ref><ref id="B129-molecules-22-00403"><label>129.</label><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Hansen</surname><given-names>J.</given-names></name><name><surname>Sato</surname><given-names>M.</given-names></name><name><surname>Kharecha</surname><given-names>P.</given-names></name><name><surname>Beerling</surname><given-names>D.</given-names></name><name><surname>Berner</surname><given-names>R.</given-names></name><name><surname>Masson-Delmotte</surname><given-names>V.</given-names></name><name><surname>Pagani</surname><given-names>M.</given-names></name><name><surname>Raymo</surname><given-names>M.</given-names></name><name><surname>Royer</surname><given-names>D.L.</given-names></name><name><surname>Zachos</surname><given-names>J.C.</given-names></name></person-group>
+<article-title>Target atmospheric CO<sub>2</sub>: Where should humanity aim?</article-title>
+<source>arXiv</source>
+<year>2008</year>
+<pub-id pub-id-type="other">arXiv:0804.1126</pub-id>
+</element-citation></ref><ref id="B130-molecules-22-00403"><label>130.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Don&#x000e1;zar</surname><given-names>J.A.</given-names></name><name><surname>Cort&#x000e9;s-Avizanda</surname><given-names>A.</given-names></name><name><surname>Fargallo</surname><given-names>J.A.</given-names></name><name><surname>Margalida</surname><given-names>A.</given-names></name><name><surname>Mole&#x000f3;n</surname><given-names>M.</given-names></name><name><surname>Morales-Reyes</surname><given-names>Z.</given-names></name><name><surname>Moreno-Opo</surname><given-names>R.</given-names></name><name><surname>P&#x000e9;rez-Garc&#x000ed;a</surname><given-names>J.M.</given-names></name><name><surname>S&#x000e1;nchez-Zapata</surname><given-names>J.A.</given-names></name><name><surname>Zuberogoitia</surname><given-names>I.</given-names></name></person-group>
+<article-title>Roles of raptors in a changing world: From flagships to providers of key ecosystem services</article-title>
+<source>Ardeola</source>
+<year>2016</year>
+<volume>63</volume>
+<fpage>181</fpage>
+<lpage>234</lpage>
+<pub-id pub-id-type="doi">10.13157/arla.63.1.2016.rp8</pub-id>
+</element-citation></ref><ref id="B131-molecules-22-00403"><label>131.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pan</surname><given-names>S.</given-names></name><name><surname>Tian</surname><given-names>H.</given-names></name><name><surname>Dangal</surname><given-names>S.R.</given-names></name><name><surname>Yang</surname><given-names>Q.</given-names></name><name><surname>Yang</surname><given-names>J.</given-names></name><name><surname>Lu</surname><given-names>C.</given-names></name><name><surname>Tao</surname><given-names>B.</given-names></name><name><surname>Ren</surname><given-names>W.</given-names></name><name><surname>Ouyang</surname><given-names>Z.</given-names></name></person-group>
+<article-title>Responses of global terrestrial evapotranspiration to climate change and increasing atmospheric CO<sub>2</sub> in the 21st century</article-title>
+<source>Earth&#x02019;s Future</source>
+<year>2015</year>
+<volume>3</volume>
+<fpage>15</fpage>
+<lpage>35</lpage>
+<pub-id pub-id-type="doi">10.1002/2014EF000263</pub-id>
+</element-citation></ref><ref id="B132-molecules-22-00403"><label>132.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rahman</surname><given-names>S.M.</given-names></name><name><surname>Kirkman</surname><given-names>G.A.</given-names></name></person-group>
+<article-title>Costs of certified emission reductions under the Clean Development Mechanism of the Kyoto Protocol</article-title>
+<source>Energy Econ.</source>
+<year>2015</year>
+<volume>47</volume>
+<fpage>129</fpage>
+<lpage>141</lpage>
+<pub-id pub-id-type="doi">10.1016/j.eneco.2014.10.020</pub-id>
+</element-citation></ref><ref id="B133-molecules-22-00403"><label>133.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xia</surname><given-names>W.</given-names></name><name><surname>Vagin</surname><given-names>S.I.</given-names></name><name><surname>Rieger</surname><given-names>B.</given-names></name></person-group>
+<article-title>Regarding initial ring opening of propylene oxide in its copolymerization with CO<sub>2</sub> catalyzed by a cobalt (III) porphyrin complex</article-title>
+<source>Chem. Eur. J.</source>
+<year>2014</year>
+<volume>20</volume>
+<fpage>15499</fpage>
+<lpage>15504</lpage>
+<pub-id pub-id-type="doi">10.1002/chem.201404147</pub-id>
+<?supplied-pmid 25283958?><pub-id pub-id-type="pmid">25283958</pub-id></element-citation></ref><ref id="B134-molecules-22-00403"><label>134.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Altenbuchner</surname><given-names>P.T.</given-names></name><name><surname>Kissling</surname><given-names>S.</given-names></name><name><surname>Rieger</surname><given-names>B.</given-names></name></person-group>
+<article-title>Carbon dioxide as C-1 block for the synthesis of polycarbonates</article-title>
+<source>Transformation and Utilization of Carbon Dioxide</source>
+<publisher-name>Springer</publisher-name>
+<publisher-loc>Berlin, Germany</publisher-loc>
+<year>2014</year>
+<fpage>163</fpage>
+<lpage>200</lpage>
+</element-citation></ref><ref id="B135-molecules-22-00403"><label>135.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>Q.</given-names></name><name><surname>Wu</surname><given-names>L.</given-names></name><name><surname>Jackstell</surname><given-names>R.</given-names></name><name><surname>Beller</surname><given-names>M.</given-names></name></person-group>
+<article-title>Using carbon dioxide as a building block in organic synthesis</article-title>
+<source>Nat. Commun.</source>
+<year>2015</year>
+<volume>6</volume>
+<fpage>5933</fpage>
+<pub-id pub-id-type="doi">10.1038/ncomms6933</pub-id>
+<?supplied-pmid 25600683?><pub-id pub-id-type="pmid">25600683</pub-id></element-citation></ref><ref id="B136-molecules-22-00403"><label>136.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fang</surname><given-names>S.</given-names></name><name><surname>Fujimoto</surname><given-names>K.</given-names></name></person-group>
+<article-title>Direct synthesis of dimethyl carbonate from carbon dioxide and methanol catalyzed by base</article-title>
+<source>Appl. Catal. A</source>
+<year>1996</year>
+<volume>142</volume>
+<fpage>L1</fpage>
+<lpage>L3</lpage>
+<pub-id pub-id-type="doi">10.1016/0926-860X(96)00081-6</pub-id>
+</element-citation></ref><ref id="B137-molecules-22-00403"><label>137.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Isaacs</surname><given-names>N.S.</given-names></name><name><surname>O'Sullivan</surname><given-names>B.</given-names></name><name><surname>Verhaelen</surname><given-names>C.</given-names></name></person-group>
+<article-title>High pressure routes to dimethyl carbonate from supercritical carbon dioxide</article-title>
+<source>Tetrahedron</source>
+<year>1999</year>
+<volume>55</volume>
+<fpage>11949</fpage>
+<lpage>11956</lpage>
+<pub-id pub-id-type="doi">10.1016/S0040-4020(99)00693-6</pub-id>
+</element-citation></ref><ref id="B138-molecules-22-00403"><label>138.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sakakura</surname><given-names>T.</given-names></name><name><surname>Choi</surname><given-names>J.-C.</given-names></name><name><surname>Saito</surname><given-names>Y.</given-names></name><name><surname>Sako</surname><given-names>T.</given-names></name></person-group>
+<article-title>Synthesis of dimethyl carbonate from carbon dioxide: Catalysis and mechanism</article-title>
+<source>Polyhedron</source>
+<year>2000</year>
+<volume>19</volume>
+<fpage>573</fpage>
+<lpage>576</lpage>
+<pub-id pub-id-type="doi">10.1016/S0277-5387(99)00411-8</pub-id>
+</element-citation></ref><ref id="B139-molecules-22-00403"><label>139.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Camy</surname><given-names>S.</given-names></name><name><surname>Pic</surname><given-names>J.-S.</given-names></name><name><surname>Badens</surname><given-names>E.</given-names></name><name><surname>Condoret</surname><given-names>J.-S.</given-names></name></person-group>
+<article-title>Fluid phase equilibria of the reacting mixture in the dimethyl carbonate synthesis from supercritical CO<sub>2</sub></article-title>
+<source>J. Supercrit. Fluids</source>
+<year>2003</year>
+<volume>25</volume>
+<fpage>19</fpage>
+<lpage>32</lpage>
+<pub-id pub-id-type="doi">10.1016/S0896-8446(02)00087-6</pub-id>
+</element-citation></ref><ref id="B140-molecules-22-00403"><label>140.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Besenhard</surname><given-names>J.</given-names></name><name><surname>Wagner</surname><given-names>M.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Jannakoudakis</surname><given-names>A.</given-names></name><name><surname>Jannakoudakis</surname><given-names>P.</given-names></name><name><surname>Theodoridou</surname><given-names>E.</given-names></name></person-group>
+<article-title>Inorganic film-forming electrolyte additives improving the cycling behaviour of metallic lithium electrodes and the self-discharge of carbon&#x02014;Lithium electrodes</article-title>
+<source>J. Power Sources</source>
+<year>1993</year>
+<volume>44</volume>
+<fpage>413</fpage>
+<lpage>420</lpage>
+<pub-id pub-id-type="doi">10.1016/0378-7753(93)80183-P</pub-id>
+</element-citation></ref><ref id="B141-molecules-22-00403"><label>141.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Buqa</surname><given-names>H.</given-names></name><name><surname>Blyth</surname><given-names>R.</given-names></name><name><surname>Golob</surname><given-names>P.</given-names></name><name><surname>Evers</surname><given-names>B.</given-names></name><name><surname>Schneider</surname><given-names>I.</given-names></name><name><surname>Alvarez</surname><given-names>M.S.</given-names></name><name><surname>Hofer</surname><given-names>F.</given-names></name><name><surname>Netzer</surname><given-names>F.</given-names></name><name><surname>Ramsey</surname><given-names>M.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name></person-group>
+<article-title>Negative electrodes in rechargeable lithium ion batteries&#x02014;Influence of graphite surface modification on the formation of the solid electrolyte interphase</article-title>
+<source>Ionics</source>
+<year>2000</year>
+<volume>6</volume>
+<fpage>172</fpage>
+<lpage>179</lpage>
+<pub-id pub-id-type="doi">10.1007/BF02374063</pub-id>
+</element-citation></ref><ref id="B142-molecules-22-00403"><label>142.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Buqa</surname><given-names>H.</given-names></name><name><surname>Golob</surname><given-names>P.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Besenhard</surname><given-names>J.</given-names></name></person-group>
+<article-title>Modified carbons for improved anodes in lithium ion cells</article-title>
+<source>J. Power Sources</source>
+<year>2001</year>
+<volume>97</volume>
+<fpage>122</fpage>
+<lpage>125</lpage>
+<pub-id pub-id-type="doi">10.1016/S0378-7753(01)00523-7</pub-id>
+</element-citation></ref><ref id="B143-molecules-22-00403"><label>143.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Imhof</surname><given-names>R.</given-names></name><name><surname>Joho</surname><given-names>F.</given-names></name><name><surname>Novak</surname><given-names>P.</given-names></name></person-group>
+<article-title>FTIR and DEMS investigations on the electroreduction of chloroethylene carbonate-based electrolyte solutions for lithium-ion cells</article-title>
+<source>J. Power Sources</source>
+<year>1999</year>
+<volume>81</volume>
+<fpage>818</fpage>
+<lpage>823</lpage>
+<pub-id pub-id-type="doi">10.1016/S0378-7753(99)00116-0</pub-id>
+</element-citation></ref><ref id="B144-molecules-22-00403"><label>144.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nov&#x000e1;k</surname><given-names>P.</given-names></name></person-group>
+<article-title>Chloroethylene Carbonate, a Solvent for Lithium-Ion Cells, Evolving CO<sub>2</sub> during Reduction</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>1998</year>
+<volume>145</volume>
+<fpage>L27</fpage>
+<lpage>L30</lpage>
+<pub-id pub-id-type="doi">10.1149/1.1838270</pub-id>
+</element-citation></ref><ref id="B145-molecules-22-00403"><label>145.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Lide</surname><given-names>D.</given-names></name><name><surname>Haynes</surname><given-names>W.</given-names></name></person-group>
+<source>CRC Handbook of Chemistry and Physics: A Ready-Reference Book of Chemical and Physical Data/editor-in-chief, David R. Lide; associate editor, WM" Mickey" Haunes</source>
+<edition>90th ed.</edition>
+<publisher-name>CRC</publisher-name>
+<publisher-loc>Boca Raton, FL, USA</publisher-loc>
+<year>2009</year>
+</element-citation></ref><ref id="B146-molecules-22-00403"><label>146.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Atkins</surname><given-names>P.W.</given-names></name><name><surname>De Paula</surname><given-names>J.</given-names></name><name><surname>Ralf</surname><given-names>L.</given-names></name><name><surname>Appelhagen</surname><given-names>A.</given-names></name></person-group>
+<source>Kurzlehrbuch Physikalische Chemie</source>
+<publisher-name>Wiley-VCH</publisher-name>
+<publisher-loc>Weinheim, Germany</publisher-loc>
+<year>2008</year>
+<volume>Volume 3</volume>
+</element-citation></ref><ref id="B147-molecules-22-00403"><label>147.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Henry</surname><given-names>M.C.</given-names></name><name><surname>Yonker</surname><given-names>C.R.</given-names></name></person-group>
+<article-title>Supercritical fluid chromatography, pressurized liquid extraction, and supercritical fluid extraction</article-title>
+<source>Anal. Chem.</source>
+<year>2006</year>
+<volume>78</volume>
+<fpage>3909</fpage>
+<lpage>3916</lpage>
+<pub-id pub-id-type="doi">10.1021/ac0605703</pub-id>
+<?supplied-pmid 16771531?><pub-id pub-id-type="pmid">16771531</pub-id></element-citation></ref><ref id="B148-molecules-22-00403"><label>148.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Lack</surname><given-names>E.</given-names></name><name><surname>Seidlitz</surname><given-names>H.</given-names></name></person-group>
+<article-title>Commercial scale decaffeination of coffee and tea using supercritical CO<sub>2</sub></article-title>
+<source>Extraction of Natural Products Using Near-Critical Solvents</source>
+<publisher-name>Springer</publisher-name>
+<publisher-loc>Berlin, Germany</publisher-loc>
+<year>1993</year>
+<fpage>101</fpage>
+<lpage>139</lpage>
+</element-citation></ref><ref id="B149-molecules-22-00403"><label>149.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Beckman</surname><given-names>E.J.</given-names></name></person-group>
+<source>Peer Reviewed: Using CO<sub>2</sub> to Produce Chemical Producs Sustainably</source>
+<publisher-name>ACS Publications</publisher-name>
+<publisher-loc>Washington, DC, USA</publisher-loc>
+<year>2002</year>
+</element-citation></ref><ref id="B150-molecules-22-00403"><label>150.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sinha</surname><given-names>N.K.</given-names></name><name><surname>Guyer</surname><given-names>D.E.</given-names></name><name><surname>Gage</surname><given-names>D.A.</given-names></name><name><surname>Lira</surname><given-names>C.T.</given-names></name></person-group>
+<article-title>Supercritical carbon dioxide extraction of onion flavors and their analysis by gas chromatography-mass spectrometry</article-title>
+<source>J. Agric. Food Chem.</source>
+<year>1992</year>
+<volume>40</volume>
+<fpage>842</fpage>
+<lpage>845</lpage>
+<pub-id pub-id-type="doi">10.1021/jf00017a027</pub-id>
+</element-citation></ref><ref id="B151-molecules-22-00403"><label>151.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Friedrich</surname><given-names>J.</given-names></name><name><surname>List</surname><given-names>G.</given-names></name><name><surname>Heakin</surname><given-names>A.</given-names></name></person-group>
+<article-title>Petroleum-free extraction of oil from soybeans with supercritical CO<sub>2</sub></article-title>
+<source>J. Am. Oil Chem. Soc.</source>
+<year>1982</year>
+<volume>59</volume>
+<fpage>288</fpage>
+<lpage>292</lpage>
+<pub-id pub-id-type="doi">10.1007/BF02662228</pub-id>
+</element-citation></ref><ref id="B152-molecules-22-00403"><label>152.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reverchon</surname><given-names>E.</given-names></name><name><surname>Senatore</surname><given-names>F.</given-names></name></person-group>
+<article-title>Supercritical carbon dioxide extraction of chamomile essential oil and its analysis by gas chromatography-mass spectrometry</article-title>
+<source>J. Agric. Food Chem.</source>
+<year>1994</year>
+<volume>42</volume>
+<fpage>154</fpage>
+<lpage>158</lpage>
+<pub-id pub-id-type="doi">10.1021/jf00037a027</pub-id>
+</element-citation></ref><ref id="B153-molecules-22-00403"><label>153.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moisan</surname><given-names>S.</given-names></name><name><surname>Martinez</surname><given-names>V.</given-names></name><name><surname>Weisbecker</surname><given-names>P.</given-names></name><name><surname>Cansell</surname><given-names>F.</given-names></name><name><surname>Mecking</surname><given-names>S.</given-names></name><name><surname>Aymonier</surname><given-names>C.</given-names></name></person-group>
+<article-title>General Approach for the Synthesis of Organic&#x02014;Inorganic Hybrid Nanoparticles Mediated by Supercritical CO<sub>2</sub></article-title>
+<source>J. Am. Chem. Soc.</source>
+<year>2007</year>
+<volume>129</volume>
+<fpage>10602</fpage>
+<lpage>10606</lpage>
+<pub-id pub-id-type="doi">10.1021/ja074069j</pub-id>
+<?supplied-pmid 17685528?><pub-id pub-id-type="pmid">17685528</pub-id></element-citation></ref><ref id="B154-molecules-22-00403"><label>154.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guironnet</surname><given-names>D.</given-names></name><name><surname>Gottker-Schnetmann</surname><given-names>I.</given-names></name><name><surname>Mecking</surname><given-names>S.</given-names></name></person-group>
+<article-title>Catalytic polymerization in dense CO<sub>2</sub> to controlled microstructure polyethylenes</article-title>
+<source>Macromolecules</source>
+<year>2009</year>
+<volume>42</volume>
+<fpage>8157</fpage>
+<lpage>8164</lpage>
+<pub-id pub-id-type="doi">10.1021/ma901397q</pub-id>
+</element-citation></ref><ref id="B155-molecules-22-00403"><label>155.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Le</surname><given-names>D.</given-names></name><name><surname>Passerini</surname><given-names>S.</given-names></name><name><surname>Guo</surname><given-names>J.</given-names></name><name><surname>Ressler</surname><given-names>J.</given-names></name><name><surname>Owens</surname><given-names>B.</given-names></name><name><surname>Smyrl</surname><given-names>W.</given-names></name></person-group>
+<article-title>High surface area V<sub>2</sub>O<sub>5</sub> aerogel intercalation electrodes</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>1996</year>
+<volume>143</volume>
+<fpage>2099</fpage>
+<lpage>2104</lpage>
+<pub-id pub-id-type="doi">10.1149/1.1836965</pub-id>
+</element-citation></ref><ref id="B156-molecules-22-00403"><label>156.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Bommel</surname><given-names>M.</given-names></name><name><surname>De Haan</surname><given-names>A.</given-names></name></person-group>
+<article-title>Drying of silica aerogel with supercritical carbon dioxide</article-title>
+<source>J. Non-Cryst. Solids</source>
+<year>1995</year>
+<volume>186</volume>
+<fpage>78</fpage>
+<lpage>82</lpage>
+<pub-id pub-id-type="doi">10.1016/0022-3093(95)00072-0</pub-id>
+</element-citation></ref><ref id="B157-molecules-22-00403"><label>157.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pierre</surname><given-names>A.C.</given-names></name><name><surname>Pajonk</surname><given-names>G.M.</given-names></name></person-group>
+<article-title>Chemistry of aerogels and their applications</article-title>
+<source>Chem. Rev.</source>
+<year>2002</year>
+<volume>102</volume>
+<fpage>4243</fpage>
+<lpage>4266</lpage>
+<pub-id pub-id-type="doi">10.1021/cr0101306</pub-id>
+<?supplied-pmid 12428989?><pub-id pub-id-type="pmid">12428989</pub-id></element-citation></ref><ref id="B158-molecules-22-00403"><label>158.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Marini</surname><given-names>L.</given-names></name></person-group>
+<source>Geological Sequestration of Carbon Dioxide: Thermodynamics, Kinetics, and Reaction Path Modeling</source>
+<publisher-name>Elsevier</publisher-name>
+<publisher-loc>Amsterdam, The Netherlands</publisher-loc>
+<year>2006</year>
+<volume>Volume 11</volume>
+</element-citation></ref><ref id="B159-molecules-22-00403"><label>159.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Span</surname><given-names>R.</given-names></name><name><surname>Wagner</surname><given-names>W.</given-names></name></person-group>
+<article-title>A new equation of state for carbon dioxide covering the fluid region from the triple-point temperature to 1100 K at pressures up to 800 MPa</article-title>
+<source>J. Phys. Chem. Ref. Data</source>
+<year>1996</year>
+<volume>25</volume>
+<fpage>1509</fpage>
+<lpage>1596</lpage>
+<pub-id pub-id-type="doi">10.1063/1.555991</pub-id>
+</element-citation></ref><ref id="B160-molecules-22-00403"><label>160.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roth</surname><given-names>M.</given-names></name></person-group>
+<article-title>Helium head pressure carbon dioxide in supercritical fluid extraction and chromatography: Thermodynamic analysis of the effects of helium</article-title>
+<source>Anal. Chem.</source>
+<year>1998</year>
+<volume>70</volume>
+<fpage>2104</fpage>
+<lpage>2109</lpage>
+<pub-id pub-id-type="doi">10.1021/ac971168e</pub-id>
+</element-citation></ref><ref id="B161-molecules-22-00403"><label>161.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chiu</surname><given-names>K.-H.</given-names></name><name><surname>Yak</surname><given-names>H.-K.</given-names></name><name><surname>Wai</surname><given-names>C.M.</given-names></name><name><surname>Lang</surname><given-names>Q.</given-names></name></person-group>
+<article-title>Dry ice-originated supercritical and liquid carbon dioxide extraction of organic pollutants from environmental samples</article-title>
+<source>Talanta</source>
+<year>2005</year>
+<volume>65</volume>
+<fpage>149</fpage>
+<lpage>154</lpage>
+<pub-id pub-id-type="doi">10.1016/j.talanta.2004.05.049</pub-id>
+<?supplied-pmid 18969777?><pub-id pub-id-type="pmid">18969777</pub-id></element-citation></ref><ref id="B162-molecules-22-00403"><label>162.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Mu</surname><given-names>D.</given-names></name><name><surname>Zheng</surname><given-names>R.</given-names></name><name><surname>Dai</surname><given-names>C.</given-names></name></person-group>
+<article-title>Supercritical CO<sub>2</sub> extraction of organic carbonate-based electrolytes of lithium-ion batteries</article-title>
+<source>RSC Adv.</source>
+<year>2014</year>
+<volume>4</volume>
+<fpage>54525</fpage>
+<lpage>54531</lpage>
+<pub-id pub-id-type="doi">10.1039/C4RA10530C</pub-id>
+</element-citation></ref><ref id="B163-molecules-22-00403"><label>163.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gr&#x000fc;tzke</surname><given-names>M.</given-names></name><name><surname>M&#x000f6;nnighoff</surname><given-names>X.</given-names></name><name><surname>Horsthemke</surname><given-names>F.</given-names></name><name><surname>Kraft</surname><given-names>V.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Nowak</surname><given-names>S.</given-names></name></person-group>
+<article-title>Extraction of lithium-ion battery electrolytes with liquid and supercritical carbon dioxide and additional solvents</article-title>
+<source>RSC Adv.</source>
+<year>2015</year>
+<volume>5</volume>
+<fpage>43209</fpage>
+<lpage>43217</lpage>
+<pub-id pub-id-type="doi">10.1039/C5RA04451K</pub-id>
+</element-citation></ref><ref id="B164-molecules-22-00403"><label>164.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Mu</surname><given-names>D.</given-names></name><name><surname>Dai</surname><given-names>Y.</given-names></name><name><surname>Ma</surname><given-names>Q.</given-names></name><name><surname>Zheng</surname><given-names>R.</given-names></name><name><surname>Dai</surname><given-names>C.</given-names></name></person-group>
+<article-title>Analysis on Extraction Behaviour of Lithium-ion Battery Electrolyte Solvents in Supercritical CO<sub>2</sub> by Gas Chromatography</article-title>
+<source>Int. J. Electrochem. Sci.</source>
+<year>2016</year>
+<volume>11</volume>
+<fpage>7594</fpage>
+<lpage>7604</lpage>
+<pub-id pub-id-type="doi">10.20964/2016.09.03</pub-id>
+</element-citation></ref><ref id="B165-molecules-22-00403"><label>165.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Friesen</surname><given-names>A.</given-names></name><name><surname>M&#x000f6;nnighoff</surname><given-names>X.</given-names></name><name><surname>B&#x000f6;rner</surname><given-names>M.</given-names></name><name><surname>Haetge</surname><given-names>J.</given-names></name><name><surname>Schappacher</surname><given-names>F.M.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name></person-group>
+<article-title>Influence of temperature on the aging behavior of 18650-type lithium ion cells: A comprehensive approach combining electrochemical characterization and post-mortem analysis</article-title>
+<source>J. Power Sources</source>
+<year>2017</year>
+<volume>342</volume>
+<fpage>88</fpage>
+<lpage>97</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpowsour.2016.12.040</pub-id>
+</element-citation></ref><ref id="B166-molecules-22-00403"><label>166.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kasnatscheew</surname><given-names>J.</given-names></name><name><surname>Schmitz</surname><given-names>R.W.</given-names></name><name><surname>Wagner</surname><given-names>R.</given-names></name><name><surname>Winter</surname><given-names>M.</given-names></name><name><surname>Schmitz</surname><given-names>R.</given-names></name></person-group>
+<article-title>Fluoroethylene carbonate as an additive for &#x003b3;-butyrolactone based electrolytes</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>2013</year>
+<volume>160</volume>
+<fpage>A1369</fpage>
+<lpage>A1374</lpage>
+<pub-id pub-id-type="doi">10.1149/2.009309jes</pub-id>
+</element-citation></ref><ref id="B167-molecules-22-00403"><label>167.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>G.-Y.</given-names></name><name><surname>Petibon</surname><given-names>R.</given-names></name><name><surname>Dahn</surname><given-names>J.</given-names></name></person-group>
+<article-title>Effects of succinonitrile (SN) as an electrolyte additive on the impedance of LiCoO<sub>2</sub>/graphite pouch cells during cycling</article-title>
+<source>J. Electrochem. Soc.</source>
+<year>2014</year>
+<volume>161</volume>
+<fpage>A506</fpage>
+<lpage>A512</lpage>
+<pub-id pub-id-type="doi">10.1149/2.014404jes</pub-id>
+</element-citation></ref><ref id="B168-molecules-22-00403"><label>168.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leggesse</surname><given-names>E.G.</given-names></name><name><surname>Jiang</surname><given-names>J.-C.</given-names></name></person-group>
+<article-title>Theoretical study of the reductive decomposition of 1,3-propane sultone: SEI forming additive in lithium-ion batteries</article-title>
+<source>RSC Adv.</source>
+<year>2012</year>
+<volume>2</volume>
+<fpage>5439</fpage>
+<lpage>5446</lpage>
+<pub-id pub-id-type="doi">10.1039/c2ra20200j</pub-id>
+</element-citation></ref></ref-list></back><floats-group><fig id="molecules-22-00403-f001" position="float"><label>Figure 1</label><caption><p>Structures of six of the most important linear and cyclic organic carbonates and the conducting salt lithium hexafluorophosphate for the electrolyte system in lithium ion batteries [<xref rid="B60-molecules-22-00403" ref-type="bibr">60</xref>,<xref rid="B61-molecules-22-00403" ref-type="bibr">61</xref>].</p></caption><graphic xlink:href="molecules-22-00403-g001"/></fig><fig id="molecules-22-00403-f002" position="float"><label>Figure 2</label><caption><p>General decomposition pathways for the formation of: transesterifications products (<bold>a</bold>); oligocarbonate-based products (<bold>b</bold>); organophosphate-based products (<bold>c</bold>); organic fluorophosphate-based products; and hydrolysis products (<bold>d</bold>) [<xref rid="B43-molecules-22-00403" ref-type="bibr">43</xref>,<xref rid="B84-molecules-22-00403" ref-type="bibr">84</xref>,<xref rid="B85-molecules-22-00403" ref-type="bibr">85</xref>,<xref rid="B86-molecules-22-00403" ref-type="bibr">86</xref>,<xref rid="B87-molecules-22-00403" ref-type="bibr">87</xref>,<xref rid="B88-molecules-22-00403" ref-type="bibr">88</xref>,<xref rid="B89-molecules-22-00403" ref-type="bibr">89</xref>,<xref rid="B90-molecules-22-00403" ref-type="bibr">90</xref>,<xref rid="B91-molecules-22-00403" ref-type="bibr">91</xref>].</p></caption><graphic xlink:href="molecules-22-00403-g002"/></fig><fig id="molecules-22-00403-f003" position="float"><label>Figure 3</label><caption><p>Schematic sketch of an aged lithium ion battery (LIB) and strategies for electrolyte recovery. CEI: cathode electrolyte interphase; SEI: solid electrolyte interphase.</p></caption><graphic xlink:href="molecules-22-00403-g003"/></fig><fig id="molecules-22-00403-f004" position="float"><label>Figure 4</label><caption><p>The mechanical-hydrometallurigcal &#x0201c;LithoRec II&#x0201d; recycling process. It was reproduced from reference [<xref rid="B127-molecules-22-00403" ref-type="bibr">127</xref>], with permission from John Wiley &#x00026; Sons 2016. scCO<sub>2</sub>: supercritical carbon dioxide.</p></caption><graphic xlink:href="molecules-22-00403-g004"/></fig><fig id="molecules-22-00403-f005" position="float"><label>Figure 5</label><caption><p>Pressure and temperature phase diagram of CO<sub>2</sub> [<xref rid="B158-molecules-22-00403" ref-type="bibr">158</xref>,<xref rid="B159-molecules-22-00403" ref-type="bibr">159</xref>]. K: Kelvin, p: pressure, T: temperature, sc: supercritical, l: liquid, g: gaseous, s: solid.</p></caption><graphic xlink:href="molecules-22-00403-g005"/></fig><fig id="molecules-22-00403-f006" position="float"><label>Figure 6</label><caption><p>Schematic setup of the applied extraction procedure by Gr&#x000fc;tzke et al. It was reproduced from reference [<xref rid="B19-molecules-22-00403" ref-type="bibr">19</xref>] with permission from Elsevier, 2014.</p></caption><graphic xlink:href="molecules-22-00403-g006"/></fig><fig id="molecules-22-00403-f007" position="float"><label>Figure 7</label><caption><p>Schematic setup of the applied extraction procedure by Dai et al. with (1) CO<sub>2</sub> cylinder; (2) cooling bath; (3) air driven fluid pump (gas booster pump); (4) air compressor; (5) air regulator; (6) CO<sub>2</sub> pressure; (7) inlet valve; (8) extraction vessel; (9) heating jacket; (10) vessel heat; (11) vent valve; (12) outlet valve; (13) flow valve; (14) valve heat; (15) heating jacket; (16) collecting vial; (17) alumina filter; and (18) gas flow meter. It was reproduced from reference [<xref rid="B162-molecules-22-00403" ref-type="bibr">162</xref>] with permission from the Royal Society of Chemistry, 2014.</p></caption><graphic xlink:href="molecules-22-00403-g007"/></fig><fig id="molecules-22-00403-f008" position="float"><label>Figure 8</label><caption><p>Response surfaces and contour plots for: (<bold>a</bold>) extraction time vs. pressure; and (<bold>b</bold>) extraction time vs. temperature. It was reproduced from reference [<xref rid="B162-molecules-22-00403" ref-type="bibr">162</xref>] with permission from the Royal Society of Chemistry, 2014.</p></caption><graphic xlink:href="molecules-22-00403-g008"/></fig><fig id="molecules-22-00403-f009" position="float"><label>Figure 9</label><caption><p>(<bold>Left</bold>) Time dependency of the amount of recovered electrolyte from commercial 18,650 cells after formation extracted with supercritical (300 bar, 40 &#x000b0;C; red stars) and liquid (60 bar, 25 &#x000b0;C; black squares) CO<sub>2</sub>; and (<bold>Right</bold>) time dependency of the amount of recovered electrolyte from commercial 18,650 cells after formation extracted with liquid CO<sub>2</sub> and 0.5 mL/min additional solvents (black stars: acetonitrile (can); magenta triangles: ACN/propylene carbonate (PC) (3:1); red circles: diethyl carbonate (DEC)). It was reproduced from reference [<xref rid="B163-molecules-22-00403" ref-type="bibr">163</xref>] with permission from the Royal Society of Chemistry, 2015.</p></caption><graphic xlink:href="molecules-22-00403-g009"/></fig><fig id="molecules-22-00403-f010" position="float"><label>Figure 10</label><caption><p>Compositions and amounts (determined with gas chromatography&#x02014;mass spectrometry (GC-MS) and ion chromatography (IC)) of the recovered electrolytes from commercial 18,650 cells after formation extracted with liquid CO<sub>2</sub> and additional solvents for 30 min, with subsequent 20 min without additional solvent. Red, top: LiPF<sub>6</sub>; blue, below: ethylene carbonate (EC); yellow, middle: ethyl methyl carbonate (EMC); magenta, bottom: dimethyl carbonate (DMC). It was reproduced from reference [<xref rid="B163-molecules-22-00403" ref-type="bibr">163</xref>] with permission from the Royal Society of Chemistry, 2015.</p></caption><graphic xlink:href="molecules-22-00403-g010"/></fig><fig id="molecules-22-00403-f011" position="float"><label>Figure 11</label><caption><p>Compositions of the extracts corresponding to values obtained by gas chromatography&#x02014;flame ionization detector (GC-FID) measurements. Green, top: EC; crimson, middle: EMC; blue, bottom: DMC [<xref rid="B164-molecules-22-00403" ref-type="bibr">164</xref>].</p></caption><graphic xlink:href="molecules-22-00403-g011"/></fig><fig id="molecules-22-00403-f012" position="float"><label>Figure 12</label><caption><p>Compositions of the extracts corresponding to GC-FID measurements. Green, top: EC; crimson, middle: EMC; blue, bottom: DMC [<xref rid="B164-molecules-22-00403" ref-type="bibr">164</xref>].</p></caption><graphic xlink:href="molecules-22-00403-g012"/></fig><fig id="molecules-22-00403-f013" position="float"><label>Figure 13</label><caption><p>GC-MS investigations on the electrolyte of a fresh cell extracted with supercritical CO<sub>2</sub> (<bold>a</bold>); and comparisons of fresh and aged electrolytes at significant retention times (<bold>b</bold>,<bold>c</bold>). It was reproduced from reference [<xref rid="B165-molecules-22-00403" ref-type="bibr">165</xref>] with permission from Elsevier, 2017.</p></caption><graphic xlink:href="molecules-22-00403-g013"/></fig><table-wrap id="molecules-22-00403-t001" position="float"><object-id pub-id-type="pii">molecules-22-00403-t001_Table 1</object-id><label>Table 1</label><caption><p>Toxicity data for dimethyl fluorophosphate (DMFP) and diethyl fluorophosphate (DEFP) compared to the nerve agent sarin (mus = mouse; ivn = intravenous, skn = skin; ihl = inhalation; n/a = not available).</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Compound</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">ivn-mus (LD<sub>50</sub>)</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">skn-mus (LD<sub>50</sub>)</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">ihl-mus (LC<sub>50</sub>)</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">Sarin</td><td align="center" valign="middle" rowspan="1" colspan="1">0.109 mg/kg</td><td align="center" valign="middle" rowspan="1" colspan="1">1.08 mg/kg</td><td align="center" valign="middle" rowspan="1" colspan="1">5 mg/m<sup>3</sup>/30 min</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">DMFP</td><td align="center" valign="middle" rowspan="1" colspan="1">0.45 mg/kg</td><td align="center" valign="middle" rowspan="1" colspan="1">36 mg/kg</td><td align="center" valign="middle" rowspan="1" colspan="1">290 mg/m<sup>3</sup>/10 min</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DEFP</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">n/a</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">35 mg/kg</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100 mg/m<sup>3</sup>/10 min</td></tr></tbody></table></table-wrap><table-wrap id="molecules-22-00403-t002" position="float"><object-id pub-id-type="pii">molecules-22-00403-t002_Table 2</object-id><label>Table 2</label><caption><p>Overview of the discharge capacities and associated Coulombic efficiencies obtained from electrochemical charge/discharge cycling experiments. SubCO<sub>2</sub>: subcritical carbon dioxide. It was reprinted with permission from reference [<xref rid="B127-molecules-22-00403" ref-type="bibr">127</xref>], Copyright John Wiley &#x00026; Sons, 2016.</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Sample (State of Health (SOH)</th><th colspan="4" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Coulombic Efficiency/%</th><th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Discharge Capacity 50th Cycle/mAh&#x000b7;g<sup>&#x02212;1</sup></th></tr><tr><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1st Cycle</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2nd Cycle</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3rd Cycle</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">50th Cycle</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">thermal (100%)</td><td align="center" valign="middle" rowspan="1" colspan="1">56.1 &#x000b1; 1.8</td><td align="center" valign="middle" rowspan="1" colspan="1">91.8 &#x000b1; 0.4</td><td align="center" valign="middle" rowspan="1" colspan="1">94.7 &#x000b1; 0.3</td><td align="center" valign="middle" rowspan="1" colspan="1">99.8 &#x000b1; 0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">332.7 &#x000b1; 0.3</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">thermal (70%)</td><td align="center" valign="middle" rowspan="1" colspan="1">85.4 &#x000b1; 0.5</td><td align="center" valign="middle" rowspan="1" colspan="1">97.8 &#x000b1; 0.3</td><td align="center" valign="middle" rowspan="1" colspan="1">98.5 &#x000b1; 0.3</td><td align="center" valign="middle" rowspan="1" colspan="1">99.9 &#x000b1; 0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">346.8 &#x000b1; 7.8</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">subCO<sub>2</sub> (100%)</td><td align="center" valign="middle" rowspan="1" colspan="1">81.6 &#x000b1; 3.1</td><td align="center" valign="middle" rowspan="1" colspan="1">96.3 &#x000b1; 1.2</td><td align="center" valign="middle" rowspan="1" colspan="1">97.6 &#x000b1; 0.8</td><td align="center" valign="middle" rowspan="1" colspan="1">99.9 &#x000b1; 0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">372.7 &#x000b1; 2.5</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">subCO<sub>2</sub> (70%)</td><td align="center" valign="middle" rowspan="1" colspan="1">82.9 &#x000b1; 0.9</td><td align="center" valign="middle" rowspan="1" colspan="1">97.6 &#x000b1; 0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">98.5 &#x000b1; 0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">99.9 &#x000b1; 0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">379.9 &#x000b1; 4.4</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">scCO<sub>2</sub> (100%)</td><td align="center" valign="middle" rowspan="1" colspan="1">78.7 &#x000b1; 1.2</td><td align="center" valign="middle" rowspan="1" colspan="1">96.2 &#x000b1; 0.4</td><td align="center" valign="middle" rowspan="1" colspan="1">97.4 &#x000b1; 0.4</td><td align="center" valign="middle" rowspan="1" colspan="1">99.9 &#x000b1; 0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">348.8 &#x000b1; 1.9</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">scCO<sub>2</sub> (70%)</td><td align="center" valign="middle" rowspan="1" colspan="1">82.0 &#x000b1; 1.4</td><td align="center" valign="middle" rowspan="1" colspan="1">97.2 &#x000b1; 0.3</td><td align="center" valign="middle" rowspan="1" colspan="1">98.2 &#x000b1; 0.2</td><td align="center" valign="middle" rowspan="1" colspan="1">99.9 &#x000b1; 0.1</td><td align="center" valign="middle" rowspan="1" colspan="1">375.0 &#x000b1; 1.0</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">benchmark</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">84.8 &#x000b1; 0.8</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">97.3 &#x000b1; 0.2</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">98.2 &#x000b1; 0.2</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">99.9 &#x000b1; 0.1</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">357.6 &#x000b1; 1.4</td></tr></tbody></table></table-wrap></floats-group></article>

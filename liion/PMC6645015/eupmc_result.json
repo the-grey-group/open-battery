@@ -1,0 +1,327 @@
+{
+  "id": [
+    "31457381"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31457381"
+  ],
+  "pmcid": [
+    "PMC6645015"
+  ],
+  "doi": [
+    "10.1021/acsomega.7b01365"
+  ],
+  "title": [
+    "Improving the Cycling Performance of Lithium-Ion Battery Si/Graphite Anodes Using a Soluble Polyimide Binder."
+  ],
+  "authorString": [
+    "Oh J, Jin D, Kim K, Song D, Lee YM, Ryou MH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Oh J"
+          ],
+          "firstName": [
+            "Jeonghun"
+          ],
+          "lastName": [
+            "Oh"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Chemical and Biological Engineering, Hanbat National University, 125 Dongseo-daero, Yuseong-gu, Daejeon 34158, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jin D"
+          ],
+          "firstName": [
+            "Dahee"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Chemical and Biological Engineering, Hanbat National University, 125 Dongseo-daero, Yuseong-gu, Daejeon 34158, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim K"
+          ],
+          "firstName": [
+            "Kyuman"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Chemical and Biological Engineering, Hanbat National University, 125 Dongseo-daero, Yuseong-gu, Daejeon 34158, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Song D"
+          ],
+          "firstName": [
+            "Danoh"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Chemical and Biological Engineering, Hanbat National University, 125 Dongseo-daero, Yuseong-gu, Daejeon 34158, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee YM"
+          ],
+          "firstName": [
+            "Yong Min"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "YM"
+          ],
+          "affiliation": [
+            "Department of Energy Systems Engineering, Daegu Gyeongbuk Institute of Science and Technology (DGIST), 333 Techno Jungang-Daero, Daegu 42988, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Ryou MH"
+          ],
+          "firstName": [
+            "Myung-Hyun"
+          ],
+          "lastName": [
+            "Ryou"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "affiliation": [
+            "Department of Chemical and Biological Engineering, Hanbat National University, 125 Dongseo-daero, Yuseong-gu, Daejeon 34158, Republic of Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2625907"
+      ],
+      "dateOfPublication": [
+        "2017 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "8438-8444"
+  ],
+  "abstractText": [
+    "Herein, we improved the performance of Si/graphite (Si/C) composite anodes by introducing a highly adhesive co-polyimide (P84) binder and investigated the relationship between their electrochemical and adhesion properties using the 90° peel test and a surface and interfacial cutting analysis system. Compared to those of conventional poly(vinylidene fluoride) (PVdF)-based electrodes, the cycling performance and rate capability of P84-based Si/C anodes were improved by 47.0% (372 vs 547 mAh g-1 after 100 cycles at a 60 mA g-1 discharge condition) and 33.4% (359 vs 479 mAh g-1 after 70 cycles at a 3.0 A g-1 discharge condition), respectively. Importantly, the P84-based electrodes exhibited less pronounced morphological changes and a smaller total cell resistance after cycling than the PVdF-based ones, also showing better interlayer adhesion (F mid) and interfacial adhesion to Cu current collectors (F inter)."
+  ],
+  "affiliation": [
+    "Department of Chemical and Biological Engineering, Hanbat National University, 125 Dongseo-daero, Yuseong-gu, Daejeon 34158, Republic of Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.7b01365"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6645015"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6645015?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-29"
+  ],
+  "firstIndexDate": [
+    "2019-08-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-29"
+  ],
+  "dateOfRevision": [
+    "2020-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-29"
+  ],
+  "firstPublicationDate": [
+    "2017-11-29"
+  ]
+}

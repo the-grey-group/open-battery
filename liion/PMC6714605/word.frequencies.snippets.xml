@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6714605/results/word/frequencies/results.xml">
+  <result title="frequency" word="NCM" count="95"/>
+  <result title="frequency" word="polymer/γ-Al" count="60"/>
+  <result title="frequency" word="-coated" count="52"/>
+  <result title="frequency" word="cathode" count="52"/>
+  <result title="frequency" word="Figure" count="45"/>
+  <result title="frequency" word="pristine" count="44"/>
+  <result title="frequency" word="coating" count="43"/>
+  <result title="frequency" word="battery" count="35"/>
+  <result title="frequency" word="capacity" count="32"/>
+  <result title="frequency" word="graphite" count="32"/>
+  <result title="frequency" word="cycling" count="27"/>
+  <result title="frequency" word="layer" count="27"/>
+  <result title="frequency" word="batteries" count="24"/>
+  <result title="frequency" word="lithium" count="23"/>
+  <result title="frequency" word="anode" count="22"/>
+  <result title="frequency" word="performance" count="21"/>
+ </snippets>
+</snippetsTree>

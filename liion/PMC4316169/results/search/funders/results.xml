@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="Jiang Donglin a 1 [1], Department of Materials Molecular Science," exact="Institute for Molecular Science," post="National Institutes of Natural Sciences Japan [2], Materials Science"/>
+ <result pre="[1], Department of Materials Molecular Science, Institute for Molecular Science," exact="National Institutes of Natural Sciences" post="Japan [2], Materials Science Institute, School of Chemistry and"/>
+ <result pre="[2], Materials Science Institute, School of Chemistry and Chemical Engineering," exact="Sun Yat-sen University" post="P. R. China a jiang@ims.ac.jp * These authors contributed"/>
+ <result pre="of China (973, 2014CB932402) and the NSFC (51232005). D.W. thanks" exact="National Science Foundation" post="for Excellent Young Scholars (No. 51422307), the NSFC (51372280 and"/>
+</results>

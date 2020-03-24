@@ -1,0 +1,429 @@
+{
+  "id": [
+    "31792314"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31792314"
+  ],
+  "pmcid": [
+    "PMC6888866"
+  ],
+  "doi": [
+    "10.1038/s41598-019-54518-y"
+  ],
+  "title": [
+    "Three-Dimensional Printing of a LiFePO4/Graphite Battery Cell via Fused Deposition Modeling."
+  ],
+  "authorString": [
+    "Maurel A, Grugeon S, Fleutot B, Courty M, Prashantha K, Tortajada H, Armand M, Panier S, Dupont L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Maurel A"
+          ],
+          "firstName": [
+            "Alexis"
+          ],
+          "lastName": [
+            "Maurel"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8245-9621",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratoire de Réactivité et de Chimie des Solides, UMR CNRS 7314, Hub de l'Énergie, Université de Picardie Jules Verne, 15 rue Baudelocque, 80039, Amiens Cedex, France. alexis.maurel@u-picardie.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Grugeon S"
+          ],
+          "firstName": [
+            "Sylvie"
+          ],
+          "lastName": [
+            "Grugeon"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Laboratoire de Réactivité et de Chimie des Solides, UMR CNRS 7314, Hub de l'Énergie, Université de Picardie Jules Verne, 15 rue Baudelocque, 80039, Amiens Cedex, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Fleutot B"
+          ],
+          "firstName": [
+            "Benoît"
+          ],
+          "lastName": [
+            "Fleutot"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Laboratoire de Réactivité et de Chimie des Solides, UMR CNRS 7314, Hub de l'Énergie, Université de Picardie Jules Verne, 15 rue Baudelocque, 80039, Amiens Cedex, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Courty M"
+          ],
+          "firstName": [
+            "Matthieu"
+          ],
+          "lastName": [
+            "Courty"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Laboratoire de Réactivité et de Chimie des Solides, UMR CNRS 7314, Hub de l'Énergie, Université de Picardie Jules Verne, 15 rue Baudelocque, 80039, Amiens Cedex, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Prashantha K"
+          ],
+          "firstName": [
+            "Kalappa"
+          ],
+          "lastName": [
+            "Prashantha"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "IMT Lille Douai, Institut Mines-Télécom, Centre d'Enseignement, de Recherche et d'Innovation (CERI): Matériaux et Procédés Innovants, 941 rue Charles Bourseul C.S.10838, 59508, Douai Cedex, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Tortajada H"
+          ],
+          "firstName": [
+            "Hugues"
+          ],
+          "lastName": [
+            "Tortajada"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Laboratoire des Technologies Innovantes, LTI-EA 3899, Université de Picardie Jules Verne, 80025, Amiens, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Armand M"
+          ],
+          "firstName": [
+            "Michel"
+          ],
+          "lastName": [
+            "Armand"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Laboratoire de Réactivité et de Chimie des Solides, UMR CNRS 7314, Hub de l'Énergie, Université de Picardie Jules Verne, 15 rue Baudelocque, 80039, Amiens Cedex, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Panier S"
+          ],
+          "firstName": [
+            "Stéphane"
+          ],
+          "lastName": [
+            "Panier"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7029-7653",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratoire des Technologies Innovantes, LTI-EA 3899, Université de Picardie Jules Verne, 80025, Amiens, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Dupont L"
+          ],
+          "firstName": [
+            "Loïc"
+          ],
+          "lastName": [
+            "Dupont"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Laboratoire de Réactivité et de Chimie des Solides, UMR CNRS 7314, Hub de l'Énergie, Université de Picardie Jules Verne, 15 rue Baudelocque, 80039, Amiens Cedex, France. loic.dupont@u-picardie.fr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7029-7653",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8245-9621",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2887502"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "18031"
+  ],
+  "abstractText": [
+    "Among the 3D-printing technologies, fused deposition modeling (FDM) represents a promising route to enable direct incorporation of the battery within the final 3D object. Here, the preparation and characterization of lithium iron phosphate/polylactic acid (LFP/PLA) and SiO2/PLA 3D-printable filaments, specifically conceived respectively as positive electrode and separator in a lithium-ion battery is reported. By means of plasticizer addition, the active material loading within the positive electrode is raised as high as possible (up to 52 wt.%) while still providing enough flexibility to the filament to be printed. A thorough analysis is performed to determine the thermal, electrical and electrochemical effect of carbon black as conductive additive in the positive electrode and the electrolyte uptake impact of ceramic additives in the separator. Considering both optimized filaments composition and using our previously reported graphite/PLA filament for the negative electrode, assembled and \"printed in one-shot\" complete LFP/Graphite battery cells are 3D-printed and characterized. Taking advantage of the new design capabilities conferred by 3D-printing, separator patterns and infill density are discussed with a view to enhance the liquid electrolyte impregnation and avoid short-circuits."
+  ],
+  "affiliation": [
+    "Laboratoire de Réactivité et de Chimie des Solides, UMR CNRS 7314, Hub de l'Énergie, Université de Picardie Jules Verne, 15 rue Baudelocque, 80039, Amiens Cedex, France. alexis.maurel@u-picardie.fr."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-54518-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6888866"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6888866?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-04"
+  ],
+  "firstIndexDate": [
+    "2019-12-04"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-12"
+  ],
+  "dateOfRevision": [
+    "2020-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-02"
+  ],
+  "firstPublicationDate": [
+    "2019-12-02"
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "id": [
+    "31382419"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31382419"
+  ],
+  "pmcid": [
+    "PMC6723543"
+  ],
+  "doi": [
+    "10.3390/polym11081296"
+  ],
+  "title": [
+    "Preparation and Properties of a High-Performance EOEOEA-Based Gel-Polymer-Electrolyte Lithium Battery."
+  ],
+  "authorString": [
+    "Ding W, Wei C, Wang S, Zou L, Gong Y, Liu Y, Zang L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ding W"
+          ],
+          "firstName": [
+            "Wenwen"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Guilin University of Technology, Guilin 541004, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wei C"
+          ],
+          "firstName": [
+            "Chun"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6109-734X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Guilin University of Technology, Guilin 541004, China. 1986024@glut.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang S"
+          ],
+          "firstName": [
+            "Shiqi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Guilin University of Technology, Guilin 541004, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zou L"
+          ],
+          "firstName": [
+            "Linmin"
+          ],
+          "lastName": [
+            "Zou"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2608-409X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Guilin University of Technology, Guilin 541004, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gong Y"
+          ],
+          "firstName": [
+            "Yongyang"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1226-7170",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Guilin University of Technology, Guilin 541004, China. yygong@glut.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yuanli"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Guilin University of Technology, Guilin 541004, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zang L"
+          ],
+          "firstName": [
+            "Limin"
+          ],
+          "lastName": [
+            "Zang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Guilin University of Technology, Guilin 541004, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2608-409X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1226-7170",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6109-734X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2844565"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Polymers"
+          ],
+          "ISOAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "NLMid": [
+            "101545357"
+          ],
+          "ISSN": [
+            "2073-4360"
+          ],
+          "ESSN": [
+            "2073-4360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Gel polymer electrolyte (GPE) is a promising candidate for lithium-ion batteries due to its adhesion property (like a solid), diffusion property (like a liquid), and inhibition of the growth of lithium dendrite. In this paper, 2-(2-ethoxyethoxy)ethyl acrylate (EOEOEA) and LiBF4 electrolyte were mixed as precursors of gel polymer electrolytes. Through thermal curing, a thermally stable GPE with high ionic conductivity (5.60 × 10-4 s/cm at 30 °C) and wide room temperature electrochemical window (4.65 V) was prepared, and the properties of the GPE were measured by linear sweep voltammetry (LSV), AC impedance spectroscopy, Thermogravimetric analysis (TG), and X-ray diffraction (XRD) techniques. On the basis of the in-situ deep polymerization on a LiFePO4 electrode and cellulose membrane in a battery case, EOEOEA-based GPE could be derived on both LiFePO4 electrode and cellulose membrane. Meanwhile, the contact between GPE, LiFePO4 electrode, and lithium electrode was promoted. The capacity retention rate of the as-prepared LiBF4-EOEOEA 30% gel lithium battery reached 100% under the condition of 0.1 °C after 50 cycles, and the Coulombic efficiency was over 99%. Meanwhile, the growth of lithium dendrite could be effectively inhibited. GPE can be applied in high-performance lithium batteries."
+  ],
+  "affiliation": [
+    "College of Materials Science and Engineering, Guilin University of Technology, Guilin 541004, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2018GXNSFAA138131"
+          ],
+          "agency": [
+            "Guangxi Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "51863006"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gpe",
+        "Lithium Battery",
+        "Eoeoea",
+        "Deep In-situ Polymerization"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/polym11081296"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6723543"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6723543?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-07"
+  ],
+  "firstIndexDate": [
+    "2019-08-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-12"
+  ],
+  "dateOfRevision": [
+    "2019-09-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-02"
+  ],
+  "firstPublicationDate": [
+    "2019-08-02"
+  ]
+}

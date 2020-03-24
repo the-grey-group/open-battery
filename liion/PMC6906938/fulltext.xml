@@ -1,0 +1,530 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6906938</article-id><article-id pub-id-type="doi">10.1021/acsomega.9b02941</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>LiTFSI Concentration
+Optimization in TEGDME Solvent
+for Lithium&#x02013;Oxygen Batteries</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Chen</surname><given-names>Jingwen</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Chen</surname><given-names>Chunguang</given-names></name><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath3"><name><surname>Huang</surname><given-names>Tao</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath4"><name><surname>Yu</surname><given-names>Aishui</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><sup>&#x02020;</sup>Laboratory
+of Advanced Materials and <sup>&#x02021;</sup>Department of Chemistry, Shanghai
+Key Laboratory of Molecular Catalysis and Innovative Materials, Collaborative
+Innovation Center of Chemistry for Energy Materials, <institution>Fudan University</institution>, Shanghai 200438, <country>China</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>huangt@fudan.edu.cn</email> (T.H.).</corresp><corresp id="cor2"><label>*</label>E-mail: <email>asyu@fudan.edu.cn</email> (A.Y.).</corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><day>10</day><month>12</month><year>2019</year></pub-date><volume>4</volume><issue>24</issue><fpage>20708</fpage><lpage>20714</lpage><history><date date-type="received"><day>10</day><month>09</month><year>2019</year></date><date date-type="accepted"><day>13</day><month>11</month><year>2019</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2019 American Chemical Society</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02941_0008" id="ab-tgr1"/></p><p>Focus on lithium&#x02013;oxygen batteries is growing due
+to their
+various advantages, such as their high theoretical energy densities
+and renewable and environmentally friendly characteristics. Nonaqueous
+organic electrolytes play a key role in lithium&#x02013;oxygen batteries,
+allowing the conduction of lithium ions and oxygen transfer in the
+three phase boundaries (cathode&#x02013;gas&#x02013;electrolyte). Herein,
+we report the effect of lithium salt concentrations in single-solvent
+lithium&#x02013;oxygen battery systems systematically (using bis(trifluoromethanesulfonyl)imide
+(LiTFSI) in tetraethylene glycol dimethyl ether (TEGDME)) on their
+electrochemical performances. The first discharge capacities and cyclabilities
+exhibit favorable correlations with the lithium salt concentration,
+of which using 0.4 and 1.5 M LiTFSI show the best discharge capacities
+and cyclabilities. The specific capacity of the 0.4 M LiTFSI system
+reaches 7000 mAh g<sup>&#x02013;1</sup>, about 1.3 times that of the
+commonly used 1 M LiTFSI in TEGDME. Cyclic voltammetry with slow scan
+speeds further investigates the system stability and reaction mechanism.
+The surface morphology after the discharge and interface impedance
+after charging, which are examined using scanning electron microscopy
+(SEM) and electrochemical impedance spectroscopy (EIS), have significant
+effects on the comprehensive performances. Conductivity and viscosity
+play mutual roles in the lithium&#x02013;oxygen battery performance,
+while the oxygen solvation has little effect.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao9b02941</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao9b02941</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Since Abraham invented
+the lithium&#x02013;oxygen battery in 1996,
+it has been studied worldwide.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Lithium&#x02013;oxygen
+batteries are viewed as the next generation of new energy batteries
+for this century because of their ultrahigh theoretical energy densities,
+which are nearly equal to those of gasoline; capacity density; and
+environmentally friendly characteristics.<sup><xref ref-type="bibr" rid="ref2">2</xref>&#x02212;<xref ref-type="bibr" rid="ref4">4</xref></sup> However, the
+practical application of lithium&#x02013;oxygen batteries is limited
+due to many issues, such as formation of dendritic lithium anodes
+with cycling procedure,<sup><xref ref-type="bibr" rid="ref5">5</xref>&#x02212;<xref ref-type="bibr" rid="ref7">7</xref></sup> the adsorption and storage of the active material
+on the positive oxygen electrode,<sup><xref ref-type="bibr" rid="ref8">8</xref>&#x02212;<xref ref-type="bibr" rid="ref10">10</xref></sup> and electrolyte optimization
+and volume utilization. Especially, for the last part, researchers
+have put forward a series of electrochemical systems for stable lithium
+salt and solvent adaptation, which can be examined by theoretical
+models and calculations<sup><xref ref-type="bibr" rid="ref11">11</xref>&#x02212;<xref ref-type="bibr" rid="ref14">14</xref></sup> and experimental research studies, such as Fourier-transform
+infrared (FTIR) spectroscopy,<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup> Raman spectroscopy,<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> electrochemical impedance spectroscopy (EIS),<sup><xref ref-type="bibr" rid="ref19">19</xref>&#x02212;<xref ref-type="bibr" rid="ref22">22</xref></sup> and scanning electron microscopy
+(SEM).<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> About optimizing the electrolytes, this
+can be achieved by introducing appropriate organic additives, soluble
+reduction catalysts, but all of these strategies are based on complete
+improvement of the basic electrolyte mechanism.<sup><xref ref-type="bibr" rid="ref25">25</xref>&#x02212;<xref ref-type="bibr" rid="ref27">27</xref></sup> Recently, Francesca
+et al. explored different bis(trifluoromethanesulfonyl)imide (LiTFSI)
+to tetraethylene glycol dimethyl ether (TEGDME) molar ratios with
+the oxygen reduction reaction (ORR) mechanism explaining the Li<sub>2</sub>O<sub>2</sub> product formation. They emphasized the dynamic
+influence of oxygen solubility toward a superconcentrated solution;
+however, they ignored the influence of anode Li<sup>+</sup> ion conductivity
+and cathode product surface morphologies.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> Garc&#x000ed;a et al. investigated the various LiTFSI in DME and
+studied Li<sup>+</sup> ion conductance, cathode interface impedance,
+and electrolyte decomposition, which have a direct impact on efficiency.
+The research supplemented the theoretical calculation method but ignored
+the effects of discharge capacity and cathode Li<sub>2</sub>O<sub>2</sub> specific morphologies.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> Zhou
+et al. explored the LiTFSA concentrations in glymes and used the optimized
+molar ratio of 1:5 in the system, which exhibited excellent cycling
+performance, but the basic physical properties of the electrolyte
+were not considered clearly, and the given reaction mechanism interpretation
+for applied chemistry data was not enough.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> Gittleson et al. discussed the influence of oxygen in lithium&#x02013;oxygen
+batteries in different systems, implying that oxygen influences the
+performances systemically.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> Klassen et
+al. studied the optimal LiClO<sub>4</sub> concentration in carbonate
+solvents but only optimized the design for conductivity. LiClO<sub>4</sub> in organic solvents exhibits poor cyclability, and its physical
+properties are inadequate.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> Zhang et al.
+suggested an optimal LiTFSI concentration in propylene carbonate/ethylene
+carbonate (PC/EC) of 0.8 M to obtain the maximum discharge capacity,
+and they also studied high concentrations of LiTFSI in DME and found
+that lithium&#x02013;oxygen batteries exhibited greater capacities
+with 3 M LiTFSI, and the advantage is even more pronounced for cyclability.<sup><xref ref-type="bibr" rid="ref33">33</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> However, they did not focus on the influence of high LiTFSI concentrations
+on the oxygen cathode. Liu et al. examined the morphology of the cathode
+over a wide range of lithium concentrations of LiTFSI in TEGDME.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> They achieved an explanation of cathode Li<sub>2</sub>O<sub>2</sub> images but with incomplete concentrations, and
+they only find one peak for Li&#x02013;O<sub>2</sub> batteries. The
+charge&#x02013;discharge reaction mechanisms have been studied with
+the products and byproducts being explored extensively.<sup><xref ref-type="bibr" rid="ref36">36</xref>&#x02212;<xref ref-type="bibr" rid="ref38">38</xref></sup> It has been found that TEGDME has a low DN (the Gutmann donor number
+(DN), which is an index of Lewis basicity and important for the equilibrium),
+following the Li<sub>2</sub>O<sub>2</sub> surface phase mechanism,
+and exhibits a low discharge capacity and good cyclability.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> However, bis(trifluoromethanesulfonyl)imide
+(LiTFSI) has been found to be a high-DN salt, and solvation of the
+Li<sup>+</sup> ions has a significant effect. McCloskey verified that
+the TFSI<sup>&#x02013;</sup> ion concentrations have little influence
+on the performance, particularly for the discharge capacity, as it
+did not influence the Li<sup>+</sup> solvation process.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> Electrochemical differential mass spectrometry
+(DEMS) analysis of the Li<sub>2</sub>O<sub>2</sub> products and decomposition
+of the electrolyte suggested that TEGDME is more stable than any other
+solvents such as amines and esters.</p><p>In our work, we choose a
+Ketjenblack 600 (KB carbon) electrode
+as it has a high capacity with poly(tetrafluoroethylene) (PTFE), which
+is an excellent binder commonly used for best match empirically, and
+because of its adaptability to the better electrolytic liquid system
+LiTFSI in TEGDME. Therefore, although the whole research system becomes
+complicated, the research results are still of high reference value
+for the lithium&#x02013;oxygen battery due to its excellent performance.
+We discussed the first discharge capacity with different current densities
+and selected the appropriate charge&#x02013;discharge current density
+of 0.2 mA cm<sup>&#x02013;2</sup> to compare the Coulombic efficiency
+and cyclabilities. EIS and SEM are used to evaluate the performances
+of lithium&#x02013;oxygen batteries about electron transfer impedance
+and product morphology effects. We studied the physical properties,
+viscosity, ion conductivity, and oxygen solubility, for different
+LiTFSI concentrations in TEGDME. Through measurements of the electrolytes,
+we found that the viscosity and lithium ion conductivity are the main
+influencing factors, regardless of the oxygen solubility. To study
+that the viscosity increase has nearly no effect on the electrochemical
+performances, we use cyclic voltammetry with slow scan rates to evaluate
+the electrochemical reaction process. Obviously, both system stability
+and changes in products Li<sub>2</sub>O<sub>2</sub> morphologies compensate
+for the negative effect of viscosity increase with an increase in
+LiTFSI concentrations. By comprehensively studying the effect of physicochemical
+properties on the battery performances, we provide suggestions on
+how to optimize the electrolyte for lithium&#x02013;oxygen batteries
+at low or high concentrations.</p></sec><sec id="sec2"><label>2</label><title>Experimental Section</title><sec id="sec2.1"><label>2.1</label><title>Electrolyte Preparation</title><p>The lithium
+salt LiTFSI and the TEGDME (98% volume concentration) solvent were
+purchased from Sigma-Aldrich. Activated molecular sieves (4 &#x000c5;)
+were immersed in the aforementioned solvent for 3 days to remove residual
+water before use. The concentrations of the prepared electrolytes
+were 0.2, 0.4, 0.5, 1, 1.5, 2, 3, 4, and 5 M.</p></sec><sec id="sec2.2"><label>2.2</label><title>Air Cathode Preparation and Cell Assembly</title><p>KB carbon and 20 wt % poly(tetrafluoroethylene) (PTFE) were mixed
+(8:2 by weight) in an ethanol-based solution. After stirring thoroughly,
+the slurry was coated on nickel foam with a diameter of 12 mm. The
+cathode was subsequently dried in a vacuum oven for 12 h at 80 &#x000b0;C
+to remove residual ethanol. After vacuum-drying, the typical carbon
+loading was 0.6 &#x000b1; 0.2 mg cm<sup>&#x02013;2</sup>. Li foil (&#x000d8;
+15 &#x000d7; 0.6 mm<sup>2</sup>), a Celgard 3500 membrane, waterleaf
+paper, and a porous air electrode with different LiTFSI concentrations
+of the electrolyte (about 50 &#x003bc;L) were used to assemble the cells.
+All of the batteries were assembled in an Ar atmosphere glovebox (H<sub>2</sub>O &#x02264; 1 ppm, O<sub>2</sub> &#x02264; 1 ppm) utilizing
+Swagelok batteries with an air window of 78.5 mm<sup>2</sup>.</p></sec><sec id="sec2.3"><label>2.3</label><title>Measurements</title><p>The viscosity, ionic
+conductivity, and the oxygen solubility of the electrolytes were measured
+using a viscometer (DV2TLVT), conductivity meter (S230-USP/EP), and
+dissolved oxygen probe (10 FT Cable/EA) at 25 &#x000b0;C, respectively.
+Before measuring the oxygen solubility, the system was oxygenated
+for 10 min to ensure oxygen saturation.</p><p>The cyclic voltammetry
+(CV) curves were obtained galvanostatically using Metrohm Autolab
+B.V. (Utrecht, the Netherlands). The scan rates were 0.1, 0.15, and
+0.2 mV s<sup>&#x02013;1</sup> from an open-circuit potential (about
+3.0 V) to 2.0 V, after which the batteries were charged to 4.4 V and
+returned to the open-circuit potential. The charge&#x02013;discharge
+profile measurements of the Li&#x02013;O<sub>2</sub> batteries were
+obtained galvanostatically using a LAND BT2000 battery test system
+(Wuhan Land Electronic Co. Ltd., China). The first discharge capacities
+were obtained such that the discharge voltages were limited to 2.0
+V, and the charge step ended when the charge voltage increased to
+4.4 V with constant current densities of 0.05, 0.2, 0.5, and 1.0 mA
+cm<sup>&#x02013;2</sup> with different concentrations of LiTFSI in
+TEGDME. To investigate the rate capabilities of the cells, charge&#x02013;discharge
+steps were carried out similarly to those in the first discharge capacity
+tests. The cyclabilities were measured when discharge capacities were
+limited to 500 mAh g<sup>&#x02013;1</sup>, and the charge step ended
+when the charge voltage increased to 4.4 V at the specific current
+density of 0.2 mA cm<sup>&#x02013;2</sup> with different concentrations
+of electrolytes. Moreover, we examined the full battery performance
+at 0.2 mA cm<sup>&#x02013;2</sup> to explain the results thoroughly.
+EIS measurements using lithium&#x02013;oxygen batteries were performed
+to measure the interfacial resistances in the frequency range of 100
+kHz to 1 Hz with an amplitude of 5 mV. All electrochemical tests were
+performed in gloveboxes filled with oxygen.</p><p>Field-emission scanning
+electron microscopy (FESEM, Hitachi S4800)
+was applied to observe the morphologies of the electrode surfaces.</p></sec></sec><sec id="sec3"><label>3</label><title>Results and Discussion</title><sec id="sec3.1"><label>3.1</label><title>Physical Properties of Different LiTFSI Concentrations
+in TEGDME</title><p>Physical characterization with different concentrations
+of electrolytes was performed first (<xref rid="fig1" ref-type="fig">Figures <xref rid="fig1" ref-type="fig">1</xref></xref> and <xref rid="fig2" ref-type="fig">2</xref>). As shown
+in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, the conductivities
+of the electrolytes containing different concentrations of LiTFSI
+in TEGDME went through a maximum and subsequently decreased as the
+Li concentration increased, and the peak value appeared at 1.0 M (about
+2.72 mS).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Ionic conductivity with LiTFSI concentrations of 0.2, 0.4, 0.5,
+1, 1.5, 2, 3, 4, and 5 M in the TEGDME electrolyte.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02941_0009" id="gr1" position="float"/></fig><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Viscosity and DO % for LiTFSI concentrations of 0.2, 0.4,
+0.5,
+1, 1.5, 2, 3, 4, and 5 M in the TEGDME electrolyte.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02941_0006" id="gr2" position="float"/></fig><p>As shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, the viscosity exhibited no obvious change below 1
+M LiTFSI. The
+electrolyte viscosity slightly increased between 1 and 2 M. Above
+2 M, a remarkable increase in the electrolyte viscosity was observed,
+which was ascribed to the cluster formation of Li ions with TEGDME
+molecules of the solvent. The dissolved oxygen values for different
+concentrations of electrolyte showed two regions. Below 0.5 M, the
+dissolved oxygen content was approximately about 90%, while it was
+approximately 100% for 0.5 M and higher concentrations. The properties
+influence the battery performances distinctly. First, a high Li ionic
+conductivity guarantees lithium ion transport through the entire battery
+(usually above 1 mS cm<sup>&#x02013;1</sup>). That is, both small bounds
+besides 1 M have good Li<sup>+</sup> ion conductivity. As the LiTFSI
+concentrations increase, the viscosity affects a lot, whereas the
+oxygen solubility has little effect. Obviously, the rapid increase
+of viscosity caused by high LiTFSI concentration slows down the absorption
+and desorption of lithium, which may contribute to the loss of capacity.
+Moreover, the oxygen solubility value increased slightly with LiTFSI
+concentrations caused by F atom in TFSI<sup>&#x02013;</sup>.</p></sec><sec id="sec3.2"><label>3.2</label><title>Reaction Mechanism</title><p>As shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a, we utilized the
+minimum scan rate to ensure that the oxygen was dissolved in the TEGDME.
+The lithium&#x02013;oxygen batteries were discharged to 2.0 V and charged
+to 4.4 V for the charge&#x02013;discharge process. At extremely slow
+scan rates, we determined the reaction mechanism. Evidently, at a
+0.1 mV s<sup>&#x02013;1</sup> scan rate, the 4 and 5 M LiTFSI systems
+exhibited a significantly larger cathode area, which indicates that
+there was apparent irreversibility. This could be attributed to the
+instability of the system and decomposition of the electrolytes. For
+0.2 or 3 M LiTFSI, the anode peaks moved and were wider than those
+at other concentrations, corresponding to the slow rate reduction
+reaction. In this reaction, oxygen was first reduced with Li<sup>+</sup> ions to Li<sub>2</sub>O and then to Li<sub>2</sub>O<sub>2</sub>.
+The defects formed during the slow reaction may be attributed to Li<sub>2</sub>O<sub>2</sub> nucleation hysteresis from the dissolved Li<sub>2</sub>O, which itself requires a high voltage to decompose, resulting
+in positive hole plugging and bad cyclability. As for other LiTFSI
+concentrations, the reduction peaks were relatively consistent at
+nearly 2.45 V (corresponding to reduction of O<sub>2</sub> to Li<sub>2</sub>O<sub>2</sub>), but the number of oxidation peaks increased
+from one (at nearly 3.5 V corresponding to oxidation of Li<sub>2</sub>O<sub>2</sub>) to two (at nearly 3.5 and 4.0 V corresponding to oxidation
+of Li<sub>2</sub>O<sub>2</sub> and Li<sub>2</sub>O, respectively)
+with the increase in the LiTFSI concentration. This also indicates
+that the two oxygen evolution reactions separate while increasing
+the LiTFSI concentration. This occurs because of the increased Li<sup>+</sup> concentration, causing Li<sub>2</sub>O to form more easily.
+At this slow scan rate, we observed oxidation peak separation.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(a) First cyclic
+voltammetry (CV) at a 0.1 mV s<sup>&#x02013;1</sup> scan rate for LiTFSI
+concentrations of 0.2, 0.4, 0.5, 1, 1.5, 2,
+3, 4, and 5 M. First CV curves for 0.1, 0.15, and 0.2 mV s<sup>&#x02013;1</sup> scan rates with (b) 0.4 M LiTFSI, (c) 0.5 M LiTFSI, (d) 1.5 M LiTFSI,
+and (e) 3 M LiTFSI in TEGDME.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02941_0001" id="gr3" position="float"/></fig><p>To investigate the influence of the LiTFSI concentrations
+on the
+Li&#x02013;oxygen battery reaction mechanism in TEGDME, we performed
+CV at low scan rates (0.1, 0.15, and 0.2 mV s<sup>&#x02013;1</sup>)
+using 0.4, 0.5, 1.5, and 3 M LiTFSI. The reaction mechanism was very
+complex, as shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b&#x02013;e. However, we confirmed that the anode peak potential
+value shifted toward a relatively stable lithium&#x02013;oxygen battery
+system, and this shift was in the negative direction. This means that
+there were adequate oxygen and Li<sup>+</sup> in the whole system.
+The cyclic voltammetry behaviors were valuable for practical lithium&#x02013;oxygen
+battery systems because the charge&#x02013;discharge current densities
+for the present lithium&#x02013;oxygen batteries were smaller than
+those of traditional lithium ion battery systems. At 0.4 and 1.5 M
+LiTFSI, the peak position offset is relatively small with the increasing
+scan speed. However, by the same amplitude scan rate increased, whether
+at 0.5 and 3 M, the shift in the peak position is uncertain or even
+reversed. Obviously, the system state is relatively stable at 0.4
+and 1.5 M LiTFSI. This is just a reference for the stability of our
+battery system; however, the specific peaks are more complex and not
+discussed in detail.</p></sec><sec id="sec3.3"><label>3.3</label><title>First Discharge Capacity</title><p>The first
+discharge capacities were measured from the open-circuit voltage discharge
+to 2.0 V and then to 4.4 V. As shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b&#x02013;j, at the same current density (illustrated
+for 0.05 mA cm<sup>&#x02013;2</sup>), the order of first specific discharge
+capacities from highest to lowest was 0.4 M LiTFSI (nearly 7000 mAh
+g<sup>&#x02013;1</sup>), 1.5 M (nearly 6500 mAh g<sup>&#x02013;1</sup>), the lower concentrations (about 5700 mAh g<sup>&#x02013;1</sup>), and the higher concentrations (exhibited attenuation trends from
+2 to 5 M, beginning at nearly 6000 mAh g<sup>&#x02013;1</sup> and decreasing
+to 5000 mAh g<sup>&#x02013;1</sup> in 5 M LiTFSI). Moreover, the specific
+discharge capacity variation tendency was nearly consistent at other
+current densities. Thus, at the same LiTFSI concentration, the discharge
+capacity decreases gradually with increasing discharge&#x02013;charge
+current density. Furthermore, the first specific discharge capacity
+decreased with the increase in the discharge&#x02013;charge current
+density, which was more evident between 0.2 and 0.5 mA cm<sup>&#x02013;2</sup> at different charge&#x02013;discharge current densities. The comparison
+is shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(a) First specific discharge capacity for different concentrations
+of LiTFSI in TEGDME at different discharge current densities from
+the open-circuit voltage to the terminal voltage at 2.0 V. (b&#x02013;j)
+First charge&#x02013;discharge curves for different LiTFSI concentrations
+((b) 0.2 M, (c) 0.4 M, (d) 0.5 M, (e) 1 M, (f) 1.5 M, (g) 2 M, (h)
+3 M, (i) 4 M, and (j) 5 M) in TEGDME at charge&#x02013;discharge current
+densities of 0.05, 0.2, 0.5, and 1 mA cm<sup>&#x02013;2</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02941_0002" id="gr4" position="float"/></fig></sec><sec id="sec3.4"><label>3.4</label><title>Rate Ability</title><p>As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>, the different constant
+charge&#x02013;discharge current densities resulted in evident differences
+at different LiTFSI concentrations. At the lowest current density
+of 0.05 mA cm<sup>&#x02013;2</sup>, the efficiency could be distinguished
+between the 2 M LiTFSI (nearly 100%) and the higher concentrations.
+As the current density slightly increased, to 0.2 mA cm<sup>&#x02013;2</sup>, the efficiency toward the lower concentrations was subdivided successfully
+below 1 M LiTFSI and between 1 and 2 M. This may be ascribed to the
+higher current density accelerating the differentiation for interface
+transport impedance, which can be seen in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>. However, at a higher current density of
+0.5 mA cm<sup>&#x02013;2</sup>, the behavior changed significantly.
+The lower concentrations exhibited distinct decreases than other concentrations,
+and even at the ultrahigh current densities achieved at 4 and 5 M,
+the efficiency was greater than that at lower current densities. At
+the lower concentrations, the formation of spherical discharge products
+may easily block the holes of the cathode during the fast discharge
+step, preventing the complete decomposition process. However, at higher
+concentrations, amorphous membrane products formed that could be easily
+decomposed.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Coulombic efficiency with different concentrations of LiTFSI in
+TEGDME at different constant discharge&#x02013;charge current densities
+from the open-circuit voltage to 2.0 V, followed by charging to the
+terminal voltage of 4.4 V.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02941_0003" id="gr5" position="float"/></fig></sec><sec id="sec3.5"><label>3.5</label><title>Cyclability</title><p><xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref> shows the cyclability for different concentrations
+of LiTFSI in TEGDME with a fixed discharge capacity of 500 mAh g<sup>&#x02013;1</sup> at a current density of 0.2 mA cm<sup>&#x02013;2</sup>. The terminal voltage for 0.4 and 1.5 M concentrations of LiTFSI
+(of nearly 2.7 V) exhibited better performances than that for other
+concentrations (about 28 cycles to reach a terminal discharge voltage
+of 2.0 V). Besides these two concentrations, the performance at 0.4
+M was slightly better than that at 1.5 M, which was evident after
+10 cycles. The performances at below 0.4 M concentrations of LiTFSI
+were better than those at higher concentrations. The results are consistent
+with the interface transfer impedance and the discharge product morphologies
+of the cathodes. Also, we consider that in ultrahigh concentration
+solutions the molar ratio of the organic solvent and Li<sup>+</sup> is nearly the same, and this reduces the Li<sup>+</sup> Lewis acidity,
+forming a big cation complex Li(TEGDME)<sup><italic>n</italic>+</sup>. The complex can reduce the fast LiO<sub>2</sub> disproportion that
+reduces the cycling performance. However, LiTFSI at a slightly higher
+concentration can effectively combine with TEGDME to prevent solvent
+decomposition and improve the cycling performance. As a result, double
+peaks exhibit good cycle performance in a Li/LiTFSI&#x02013;TEGDME/KB-PTFE
+battery system.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Cycling performance based on discharge terminal voltage
+versus
+cycle numbers for different concentrations of LiTFSI in TEGDME.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02941_0007" id="gr6" position="float"/></fig></sec><sec id="sec3.6"><label>3.6</label><title>SEM and EIS for Full Batteries</title><p>As
+shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>,
+there were different forms of the discharge products. As shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a, the pristine air
+cathode (KB electrode) exhibited connected small spherical particles.
+The holes were evenly distributed. When discharged first to 2 V at
+a current density of 0.2 mA cm<sup>&#x02013;2</sup>, the product particle
+morphologies are evident. At lower concentrations, Li<sub>2</sub>O<sub>2</sub> attached to the surface of the KB carbon. The particles grew
+significantly and covered the spherical KB, which is evident in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b,c. However, at
+a concentration of 1.5 M or higher, membrane-like products not only
+covered the surfaces of the KB particles but also distributed in the
+holes, spreading over the entire cathode, which is evident in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>d&#x02013;f. The products
+with higher concentrations were amorphous Li<sub>2</sub>O<sub>2</sub>, which generally decompose easily during charge processes. Moreover,
+we tested the morphology for the sample charged first to 4.4 V. The
+Li<sub>2</sub>O<sub>2</sub> products decomposed for the 0.4 M LiTFSI,
+and the particle sizes were nearly the same as those of the pristine
+sample. This indicated that there was good OER performance, which
+led to optimum cyclability. At a 0.5 M LiTFSI concentration, the spherical
+products were larger than those at 0.4 M, the sizes of the morphological
+features were bigger, and Li<sub>2</sub>O<sub>2</sub> was not fully
+decomposed. However, at higher concentrations, the membrane-like amorphous
+Li<sub>2</sub>O<sub>2</sub>, which spread across the whole cathode,
+were more easily decomposed at 1.5 M than at 3 M. Compared with the
+spherical morphologies, the membrane-like products were amorphous
+and decomposed nearly completely, leaving small particles similar
+to those of the pristine sample. Thus, the spherical products formed
+easily at lower concentrations, but partial overwrapping resulted
+in decomposition difficulties. The membrane-like products easily decomposed
+but clogged the pores. As a result, 0.4 and 1.5 M LiTFSI contributed
+to good performance in terms of the discharge capacity and cyclability.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>(a) SEM
+images of the KB carbon cathode before discharge. (b&#x02013;e)
+Discharged first cathodes at the concentrations of 0.4, 0.5, 1.5,
+and 3 M and at a constant current density of 0.2 mA cm<sup>&#x02013;2</sup>. (f&#x02013;i) Charged first cathodes at the concentrations of 0.4,
+0.5, 1.5, and 3 M and at a constant current density of 0.2 mA cm<sup>&#x02013;2</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02941_0004" id="gr7" position="float"/></fig><p>As shown in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>, EIS spectra changed at different states. The interface
+transfer
+impedance of the pristine sample decreased between the lowest concentration
+0.2 M and 1 M (&#x0223c;80 &#x003a9;), after which it rapidly increased
+to 1.5 M (&#x0223c;140 &#x003a9;) and subsequently decreased (&#x0223c;80
+&#x003a9;) between 2 and 4 M. Finally, it increased rapidly again to
+5 M (&#x0223c;225 &#x003a9;). The results can be explained by the comprehensive
+physical properties, ionic conductivity, viscosity, and oxygen solubility.
+The open-circuit voltage interface impedance was not the dominant
+factor of the lithium&#x02013;oxygen battery performances. The interface
+transfer impedance results showed that the best LiTFSI concentration
+was 0.4 M, which decreased effectively after the discharge than at
+the open-circuit voltage, while after 1 charge cycle, the impedance
+nearly did not change. This also indicates that the Li<sub>2</sub>O<sub>2</sub> discharge products were better decomposed at 0.4 M
+LiTFSI in TEGDME. A similar phenomenon can be seen for 1.5 and 0.5
+M LiTFSI, which also decreased the interface impedance, but not for
+a concentration of 0.4 M. However, the lowest and highest concentrations
+were different. After the discharge step, the interface transfer impedance
+did not significantly change, and after the charge step, the impedance
+increased considerably, which contributed to the poor cycle performance.</p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>EIS spectra
+of cells at open-circuit voltage, discharged to 2.0
+V, and charged to 4.4 V with 0.2 mA cm<sup>&#x02013;2</sup> current
+densities and 0.4, 0.5, 1.5, and 3 M concentrations.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b02941_0005" id="gr8" position="float"/></fig></sec></sec><sec id="sec4"><label>4</label><title>Conclusions</title><p>In our study, we explored
+that different LiTFSI concentrations
+with the TEGDME solvent result in different discharge capacities,
+rate abilities, and cyclabilities. Furthermore, we explained the electrochemical
+system stability with CV at low scan rates for lithium&#x02013;oxygen
+batteries with different LiTFSI concentrations (from 0.2 to 5 M) briefly.
+Moreover, the 4 and 5 M LiTFSI systems were the most unstable. The
+0.2 and 3 M systems exhibited slow oxygen reduction steps, which contributed
+to difficulty in decomposition of the Li<sub>2</sub>O<sub>2</sub> and
+Li<sub>2</sub>O discharge products. As for other LiTFSI concentrations,
+which exhibited fast oxygen reduction steps, the oxidation peak gradually
+separated with the increase in LiTFSI concentration, which exhibited
+better oxygen reduction and product oxidation processes with different
+product oxidation procedures. Thus, we increased the scan rate slightly
+to investigate this further. With increasing scan rate, only 0.4 and
+1.5 M LiTFSI concentrations systems show a slight right shift at the
+peak position of the cyclic voltammetry, which corresponds to a relatively
+stable system. The specific electrochemical performances are measured.
+The 0.4 and 1.5 M LiTFSI systems exhibited better first specific discharge capacities and cyclabilities,
+which were ascribed to the cathode morphology and interface transfer
+impedance. The rate abilities at various concentrations were different,
+but there was no obvious trend as the current density increased. The
+physical properties of the electrolytes are important, especially
+the Li<sup>+</sup> ion conductivity, viscosity, and oxygen solubility.
+The Li<sup>+</sup> ion conductivity and viscosity influence the lithium&#x02013;oxygen
+battery performances significantly, while the oxygen solubility had
+little effect. Above all, we focus on acquiring higher primary capacity
+and better cycle performance, whether little is known about the efficiency
+problems caused by some byproducts, such as LiOH, Li<sub>2</sub>CO<sub>3</sub> and the TFSI<sup>&#x02013;</sup> decomposition, which could
+be an additional detailed part to be considered. The surface of lithium
+anode with different LiTFSI concentration electrolytes has been studied
+deeply and has an important influence, so we did not discuss this
+in detail in this article.</p></sec></body><back><notes notes-type="COI-statement" id="NOTES-d7e777-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The authors acknowledge financial support from the Natural
+Science Foundation of Shanghai (19ZR1403600).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Abraham</surname><given-names>K. M.</given-names></name>; <name><surname>Jiang</surname><given-names>Z.</given-names></name>
+<article-title>A polymer electrolyte-based rechargeable lithium/oxygen battery</article-title>. <source>J. Electrochem. Soc.</source>
+<year>1996</year>, <volume>143</volume>, <fpage>1</fpage>&#x02013;<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1149/1.1836378</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Girishkumar</surname><given-names>G.</given-names></name>; <name><surname>McCloskey</surname><given-names>B.</given-names></name>; <name><surname>Luntz</surname><given-names>A. C.</given-names></name>; <name><surname>Swanson</surname><given-names>S.</given-names></name>; <name><surname>Wilcke</surname><given-names>W.</given-names></name>
+<article-title>Lithium-air
+battery: promise and challenges</article-title>. <source>J. Phys. Chem.
+Lett.</source>
+<year>2010</year>, <volume>1</volume>, <fpage>2193</fpage>&#x02013;<lpage>2203</lpage>. <pub-id pub-id-type="doi">10.1021/jz1005384</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Aurbach</surname><given-names>D.</given-names></name>; <name><surname>McCloskey</surname><given-names>B. D.</given-names></name>; <name><surname>Nazar</surname><given-names>L. F.</given-names></name>; <name><surname>Bruce</surname><given-names>P. G.</given-names></name>
+<article-title>Advances in understanding
+mechanisms underpinning lithium&#x02013;air batteries</article-title>. <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <elocation-id>16128</elocation-id><pub-id pub-id-type="doi">10.1038/nenergy.2016.128</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Bruce</surname><given-names>P. G.</given-names></name>; <name><surname>Freunberger</surname><given-names>S. A.</given-names></name>; <name><surname>Hardwick</surname><given-names>L. J.</given-names></name>; <name><surname>Tarascon</surname><given-names>J.-M.</given-names></name>
+<article-title>Li&#x02013;O<sub>2</sub> and Li&#x02013;S
+batteries with high energy storage</article-title>. <source>Nature Mater.</source>
+<year>2012</year>, <volume>11</volume>, <fpage>19</fpage>&#x02013;<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1038/nmat3191</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Lu</surname><given-names>Y.-C.</given-names></name>; <name><surname>Gallant</surname><given-names>B. M.</given-names></name>; <name><surname>Kwabi</surname><given-names>D. G.</given-names></name>; <name><surname>Harding</surname><given-names>J. R.</given-names></name>; <name><surname>Mitchell</surname><given-names>R. R.</given-names></name>; <name><surname>Whittingham</surname><given-names>M. S.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+<article-title>Lithium&#x02013;oxygen batteries:
+bridging mechanistic understanding and battery performance</article-title>. <source>Energy Environ. Sci.</source>
+<year>2013</year>, <volume>6</volume>, <fpage>750</fpage>&#x02013;<lpage>768</lpage>. <pub-id pub-id-type="doi">10.1039/c3ee23966g</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Sun</surname><given-names>X.</given-names></name>
+<article-title>Challenges
+and opportunities of nanostructured materials
+for aprotic rechargeable lithium&#x02013;air batteries</article-title>. <source>Nano Energy</source>
+<year>2013</year>, <volume>2</volume>, <fpage>443</fpage>&#x02013;<lpage>467</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2012.11.014</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Kraytsberg</surname><given-names>A.</given-names></name>; <name><surname>Ein-Eli</surname><given-names>Y.</given-names></name>
+<article-title>Review on Li&#x02013;air
+batteries&#x02014;opportunities,
+limitations and perspective</article-title>. <source>J. Power Sources</source>
+<year>2011</year>, <volume>196</volume>, <fpage>886</fpage>&#x02013;<lpage>893</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2010.09.031</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Gao</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Johnson</surname><given-names>L.</given-names></name>; <name><surname>Bruce</surname><given-names>P. G.</given-names></name>
+<article-title>Promoting solution
+phase discharge in Li&#x02013;O<sub>2</sub> batteries containing weakly
+solvating electrolyte solutions</article-title>. <source>Nat. Mater.</source>
+<year>2016</year>, <volume>15</volume>, <fpage>882</fpage>&#x02013;<lpage>888</lpage>. <pub-id pub-id-type="doi">10.1038/nmat4629</pub-id>.<pub-id pub-id-type="pmid">27111413</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Yang</surname><given-names>L.</given-names></name>; <name><surname>Frith</surname><given-names>J. T.</given-names></name>; <name><surname>Garcia-Araez</surname><given-names>N.</given-names></name>; <name><surname>Owen</surname><given-names>J. R.</given-names></name>
+<article-title>A new method to
+prevent degradation of lithium-oxygen batteries: reduction of superoxide
+by viologen</article-title>. <source>Chem. Commun.</source>
+<year>2015</year>, <volume>51</volume>, <fpage>1705</fpage>&#x02013;<lpage>1708</lpage>. <pub-id pub-id-type="doi">10.1039/C4CC09208B</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Matsuda</surname><given-names>S.</given-names></name>; <name><surname>Hashimoto</surname><given-names>K.</given-names></name>; <name><surname>Nakanishi</surname><given-names>S.</given-names></name>
+<article-title>Efficient Li<sub>2</sub>O<sub>2</sub> formation via aprotic oxygen reduction reaction mediated by quinone
+derivatives</article-title>. <source>J. Phys. Chem. C</source>
+<year>2014</year>, <volume>118</volume>, <fpage>18397</fpage>&#x02013;<lpage>18400</lpage>. <pub-id pub-id-type="doi">10.1021/jp504894e</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Sharon</surname><given-names>D.</given-names></name>; <name><surname>Hirsberg</surname><given-names>D.</given-names></name>; <name><surname>Salama</surname><given-names>M.</given-names></name>; <name><surname>Afri</surname><given-names>M.</given-names></name>; <name><surname>Frimer</surname><given-names>A. A.</given-names></name>; <name><surname>Noked</surname><given-names>M.</given-names></name>; <name><surname>Kwak</surname><given-names>W.</given-names></name>; <name><surname>Sun</surname><given-names>Y.-K.</given-names></name>; <name><surname>Aurbach</surname><given-names>D.</given-names></name>
+<article-title>Mechanistic
+role of Li<sup>+</sup> dissociation level in aprotic Li&#x02013;O<sub>2</sub> battery</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2016</year>, <volume>8</volume>, <fpage>5300</fpage>&#x02013;<lpage>5307</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.5b11483</pub-id>.<pub-id pub-id-type="pmid">26854802</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Kim</surname><given-names>D. W.</given-names></name>; <name><surname>Ahn</surname><given-names>S.</given-names></name>; <name><surname>Kang</surname><given-names>J.</given-names></name>; <name><surname>Suk</surname><given-names>J.</given-names></name>; <name><surname>Kim</surname><given-names>H. K.</given-names></name>; <name><surname>Kang</surname><given-names>Y.</given-names></name>
+<article-title>In situ real-time
+and quantitative investigation on the stability of non-aqueous lithium-oxygen
+battery electrolytes</article-title>. <source>J. Mater. Chem. A</source>
+<year>2016</year>, <volume>4</volume>, <fpage>6332</fpage>&#x02013;<lpage>6341</lpage>. <pub-id pub-id-type="doi">10.1039/C6TA00371K</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Abraham</surname><given-names>K. M.</given-names></name>
+<article-title>Electrolyte-directed
+reactions of the oxygen electrode in lithium-air batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2015</year>, <volume>162</volume>, <fpage>A3021</fpage>&#x02013;<lpage>A3031</lpage>. <pub-id pub-id-type="doi">10.1149/2.0041502jes</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>McCloskey</surname><given-names>B. D.</given-names></name>; <name><surname>Valery</surname><given-names>A.</given-names></name>; <name><surname>Luntz</surname><given-names>A. C.</given-names></name>; <name><surname>Gowda</surname><given-names>S. R.</given-names></name>; <name><surname>Wallraff</surname><given-names>G. M.</given-names></name>; <name><surname>Garcia</surname><given-names>J. M.</given-names></name>; <name><surname>Mori</surname><given-names>T.</given-names></name>; <name><surname>Krupp</surname><given-names>L. E.</given-names></name>
+<article-title>Combining accurate
+O<sub>2</sub> and Li<sub>2</sub>O<sub>2</sub> assays to separate discharge
+and charge stability limitations in nonaqueous Li&#x02013;O<sub>2</sub> Batteries</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2013</year>, <volume>4</volume>, <fpage>2989</fpage>&#x02013;<lpage>2993</lpage>. <pub-id pub-id-type="doi">10.1021/jz401659f</pub-id>.<pub-id pub-id-type="pmid">26706312</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Mozhzhukhina</surname><given-names>N.</given-names></name>; <name><surname>M&#x000e9;ndez De Leo</surname><given-names>L. P.</given-names></name>; <name><surname>Calvo</surname><given-names>E. J.</given-names></name>
+<article-title>Infrared spectroscopy
+studies on stability of dimethyl sulfoxide for application in a Li&#x02013;Air
+battery</article-title>. <source>J. Phys. Chem. C</source>
+<year>2013</year>, <volume>117</volume>, <fpage>18375</fpage>&#x02013;<lpage>18380</lpage>. <pub-id pub-id-type="doi">10.1021/jp407221c</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Yu</surname><given-names>Q.</given-names></name>; <name><surname>Ye</surname><given-names>S.</given-names></name>
+<article-title>In situ study of oxygen reduction in dimethyl sulfoxide (DMSO) solution:
+A fundamental study for development of the lithium&#x02013;oxygen Battery</article-title>. <source>J. Phys. Chem. C</source>
+<year>2015</year>, <volume>119</volume>, <fpage>12236</fpage>&#x02013;<lpage>12250</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.5b03370</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Choi</surname><given-names>Y. M.</given-names></name>; <name><surname>Abernathy</surname><given-names>H.</given-names></name>; <name><surname>Chen</surname><given-names>H.-T.</given-names></name>; <name><surname>Lin</surname><given-names>M. C.</given-names></name>; <name><surname>Liu</surname><given-names>M.</given-names></name>
+<article-title>Characterization
+of O<sub>2</sub>&#x02013;CeO<sub>2</sub> interactions using in situ
+Raman spectroscopy and First-principle calculations</article-title>. <source>Chem. Phys. Chem.</source>
+<year>2006</year>, <volume>7</volume>, <fpage>1957</fpage>&#x02013;<lpage>1963</lpage>. <pub-id pub-id-type="doi">10.1002/cphc.200600190</pub-id>.<pub-id pub-id-type="pmid">16900562</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Frith</surname><given-names>J. T.</given-names></name>; <name><surname>Russell</surname><given-names>A. E.</given-names></name>; <name><surname>Garcia-Araez</surname><given-names>N.</given-names></name>; <name><surname>Owen</surname><given-names>J. R.</given-names></name>
+<article-title>An in-situ Raman
+study of the oxygen reduction reaction in ionic liquids</article-title>. <source>Electrochem. Commun.</source>
+<year>2014</year>, <volume>46</volume>, <fpage>33</fpage>&#x02013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1016/j.elecom.2014.06.001</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Zhu</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Zhou</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>T.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Nuli</surname><given-names>Y.</given-names></name>
+<article-title>A stable organic&#x02013;inorganic
+hybrid layer protected lithium metal anode for long-cycle lithium-oxygen
+batteries</article-title>. <source>J. Power Sources</source>
+<year>2017</year>, <volume>366</volume>, <fpage>265</fpage>&#x02013;<lpage>269</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2017.09.035</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Chen</surname><given-names>X. J.</given-names></name>; <name><surname>Bevara</surname><given-names>V. V.</given-names></name>; <name><surname>Andrei</surname><given-names>P.</given-names></name>; <name><surname>Hendrickson</surname><given-names>M.</given-names></name>; <name><surname>Plichta</surname><given-names>E. J.</given-names></name>; <name><surname>Zheng</surname><given-names>J. P.</given-names></name>
+<article-title>Combined effects
+of oxygen diffusion
+and electronic resistance in Li-Air batteries with carbon nanofiber
+cathodes</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2014</year>, <volume>161</volume>, <fpage>A1877</fpage>&#x02013;<lpage>A1883</lpage>. <pub-id pub-id-type="doi">10.1149/2.0721412jes</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Du</surname><given-names>F.</given-names></name>; <name><surname>Bie</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>D.</given-names></name>; <name><surname>Cai</surname><given-names>Y.</given-names></name>; <name><surname>Cui</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Chen</surname><given-names>G.</given-names></name>; <name><surname>Wei</surname><given-names>Y.</given-names></name>
+<article-title>Electrochemical kinetics
+of the Li[Li<sub>0.23</sub>Co<sub>0.3</sub>Mn<sub>0.47</sub>]O<sub>2</sub> cathode material studied by GITT and EIS</article-title>. <source>J. Phys. Chem. C</source>
+<year>2010</year>, <volume>114</volume>, <fpage>22751</fpage>&#x02013;<lpage>22757</lpage>. <pub-id pub-id-type="doi">10.1021/jp1088788</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Bardenhagen</surname><given-names>I.</given-names></name>; <name><surname>Yezerska</surname><given-names>O.</given-names></name>; <name><surname>Augustin</surname><given-names>M.</given-names></name>; <name><surname>Fenske</surname><given-names>D.</given-names></name>; <name><surname>Wittstock</surname><given-names>A.</given-names></name>; <name><surname>B&#x000e4;umer</surname><given-names>M.</given-names></name>
+<article-title>In situ investigation of pore clogging during discharge
+of a Li/O<sub>2</sub> battery by electrochemical impedance spectroscopy</article-title>. <source>J. Power Sources</source>
+<year>2015</year>, <volume>278</volume>, <fpage>255</fpage>&#x02013;<lpage>264</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.12.076</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Xiao</surname><given-names>J.</given-names></name>; <name><surname>Wanga</surname><given-names>D.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>D.</given-names></name>; <name><surname>Williford</surname><given-names>R. E.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>
+<article-title>Optimization
+of air electrode for Li/Air batteries</article-title>. <source>J. Electrochem.
+Soc.</source>
+<year>2010</year>, <volume>157</volume>, <fpage>A487</fpage>&#x02013;<lpage>A492</lpage>. <pub-id pub-id-type="doi">10.1149/1.3314375</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Li</surname><given-names>Q.</given-names></name>; <name><surname>Cao</surname><given-names>R.</given-names></name>; <name><surname>Cho</surname><given-names>J.</given-names></name>; <name><surname>Wu</surname><given-names>G.</given-names></name>
+<article-title>Nanostructured carbon-based cathode
+catalysts for nonaqueous lithium&#x02013;oxygen batteries</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2014</year>, <volume>16</volume>, <fpage>13568</fpage>&#x02013;<lpage>13582</lpage>. <pub-id pub-id-type="doi">10.1039/C4CP00225C</pub-id>.<pub-id pub-id-type="pmid">24715024</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Veith</surname><given-names>G. M.</given-names></name>; <name><surname>Nanda</surname><given-names>J.</given-names></name>; <name><surname>Delmau</surname><given-names>L. H.</given-names></name>; <name><surname>Dudney</surname><given-names>N. J.</given-names></name>
+<article-title>Influence of lithium
+salts on the discharge chemistry of Li&#x02013;Air Cells</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2012</year>, <volume>3</volume>, <fpage>1242</fpage>&#x02013;<lpage>1247</lpage>. <pub-id pub-id-type="doi">10.1021/jz300430s</pub-id>.<pub-id pub-id-type="pmid">26286765</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Lu</surname><given-names>Y.-C.</given-names></name>; <name><surname>Gasteiger</surname><given-names>H. A.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+<article-title>Catalytic activity trends of oxygen
+reduction reaction for nonaqueous Li-Air Batteries</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2011</year>, <volume>133</volume>, <fpage>19048</fpage>&#x02013;<lpage>19051</lpage>. <pub-id pub-id-type="doi">10.1021/ja208608s</pub-id>.<pub-id pub-id-type="pmid">22044022</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Marinaro</surname><given-names>M.</given-names></name>; <name><surname>Theil</surname><given-names>S.</given-names></name>; <name><surname>J&#x000f6;rissen</surname><given-names>L.</given-names></name>; <name><surname>Wohlfahrt-Mehrens</surname><given-names>M.</given-names></name>
+<article-title>New insights
+about the stability of lithium bis(trifluoromethane)sulfonimide-tetraglyme
+as electrolyte for Li&#x02013;O<sub>2</sub> batteries</article-title>. <source>Electrochim. Acta</source>
+<year>2013</year>, <volume>108</volume>, <fpage>795</fpage>&#x02013;<lpage>800</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2013.06.147</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Messaggi</surname><given-names>F.</given-names></name>; <name><surname>Ruggeri</surname><given-names>I.</given-names></name>; <name><surname>Genovese</surname><given-names>D.</given-names></name>; <name><surname>Zaccheroni</surname><given-names>N.</given-names></name>; <name><surname>Arbizzani</surname><given-names>C.</given-names></name>; <name><surname>Soavi</surname><given-names>F.</given-names></name>
+<article-title>Oxygen redox reaction
+in lithium-based
+electrolytes: from salt-in-solvent to solvent-in-salt</article-title>. <source>Electrochim. Acta</source>
+<year>2017</year>, <volume>245</volume>, <fpage>296</fpage>&#x02013;<lpage>302</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2017.05.133</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Markus</surname><given-names>I. M.</given-names></name>; <name><surname>Jones</surname><given-names>G.</given-names></name>; <name><surname>Garc&#x000ed;a</surname><given-names>J. M.</given-names></name>
+<article-title>Investigation
+of electrolyte concentration
+effects on the performance of lithium&#x02013;oxygen batteries</article-title>. <source>J. Phys. Chem. C</source>
+<year>2016</year>, <volume>120</volume>, <fpage>5949</fpage>&#x02013;<lpage>5957</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.6b01474</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Li</surname><given-names>F.</given-names></name>; <name><surname>Zhang</surname><given-names>T.</given-names></name>; <name><surname>Yamada</surname><given-names>Y.</given-names></name>; <name><surname>Yamada</surname><given-names>A.</given-names></name>; <name><surname>Zhou</surname><given-names>H.</given-names></name>
+<article-title>Enhanced cycling
+performance of Li-O<sub>2</sub> batteries by the optimized electrolyte
+concentration of LiTFSA in glymes</article-title>. <source>Adv. Energy
+Mater.</source>
+<year>2013</year>, <volume>3</volume>, <fpage>532</fpage>&#x02013;<lpage>538</lpage>. <pub-id pub-id-type="doi">10.1002/aenm.201200776</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Gittleson</surname><given-names>F. S.</given-names></name>; <name><surname>Jones</surname><given-names>R. E.</given-names></name>; <name><surname>Ward</surname><given-names>D. K.</given-names></name>; <name><surname>Foster</surname><given-names>M. E.</given-names></name>
+<article-title>Oxygen solubility
+and transport in Li&#x02013;air battery electrolytes: establishing
+criteria and strategies for electrolyte design</article-title>. <source>Energy Environ. Sci.</source>
+<year>2017</year>, <volume>10</volume>, <fpage>1167</fpage>&#x02013;<lpage>1179</lpage>. <pub-id pub-id-type="doi">10.1039/C6EE02915A</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Klassen</surname><given-names>B.</given-names></name>; <name><surname>Aroca</surname><given-names>R.</given-names></name>; <name><surname>Nazri</surname><given-names>M.</given-names></name>; <name><surname>Nazri</surname><given-names>G. A.</given-names></name>
+<article-title>Raman spectra and
+transport properties of lithium perchlorate in ethylene carbonate
+based binary solvent systems for lithium batteries</article-title>. <source>J. Phys. Chem. B</source>
+<year>1998</year>, <volume>102</volume>, <fpage>4795</fpage>&#x02013;<lpage>4801</lpage>. <pub-id pub-id-type="doi">10.1021/jp973099d</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Xiao</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>D.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>
+<article-title>Optimization
+of nonaqueous electrolytes for primary lithium/air batteries operated
+in ambient environment</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2009</year>, <volume>156</volume>, <fpage>A773</fpage>&#x02013;<lpage>A779</lpage>. <pub-id pub-id-type="doi">10.1149/1.3168564</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Liu</surname><given-names>B.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Yan</surname><given-names>P.</given-names></name>; <name><surname>Sun</surname><given-names>X.</given-names></name>; <name><surname>Bowden</surname><given-names>M. E.</given-names></name>; <name><surname>Read</surname><given-names>J.</given-names></name>; <name><surname>Qian</surname><given-names>J.</given-names></name>; <name><surname>Mei</surname><given-names>D.</given-names></name>; <name><surname>Wang</surname><given-names>C. M.</given-names></name>; <name><surname>Zhang</surname><given-names>J. G.</given-names></name>
+<article-title>Enhanced
+cycling stability of rechargeable Li&#x02013;O<sub>2</sub> batteries
+using high-concentration electrolytes</article-title>. <source>Adv.
+Funct. Mater.</source>
+<year>2016</year>, <volume>26</volume>, <fpage>605</fpage>&#x02013;<lpage>613</lpage>. <pub-id pub-id-type="doi">10.1002/adfm.201503697</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Suo</surname><given-names>L.</given-names></name>; <name><surname>Lin</surname><given-names>H.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Fang</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>D.</given-names></name>; <name><surname>Hu</surname><given-names>Y.-S.</given-names></name>; <name><surname>Han</surname><given-names>W.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>
+<article-title>Novel approach
+for a high-energy-density Li&#x02013;air battery: tri-dimensional growth
+of Li<sub>2</sub>O<sub>2</sub> crystals tailored by electrolyte Li<sup>+</sup> ion concentrations</article-title>. <source>J. Mater. Chem.
+A</source>
+<year>2014</year>, <volume>2</volume>, <fpage>9020</fpage>&#x02013;<lpage>9024</lpage>. <pub-id pub-id-type="doi">10.1039/c4ta00834k</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Padbury</surname><given-names>R.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>
+<article-title>Lithium&#x02013;oxygen
+batteries&#x02014;limiting factors that affect
+performance</article-title>. <source>J. Power Sources</source>
+<year>2011</year>, <volume>196</volume>, <fpage>4436</fpage>&#x02013;<lpage>4444</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2011.01.032</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Kim</surname><given-names>B. G.</given-names></name>; <name><surname>Kim</surname><given-names>H.-J.</given-names></name>; <name><surname>Back</surname><given-names>S.</given-names></name>; <name><surname>Nam</surname><given-names>K. W.</given-names></name>; <name><surname>Jung</surname><given-names>Y.</given-names></name>; <name><surname>Han</surname><given-names>Y.-K.</given-names></name>; <name><surname>Choi</surname><given-names>J. W.</given-names></name>
+<article-title>Improved
+reversibility in lithium-oxygen
+battery: understanding elementary reactions and surface charge engineering
+of metal alloy catalyst</article-title>. <source>Sci. Rep.</source>
+<year>2014</year>, <volume>4</volume>, <elocation-id>4225</elocation-id><pub-id pub-id-type="doi">10.1038/srep04225</pub-id>.<pub-id pub-id-type="pmid">24573326</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Yao</surname><given-names>X.</given-names></name>; <name><surname>Dong</surname><given-names>Q.</given-names></name>; <name><surname>Cheng</surname><given-names>Q.</given-names></name>; <name><surname>Wang</surname><given-names>D.</given-names></name>
+<article-title>Why do lithium&#x02013;oxygen
+batteries fail: parasitic chemical reactions and their synergistic
+effect</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2016</year>, <volume>55</volume>, <fpage>11344</fpage>&#x02013;<lpage>11353</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201601783</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Elia</surname><given-names>G. A.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>; <name><surname>Kwak</surname><given-names>W.-J.</given-names></name>; <name><surname>Sun</surname><given-names>Y.-K.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>; <name><surname>Mueller</surname><given-names>F.</given-names></name>; <name><surname>Bresser</surname><given-names>D.</given-names></name>; <name><surname>Passerini</surname><given-names>S.</given-names></name>; <name><surname>Oberhumer</surname><given-names>P.</given-names></name>; <name><surname>Tsiouvaras</surname><given-names>N.</given-names></name>; <name><surname>Reiter</surname><given-names>J.</given-names></name>
+<article-title>An advanced lithium&#x02013;air
+battery exploiting an ionic liquid-based electrolyte</article-title>. <source>Nano Lett.</source>
+<year>2014</year>, <volume>14</volume>, <fpage>6572</fpage>&#x02013;<lpage>6577</lpage>. <pub-id pub-id-type="doi">10.1021/nl5031985</pub-id>.<pub-id pub-id-type="pmid">25329836</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Burke</surname><given-names>C. M.</given-names></name>; <name><surname>Pande</surname><given-names>V.</given-names></name>; <name><surname>Khetan</surname><given-names>A.</given-names></name>; <name><surname>Viswanathan</surname><given-names>V.</given-names></name>; <name><surname>McCloskey</surname><given-names>B. D.</given-names></name>
+<article-title>Enhancing electrochemical intermediate
+solvation through
+electrolyte anion selection to increase nonaqueous Li&#x02013;O<sub>2</sub> battery capacity</article-title>. <source>Proc. Natl. Acad.
+Sci. U.S.A.</source>
+<year>2015</year>, <volume>112</volume>, <fpage>9293</fpage>&#x02013;<lpage>9298</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1505728112</pub-id>.<pub-id pub-id-type="pmid">26170330</pub-id></mixed-citation></ref></ref-list></back></article>

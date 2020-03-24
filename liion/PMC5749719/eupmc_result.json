@@ -1,0 +1,395 @@
+{
+  "id": [
+    "29293535"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29293535"
+  ],
+  "pmcid": [
+    "PMC5749719"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0189757"
+  ],
+  "title": [
+    "Simulation of electrochemical behavior in Lithium ion battery during discharge process."
+  ],
+  "authorString": [
+    "Chen Y, Huo W, Lin M, Zhao L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Beijing Information Science and Technology University, Collaborative Innovation Center of Electric Vehicles in Beijing, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huo W"
+          ],
+          "firstName": [
+            "Weiwei"
+          ],
+          "lastName": [
+            "Huo"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4776-2390",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Beijing Information Science and Technology University, Collaborative Innovation Center of Electric Vehicles in Beijing, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin M"
+          ],
+          "firstName": [
+            "Muyi"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Beijing Information Science and Technology University, Collaborative Innovation Center of Electric Vehicles in Beijing, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Beijing Information Science and Technology University, Collaborative Innovation Center of Electric Vehicles in Beijing, Beijing, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4776-2390",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2633893"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0189757"
+  ],
+  "abstractText": [
+    "An electrochemical Lithium ion battery model was built taking into account the electrochemical reactions. The polarization was divided into parts which were related to the solid phase and the electrolyte mass transport of species, and the electrochemical reactions. The influence factors on battery polarization were studied, including the active material particle radius and the electrolyte salt concentration. The results showed that diffusion polarization exist in the positive and negative electrodes, and diffusion polarization increase with the conducting of the discharge process. The physicochemical parameters of the Lithium ion battery had the huge effect on cell voltage via polarization. The simulation data show that the polarization voltage has close relationship with active material particle size, discharging rate and ambient temperature."
+  ],
+  "affiliation": [
+    "Beijing Information Science and Technology University, Collaborative Innovation Center of Electric Vehicles in Beijing, Beijing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Lithium"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electrochemistry"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Electric Power Supplies"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Lithium"
+          ],
+          "registryNumber": [
+            "9FN79X2M3F"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0189757"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5749719"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5749719?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-02-15"
+  ],
+  "dateOfCreation": [
+    "2018-01-03"
+  ],
+  "firstIndexDate": [
+    "2018-01-03"
+  ],
+  "fullTextReceivedDate": [
+    "2018-01-28"
+  ],
+  "dateOfRevision": [
+    "2018-02-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-02"
+  ],
+  "firstPublicationDate": [
+    "2018-01-02"
+  ]
+}

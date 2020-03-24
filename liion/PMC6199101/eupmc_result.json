@@ -1,0 +1,392 @@
+{
+  "id": [
+    "30393704"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30393704"
+  ],
+  "pmcid": [
+    "PMC6199101"
+  ],
+  "doi": [
+    "10.1007/s40820-018-0209-1"
+  ],
+  "title": [
+    "Bi Nanoparticles Anchored in N-Doped Porous Carbon as Anode of High Energy Density Lithium Ion Battery."
+  ],
+  "authorString": [
+    "Zhong Y, Li B, Li S, Xu S, Pan Z, Huang Q, Xing L, Wang C, Li W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhong Y"
+          ],
+          "firstName": [
+            "Yaotang"
+          ],
+          "lastName": [
+            "Zhong"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "1School of Chemistry and Environment, South China Normal University, Guangzhou, 510006 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "1School of Chemistry and Environment, South China Normal University, Guangzhou, 510006 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li S"
+          ],
+          "firstName": [
+            "Shumin"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "1School of Chemistry and Environment, South China Normal University, Guangzhou, 510006 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu S"
+          ],
+          "firstName": [
+            "Shuyuan"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "1School of Chemistry and Environment, South China Normal University, Guangzhou, 510006 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Pan Z"
+          ],
+          "firstName": [
+            "Zhenghui"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "1School of Chemistry and Environment, South China Normal University, Guangzhou, 510006 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Q"
+          ],
+          "firstName": [
+            "Qiming"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "1School of Chemistry and Environment, South China Normal University, Guangzhou, 510006 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xing L"
+          ],
+          "firstName": [
+            "Lidan"
+          ],
+          "lastName": [
+            "Xing"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "1School of Chemistry and Environment, South China Normal University, Guangzhou, 510006 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang C"
+          ],
+          "firstName": [
+            "Chunsheng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "3Department of Chemical and Bimolecular Engineering, University of Maryland, College Park, College Park, MD 20740 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Li W"
+          ],
+          "firstName": [
+            "Weishan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "1School of Chemistry and Environment, South China Normal University, Guangzhou, 510006 People's Republic of China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2744826"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nano-micro letters"
+          ],
+          "ISOAbbreviation": [
+            "Nanomicro Lett"
+          ],
+          "medlineAbbreviation": [
+            "Nanomicro Lett"
+          ],
+          "NLMid": [
+            "101727940"
+          ],
+          "ISSN": [
+            "2311-6706"
+          ],
+          "ESSN": [
+            "2150-5551"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "56"
+  ],
+  "abstractText": [
+    "A novel bismuth-carbon composite, in which bismuth nanoparticles were anchored in a nitrogen-doped carbon matrix (Bi@NC), is proposed as anode for high volumetric energy density lithium ion batteries (LIBs). Bi@NC composite was synthesized via carbonization of Zn-containing zeolitic imidazolate (ZIF-8) and replacement of Zn with Bi, resulting in the N-doped carbon that was hierarchically porous and anchored with Bi nanoparticles. The matrix provides a highly electronic conductive network that facilitates the lithiation/delithiation of Bi. Additionally, it restrains aggregation of Bi nanoparticles and serves as a buffer layer to alleviate the mechanical strain of Bi nanoparticles upon Li insertion/extraction. With these contributions, Bi@NC exhibits excellent cycling stability and rate capacity compared to bare Bi nanoparticles or their simple composites with carbon. This study provides a new approach for fabricating high volumetric energy density LIBs."
+  ],
+  "affiliation": [
+    "1School of Chemistry and Environment, South China Normal University, Guangzhou, 510006 People's Republic of China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium-ion battery",
+        "Anode",
+        "Porous N-doped Carbon",
+        "High Energy Density",
+        "Bi Nanoparticles"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s40820-018-0209-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6199101"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6199101?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-06"
+  ],
+  "firstIndexDate": [
+    "2018-11-05"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-05"
+  ],
+  "dateOfRevision": [
+    "2018-11-07"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-08"
+  ],
+  "firstPublicationDate": [
+    "2018-06-08"
+  ]
+}

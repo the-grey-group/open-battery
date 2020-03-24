@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6523519/results/word/frequencies/results.xml">
+  <result title="frequency" word="Figure" count="50"/>
+  <result title="frequency" word="silicon" count="46"/>
+  <result title="frequency" word="capacity" count="40"/>
+  <result title="frequency" word="Si@C" count="39"/>
+  <result title="frequency" word="material" count="38"/>
+  <result title="frequency" word="anode" count="35"/>
+  <result title="frequency" word="carbon" count="34"/>
+  <result title="frequency" word="Si@C-@" count="27"/>
+  <result title="frequency" word="lithium" count="23"/>
+  <result title="frequency" word="battery" count="22"/>
+ </snippets>
+</snippetsTree>

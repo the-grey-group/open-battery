@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC5638292/results/word/frequencies/results.xml">
+  <result title="frequency" word="Good" count="62"/>
+  <result title="frequency" word="Bad" count="54"/>
+  <result title="frequency" word="battery" count="53"/>
+  <result title="frequency" word="cells" count="31"/>
+  <result title="frequency" word="sorting" count="27"/>
+  <result title="frequency" word="Fig" count="23"/>
+  <result title="frequency" word="Sanyo" count="22"/>
+  <result title="frequency" word="batteries" count="21"/>
+ </snippets>
+</snippetsTree>

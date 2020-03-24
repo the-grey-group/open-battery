@@ -1,0 +1,347 @@
+{
+  "id": [
+    "32149239"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32149239"
+  ],
+  "pmcid": [
+    "PMC7057695"
+  ],
+  "doi": [
+    "10.1021/acsomega.9b03794"
+  ],
+  "title": [
+    "Entropy Change Characteristics of the LiNi0.5Mn1.5O4 Cathode Material for Lithium-Ion Batteries."
+  ],
+  "authorString": [
+    "Mao J, Zhang P, Liu X, Liu Y, Shao G, Dai K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mao J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Mao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Zhengzhou University, Zhengzhou 450001, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang P"
+          ],
+          "firstName": [
+            "Peng"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Zhengzhou University, Zhengzhou 450001, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xin"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Zhengzhou University, Zhengzhou 450001, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yanxia"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Zhengzhou Institute of Emerging Industrial Technology, Zhengzhou 450001, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shao G"
+          ],
+          "firstName": [
+            "Guosheng"
+          ],
+          "lastName": [
+            "Shao"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1498-7929",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Zhengzhou University, Zhengzhou 450001, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dai K"
+          ],
+          "firstName": [
+            "Kehua"
+          ],
+          "lastName": [
+            "Dai"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "College of Chemistry, Tianjin Normal University, Tianjin 300387, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1498-7929",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2922082"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "4109-4114"
+  ],
+  "abstractText": [
+    "Lithium-ion batteries are widely used in the field of new energy vehicles and energy storage. Understanding the electrode reaction of lithium-ion batteries is the key to improve their cycle life and safety. Direct measurement of thermodynamic data of the electrode reaction is a practical, economical, and nondestructive method for electrode characterization. In this paper, the open-circuit voltage of the LiNi0.5Mn1.5O4/Li half-cell is measured at different discharge states and different temperatures. The dE/dT-SOD (state of discharge) relation curves are fitted linearly by the least square method, and the entropy change values of different SODs are calculated. Finally, the Gibbs free energy and enthalpy change of different SODs are obtained. The electrode reaction of LiNi0.5Mn1.5O4 in different SODs was discussed by the entropy change in different SODs. According to the evolution trend of ΔS, the lithium intercalation reaction of LiNi0.5Mn1.5O4 may be a single-phase solid solution reaction rather than a two-phase reaction. Finally, the reversible heat generation at different current values and SODs are calculated."
+  ],
+  "affiliation": [
+    "School of Materials Science and Engineering, Zhengzhou University, Zhengzhou 450001, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.9b03794"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7057695"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7057695?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-10"
+  ],
+  "firstIndexDate": [
+    "2020-03-11"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-09"
+  ],
+  "dateOfRevision": [
+    "2020-03-20"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-20"
+  ],
+  "firstPublicationDate": [
+    "2020-02-20"
+  ]
+}

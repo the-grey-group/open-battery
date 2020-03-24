@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC4742879/results/search/country/results.xml">
+  <result pre="Fine Processing, Key Laboratory of Advanced Materials (MOE), Tsinghua University" exact="China" post="[2], Department of Micro- and Nanotechnology, Technical University of"/>
+  <result pre="China [2], Department of Micro- and Nanotechnology, Technical University of" exact="Denmark" post="Denmark [3], Institute of Nuclear and New Energy Technology,"/>
+  <result pre="[2], Department of Micro- and Nanotechnology, Technical University of Denmark" exact="Denmark" post="[3], Institute of Nuclear and New Energy Technology, Tsinghua"/>
+  <result pre="[3], Institute of Nuclear and New Energy Technology, Tsinghua University" exact="China" post="[4], School of Metallurgy and Environment, Central South University"/>
+  <result pre="China [4], School of Metallurgy and Environment, Central South University" exact="China" post="[5], School of Resources and Materials, Northeastern University at"/>
+  <result pre="[5], School of Resources and Materials, Northeastern University at Qinhuangdao" exact="China" post="[6], Department of Chemistry, Tsinghua University China a hysuny@mail.tsinghua.edu.cn"/>
+  <result pre="University at Qinhuangdao China [6], Department of Chemistry, Tsinghua University" exact="China" post="a hysuny@mail.tsinghua.edu.cn b jzhu@mail.tsinghua.edu.cn epub: 2016-02-02 collection: 2016 6"/>
+  <result pre="work was financially supported by the National 973 Project of" exact="China" post="(2015CB654902) and Chinese National Natural Science Foundation (11374174, 51390471,"/>
+ </snippets>
+</snippetsTree>

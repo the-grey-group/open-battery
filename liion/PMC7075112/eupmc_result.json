@@ -1,0 +1,382 @@
+{
+  "id": [
+    "32085435"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32085435"
+  ],
+  "pmcid": [
+    "PMC7075112"
+  ],
+  "doi": [
+    "10.3390/nano10020346"
+  ],
+  "title": [
+    "Hierarchically Porous Carbon Derived from Biomass Reed Flowers as Highly Stable Li-Ion Battery Anode."
+  ],
+  "authorString": [
+    "Zhao W, Wen J, Zhao Y, Wang Z, Shi Y, Zhao Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao W"
+          ],
+          "firstName": [
+            "Weimin"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Hebei University of Technology, Tianjin 300401, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wen J"
+          ],
+          "firstName": [
+            "Jingjing"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Hebei University of Technology, Tianjin 300401, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yanming"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Hebei University of Technology, Tianjin 300401, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhifeng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3880-1957",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Hebei University of Technology, Tianjin 300401, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi Y"
+          ],
+          "firstName": [
+            "Yaru"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Mechanical Engineering, Hebei University of Technology, Tianjin 300401, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Hebei University of Technology, Tianjin 300401, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3880-1957",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2909806"
+      ],
+      "dateOfPublication": [
+        "2020 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomaterials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "NLMid": [
+            "101610216"
+          ],
+          "ISSN": [
+            "2079-4991"
+          ],
+          "ESSN": [
+            "2079-4991"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "As lithium-ion battery (LIB) anode materials, porous carbons with high specific surface area are highly required because they can well accommodate huge volume expansion/contraction during cycling. In this work, hierarchically porous carbon (HPC) with high specific surface area (~1714.83 m2 g-1) is synthesized from biomass reed flowers. The material presents good cycling stability as an LIB anode, delivering an excellent reversible capacity of 581.2 mAh g-1 after cycling for 100 cycles at a current density of 100 mA g-1, and still remains a reversible capacity of 298.5 mAh g-1 after cycling for 1000 cycles even at 1000 mA g-1. The good electrochemical performance can be ascribed to the high specific surface area of the HPC network, which provides rich and fast paths for electron and ion transfer and provides large contact area and mutual interactions between the electrolyte and active materials. The work proposes a new route for the preparation of low cost carbon-based anodes and may promote the development of other porous carbon materials derived from various biomass carbon sources."
+  ],
+  "affiliation": [
+    "School of Materials Science and Engineering, Hebei University of Technology, Tianjin 300401, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "ZD2018059"
+          ],
+          "agency": [
+            "Key Project of Science & Technology Research of Higher Education Institutions of Hebei Province, China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biomass",
+        "Carbon",
+        "Porous",
+        "Anode",
+        "Li-ion Battery"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nano10020346"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7075112"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7075112?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-02-23"
+  ],
+  "firstIndexDate": [
+    "2020-02-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-23"
+  ],
+  "dateOfRevision": [
+    "2020-03-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-18"
+  ],
+  "firstPublicationDate": [
+    "2020-02-18"
+  ]
+}

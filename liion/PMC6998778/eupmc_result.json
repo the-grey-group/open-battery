@@ -1,0 +1,328 @@
+{
+  "id": [
+    "32047412"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32047412"
+  ],
+  "pmcid": [
+    "PMC6998778"
+  ],
+  "doi": [
+    "10.1107/S160057671901714X"
+  ],
+  "title": [
+    "Li-ion half-cells studied operando during cycling by small-angle neutron scattering."
+  ],
+  "authorString": [
+    "Hattendorff J, Seidlmayer S, Gasteiger HA, Gilles R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hattendorff J"
+          ],
+          "firstName": [
+            "Johannes"
+          ],
+          "lastName": [
+            "Hattendorff"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Chair of Technical Electrochemistry, Department of Chemistry and Catalysis Research Center, Technische Universität München, Lichtenbergstrasse 4, Garching 85748, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Seidlmayer S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Seidlmayer"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Heinz Maier-Leibnitz Zentrum (MLZ), Technische Universität München, Lichtenbergstrasse 1, Garching 85748, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Gasteiger HA"
+          ],
+          "firstName": [
+            "Hubert A"
+          ],
+          "lastName": [
+            "Gasteiger"
+          ],
+          "initials": [
+            "HA"
+          ],
+          "affiliation": [
+            "Chair of Technical Electrochemistry, Department of Chemistry and Catalysis Research Center, Technische Universität München, Lichtenbergstrasse 4, Garching 85748, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Gilles R"
+          ],
+          "firstName": [
+            "Ralph"
+          ],
+          "lastName": [
+            "Gilles"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2703-4369",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Heinz Maier-Leibnitz Zentrum (MLZ), Technische Universität München, Lichtenbergstrasse 1, Garching 85748, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2703-4369",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Pt 1"
+      ],
+      "volume": [
+        "53"
+      ],
+      "journalIssueId": [
+        "2912657"
+      ],
+      "dateOfPublication": [
+        "2020 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of applied crystallography"
+          ],
+          "ISOAbbreviation": [
+            "J Appl Crystallogr"
+          ],
+          "medlineAbbreviation": [
+            "J Appl Crystallogr"
+          ],
+          "NLMid": [
+            "9876190"
+          ],
+          "ISSN": [
+            "0021-8898"
+          ],
+          "ESSN": [
+            "1600-5767"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "210-221"
+  ],
+  "abstractText": [
+    "Small-angle neutron scattering (SANS) was recently applied to the in situ and operando study of the charge/discharge process in Li-ion battery full-cells based on a pouch cell design. Here, this work is continued in a half-cell with a graphite electrode cycled versus a metallic lithium counter electrode, in a study conducted on the SANS-1 instrument of the neutron source FRM II at the Heinz Maier-Leibnitz Zentrum in Garching, Germany. It is confirmed that the SANS integrated intensity signal varies as a function of graphite lithiation, and this variation can be explained by changes in the squared difference in scattering length density between graphite and the electrolyte. The scattering contrast change upon graphite lithiation/delithiation calculated from a multi-phase neutron scattering model is in good agreement with the experimentally measured values. Due to the finite coherence length, the observed SANS contrast, which mostly stems from scattering between the (lithiated) graphite and the electrolyte phase, contains local information on the mesoscopic scale, which allows the development of lithiated phases in the graphite to be followed. The shape of the SANS signal curve can be explained by a core-shell model with step-wise (de)lithiation from the surface. Here, for the first time, X-ray diffraction, SANS and theory are combined to give a full picture of graphite lithiation in a half-cell. The goal of this contribution is to confirm the correlation between the integrated SANS data obtained during operando measurements of an Li-ion half-cell and the electrochemical processes of lithiation/delithiation in micro-scaled graphite particles. For a deeper understanding of this correlation, modelling and experimental data for SANS and results from X-ray diffraction were taken into account."
+  ],
+  "affiliation": [
+    "Chair of Technical Electrochemistry, Department of Chemistry and Catalysis Research Center, Technische Universität München, Lichtenbergstrasse 4, Garching 85748, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "lithium",
+        "Graphite",
+        "Sans",
+        "Small-angle Neutron Scattering",
+        "Batteries",
+        "Lithiation Process"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1107/S160057671901714X"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6998778"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6998778?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-02-13"
+  ],
+  "firstIndexDate": [
+    "2020-02-13"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-16"
+  ],
+  "dateOfRevision": [
+    "2020-02-14"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-01"
+  ],
+  "firstPublicationDate": [
+    "2020-02-01"
+  ]
+}

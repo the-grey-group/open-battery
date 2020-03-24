@@ -1,0 +1,454 @@
+{
+  "id": [
+    "31974360"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31974360"
+  ],
+  "pmcid": [
+    "PMC6978343"
+  ],
+  "doi": [
+    "10.1038/s41467-019-14121-1"
+  ],
+  "title": [
+    "Synergistic effect of quinary molten salts and ruthenium catalyst for high-power-density lithium-carbon dioxide cell."
+  ],
+  "authorString": [
+    "Baek K, Jeon WC, Woo S, Kim JC, Lee JG, An K, Kwak SK, Kang SJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Baek K"
+          ],
+          "firstName": [
+            "Kyungeun"
+          ],
+          "lastName": [
+            "Baek"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, 44919, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jeon WC"
+          ],
+          "firstName": [
+            "Woo Cheol"
+          ],
+          "lastName": [
+            "Jeon"
+          ],
+          "initials": [
+            "WC"
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, 44919, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Woo S"
+          ],
+          "firstName": [
+            "Seongho"
+          ],
+          "lastName": [
+            "Woo"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, 44919, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim JC"
+          ],
+          "firstName": [
+            "Jin Chul"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, 44919, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee JG"
+          ],
+          "firstName": [
+            "Jun Gyeong"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "JG"
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, 44919, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "An K"
+          ],
+          "firstName": [
+            "Kwangjin"
+          ],
+          "lastName": [
+            "An"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5239-0296",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, 44919, Republic of Korea. kjan@unist.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Kwak SK"
+          ],
+          "firstName": [
+            "Sang Kyu"
+          ],
+          "lastName": [
+            "Kwak"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0332-1534",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, 44919, Republic of Korea. skkwak@unist.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Kang SJ"
+          ],
+          "firstName": [
+            "Seok Ju"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9921-6674",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, 44919, Republic of Korea. sjkang@unist.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5239-0296",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0332-1534",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9921-6674",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2896774"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "456"
+  ],
+  "abstractText": [
+    "With a recent increase in interest in metal-gas batteries, the lithium-carbon dioxide cell has attracted considerable attention because of its extraordinary carbon dioxide-capture ability during the discharge process and its potential application as a power source for Mars exploration. However, owing to the stable lithium carbonate discharge product, the cell enables operation only at low current densities, which significantly limits the application of lithium-carbon dioxide batteries and effective carbon dioxide-capture cells. Here, we investigate a high-performance lithium-carbon dioxide cell using a quinary molten salt electrolyte and ruthenium nanoparticles on the carbon cathode. The nitrate-based molten salt electrolyte allows us to observe the enhanced carbon dioxide-capture rate and the reduced discharge-charge over-potential gap with that of conventional lithium-carbon dioxide cells. Furthermore, owing to the ruthernium catalyst, the cell sustains its performance over more than 300 cycles at a current density of 10.0 A g-1 and exhibits a peak power density of 33.4 mW cm-2."
+  ],
+  "affiliation": [
+    "Department of Energy Engineering, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, 44919, Republic of Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2018M3D3A1A01055761"
+          ],
+          "agency": [
+            "National Research Foundation of Korea (NRF)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "20194010201890"
+          ],
+          "agency": [
+            "Ministry of Knowledge Economy | Korea Institute of Energy Technology Evaluation and Planning (KETEP)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-14121-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6978343"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6978343?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-25"
+  ],
+  "firstIndexDate": [
+    "2020-01-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-05"
+  ],
+  "dateOfRevision": [
+    "2020-03-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-23"
+  ],
+  "firstPublicationDate": [
+    "2020-01-23"
+  ]
+}

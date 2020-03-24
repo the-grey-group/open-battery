@@ -1,0 +1,352 @@
+{
+  "id": [
+    "31491853"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31491853"
+  ],
+  "pmcid": [
+    "PMC6780565"
+  ],
+  "doi": [
+    "10.3390/nano9091256"
+  ],
+  "title": [
+    "Flower-Like MoSe2/MoO2 Composite with High Capacity and Long-Term Stability for Lithium-Ion Battery."
+  ],
+  "authorString": [
+    "Hao Q, Cui G, Zhao Y, Bakenov Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hao Q"
+          ],
+          "firstName": [
+            "Qiuyan"
+          ],
+          "lastName": [
+            "Hao"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Hebei University of Technology, Tianjin 300130, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cui G"
+          ],
+          "firstName": [
+            "Guoliang"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Hebei University of Technology, Tianjin 300130, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Materials Science and Engineering, Hebei University of Technology, Tianjin 300130, China. yanzhao1984@hebut.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Bakenov Z"
+          ],
+          "firstName": [
+            "Zhumabay"
+          ],
+          "lastName": [
+            "Bakenov"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2781-4955",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Batteries LLC, National Laboratory Astana, Nazarbayev University, 53 Kabanbay Batyr Avenue, Nur-Sultan 010000, Kazakhstan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2781-4955",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2854468"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomaterials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "NLMid": [
+            "101610216"
+          ],
+          "ISSN": [
+            "2079-4991"
+          ],
+          "ESSN": [
+            "2079-4991"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "A simple method is developed for the preparation of MoSe2/MoO2 composite with a flower-like structure for high-performance lithium-ion batteries (LIBs). MoSe2 could lead to fast and facile movement of Li+ due to its larger interlayer spacing. Meanwhile, MoO2 could protect the lamellar structure of MoSe2 from being destroyed in the charging/discharging processes to maintain the required active surface to electrolytes. In addition, the flower-like structure of the composite could effectively alleviate the volume expansion during charging/discharging. As LIBs are anode material, MoSe2/MoO2 composite demonstrates an excellent specific discharge capacity of 1042 mAh g-1 after 100 cycles at 0.1 A g-1, which is attributed to the synergistic effects of MoSe2 and MoO2 in the composite."
+  ],
+  "affiliation": [
+    "School of Materials Science and Engineering, Hebei University of Technology, Tianjin 300130, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BR05236524"
+          ],
+          "agency": [
+            "Ministry of Education and Science of the Republic of Kazakhstan"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Development of safe and high performance flexible Li-ion batteries"
+          ],
+          "agency": [
+            "Nazarbayev University"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Capacity",
+        "Libs",
+        "Anode",
+        "Mose2/moo2 Composite",
+        "Long-term Cycle Performance"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nano9091256"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6780565"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6780565?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-08"
+  ],
+  "firstIndexDate": [
+    "2019-09-07"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-06"
+  ],
+  "dateOfRevision": [
+    "2019-11-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-05"
+  ],
+  "firstPublicationDate": [
+    "2019-09-05"
+  ]
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6790600/results/word/frequencies/results.xml">
+  <result title="frequency" word="capacity" count="100"/>
+  <result title="frequency" word="cell" count="79"/>
+  <result title="frequency" word="voltage" count="74"/>
+  <result title="frequency" word="organic" count="71"/>
+  <result title="frequency" word="Chem." count="67"/>
+  <result title="frequency" word="Mater." count="65"/>
+  <result title="frequency" word="stable" count="63"/>
+  <result title="frequency" word="active" count="61"/>
+  <result title="frequency" word="Wang" count="55"/>
+  <result title="frequency" word=" mAh g" count="55"/>
+  <result title="frequency" word="materials" count="51"/>
+  <result title="frequency" word="hybrid" count="50"/>
+  <result title="frequency" word=" cycles." count="47"/>
+  <result title="frequency" word="Zhang" count="44"/>
+  <result title="frequency" word="lithium‐ion" count="44"/>
+  <result title="frequency" word="conductive" count="35"/>
+  <result title="frequency" word="showed" count="34"/>
+  <result title="frequency" word="used" count="33"/>
+  <result title="frequency" word="redox" count="32"/>
+  <result title="frequency" word="Chen" count="29"/>
+  <result title="frequency" word="based" count="29"/>
+  <result title="frequency" word="Adv." count="28"/>
+  <result title="frequency" word="electrode" count="27"/>
+  <result title="frequency" word="Liu" count="26"/>
+  <result title="frequency" word="aromatic" count="26"/>
+  <result title="frequency" word="discharge" count="26"/>
+  <result title="frequency" word="initial" count="25"/>
+  <result title="frequency" word="rate" count="25"/>
+  <result title="frequency" word="systems" count="25"/>
+  <result title="frequency" word="carbon" count="24"/>
+  <result title="frequency" word="high" count="24"/>
+  <result title="frequency" word="specific" count="24"/>
+  <result title="frequency" word="Energy" count="23"/>
+  <result title="frequency" word="Yang" count="23"/>
+  <result title="frequency" word="material" count="22"/>
+  <result title="frequency" word="polymers" count="22"/>
+  <result title="frequency" word="revealed" count="22"/>
+  <result title="frequency" word="(Figure " count="21"/>
+  <result title="frequency" word="lithium" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,345 @@
+{
+  "id": [
+    "31968547"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31968547"
+  ],
+  "pmcid": [
+    "PMC7022625"
+  ],
+  "doi": [
+    "10.3390/nano10010177"
+  ],
+  "title": [
+    "The Application of Indium Oxide@CPM-5-C-600 Composite Material Derived from MOF in Cathode Material of Lithium Sulfur Batteries."
+  ],
+  "authorString": [
+    "Han G, Wang X, Yao J, Zhang M, Wang J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Han G"
+          ],
+          "firstName": [
+            "Guodong"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Shanxi Key Laboratory of Nanomaterials & Nanotechnology, School of Mechanical & Electrical Engineering, Xi'an University of Architecture & Technology, Xi'an 710055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Shanxi Key Laboratory of Nanomaterials & Nanotechnology, School of Mechanical & Electrical Engineering, Xi'an University of Architecture & Technology, Xi'an 710055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yao J"
+          ],
+          "firstName": [
+            "Jia"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Shanxi Key Laboratory of Nanomaterials & Nanotechnology, School of Mechanical & Electrical Engineering, Xi'an University of Architecture & Technology, Xi'an 710055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang M"
+          ],
+          "firstName": [
+            "Mi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Shanxi Key Laboratory of Nanomaterials & Nanotechnology, School of Mechanical & Electrical Engineering, Xi'an University of Architecture & Technology, Xi'an 710055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Shanxi Key Laboratory of Nanomaterials & Nanotechnology, School of Mechanical & Electrical Engineering, Xi'an University of Architecture & Technology, Xi'an 710055, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2898717"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomaterials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "NLMid": [
+            "101610216"
+          ],
+          "ISSN": [
+            "2079-4991"
+          ],
+          "ESSN": [
+            "2079-4991"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Due to the \"shuttle effect\", the cycle performance of lithium sulfur (Li-S) battery is poor and the capacity decays rapidly. Replacing lithium-ion battery is the maximum problem to be overcome. In order to solve this problem, we use a cage like microporous MOF(CPM-5) as a carbon source, which is carbonized at high temperature to get a micro-mesoporous carbon composite material. In addition, indium oxide particles formed during carbonization are deposited on CPM-5 structure, forming a simple core-shell structure CPM-5-C-600. When it is used as the cathode of Li-S battery, the small molecule sulfide can be confined in the micropores, while the existence of large pore size mesopores can provide a channel for the transmission of lithium ions, so as to improve the conductivity of the material and the rate performance of the battery. After 100 cycles, the specific capacity of the battery can be still maintained at 650 mA h·g-1 and the Coulombic efficiency is close to 100%. When the rate goes up to 2 C, the first discharge capacity not only can reach 1400 mA h·g-1, but also still provides 500 mA h·g-1 after 200 cycles, showing excellent rate performance."
+  ],
+  "affiliation": [
+    "Shanxi Key Laboratory of Nanomaterials & Nanotechnology, School of Mechanical & Electrical Engineering, Xi'an University of Architecture & Technology, Xi'an 710055, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "12JS060, 18JS058"
+          ],
+          "agency": [
+            "the Science Foundation of Shaanxi Provincial Department of Education"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Core-shell",
+        "Indium Oxide",
+        "Coulombic Efficiency",
+        "Shuttle Effect",
+        "Cpm-5"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nano10010177"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7022625"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7022625?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-01-24"
+  ],
+  "firstIndexDate": [
+    "2020-01-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-19"
+  ],
+  "dateOfRevision": [
+    "2020-03-12"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-20"
+  ],
+  "firstPublicationDate": [
+    "2020-01-20"
+  ]
+}

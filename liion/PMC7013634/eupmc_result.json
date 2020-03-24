@@ -1,0 +1,503 @@
+{
+  "id": [
+    "31940758"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31940758"
+  ],
+  "pmcid": [
+    "PMC7013634"
+  ],
+  "doi": [
+    "10.3390/ma13020334"
+  ],
+  "title": [
+    "High-Performance Lithium-Rich Layered Oxide Material: Effects of Preparation Methods on Microstructure and Electrochemical Properties."
+  ],
+  "authorString": [
+    "Liu Q, Zhu H, Liu J, Liao X, Tang Z, Zhou C, Yuan M, Duan J, Li L, Chen Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu Q"
+          ],
+          "firstName": [
+            "Qiming"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Changsha University of Science and Technology, Changsha 410114, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu H"
+          ],
+          "firstName": [
+            "Huali"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5788-0235",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Physics and Electronic Science, Changsha University of Science and Technology, Changsha 410114, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Changsha University of Science and Technology, Changsha 410114, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liao X"
+          ],
+          "firstName": [
+            "Xiongwei"
+          ],
+          "lastName": [
+            "Liao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Changsha University of Science and Technology, Changsha 410114, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang Z"
+          ],
+          "firstName": [
+            "Zhuolin"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Changsha University of Science and Technology, Changsha 410114, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou C"
+          ],
+          "firstName": [
+            "Cankai"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Changsha University of Science and Technology, Changsha 410114, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan M"
+          ],
+          "firstName": [
+            "Mengming"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Changsha University of Science and Technology, Changsha 410114, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Duan J"
+          ],
+          "firstName": [
+            "Junfei"
+          ],
+          "lastName": [
+            "Duan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Changsha University of Science and Technology, Changsha 410114, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li L"
+          ],
+          "firstName": [
+            "Lingjun"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Changsha University of Science and Technology, Changsha 410114, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Z"
+          ],
+          "firstName": [
+            "Zhaoyong"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7191-4625",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Materials Science and Engineering, Changsha University of Science and Technology, Changsha 410114, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7191-4625",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5788-0235",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2902146"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Lithium-rich layered oxide is one of the most promising candidates for the next-generation cathode materials of high-energy-density lithium ion batteries because of its high discharge capacity. However, it has the disadvantages of uneven composition, voltage decay, and poor rate capacity, which are closely related to the preparation method. Here, 0.5Li2MnO3·0.5LiMn0.8Ni0.1Co0.1O2 was successfully prepared by sol-gel and oxalate co-precipitation methods. A systematic analysis of the materials shows that the 0.5Li2MnO3·0.5LiMn0.8Ni0.1Co0.1O2 prepared by the oxalic acid co-precipitation method had the most stable layered structure and the best electrochemical performance. The initial discharge specific capacity was 261.6 mAh·g-1 at 0.05 C, and the discharge specific capacity was 138 mAh·g-1 at 5 C. The voltage decay was only 210 mV, and the capacity retention was 94.2% after 100 cycles at 1 C. The suppression of voltage decay can be attributed to the high nickel content and uniform element distribution. In addition, tightly packed porous spheres help to reduce lithium ion diffusion energy and improve the stability of the layered structure, thereby improving cycle stability and rate capacity. This conclusion provides a reference for designing high-energy-density lithium-ion batteries."
+  ],
+  "affiliation": [
+    "College of Materials Science and Engineering, Changsha University of Science and Technology, Changsha 410114, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "No.19A003"
+          ],
+          "agency": [
+            "The Research Foundation of Education Bureau of Hunan Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "No. 51874048"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "No. kq1901100"
+          ],
+          "agency": [
+            "Scientific Research Fund of Changsha Science and Technology Bureau"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sol–gel Method",
+        "Cathode Material",
+        "Co-precipitation Method",
+        "Voltage Decay",
+        "Lithium-rich Layered Oxide",
+        "0.5Li2mno3·0.5limn0.8ni0.1co0.1o2"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma13020334"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7013634"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7013634?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR105788"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-17"
+  ],
+  "firstIndexDate": [
+    "2020-01-17"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-11"
+  ],
+  "dateOfRevision": [
+    "2020-03-12"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-11"
+  ],
+  "firstPublicationDate": [
+    "2020-01-11"
+  ]
+}

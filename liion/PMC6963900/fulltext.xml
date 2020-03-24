@@ -1,0 +1,480 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6963900</article-id><article-id pub-id-type="doi">10.1021/acsomega.9b03662</article-id><article-categories><subj-group><subject>Mini-Review</subject></subj-group></article-categories><title-group><article-title>Recent Advances
+in MXenes for Lithium-Ion Capacitors</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Zhang</surname><given-names>Xiong</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Wang</surname><given-names>Lei</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Liu</surname><given-names>Wenjie</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Li</surname><given-names>Chen</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Wang</surname><given-names>Kai</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath6"><name><surname>Ma</surname><given-names>Yanwei</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Institute
+of Electrical Engineering, <institution>Chinese Academy
+of Sciences</institution>, No. 6 Beiertiao, Zhongguancun, Haidian District, Beijing 100190, <country>China</country></aff><aff id="aff2"><label>&#x02021;</label>School
+of Engineering Sciences, <institution>University of Chinese
+Academy of Sciences</institution>, Beijing 100049, <country>China</country></aff><aff id="aff3"><label>&#x000a7;</label><institution>Dalian
+National Laboratory for Clean Energy</institution>, Dalian 116023, <country>China</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>ywma@mail.iee.ac.cn</email> (Y. Ma).</corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>12</month><year>2019</year></pub-date><pub-date pub-type="collection"><day>14</day><month>01</month><year>2020</year></pub-date><volume>5</volume><issue>1</issue><fpage>75</fpage><lpage>82</lpage><history><date date-type="received"><day>30</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>04</day><month>12</month><year>2019</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2019 American Chemical
+Society</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03662_0007" id="ab-tgr1"/></p><p>Recently, two-dimensional MXenes and MXene-based nanocomposites
+have become the most important electrode materials because of their
+unique physical and chemical characteristics. As the electrode of
+a lithium-ion capacitor, MXenes have exhibited metallic conductivity
+and plastic layer structure that provide more chemically active interfaces
+and shortened ion-diffusion lengths, and thus the unbalanced ion kinetics
+between the anode and cathode can be effectively alleviated. In order
+to further improve the electrochemical performance of MXenes, the
+composition, morphology and texture, surface chemistry, and structural
+configuration of MXenes are extensively investigated. In this mini-review,
+some recent research and progress of MXenes and MXene-based nanocomposites
+in lithium-ion capacitors are summarized, which focus on their nanostructure
+designs and chemical preparation methods, such as prepillaring MXenes,
+delaminated MXenes, and MXene-based hybrids. Finally, some future
+perspectives and critical challenges of MXene-based material for lithium-ion
+capacitor application are also presented and briefly discussed.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao9b03662</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao9b03662</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Huge changes in the global
+climate and the shortage of fossil fuels
+require the society to acquire green and sustainable energy. Among
+various renewable storage devices, electrochemical energy storage
+(EES) devices stand out based on their high-energy efficiency and
+high performance.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Thus, they have been
+extensively applied in portable electronic devices, smart grids, and
+hybrid electric vehicles (HEVs). The energy density for state-of-the-art
+lithium-ion battery (LIB) is about 200 Wh kg<sup>&#x02013;1</sup>.
+However, the intrinsic sluggish diffusion process of Li<sup>+</sup> into the bulk material impedes the power performance of LIBs (usually
+&#x0003c;2 kW kg<sup>&#x02013;1</sup>), which causes an inferior acceleration
+rate in HEVs.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> On the contrary, supercapacitors
+(SCs), which are known for their high power density (&#x0003e;10 kW kg<sup>&#x02013;1</sup>) and excellent cycling life (&#x0003e;10<sup>5</sup> cycles),
+suffer from unsatisfactory energy density (about 5&#x02013;10 Wh/kg)
+since charge storage is mainly on/near the surface of porous materials.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> Hence, it is urgent to find an effective way
+to achieve a trade-off between LIBs and SCs.</p><p>In recent years,
+a new energy storage device lithium-ion capacitor
+(LIC), which is assembled by a LIB-type anode and a SC-type cathode
+with an appropriate electrolyte (contains lithium salt), has been
+a hot topic in the complementation of LIBs and SCs.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> The charge capture mechanism for the LIC is illustrated
+in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> The energy storage and release for the conventional
+LIB-type materials are primarily derived from the insertion/deinsertion
+of the lithium ion, which are determined by the Li<sup>+</sup> diffusion
+rate into the bulk of material. Besides, PF<sub>6</sub><sup>&#x02013;</sup> from the electrolyte is rapidly absorbed/desorbed on/near the surface
+of SC-type electrodes, and thus a considerable power density can be
+achieved.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Up to now, various constructions
+of LICs have been reported with gratifying results. However, the obstacle
+for practical application of LICs is still huge due to the limited
+capacity of SC-type material and the imbalance of charge storage kinetic
+between the two kinds of electrodes. These inevitably lead to the
+capacity mismatch between the anode and cathode, resulting in a low
+energy density of the LIC. Therefore, the critical issue in developing
+high-performance LICs is to utilize suitable anode and cathode materials
+with matched kinetics.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Energy-harvesting mechanism of LIC in the charging
+process.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> (b) Atomic structures of M<sub>2</sub>AX, M<sub>3</sub>AX<sub>2</sub>, and M<sub>4</sub>AX<sub>3</sub> phases.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> (c) The fragment of the element
+that makes up
+the MAX phase of the general composition M<sub><italic>n</italic>+1</sub>AX<sub><italic>n</italic></sub> in the periodic table. Fragment of
+the periodic table<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> (reprinted with permission
+from refs (<xref ref-type="bibr" rid="ref7">7</xref>&#x02212;<xref ref-type="bibr" rid="ref9">9</xref>)).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03662_0001" id="gr1" position="float"/></fig><p>So far, a variety of electrode materials have been
+exploited in
+the LIC devices. On account of the different Li-ion storage mechanisms,
+the anode materials for LICs can be divided into three categories.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> First, insertion-type materials, such as graphite,
+hard carbon, TiO<sub>2</sub>, Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub> (LTO), and Nb<sub>2</sub>O<sub>5</sub>, have the advantage of stable
+structure. However, the inferior capacity (&#x0003c;400 mAh g<sup>&#x02013;1</sup>) or high-voltage platform versus Li metal impedes the full energy
+utilization. Then the alloy-type (Si, Sn, and Sn-based composites)
+and conversion-type (Fe<sub>3</sub>O<sub>4</sub>, CoO, MoS<sub>2</sub>, and MnO<sub>2</sub>) materials can deliver high theory capacity
+(&#x0003e;700 mAh g<sup>&#x02013;1</sup>). Nevertheless, the high irreversible
+capacity, huge volume variation, and poor kinetics of these materials
+cause severe electrode polarization and capacity decay during the
+long-term cycling. Hence, for LIC anode materials, the key issues
+are fixating on improving the electronic/ion conductivity and cycle
+stability. From this aspect, materials with well-designed or nanosized
+structure can effectively shorten the Li<sup>+</sup> diffusion path
+and improve the electron transport.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> At
+present, carbonaceous materials such as activated carbon (AC), graphene,
+and carbon nanotubes (CNTs) are the frequently used materials in LIC
+cathodes. Among various SC-type materials, AC has received wide attention
+due to its high special surface area, simple preparation, and low
+cost. However, its large narrow and tortuous pore channels prevent
+the diffusion of the electrolyte ion, and the relatively low electron
+conductivity causes an inferior capacity. Thus, cathode materials
+with large surface area and suitable pore-size distribution can effectively
+improve the capacity and power performance of LICs.</p><p>Recently,
+two-dimensional (2D) materials have triggered a new round
+of research hotspots since their unique structure affords more access
+in contact with the electrolyte and improves the ion transport rate.
+Graphene, as the first successfully prepared 2D material, has the
+advantages of remarkably electric conductivity, high surface area
+(&#x0223c;2630 m<sup>2</sup>/g in theory), and excellent thermal stability.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> However, the low tap density and suffering from
+restacking of 2D graphene prevent it from suitable electrode materials
+for the LIC applications.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> MXenes, which
+are known as the rising star in the family of 2D materials, consist
+of transition metal carbides, nitrides, and carbonitrides (generally
+denoted as M<sub><italic>n</italic>+1</sub>X<sub><italic>n</italic></sub>T<sub><italic>x</italic></sub>, where M stands for an early
+transition metal Ti (Nb et al.), X is the C or N element, and T<sub><italic>x</italic></sub> indicates different surface termination
+polar groups such as &#x02212;OH, &#x02212;O, and &#x02212;F).<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> MXenes are always prepared by selectively extracting
+the A element layers (A is generally the main group IIIA or IVA) from
+the corresponding three-dimensional M<sub><italic>n</italic>+1</sub>AX<sub><italic>n</italic></sub> (<italic>n</italic> = 1&#x02013;3)
+phases (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b,c).
+MXenes have been extensively investigated in various applications,
+especially as a high-performance electrode in LIBs and SCs, which
+are ascribed to their metallic conductivity (up to 10<sup>5</sup> S/m),<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> high density (&#x0223c;3.8 g/cm<sup>3</sup>),<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> mechanical stability, and excellent hydrophilicity.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> Moreover, the abundant active sites and negatively
+charged surfaces of 2D MXenes result in the great capability of charge
+storage and release.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Stimulated by these
+exciting properties, MXenes are becoming promising candidate materials
+for the next-generation LIC application, and plenty of infusive achievements
+based on MXenes have emerged. Hence, it is necessary to update the
+latest developments of MXenes or MXene-based materials.</p><p>In this
+mini-review, we are committed to summarizing the recent
+research progress of MXenes and their derivatives in advanced LIC
+devices. At first, a short introduction for the electrode materials
+of LICs is provided. Subsequently, we propose to give a comprehensive
+and vital summary of the latest advanced MXene or MXene-based materials,
+which are used as the electrodes for high-performance LICs. Finally,
+there are some critical challenges and outlooks of 2D MXene materials
+generalized to highlight the future direction of LICs.</p></sec><sec id="sec2"><label>2</label><title>Applications to Lithium-Ion Capacitors</title><p>As a hybrid electrochemical full cell, the LIC needs a large-capacity
+anode with reversible Li<sup>+</sup> intercalation to achieve advanced
+electrochemical energy storage. MXenes, including Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>, Ti<sub>2</sub>CT<sub><italic>x</italic></sub>, Nb<sub>2</sub>CT<sub><italic>x</italic></sub>,
+and V<sub>2</sub>CT<sub><italic>x</italic></sub>, possess novel ultrathin
+and open-layer structure, which relieve the sluggish intercalation/deintercalation
+kinetics of Li ions. So, MXenes present nonideal battery behavior
+but are similar to a capacitor, which indicates their application
+in lithium-ion capacitors.<sup><xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup> Furthermore, the energy
+storage property, electronic transmission speed, and stability of
+MXenes are affected significantly by functional groups (&#x02212;F,
+&#x02212;OH, &#x02212;O, &#x02212;Cl) on the surface of MXene layers.</p><sec id="sec2.1"><label>2.1</label><title>Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> MXenes</title><p>Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>, the typical representative among MXenes, is extensively studied
+according to its metallic conductivity and great chemical stability
+in fluoride-based acidic solutions.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> is prepared through
+selectivelu etching Al layers from the Ti<sub>3</sub>AlC<sub>2</sub> (MAX) in HF and LiF/HCl. Therefore, various termination groups (&#x02212;OH,
+&#x02212;F, &#x02212;O, &#x02212;Cl), which affect its physical and chemical
+properties, are carried out on the Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> surface.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> In
+addition, these functional groups are in between Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> layers and function as &#x0201c;pillars&#x0201d;,
+leading to an original interlayer spacing of 0.977 nm for the unmodified
+Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> Moreover, the stable interlayer space facilitates
+the contact between the Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> surface and electrolyte ions. Yet, according to previous reports,
+the existence of &#x0201c;pillars&#x0201d; on the surface of Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> may reduce the
+storage capacity for Li<sup>+</sup>.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> When
+the Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> is used
+as an anode for the lithium half-cell, only 70&#x02013;225 mAh g<sup>&#x02013;1</sup> (gravimetric capacity) can be realized, and even
+the theoretical capacity of Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> is predicted to be 320 mAh g<sup>&#x02013;1</sup>.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> So, if the interlayer space of Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> is rationally
+increased and utilized, the ability of fast Li-ion (de)intercalation
+will be further improved. Meanwhile, the unbalanced ion kinetics between
+the faradaic battery-type anode and the nonfaradaic capacitive cathode
+in LICs will be reduced.</p><p>One effective solution is to use electrochemical
+active materials acting as pillars, which can effectively exploit
+the potential storage space and resolve the low capacity issue for
+unmodified Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>. Tang et al. prepared Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>@Fe<sub>2</sub>O<sub>3</sub> nanocomposites via a kind of surfactant
+and then used them as an anode for LICs (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a).<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> Fe<sub>2</sub>O<sub>3</sub> hollow nanospheres are uniformly and perpendicularly
+located on the Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> surface (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b&#x02013;d). The interlayer space of multilayered Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> (0.977 nm) (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>e) is much larger than the
+diameter of Li<sup>+</sup> (0.76 &#x000c5;). As shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>g&#x02013;l, elemental mapping
+proves that Fe<sub>2</sub>O<sub>3</sub> in between the interlayer
+of Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> is evenly
+distributed. Furthermore, the nanocomposites can achieve a fast Li-ion
+(de)intercalation kinetics and an impressive specific capacity of
+1180 mAh g<sup>&#x02013;1</sup> at a current density of 0.1 A g<sup>&#x02013;1</sup> (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>m). Afterward, an LIC is assembled based on the Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>@Fe<sub>2</sub>O<sub>3</sub> anode and the three-dimensional nitrogen and sulfur dual-doped porous
+carbon (NS-DPC) as the cathode (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>n). In this system, the capacitor-type cathode has
+rich mesoporous structure, and the ion diffusion distance between
+the proton and electrolyte is short; therefore, the rate capability
+of the LIC device can be enhanced. The Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>@Fe<sub>2</sub>O<sub>3</sub>//NS-DPC
+LIC can achieve a high energy density (216 Wh kg<sup>&#x02013;1</sup>) with a power density of 400 W kg<sup>&#x02013;1</sup>. Moreover,
+the CV curves (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>o) present a quasi-rectangular shape, which implies a better capacitive
+behavior and fast charge/discharge rate of LICs. The GCD curves shown
+in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>p have near-linear
+slope and a specific capacity of 109 mAh g<sup>&#x02013;1</sup> (at
+0.2 A g<sup>&#x02013;1</sup>), which based on the total mass of the
+active substance for both the cathode and anode can be achieved. In
+addition, the LIC delivers a prolonged cycle life with 87% of the
+initial capacity retention after 5000 cycles at 5 A g<sup>&#x02013;1</sup> (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>q).</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) Schematic
+illustration of the synthesis procedure for the Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>@Fe<sub>2</sub>O<sub>3</sub> nanocomposite. (b) SEM images of the Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>@Fe<sub>2</sub>O<sub>3</sub> nanocomposite.
+(c&#x02013;f) TEM and HRTEM image of the Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>@Fe<sub>2</sub>O<sub>3</sub> nanocomposite.
+(g&#x02013;l) Elemental mapping of the Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>@Fe<sub>2</sub>O<sub>3</sub> nanocomposite.
+(m) Rate performances of Fe<sub>2</sub>O<sub>3</sub>, Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>, and
+Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>@Fe<sub>2</sub>O<sub>3</sub> electrodes. (n) Schematic illustration of the charge-storage
+mechanisms for the Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>@Fe<sub>2</sub>O<sub>3</sub>//NS-DPC LIC device. (o,p) CV and
+charge&#x02013;discharge curves of the LIC. (q) Cycling stability of
+the LIC at a current density of 5 A g<sup>&#x02013;1</sup><sup><xref ref-type="bibr" rid="ref23">23</xref></sup> (reprinted with permission from ref (<xref ref-type="bibr" rid="ref23">23</xref>)).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03662_0002" id="gr2" position="float"/></fig><p>Similar to the work of Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>@Fe<sub>2</sub>O<sub>3</sub>//NS-DPC
+LIC, Luo et
+al. prepared a pillared MXene (CTAB-Sn(IV)@Ti<sub>3</sub>C<sub>2</sub>) anode by a facile liquid-phase cetyltrimethylammonium bromide (CTAB)
+prepillaring and Sn<sup>4+</sup> pillaring method (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a).<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> The interlayer distance of Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> reaches 2.230 nm in comparison with the original
+size of 0.977 nm. Even though stearyltrimethylammonium bromide (STAB)@Ti<sub>3</sub>C<sub>2</sub> (50 &#x000b0;C&#x02013;60 &#x000b0;C) has the largest
+interlayer space (2.708 nm), the high temperature causes the formation
+of partial TiO<sub><italic>x</italic></sub> on the surface of Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b). By immersing CTAB@Ti<sub>3</sub>C<sub>2</sub> in SnCl<sub>4</sub> solution, CTA<sup>+</sup> can successfully integrate Sn<sup>4+</sup> into CTAB@Ti<sub>3</sub>C<sub>2</sub> (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c,d) via an ion-exchange mechanism. The elemental mappings of Ti
+and Sn confirm that Sn<sup>4+</sup> is inserted in the interlayer
+space of CTAB@Ti<sub>3</sub>C<sub>2</sub> (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>e,f). Furthermore, an LIC is assembled with
+CTAB-Sn(IV)@Ti<sub>3</sub>C<sub>2</sub> as the anode and AC as the
+cathode (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>g).
+The CV curves of LIC are presented in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>h. The deviation from the expected rectangular
+shape is caused by the different energy-storage mechanisms between
+the anode and cathode, but the shape can still maintain unchanged
+as the scan rates increase from 2 to 20 mV s<sup>&#x02013;1</sup>.
+The GCD profiles of CTAB@Ti<sub>3</sub>C<sub>2</sub>//AC LIC exhibit
+a symmetry triangular shape in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>i. Based on the total active substance mass of the
+anode and cathode, the LIC device can reach an excellent capacitance
+of 51 F g<sup>&#x02013;1</sup>, and the LIC confirms a high energy
+density of 105.56 Wh kg<sup>&#x02013;1</sup> at the power density of
+495 W kg<sup>&#x02013;1</sup>. Meanwhile, as shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>j, the LIC can maintain 71.1%
+of initial capacity at the current density of 2 A g<sup>&#x02013;1</sup> after 4000 cycles.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(a) Schematic illustration of the preparation of CTAB-Sn(IV)@Ti<sub>3</sub>C<sub>2</sub> by HF etching, CTAB prepillaring, and Sn<sup>4+</sup> pillaring methods. (b) Interlayer spacing of cationic surfactants
+(CTAB, STAB, DDAC) of prepillared Ti<sub>3</sub>C<sub>2</sub> at different
+treatment temperatures (30&#x02013;70 &#x000b0;C). (c&#x02013;f) SEM, STEM
+image of CTAB@Ti<sub>3</sub>C<sub>2</sub>, and corresponding elemental
+mapping of Ti and Sn. (g) Charging process of CTAB&#x02013;Sn(IV)@Ti<sub>3</sub>C<sub>2</sub>//AC LIC. (h) CV curves of LIC at different scan
+rates. (i) GCD curves of LIC at different current densities. (d) The
+cycling stability of the LIC at the current of 2 A g<sup>&#x02013;1</sup><sup><xref ref-type="bibr" rid="ref5">5</xref></sup> (reprinted with permission from ref (<xref ref-type="bibr" rid="ref5">5</xref>)).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03662_0003" id="gr3" position="float"/></fig><p>Previous studies have revealed that the delaminated
+MXenes can
+store more charge than their multilayer counterparts.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> The facile functional groups (T) on the surface of Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> determine that
+the binding forces of the interlayer are weak hydrogen bonding and
+van der Waals&#x02019; force. It provides a higher possibility to acquire
+delaminated Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> through intercalating dimethyl sulfoxide (DMSO), tetrabutylammonium
+hydroxide (TBAOH), or cation into the interlayer space.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> Meanwhile, MXenes have good mechanical property
+that allow them to be shaped into thin films by rolling or vacuum
+filtration.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> The freestanding MXene films
+can be directly employed as the electrodes without other current collectors
+such as Cu and Al metals. This unique flexibility is very beneficial
+for reducing the overall mass of the device and preparing the flexible
+LICs. Yu et al. mixed a delaminated Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> with carbon nanotubes to fabricate a self-supporting
+film anode (Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>/CNT) for LIC. In order to obtain delaminated Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>, the cationic reagent TBA<sup>+</sup> is used as intercalation, and then ultrasonic treatment is
+employed.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> As shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a, Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> is delaminated into a few or single
+layer, and the edge of delaminated Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> is discovered to be curved (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b), which demonstrates that
+its flexibility is identical to that of graphene. Moreover, the delaminated
+Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> nanosheets
+and CNTs under the vacuum filtration conditions can prepare a free-standing
+electrode (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c). As a pillar, the CNT looks like fishing nets wrapping the delaminated
+Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>, which can
+prevent the restacking of Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> and increase its conductivity. The LIC, which is
+assembled by Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>/CNT as an anode and AC as a cathode, confirms an energy density
+of 67 Wh kg<sup>&#x02013;1</sup> (based on the total mass of Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>/CNTs and AC).
+Even at a power density of 5.79 kW kg<sup>&#x02013;1</sup>, the energy
+density can still reach 19 Wh kg<sup>&#x02013;1</sup>. Furthermore,
+after 5000 cycles at 2 A g<sup>&#x02013;1</sup>, the capacity retention
+of LIC is 81.3%, and the Coulombic efficiency is nearly 100% during
+the cycling test (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>f).</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(a) SEM and (b) TEM images of delaminated Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>. (c) SEM image of the Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>/CNT film. (d) Schematic
+of the assembled Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>/CNT//AC LIC. (e) The Ragone diagram of the LIC. (f) The cycling
+stability of the LIC<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> (reprinted with permission
+from ref (<xref ref-type="bibr" rid="ref4">4</xref>)).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03662_0004" id="gr4" position="float"/></fig></sec><sec id="sec2.2"><label>2.2</label><title>M<sub>2</sub>XT<sub><italic>x</italic></sub> MXenes</title><p>The structure of MXenes can be represented via the
+general formula M<sub><italic>n</italic>+1</sub>X<sub><italic>n</italic></sub>T<sub><italic>x</italic></sub>.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> Compared to the M<sub>3</sub> (&#x0201c;M&#x0201d; chemistry) and
+M<sub>4</sub> structures, their M<sub>2</sub> counterparts show higher
+Li-ion specific capacities because M<sub>2</sub> has less layers (2
+layers) compared with previous 5 and 7 atomic layers.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> Yamada et al. assembled a LIC device, which is comprised
+of the intercalation-type (LiNi<sub>1/3</sub>Co<sub>1/3</sub>Mn<sub>1/3</sub>O<sub>2</sub>) electrode and pseudocapacitive electrode
+(Ti<sub>2</sub>CT<sub><italic>x</italic></sub>).<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> The relationship between various surface termination groups
+(T) on Ti<sub>2</sub>CT<sub><italic>x</italic></sub> and the interlayer
+distance (<italic>d</italic><sub>inter</sub>) is also analyzed. As
+shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a&#x02013;c,
+different from etching in HF (7.7 &#x000c5;), the Ti<sub>2</sub>CT<sub><italic>x</italic></sub> synthesized by LiF/HCl carries a longer <italic>d</italic><sub>inter</sub> (8.7 &#x000c5;). The reason is the presence
+of the new component of the termination group (T = &#x02212;Cl), and
+the <italic>d</italic><sub>inter</sub> for surface termination (T)
+combinations presents a continuous increase with the addition of &#x02212;Cl.
+The enlargement of interlayer spacing offers a fast ionic accessibility
+to redox centers, thus exhibiting higher intercalation pseudocapacitance.
+As demonstrated in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d, 250 mAh g<sup>&#x02013;1</sup> capacity of the Ti<sub>2</sub>CT<sub><italic>x</italic></sub> is much larger than that of LiF/HCl
+etching of Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> (150 mAh g<sup>&#x02013;1</sup>). In addition, the permeation of
+solvent molecules will further increase the interlayer space during
+the charging&#x02013;discharging process. The rate performance of LICs
+is usually limited by the diffusion capacity of lithium ions. In this
+system, the interlayer space is expanded with the embedding of &#x02212;Cl,
+and the large interlayer space boosts the faster Li-ion diffusion.
+Thus, at a sweep rate less than 2 mV s<sup>&#x02013;1</sup>, the capacitance
+of diffusion control in Ti<sub>2</sub>CT<sub><italic>x</italic></sub> (LiF/HCl) is the largest among various Ti<sub><italic>n</italic>+1</sub>C<sub><italic>n</italic></sub>T<sub><italic>x</italic></sub> (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>e). Therefore,
+Ti<sub>2</sub>CT<sub><italic>x</italic></sub> (LiF/HCl) as the capacitor-type
+anode for LIC can provide a higher rate capability. A Li-ion hybrid
+capacitor is assembled as shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>f, exhibiting a high capacity of 206 mAh
+g<sup>&#x02013;1</sup> in a voltage window of 2.58 V, and 84% of capacity
+is maintained after the 100 cycles (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>g). Meanwhile, the LIC displays an energy
+density (160 Wh kg<sup>&#x02013;1</sup>) at a power density (220 W
+kg<sup>&#x02013;1</sup>) based on the total active materials.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>(a, b) TEM
+images of Ti<sub>2</sub>AlC and Ti<sub>2</sub>CT<sub><italic>x</italic></sub> (LiF/HCl). (c) Schematic illustration of
+the Ti<sub>2</sub>CT<sub><italic>x</italic></sub> (LiF/HCl). (d) Cyclic
+voltammetry for Ti<sub>2</sub>CT<sub><italic>x</italic></sub> (LiF/HCl)
+and Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> (LiF/HCl)
+at a sweep rate of 0.1 mV s<sup>&#x02013;1</sup>. (e) Rate-dependent
+diffusion-control and rate-independent surface-control capacitances
+for Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> (HF),
+Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> (LiF/HCl),
+Ti<sub>2</sub>CT<sub><italic>x</italic></sub> (HF), and Ti<sub>2</sub>CT<sub><italic>x</italic></sub> (LiF/HCl) at a sweep rate of 2 mV
+s<sup>&#x02013;1</sup>. (f) Schematic illustration for LIC and charge&#x02013;discharge
+curves of Ti<sub>2</sub>CT<sub><italic>x</italic></sub> (LiF/HCl)
+and LiNi<sub>1/3</sub>Mn<sub>1/3</sub>Co<sub>1/3</sub>O<sub>2</sub> versus Li/Li<sup>+</sup>. (g) Charge/discharge curves and cycle
+performance of LIC at 300 mA g<sup>&#x02013;1</sup><sup><xref ref-type="bibr" rid="ref21">21</xref></sup> (reprinted with permission from ref (<xref ref-type="bibr" rid="ref21">21</xref>)).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03662_0005" id="gr5" position="float"/></fig><p>According to the experimental data of the lithium
+half battery,
+the specific capacities of Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub> and Ti<sub>2</sub>CT<sub><italic>x</italic></sub> are less than that of Nb<sub>2</sub>CT<sub><italic>x</italic></sub> and V<sub>2</sub>CT<sub><italic>x</italic></sub>. The delaminating
+process of Nb<sub>2</sub>CT<sub><italic>x</italic></sub> often uses
+different chemical approaches than that of Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>. Olha et al. reported the delamination
+of Nb<sub>2</sub>CT<sub><italic>x</italic></sub> using amine instead
+of DMSO. Then, the Nb<sub>2</sub>CT<sub><italic>x</italic></sub> paper
+was obtained by mixing the delaminated Nb<sub>2</sub>CT<sub><italic>x</italic></sub> suspension with CNTs and filtering through a polyester
+membrane. The Nb<sub>2</sub>CT<sub><italic>x</italic></sub>/CNT paper
+electrode shows a high volumetric capacitance of 325 F cm<sup>&#x02013;3</sup>.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> Ayeong et al. demonstrated three proof-of-concept
+type LICs based on TBAOH-delaminated Nb<sub>2</sub>CT<sub><italic>x</italic></sub>/CNT electrodes. The Nb<sub>2</sub>CT<sub><italic>x</italic></sub>/CNT can be paired with either a graphite anode or
+a LiFePO<sub>4</sub> cathode. Furthermore, a symmetric capacitor is
+assembled using the Nb<sub>2</sub>CT<sub><italic>x</italic></sub>/CNT
+electrodes as the anode and cathode (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a&#x02013;i).<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Three type of LIC devices are capable of operating within a 3 V
+voltage window and delivering stabilized capacities of 43, 24, and
+36 mA g<sup>&#x02013;1</sup>, respectively. Continuous cycling of LICs
+demonstrated long lifespan for all three types of LICs, and the volumetric
+energy densities of all LICs are 50&#x02013;70 Wh L<sup>&#x02013;1</sup> (based on the volume of electrodes), which exceed the energy density
+of the conventional LTO/AC LIC.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>(a&#x02013;c) Lithiated graphite/Nb<sub>2</sub>CT<sub><italic>x</italic></sub>-CNT capacitor, rate capability
+test, and the subsequent cyclic
+stability test at a current rate of 250 mA/(g of Nb<sub>2</sub>CT<sub><italic>x</italic></sub>-CNT). (d&#x02013;f) Nb<sub>2</sub>CT<sub><italic>x</italic></sub>-CNT/LiFePO<sub>4</sub> capacitor, rate capability
+test, and the subsequent cyclic stability test at a current rate of
+250 mA/(g of Nb<sub>2</sub>CT<sub><italic>x</italic></sub>-CNT). (g&#x02013;i)
+Lithiated Nb<sub>2</sub>CT<sub><italic>x</italic></sub>-CNT/Nb<sub>2</sub>CT<sub><italic>x</italic></sub>-CNT capacitor, rate capability
+test, and the subsequent cyclic stability test at a current rate of
+250 mA/(g of Nb<sub>2</sub>CT<sub><italic>x</italic></sub>-CNT)<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> (reprinted with permission from ref (<xref ref-type="bibr" rid="ref19">19</xref>)).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao9b03662_0006" id="gr6" position="float"/></fig><p>In general, all kinds of MXenes display a layered
+structure, and
+the skeleton atoms of MXenes follow the ABABA or ABCABC arrangement.
+Meanwhile, the terminated groups (&#x02212;F, &#x02212;OH, &#x02212;O,
+et al.) on the surface of MXenes directly influence their chemical/physical
+properties and then determine the performance of MXenes in their applications.
+In the field of energy storage, MXenes are often used as a substrate
+and further improve the performance through a series of chemical modifications.
+Through analyzing the electrochemical data of LICs assembled using
+MXenes or MXene composites, the capacitance is mainly a diffusion-controlled
+contribution, and it is worth noting that the surface control contribution
+cannot be ignored. Therefore, MXene materials have shown great potential
+in the lithium-ion capacitors.</p></sec></sec><sec id="sec3"><label>3</label><title>Conclusions and Outlook</title><p>In summary,
+searching the novel electrode materials for a lithium-ion
+capacitor plays a really important role in development of electrochemical
+energy storage. MXenes, as the new star in the family of 2D materials,
+have attracted increasing attention because of their metallic skeleton,
+structural varieties, and substantial surface termination groups.
+The 2D nature of MXenes provides large surface areas for lithium-ion
+storage and boosts the fast ion transport. It is observed that MXenes
+exhibit some potential as a substrate material for the lithium-ion
+capacitor. Meanwhile, it has been proven that the surface terminations
+such as &#x02212;OH, &#x02212;O, &#x02212;F, or &#x02212;Cl greatly affect
+the structural characteristic and electrochemical performance of MXenes.
+These functional groups and the binding force of the MXene interlayer
+are weak hydrogen bonding and van der Waals&#x02019; force, and these
+functional groups maintain a stable space in between the MXene layers.
+The advantages of 2D MXenes for the lithium-ion capacitor have been
+confirmed theoretically and experimentally. This mini-review is mainly
+focused on the structural design and performance optimization of MXenes
+by cation intercalation, delamination, and compositing with other
+materials. Various lithium-ion capacitor systems assembled by MXenes
+or MXene composites are summarized and discussed in detail. The main
+electrochemical properties of these LICs are listed in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>. Although this paper is focused
+on the research of MXenes for LICs, the preparation routes and structure
+designs of MXenes and MXene-based materials, which possess ideal 2D
+structure, large interlayer space, and metal conductivity, are also
+valuable for studying Na<sup>+</sup>, K<sup>+</sup>, Mg<sup>2+</sup>, and other metal-ion hybrid capacitors.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Comparison of MXenes and MXene-Based
+Materials for LIC Applications</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">materials</th><th style="border:none;" align="center">synthesis approach</th><th style="border:none;" align="center">capacity of anode</th><th style="border:none;" align="center">working voltage for LIC</th><th style="border:none;" align="center">electrochemical
+performance for LIC</th><th style="border:none;" align="center">cycle number and
+capacitance retention for LIC</th><th style="border:none;" align="center">ref</th></tr></thead><tbody><tr><td style="border:none;" align="left">Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>@Fe<sub>2</sub>O<sub>3</sub></td><td style="border:none;" align="left">surfactant</td><td style="border:none;" align="left">1180 mAh&#x000a0;g<sup>&#x02013;1</sup> at 0.1 A&#x000a0;g<sup>&#x02013;1</sup></td><td style="border:none;" align="left">0.01&#x02013;4&#x000a0;V 1&#x000a0;M LiPF<sub>6</sub> nonaqueous solution</td><td style="border:none;" align="left">216 Wh&#x000a0;kg<sup>&#x02013;1</sup> at 400 W&#x000a0;kg<sup>&#x02013;1</sup></td><td style="border:none;" align="left">5000 (87%)</td><td style="border:none;" align="left">(<xref ref-type="bibr" rid="ref23">23</xref>)</td></tr><tr><td style="border:none;" align="left">CTAB-Sn(IV)@Ti<sub>3</sub>C<sub>2</sub></td><td style="border:none;" align="left">liquid-phase immersion</td><td style="border:none;" align="left">765 mAh&#x000a0;g<sup>&#x02013;1</sup> at 0.1 A&#x000a0;g<sup>&#x02013;1</sup></td><td style="border:none;" align="left">1&#x02013;4&#x000a0;V 1&#x000a0;M LiPF<sub>6</sub> nonaqueous solution</td><td style="border:none;" align="left">105.6 Wh&#x000a0;kg<sup>&#x02013;1</sup> at 495 W&#x000a0;kg<sup>&#x02013;1</sup></td><td style="border:none;" align="left">4000 (71.1%)</td><td style="border:none;" align="left">(<xref ref-type="bibr" rid="ref5">5</xref>)</td></tr><tr><td style="border:none;" align="left">delaminated Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub>/CNT</td><td style="border:none;" align="left">TBAOH delamination and filtration</td><td style="border:none;" align="left">489 mAh&#x000a0;g<sup>&#x02013;1</sup> at 50 mA&#x000a0;g<sup>&#x02013;1</sup></td><td style="border:none;" align="left">1&#x02013;4&#x000a0;V 1&#x000a0;M LiPF<sub>6</sub> nonaqueous solution</td><td style="border:none;" align="left">67 Wh&#x000a0;kg<sup>&#x02013;1</sup> at 258 W&#x000a0;kg<sup>&#x02013;1</sup></td><td style="border:none;" align="left">5000 (81.3%)</td><td style="border:none;" align="left">(<xref ref-type="bibr" rid="ref4">4</xref>)</td></tr><tr><td style="border:none;" align="left">Ti<sub>2</sub>CT<sub><italic>x</italic></sub></td><td style="border:none;" align="left">etching by LiF/HCl</td><td style="border:none;" align="left">250 mAh&#x000a0;g<sup>&#x02013;1</sup> at 20 mA&#x000a0;g<sup>&#x02013;1</sup></td><td style="border:none;" align="left">0.4&#x02013;4.2&#x000a0;V 1&#x000a0;M LiPF<sub>6</sub> nonaqueous solution</td><td style="border:none;" align="left">160 Wh&#x000a0;kg<sup>&#x02013;1</sup> at 220 W&#x000a0;kg<sup>&#x02013;1</sup></td><td style="border:none;" align="left">100 (84%)</td><td style="border:none;" align="left">(<xref ref-type="bibr" rid="ref21">21</xref>)</td></tr><tr><td style="border:none;" align="left">Nb<sub>2</sub>CT<sub><italic>x</italic></sub>/CNT paper</td><td style="border:none;" align="left">amine-assisted delamination and filtration</td><td style="border:none;" align="left">400 mAh&#x000a0;g<sup>&#x02013;1</sup> at 0.5&#x000a0;C</td><td style="border:none;" align="left">&#x02013;</td><td style="border:none;" align="left">325&#x000a0;F&#x000a0;cm<sup>&#x02013;3</sup></td><td style="border:none;" align="left">&#x02013;</td><td style="border:none;" align="left">(<xref ref-type="bibr" rid="ref24">24</xref>)</td></tr><tr><td style="border:none;" align="left">delaminated Nb<sub>2</sub>CT<sub><italic>x</italic></sub>/CNT</td><td style="border:none;" align="left">TBAOH delamination and filtration</td><td style="border:none;" align="left">270 mAh&#x000a0;g<sup>&#x02013;1</sup> at 50 mA&#x000a0;g<sup>&#x02013;1</sup></td><td style="border:none;" align="left">0&#x02013;3&#x000a0;V 1&#x000a0;M&#x000a0;LiPF<sub>6</sub> nonaqueous solution</td><td style="border:none;" align="left">50&#x02013;70 Wh&#x000a0;L<sup>&#x02013;1</sup></td><td style="border:none;" align="left">&#x02013;</td><td style="border:none;" align="left">(<xref ref-type="bibr" rid="ref19">19</xref>)</td></tr><tr><td style="border:none;" align="left">Ti<sub>3</sub>C<sub>2</sub>T<sub><italic>x</italic></sub></td><td style="border:none;" align="left">etching by LiF/HCl</td><td style="border:none;" align="left">226 F&#x000a0;cm<sup>&#x02013;3</sup> at 10 mV&#x000a0;s<sup>&#x02013;1</sup></td><td style="border:none;" align="left">0&#x02013;2&#x000a0;V 1&#x000a0;M&#x000a0;Li<sub>2</sub>SO<sub>4</sub> aqueous solution</td><td style="border:none;" align="left">20.7 &#x003bc;Wh&#x000a0;cm<sup>&#x02013;2</sup> at 2.2 mW&#x000a0;cm<sup>&#x02013;2</sup></td><td style="border:none;" align="left">&#x02013;</td><td style="border:none;" align="left">(<xref ref-type="bibr" rid="ref20">20</xref>)</td></tr></tbody></table></table-wrap><p>Recently, the main disadvantage of the lithium-ion
+capacitors is
+their low energy density (compared to batteries), and the unmodified
+MXene electrodes do not have considerable theoretical capacity. Thus,
+anchoring the active substance on the nanosheets or delaminating the
+multilayer to monolayer are the practicle methods to improve the electrochemical
+performance of MXenes. Although abundant examples of 2D MXenes in
+energy-storage applications have been performed, there are still some
+underlying scientific issues for the structure-electrochemical property
+to be addressed. First, the indispensability of the fluoride based
+(HF and LiF) on the process of etchants increases the risk. Searching
+for safe and reliable preparation methods is beneficial to the future
+development of MXenes. Second, single-layer MXenes are fabricated
+by delaminating multilayered MXenes in order to expose more lithium-ion
+storage active sites, but the delaminated MXenes in aqueous solution
+show a trend of restacking due to electrostatic interaction. Although
+the introduction of other substances as pillars can expand the interlayer
+space of MXenes, these also reduce the contact area between MXenes
+and electrolyte that impede their intrinsic properties in some cases.
+Third, since MXenes are unstable under ambient conditions, most MXenes
+are easily oxidized and degraded during treatment. The exploitation
+of the MXene-based hybrid system, such as anchoring self-assembly,
+delamination, insertion, and anchoring, is impossible to completely
+isolate oxygen and water. Therefore, the chemical stability control
+of MXenes still needs further investigation. Fourth, because the surface
+termination groups of MXenes are diverse and uncontrollable, the ion
+kinetics and charge storage mechanism for MXenes remain not completely
+clear. Compared to the lithium-ion battery, the main advantage of
+LICs is its high power density, and the ion transport speed of the
+battery-type electrode directly determines the rate performance of
+the device. Thus, in-depth basic studies of the lithium-ion storage
+mechanism for MXenes are needed tremendously.</p><p>Many breakthroughs
+of MXene and MXene composites, which are used
+as lithium-ion capacitor electrodes, have emerged in the past few
+years. However, there is indeed a long way to go to find solutions
+that balance various performances such as energy density and power
+density, specific capacity, and life span. In order to address the
+challenges, innovative works and practical applications of electrochemical
+energy storage are still desirable to further explore.</p></sec></body><back><notes notes-type="COI-statement" id="notes1"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work was financially supported by the National
+Natural Science Foundation of China (No. 51677182 and 51822706), the
+DNL Cooperation Fund (DNL201915), the Beijing Municipal Science and
+Technology Commission (No. Z181100000118006), and the Beijing Nova
+Program (No. Z171100001117073).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>She</surname><given-names>L.</given-names></name>; <name><surname>Yan</surname><given-names>Z.</given-names></name>; <name><surname>Kang</surname><given-names>L.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>; <name><surname>Lei</surname><given-names>Z.</given-names></name>; <name><surname>Shi</surname><given-names>F.</given-names></name>; <name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>Sun</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>Z. H.</given-names></name>
+<article-title>Nb<sub>2</sub>O<sub>5</sub> Nanoparticles
+Anchored on an N-Doped Graphene Hybrid Anode for a Sodium-Ion Capacitor
+with High Energy Density</article-title>. <source>ACS Omega</source>
+<year>2018</year>, <volume>3</volume>, <fpage>15943</fpage>&#x02013;<lpage>15951</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.8b02141</pub-id>.<pub-id pub-id-type="pmid">31458236</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Sun</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>N.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Promises and
+challenges of nanomaterials for lithium-based
+rechargeable batteries</article-title>. <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <fpage>16071</fpage><pub-id pub-id-type="doi">10.1038/nenergy.2016.71</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Zhang</surname><given-names>J. M.</given-names></name>; <name><surname>Hua</surname><given-names>Q.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Yuan</surname><given-names>J.</given-names></name>; <name><surname>Peijs</surname><given-names>T.</given-names></name>; <name><surname>Dai</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Zheng</surname><given-names>Z.</given-names></name>; <name><surname>Zheng</surname><given-names>L.</given-names></name>; <name><surname>Tang</surname><given-names>J.</given-names></name>
+<article-title>Cellulose-Derived
+Highly Porous Three-Dimensional Activated Carbons for Supercapacitors</article-title>. <source>ACS Omega</source>
+<year>2018</year>, <volume>3</volume>, <fpage>14933</fpage>&#x02013;<lpage>14941</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.8b02075</pub-id>.<pub-id pub-id-type="pmid">31458159</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Yu</surname><given-names>P.</given-names></name>; <name><surname>Cao</surname><given-names>G.</given-names></name>; <name><surname>Yi</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Sun</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>K.</given-names></name>; <name><surname>Ma</surname><given-names>Y.</given-names></name>
+<article-title>Binder-free 2D titanium carbide (MXene)/carbon
+nanotube composites for high-performance lithium-ion capacitors</article-title>. <source>Nanoscale</source>
+<year>2018</year>, <volume>10</volume>, <fpage>5906</fpage>&#x02013;<lpage>5913</lpage>. <pub-id pub-id-type="doi">10.1039/C8NR00380G</pub-id>.<pub-id pub-id-type="pmid">29537043</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Luo</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>W.</given-names></name>; <name><surname>Yuan</surname><given-names>H.</given-names></name>; <name><surname>Jin</surname><given-names>C.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Huang</surname><given-names>H.</given-names></name>; <name><surname>Liang</surname><given-names>C.</given-names></name>; <name><surname>Xia</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Gan</surname><given-names>Y.</given-names></name>; <name><surname>Tao</surname><given-names>X.</given-names></name>
+<article-title>Pillared Structure Design of MXene with Ultralarge
+Interlayer Spacing for High-Performance Lithium-Ion Capacitors</article-title>. <source>ACS Nano</source>
+<year>2017</year>, <volume>11</volume>, <fpage>2459</fpage>&#x02013;<lpage>2469</lpage>. <pub-id pub-id-type="doi">10.1021/acsnano.6b07668</pub-id>.<pub-id pub-id-type="pmid">27998055</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Jiang</surname><given-names>H.</given-names></name>; <name><surname>Lee</surname><given-names>P. S.</given-names></name>; <name><surname>Li</surname><given-names>C.</given-names></name>
+<article-title>3D carbon based nanostructures for
+advanced supercapacitors</article-title>. <source>Energy Environ. Sci.</source>
+<year>2013</year>, <volume>6</volume>, <fpage>41</fpage>&#x02013;<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1039/C2EE23284G</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Dubal</surname><given-names>D. P.</given-names></name>; <name><surname>Jayaramulu</surname><given-names>K.</given-names></name>; <name><surname>Sunil</surname><given-names>J.</given-names></name>; <name><surname>Kment</surname><given-names>S.</given-names></name>; <name><surname>Gomez-Romero</surname><given-names>P.</given-names></name>; <name><surname>Narayana</surname><given-names>C.</given-names></name>; <name><surname>Zboril</surname><given-names>R.</given-names></name>; <name><surname>Fischer</surname><given-names>R. A.</given-names></name>
+<article-title>Metal-Organic Framework
+(MOF) Derived Electrodes with Robust and Fast Lithium Storage for
+Li-Ion Hybrid Capacitors</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2019</year>, <volume>29</volume>, <fpage>1900532</fpage><pub-id pub-id-type="doi">10.1002/adfm.201900532</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Yu</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Jing</surname><given-names>Y.</given-names></name>; <name><surname>Ma</surname><given-names>J.</given-names></name>; <name><surname>Du</surname><given-names>C. F.</given-names></name>; <name><surname>Yan</surname><given-names>Q.</given-names></name>
+<article-title>Surface Modified MXene-Based Nanocomposites
+for Electrochemical Energy
+Conversion and Storage</article-title>. <source>Small</source>
+<year>2019</year>, <volume>15</volume>, <fpage>1901503</fpage><pub-id pub-id-type="doi">10.1002/smll.201901503</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Xiong</surname><given-names>D.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Bai</surname><given-names>Z.</given-names></name>; <name><surname>Lu</surname><given-names>S.</given-names></name>
+<article-title>Recent Advances in Layered Ti<sub>3</sub>C<sub>2</sub>T<sub>x</sub> MXene for Electrochemical Energy
+Storage</article-title>. <source>Small</source>
+<year>2018</year>, <volume>14</volume>, <fpage>1703419</fpage><pub-id pub-id-type="doi">10.1002/smll.201703419</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Li</surname><given-names>B.</given-names></name>; <name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Jin</surname><given-names>L.</given-names></name>; <name><surname>Yang</surname><given-names>D.</given-names></name>; <name><surname>Lv</surname><given-names>H.</given-names></name>; <name><surname>Shen</surname><given-names>C.</given-names></name>; <name><surname>Shellikeri</surname><given-names>A.</given-names></name>; <name><surname>Zheng</surname><given-names>Y.</given-names></name>; <name><surname>Gong</surname><given-names>R.</given-names></name>; <name><surname>Zheng</surname><given-names>J. P.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>
+<article-title>Electrode Materials, Electrolytes,
+and Challenges in Nonaqueous Lithium-Ion Capacitors</article-title>. <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <fpage>1705670</fpage><pub-id pub-id-type="doi">10.1002/adma.201705670</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Aravindan</surname><given-names>V.</given-names></name>; <name><surname>Jayaraman</surname><given-names>S.</given-names></name>; <name><surname>Tedjar</surname><given-names>F.</given-names></name>; <name><surname>Madhavi</surname><given-names>S.</given-names></name>
+<article-title>From Electrodes to
+Electrodes: Building High-Performance Li-Ion Capacitors and Batteries
+from Spent Lithium-Ion Battery Carbonaceous Materials</article-title>. <source>ChemElectroChem</source>
+<year>2019</year>, <volume>6</volume>, <fpage>1407</fpage>&#x02013;<lpage>1412</lpage>. <pub-id pub-id-type="doi">10.1002/celc.201801699</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Bonaccorso</surname><given-names>F.</given-names></name>; <name><surname>Colombo</surname><given-names>L.</given-names></name>; <name><surname>Yu</surname><given-names>G.</given-names></name>; <name><surname>Stoller</surname><given-names>M.</given-names></name>; <name><surname>Tozzini</surname><given-names>V.</given-names></name>; <name><surname>Ferrari</surname><given-names>A. C.</given-names></name>; <name><surname>Ruoff</surname><given-names>R. S.</given-names></name>; <name><surname>Pellegrini</surname><given-names>V.</given-names></name>
+<article-title>2D materials.
+Graphene, related two-dimensional crystals, and hybrid systems for
+energy conversion and storage</article-title>. <source>Science</source>
+<year>2015</year>, <volume>347</volume>, <fpage>1246501</fpage><pub-id pub-id-type="doi">10.1126/science.1246501</pub-id>.<pub-id pub-id-type="pmid">25554791</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Ren</surname><given-names>W.</given-names></name>; <name><surname>Gao</surname><given-names>L.</given-names></name>; <name><surname>Liu</surname><given-names>B.</given-names></name>; <name><surname>Pei</surname><given-names>S.</given-names></name>; <name><surname>Cheng</surname><given-names>H. M.</given-names></name>
+<article-title>Three-dimensional
+flexible and conductive interconnected graphene networks grown by
+chemical vapour deposition</article-title>. <source>Nat. Mater.</source>
+<year>2011</year>, <volume>10</volume>, <fpage>424</fpage>&#x02013;<lpage>428</lpage>. <pub-id pub-id-type="doi">10.1038/nmat3001</pub-id>.<pub-id pub-id-type="pmid">21478883</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Anasori</surname><given-names>B.</given-names></name>; <name><surname>Lukatskaya</surname><given-names>M. R.</given-names></name>; <name><surname>Gogotsi</surname><given-names>Y.</given-names></name>
+<article-title>2D metal carbides and nitrides (MXenes)
+for energy storage</article-title>. <source>Nat. Rev. Mater.</source>
+<year>2017</year>, <volume>2</volume>, <fpage>16098</fpage><pub-id pub-id-type="doi">10.1038/natrevmats.2016.98</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Zhang</surname><given-names>C. J.</given-names></name>; <name><surname>Anasori</surname><given-names>B.</given-names></name>; <name><surname>Seral-Ascaso</surname><given-names>A.</given-names></name>; <name><surname>Park</surname><given-names>S. H.</given-names></name>; <name><surname>McEvoy</surname><given-names>N.</given-names></name>; <name><surname>Shmeliov</surname><given-names>A.</given-names></name>; <name><surname>Duesberg</surname><given-names>G. S.</given-names></name>; <name><surname>Coleman</surname><given-names>J. N.</given-names></name>; <name><surname>Gogotsi</surname><given-names>Y.</given-names></name>; <name><surname>Nicolosi</surname><given-names>V.</given-names></name>
+<article-title>Transparent, Flexible,
+and Conductive 2D Titanium Carbide
+(MXene) Films with High Volumetric Capacitance</article-title>. <source>Adv. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <fpage>1702678</fpage><pub-id pub-id-type="doi">10.1002/adma.201702678</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Byun</surname><given-names>J. J.</given-names></name>; <name><surname>Moissinac</surname><given-names>F. P.</given-names></name>; <name><surname>Xu</surname><given-names>J.</given-names></name>; <name><surname>Haigh</surname><given-names>S. J.</given-names></name>; <name><surname>Domingos</surname><given-names>M.</given-names></name>; <name><surname>Bissett</surname><given-names>M. A.</given-names></name>; <name><surname>Dryfe</surname><given-names>R. A. W.</given-names></name>; <name><surname>Barg</surname><given-names>S.</given-names></name>
+<article-title>3D Printing of Freestanding
+MXene Architectures for
+Current-Collector-Free Supercapacitors</article-title>. <source>Adv.
+Mater.</source>
+<year>2019</year>, <volume>31</volume>, <fpage>1902725</fpage><pub-id pub-id-type="doi">10.1002/adma.201902725</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Bao</surname><given-names>W.</given-names></name>; <name><surname>Jaumaux</surname><given-names>P.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>G.</given-names></name>
+<article-title>MXene-Based
+Composites: Synthesis and Applications in Rechargeable Batteries and
+Supercapacitors</article-title>. <source>Adv. Mater. Interfaces</source>
+<year>2019</year>, <volume>6</volume>, <fpage>1802004</fpage><pub-id pub-id-type="doi">10.1002/admi.201802004</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Nan</surname><given-names>J.</given-names></name>; <name><surname>Guo</surname><given-names>X.</given-names></name>; <name><surname>Xiao</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>W.</given-names></name>; <name><surname>Wu</surname><given-names>W.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>M.</given-names></name>; <name><surname>Wang</surname><given-names>G.</given-names></name>
+<article-title>Nanoengineering of
+2D MXene-Based Materials for Energy Storage Applications</article-title>. <source>Small</source>
+<year>2019</year>, <fpage>1902085</fpage><pub-id pub-id-type="doi">10.1002/smll.201902085</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Byeon</surname><given-names>A.</given-names></name>; <name><surname>Glushenkov</surname><given-names>A. M.</given-names></name>; <name><surname>Anasori</surname><given-names>B.</given-names></name>; <name><surname>Urbankowski</surname><given-names>P.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Byles</surname><given-names>B. W.</given-names></name>; <name><surname>Blake</surname><given-names>B.</given-names></name>; <name><surname>Van Aken</surname><given-names>K. L.</given-names></name>; <name><surname>Kota</surname><given-names>S.</given-names></name>; <name><surname>Pomerantseva</surname><given-names>E.</given-names></name>; <name><surname>Lee</surname><given-names>J. W.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Gogotsi</surname><given-names>Y.</given-names></name>
+<article-title>Lithium-ion
+capacitors with 2D Nb<sub>2</sub>CT<sub>x</sub> (MXene)-carbon nanotube
+electrodes</article-title>. <source>J. Power Sources</source>
+<year>2016</year>, <volume>326</volume>, <fpage>686</fpage>&#x02013;<lpage>694</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2016.03.066</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Kurra</surname><given-names>N.</given-names></name>; <name><surname>Seredych</surname><given-names>M.</given-names></name>; <name><surname>Meng</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Gogotsi</surname><given-names>Y.</given-names></name>
+<article-title>Bipolar carbide-carbon
+high voltage aqueous lithium-ion
+capacitors</article-title>. <source>Nano Energy</source>
+<year>2019</year>, <volume>56</volume>, <fpage>151</fpage>&#x02013;<lpage>159</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2018.11.042</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Kajiyama</surname><given-names>S.</given-names></name>; <name><surname>Szabova</surname><given-names>L.</given-names></name>; <name><surname>Iinuma</surname><given-names>H.</given-names></name>; <name><surname>Sugahara</surname><given-names>A.</given-names></name>; <name><surname>Gotoh</surname><given-names>K.</given-names></name>; <name><surname>Sodeyama</surname><given-names>K.</given-names></name>; <name><surname>Tateyama</surname><given-names>Y.</given-names></name>; <name><surname>Okubo</surname><given-names>M.</given-names></name>; <name><surname>Yamada</surname><given-names>A.</given-names></name>
+<article-title>Enhanced Li-Ion
+Accessibility in MXene Titanium Carbide by Steric Chloride Termination</article-title>. <source>Adv. Energy Mater.</source>
+<year>2017</year>, <volume>7</volume>, <fpage>1601873</fpage><pub-id pub-id-type="doi">10.1002/aenm.201601873</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Jun</surname><given-names>B. M.</given-names></name>; <name><surname>Kim</surname><given-names>S.</given-names></name>; <name><surname>Heo</surname><given-names>J.</given-names></name>; <name><surname>Park</surname><given-names>C. M.</given-names></name>; <name><surname>Her</surname><given-names>N.</given-names></name>; <name><surname>Jang</surname><given-names>M.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Han</surname><given-names>J.</given-names></name>; <name><surname>Yoon</surname><given-names>Y.</given-names></name>
+<article-title>Review of MXenes as
+new nanomaterials for energy storage/delivery and selected environmental
+applications</article-title>. <source>Nano Res.</source>
+<year>2019</year>, <volume>12</volume>, <fpage>471</fpage>&#x02013;<lpage>487</lpage>. <pub-id pub-id-type="doi">10.1007/s12274-018-2225-3</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Tang</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Guo</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Wu</surname><given-names>W.</given-names></name>; <name><surname>Mondal</surname><given-names>A. K.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>G.</given-names></name>
+<article-title>A novel lithium-ion hybrid capacitor
+based on an aerogel-like MXene wrapped Fe<sub>2</sub>O<sub>3</sub> nanosphere anode and a 3D nitrogen sulphur dual-doped porous carbon
+cathode</article-title>. <source>Mater. Chem. Front.</source>
+<year>2018</year>, <volume>2</volume>, <fpage>1811</fpage>&#x02013;<lpage>1821</lpage>. <pub-id pub-id-type="doi">10.1039/C8QM00232K</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Mashtalir</surname><given-names>O.</given-names></name>; <name><surname>Lukatskaya</surname><given-names>M. R.</given-names></name>; <name><surname>Zhao</surname><given-names>M. Q.</given-names></name>; <name><surname>Barsoum</surname><given-names>M. W.</given-names></name>; <name><surname>Gogotsi</surname><given-names>Y.</given-names></name>
+<article-title>Amine-Assisted
+Delamination of Nb<sub>2</sub>C MXene for Li-Ion Energy Storage Devices</article-title>. <source>Adv. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>3501</fpage>&#x02013;<lpage>3506</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201500604</pub-id>.<pub-id pub-id-type="pmid">25930685</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Tang</surname><given-names>H.</given-names></name>; <name><surname>Hu</surname><given-names>Q.</given-names></name>; <name><surname>Zheng</surname><given-names>M.</given-names></name>; <name><surname>Chi</surname><given-names>Y.</given-names></name>; <name><surname>Qin</surname><given-names>X.</given-names></name>; <name><surname>Pang</surname><given-names>H.</given-names></name>; <name><surname>Xu</surname><given-names>Q.</given-names></name>
+<article-title>MXene-2D layered electrode materials for energy storage</article-title>. <source>Prog. Nat. Sci.</source>
+<year>2018</year>, <volume>28</volume>, <fpage>133</fpage>&#x02013;<lpage>147</lpage>. <pub-id pub-id-type="doi">10.1016/j.pnsc.2018.03.003</pub-id>.</mixed-citation></ref></ref-list></back></article>

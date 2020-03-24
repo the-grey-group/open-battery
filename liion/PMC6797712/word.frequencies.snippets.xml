@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6797712/results/word/frequencies/results.xml">
+  <result title="frequency" word="phase" count="51"/>
+  <result title="frequency" word="LR-LMO" count="48"/>
+  <result title="frequency" word="dissolution" count="47"/>
+  <result title="frequency" word="LMO" count="45"/>
+  <result title="frequency" word="structural" count="45"/>
+  <result title="frequency" word="LiMn" count="40"/>
+  <result title="frequency" word="capacity" count="40"/>
+  <result title="frequency" word="cathode" count="38"/>
+  <result title="frequency" word="Fig." count="32"/>
+  <result title="frequency" word="spinel" count="28"/>
+  <result title="frequency" word="situ" count="27"/>
+  <result title="frequency" word="irreversible" count="26"/>
+  <result title="frequency" word="lithium" count="25"/>
+  <result title="frequency" word="transition" count="25"/>
+  <result title="frequency" word="surface" count="24"/>
+  <result title="frequency" word="XRD" count="23"/>
+  <result title="frequency" word="stability" count="22"/>
+  <result title="frequency" word="X-ray" count="21"/>
+  <result title="frequency" word="structure" count="21"/>
+ </snippets>
+</snippetsTree>

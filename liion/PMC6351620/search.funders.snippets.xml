@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6351620/results/search/funders/results.xml">
+  <result pre="Department of Energy Engineering, School of Energy and Chemical Engineering," exact="Ulsan National Institute of Science and Technology" post="(UNIST), [2], 0000 0004 0381 814X grid.42687.3f School of"/>
+  <result pre="0381 814X grid.42687.3f School of Mechanical, Aerospace and Nuclear Engineering," exact="Ulsan National Institute of Science and Technology" post="(UNIST), [3], 0000 0000 9475 8840 grid.254187.d Department of"/>
+  <result pre="[3], 0000 0000 9475 8840 grid.254187.d Department of Electric Engineering," exact="Chosun University," post="[4], 0000 0001 0719 8994 grid.412576.3 Department of Metallurgical"/>
+  <result pre="[4], 0000 0001 0719 8994 grid.412576.3 Department of Metallurgical Engineering," exact="Pukyong National University," post="epub: 2019-1-1 pmc-release: 2019-1-1 collection: 2019 10 475 received:"/>
+  <result pre="paper at 10.1038/s41467-018-08233-3. Acknowledgements This work was supported by the" exact="Korea Institute of Energy Technology Evaluation and Planning" post="(KETEP) and the Ministry of Trade, Industry &amp;amp; Energy"/>
+ </snippets>
+</snippetsTree>

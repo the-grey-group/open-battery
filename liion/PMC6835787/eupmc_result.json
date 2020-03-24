@@ -1,0 +1,417 @@
+{
+  "id": [
+    "31615001"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31615001"
+  ],
+  "pmcid": [
+    "PMC6835787"
+  ],
+  "doi": [
+    "10.3390/polym11101671"
+  ],
+  "title": [
+    "Multilayer Nanofiber Composite Separator for Lithium-Ion Batteries with High Safety."
+  ],
+  "authorString": [
+    "Yang W, Liu Y, Hu X, Yao J, Chen Z, Hao M, Tian W, Huang Z, Li F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yang W"
+          ],
+          "firstName": [
+            "Wenxiu"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "College of Textile and Garment, Hebei University of Science and Technology, Shijiazhuang 050018, China. wenxiuyang-hbust@outlook.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yanbo"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Textile Science and Engineering, Wuhan Textile University, Wuhan 430200, China. yanboliu_wtu@sina.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu X"
+          ],
+          "firstName": [
+            "Xuemin"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Textile and Garment, Hebei University of Science and Technology, Shijiazhuang 050018, China. 13014375991@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Yao J"
+          ],
+          "firstName": [
+            "Jinbo"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Textiles, Tianjin Polytechnic University, Tianjin 300387, China. ywx880418@sina.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Z"
+          ],
+          "firstName": [
+            "Zhijun"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Textile Science and Engineering, Wuhan Textile University, Wuhan 430200, China. 15532192903@139.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Hao M"
+          ],
+          "firstName": [
+            "Ming"
+          ],
+          "lastName": [
+            "Hao"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Textile Science and Engineering, Wuhan Textile University, Wuhan 430200, China. 18533098646@139.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Tian W"
+          ],
+          "firstName": [
+            "Wenjun"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "School of Textile Science and Engineering, Wuhan Textile University, Wuhan 430200, China. whf850317@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Z"
+          ],
+          "firstName": [
+            "Zheng"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Textile Science and Engineering, Wuhan Textile University, Wuhan 430200, China. 15533605582@139.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Li F"
+          ],
+          "firstName": [
+            "Fangying"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "School of Textile Science and Engineering, Wuhan Textile University, Wuhan 430200, China. m15232132913@163.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2867036"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Polymers"
+          ],
+          "ISOAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "NLMid": [
+            "101545357"
+          ],
+          "ISSN": [
+            "2073-4360"
+          ],
+          "ESSN": [
+            "2073-4360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "An original Von Koch curve-shaped tipped electrospinneret was used to prepare a polyimide (PI)-based nanofiber membrane. A multilayer Al2O3@polyimide/polyethylene/Al2O3@polyimide (APEAP) composite membrane was tactfully designed with an Al2O3@ polyimide (AP) membrane as outer shell, imparting high temperature to the thermal run-away separator performance and a core polyethylene (PE) layer imparts the separator with a thermal shut-down property at low temperature (123 °C). An AP electrospun nanofiber was obtained by doping Al2O3 nanoparticles in PI solution. The core polyethylene layer was prepared using polyethylene powder and polyterafluoroethylene (PTFE) miniemulsion through a coating process. The addition of PTFE not only bonds PE power, but also increases the adhesion force between the PE and AP membranes. As a result, the multilayer composite separator has high safety, outstanding electrochemical properties, and better cycling performance as a lithium-ion battery separator."
+  ],
+  "affiliation": [
+    "College of Textile and Garment, Hebei University of Science and Technology, Shijiazhuang 050018, China. wenxiuyang-hbust@outlook.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "51373121"
+          ],
+          "agency": [
+            "National Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ZD2017231"
+          ],
+          "agency": [
+            "Hebei Province Colleges and Universities Science and Technology Research Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lithium-ion battery",
+        "High Safety",
+        "Von Koch Curves Spinneret",
+        "Multilayer Composite Separator",
+        "Tipped Needleless Electrospinning"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/polym11101671"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6835787"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6835787?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-17"
+  ],
+  "firstIndexDate": [
+    "2019-11-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-27"
+  ],
+  "dateOfRevision": [
+    "2019-11-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-14"
+  ],
+  "firstPublicationDate": [
+    "2019-10-14"
+  ]
+}

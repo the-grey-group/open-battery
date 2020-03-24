@@ -1,0 +1,948 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Batter Supercaps</journal-id><journal-id journal-id-type="iso-abbrev">Batter Supercaps</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2566-6223</journal-id><journal-id journal-id-type="publisher-id">BATT</journal-id><journal-title-group><journal-title>Batteries &#x00026; Supercaps</journal-title></journal-title-group><issn pub-type="epub">2566-6223</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6919341</article-id><article-id pub-id-type="doi">10.1002/batt.201900017</article-id><article-id pub-id-type="publisher-id">BATT201900017</article-id><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Electrophoretic Deposition for Lithium&#x02010;Ion Battery Electrode Manufacture</article-title></title-group><contrib-group><contrib id="batt201900017-cr-0001" contrib-type="author"><name><surname>Lalau</surname><given-names>Cornel C.</given-names><prefix>Dr.</prefix></name><xref ref-type="aff" rid="batt201900017-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="batt201900017-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="batt201900017-cr-0002" contrib-type="author" corresp="yes"><name><surname>Low</surname><given-names>Chee T. John</given-names><prefix>Dr.</prefix></name><xref ref-type="aff" rid="batt201900017-aff-0001">
+<sup>1</sup>
+</xref><address><email>C.T.J.Low@warwick.ac.uk</email></address></contrib></contrib-group><aff id="batt201900017-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Cell Manufacture Scale-up in Electrochemical Engineering Group WMG Energy Innovation Centre</named-content>
+<institution>University of Warwick</institution>
+<city>Coventry</city>
+<postal-code>CV4 7AL</postal-code>
+<country country="GB">United Kingdom.</country>
+</aff><author-notes><fn id="batt201900017-note-1001"><label>&#x02020;</label><p>In good memory of Dr. Lalau who has sadly passed away. Always remembered.</p></fn></author-notes><pub-date pub-type="epub"><day>02</day><month>4</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2019</year></pub-date><volume>2</volume><issue>6</issue><issue-id pub-id-type="doi">10.1002/batt.v2.6</issue-id><fpage>551</fpage><lpage>559</lpage><history><date date-type="received"><day>01</day><month>2</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Wiley&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. Published by Wiley-VCH Verlag GmbH &#x00026; Co. KGaA.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:BATT-2-551.pdf"/><abstract><title>Abstract</title><p>Electrophoretic deposition (EPD) has received increasing attention as an alternative manufacturing approach to slurry casting for the production of battery and supercapacitor electrodes. This process is of relevance for industrial scalability as evidently seen in the current electrophoretic paints industry. Nevertheless, the reported work so far have only concentrated on thin films of electrophoretically deposited electrodes for energy storage. Here, the electrochemical performance of thick films (up to tens of &#x003bc;m) as lithium&#x02010;ion battery electrodes produced by EPD is reported. A commercially sourced LiN<sub>1/3</sub>M<sub>1/3</sub>C<sub>1/3</sub>O<sub>2</sub> (5 to 25&#x02005;&#x003bc;m particle size) was used in this exemplary investigation. This work shows the production of binder&#x02010;free high density active material (&#x0003e;90&#x02009;%) electrodes. Coin cells were assembled and the battery performance was measured. Tests included: cyclic voltammetry, C&#x02010;rate vs capacity, battery cycling and electrochemical impedance spectroscopy. Other investigations also studied: colloidal electrolyte formulation, electrode manufacture, microstructure characterisation and elemental mapping analysis. In short, EPD electrode manufacture can be applied as a platform technology for any battery and supercapacitor material, and the reported manufacturing processes and methodologies represent direct relevance to produce energy storage electrodes useful to practical applications.</p></abstract><abstract abstract-type="graphical"><p>
+<bold>Electrode coating in the enery storage account</bold>: Electrophoretic deposition can be applied for electrode manufacture as a platform technology for any battery and supercapacitor materials, producing more energy dense and/or power dense electrodes that are difficult to fabricate using conventional slurry casting approaches.<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xlink:href="BATT-2-551-g009.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="batt201900017-kwd-0001">electrode manufacture</kwd><kwd id="batt201900017-kwd-0002">electrophoretic deposition</kwd><kwd id="batt201900017-kwd-0003">energy storage</kwd><kwd id="batt201900017-kwd-0004">lithium-ion batteries</kwd><kwd id="batt201900017-kwd-0005">materials science.</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>EPSRC (Engineering Physical Sciences Research Council)</funding-source><award-id>EP/P026818/1</award-id></award-group></funding-group><counts><fig-count count="9"/><table-count count="2"/><ref-count count="50"/><page-count count="9"/><word-count count="0"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.2 mode:remove_FC converted:10.12.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="self-citation" id="batt201900017-self">C. C. Lalau, C. T. J. Low, <italic>Batteries &#x00026; Supercaps</italic>
+<bold>2019</bold>, <italic>2</italic>, 551.</mixed-citation>
+</p></notes></front><body><sec id="batt201900017-sec-0001"><label>1</label><title>Introduction</title><p>There have been little advances made in the production processes for battery and supercapacitor electrode manufacture, with slurry casting is used for at least the last 30&#x02005;years. In slurry casting, three types of materials (i.&#x02009;e., electrochemically active materials, carbon&#x02010;based electrical conductivity enhancers and polymeric binders) are blended together in an aqueous or non&#x02010;aqueous media, and then the resulting paste&#x02010;like slurry is physically casted onto current collector through slot&#x02010;die or doctor blade. The success of electrode production and the quality of electrode performance are strongly dependent on rheological properties of the slurry, determined by materials faction within the slurry together with drying and calendaring. A recent survey on electrode production, specifically highlighting the challenges to scale&#x02010;up lab research to industrial electrode production, is available.<xref rid="batt201900017-bib-0001" ref-type="ref">1</xref> While slurry casting is scalable and robust, new manufacturing advances are needed to produce next generation electrodes when extra performance or functionality is required. While approaches such as sintering, extrusion, and freezing have unlocked extreme values of capacity and rate capability, they generally involved arduous complex processing and poorly suited to produce electrodes at scale suitable for industrial applications.</p><p>In the academic science base, the recent years are seeing increasing interests to deploy electrophoretic deposition (EPD) as an alternative manufacturing approach to slurry casting for the production of battery and supercapacitor electrodes.<xref rid="batt201900017-bib-0002" ref-type="ref">2</xref>, <xref rid="batt201900017-bib-0003" ref-type="ref">3</xref>
+</p><p>Examples of battery materials studied, Lithium&#x02010;ion specifically, include LFP,<xref rid="batt201900017-bib-0004" ref-type="ref">4</xref> LTO,<xref rid="batt201900017-bib-0005" ref-type="ref">5</xref> LMP,<xref rid="batt201900017-bib-0006" ref-type="ref">6</xref> LCO,<xref rid="batt201900017-bib-0007" ref-type="ref">7</xref> LMO<xref rid="batt201900017-bib-0008" ref-type="ref">8</xref> and Si.<xref rid="batt201900017-bib-0009" ref-type="ref">9</xref> A recent comprehensive review on EPD investigations in the fields of battery, supercapacitor and solid oxide fuel cell is available.<xref rid="batt201900017-bib-0010" ref-type="ref">10</xref> It is noted that these published studies reported thin films of coating layers, typically several &#x003bc;m in film thickness. In EPD technology, the mass loading of deposited materials and film thickness can be readily controlled by varying the applied voltage, colloidal electrolyte composition and deposition time. Some reports have introduced modifications to manipulate packing density by EPD and then improve electrochemical properties.<xref rid="batt201900017-bib-0011" ref-type="ref">11</xref> Other authors have reported inter&#x02010;particle connectivity by compressing EPD electrode,<xref rid="batt201900017-bib-0012" ref-type="ref">12</xref> formation of sandwich&#x02010;like layered structure by controlling EPD electrolyte recipes<xref rid="batt201900017-bib-0013" ref-type="ref">13</xref> and cycling performance improvement by annealing EPD electrode.<xref rid="batt201900017-bib-0014" ref-type="ref">14</xref> While these early studies are useful for identifying the potential of EPD for energy storage electrode manufacture, we are still some ways off to producing practical electrodes which demand thicker films of coating layers to provide useful capacity for actual applications.</p><p>Electrophoretic deposition is already a proven industrial process for the production of surface coatings, notably in the electrophoretic paints industry since the 1970s. In its simplest form, EPD exploits the direct interaction of charged materials (in the form of solid particles) with an electric field. The electric field moves charge materials to a deposition substrate, then the materials are deposited onto it building up of a film of coating layer. The high level of digital automation, low levels of pollution and ease of scalability are advantageous that have led to the deposition of solid particles of paints onto car bodies on an industrial scale. EPD manufacturing technology continues to offer a wealth of possibilities to produce coatings with controlled properties (e.&#x02009;g., thin or thick, flat or rough, compact or porous, mono or graded layers) depending on the processing conditions. Although our comprehensive understanding of the underpinning mechanisms and fundamental electrochemical engineering aspects are far from complete, this has clearly not prevented the use of this highly versatile and robust EPD manufacturing technology on an industrial scale.</p><p>Here, we address the above battery challenge by performing a systematic investigation of EPD electrode manufacture for Lithium&#x02010;ion battery. Initially, the formulation of colloidal electrolytes that offers successful electrode manufacture is studied. The aim is to understand the changes in selected deposition parameters and establish basic design rules to produce electrodes. Key investigations include: (a) optimizing materials fraction; (b) exploring deposition parameters; and (c) characterizing deposited microstructures, both surface and cross&#x02010;sectional views. Then, the electrodes are assembled into coin cells (vs. Lithium metal) and their electrochemical performance for energy storage are studied: (a) recording cyclic voltammograms, (b) measuring C&#x02010;rates vs capacity extraction, (c) successive cycling for charge/discharge; and (d) quantifying electrochemical impedance spectroscopy. The evidence provided here is useful to exemplify how EPD electrode manufacture approach can extend the intrinsic electrochemical properties of active materials to be realized more fully, including improved electrode design such as higher density active material electrode that are binder&#x02010;less and thick film to give useful capacity for practical applications.</p></sec><sec id="batt201900017-sec-0002"><label>2</label><title>Results and Discussion</title><sec id="batt201900017-sec-0003"><label>2.1</label><title>EPD Electrode Manufacture</title><p>A pictorial representation of the electrophoretic deposition (EPD) setup for electrode manufacture is shown in Figure&#x02005;<xref rid="batt201900017-fig-0001" ref-type="fig">1</xref>. Essential components include a working electrode (i.&#x02009;e., this is the substrate where battery material will be deposited), a counter electrode, a power supply and a colloidal electrolyte (i.&#x02009;e., this is a suspension of battery materials). The process involves three key stages: (1) preparation of colloidal electrolyte, (2) electrophoretic deposition of battery materials onto the working electrode, and finally (3) drying the deposited electrode and use directly as Lithium&#x02010;ion battery cathode. Unlike slurry casting approach, no calendaring was performed to densify the deposited electrode and its porous microstructure were resulted directly during deposition.
+</p><fig fig-type="Figure" xml:lang="en" id="batt201900017-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>A simplified setup for electrophoretic deposition to manufacture battery electrodes. A controlled migration of battery materials and carbon black particles is induced by the electric field between the electrodes.</p></caption><graphic id="nlm-graphic-3" xlink:href="BATT-2-551-g001"/></fig><p>For successful EPD electrode manufacture, it is critical that the solid materials to be deposited has sufficient surface charge (typically zeta potential&#x000b1;30&#x02005;mV) so that they can migrate to a deposition surface under the influence of an electric field.<xref rid="batt201900017-bib-0017" ref-type="ref">17</xref>, <xref rid="batt201900017-bib-0018" ref-type="ref">18</xref> It warrants that the colloidal electrolyte has suspension stability so that there is no immediate setting of the solid materials but sufficiently dilute (typically &#x0003c;10&#x02005;g&#x02009;dm<sup>&#x02212;3</sup>), offering facile migration of charged materials (which can be of different shapes, sizes and types) to build&#x02010;up a film of coating layer on the deposition surface. Charging agents can be added to provide surface charge for solid materials, whilst binders to provide adhesion property between materials&#x02010;to&#x02010;materials and materials&#x02010;to&#x02010;deposition surface. Comparing to physical slurry casting approach, the ability to use a controllable electric field to direct the deposition of charged materials which in no doubt drastically increases the technological applicability of EPD to produce highly structured electrode architectures, producing electrodes that are difficult to achieve using viscous slurries that are often prone to suspension instability and fast ageing in conventional battery electrode manufacture technologies.</p><p>EPD electrode manufacture were started with investigations on active material deposition (5&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> LiN<sub>1/3</sub>M<sub>1/3</sub>C<sub>1/3</sub>O<sub>2</sub>) in the absence of a dispersant and charging agent (0.1&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> PDDA) in the NMP media, resulting in 100&#x02009;% active material electrode. Although these electrodes have demonstrated adhesion to the Al foil current collector surface, they do not have sufficient electrochemical activity for Lithium&#x02010;ion energy storage. This behaviour is likely attributed to the lack of electrical conductivity amongst material&#x02010;to&#x02010;material and material&#x02010;to&#x02010;current collector surface. Then, keeping the total materials loading at 5&#x02005;g&#x02009;dm<sup>&#x02212;3</sup>, electrical conductivity enhancer carbon black materials were added at 5&#x02005;wt.&#x02009;% into the NMP media. Good adhesion of the deposited layer on current collector surface was observed using this electrolyte recipe, see Figure&#x02005;<xref rid="batt201900017-fig-0002" ref-type="fig">2</xref>(a), including physical bending tests and punched out discs for coin cells showed no obvious layer delamination. Surface charge of battery materials was recorded through zeta potential measurement. It was found that negative zeta potential was at around &#x02212;35&#x02005;mV in the absence of PDDA, whilst the addition of 0.1&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> PDDA produced+35&#x02005;mV through a steric stabilization mechanism for successful cathodic deposition. Cathodic EPD was necessary so that Al foil current collector would not undergo anodic dissolution.
+</p><fig fig-type="Figure" xml:lang="en" id="batt201900017-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>(a) Photographs of electrophoretically deposited electrode. (b) Surface microstructure. Deposition was carried out at a constant voltage of 80&#x02005;V for 5&#x02005;min. Colloidal electrolyte contains 4.75&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> NMC (5 to 25&#x02005;&#x003bc;m), 0.25&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> CB (100 to 300&#x02005;nm) and 0.1&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> PDDA.</p></caption><graphic id="nlm-graphic-5" xlink:href="BATT-2-551-g002"/></fig><p>Table&#x02005;<xref rid="batt201900017-tbl-0001" ref-type="table">1</xref> shows film thickness of EPD electrodes, by varying deposition parameters. A constant voltage at 80&#x02005;V was used in these experiments, and the recorded current density was around 0.5&#x02005;mA&#x02009;cm<sup>&#x02212;2</sup> to 1.0&#x02005;mA&#x02009;cm<sup>&#x02212;2</sup>. It was also observed that the film thickness was readily increased by depositing for a longer duration and by using a higher loading concentration of battery materials. For a longer deposition duration, the slow&#x02010;down in the growth rate of film thickness (&#x003bc;m&#x02009;min<sup>&#x02212;1</sup>) was observed, which could be ideal for uniform thickness distribution all over an irregular 3D topography. If the deposit is a porous layer film, the voltage drop across the layer will remain very low due to the availability of continued conductance pathways through the open porous architecture.<xref rid="batt201900017-bib-0019" ref-type="ref">19</xref> The literature suggests that if a sufficiently conductive electrolyte was used, the electrical resistance of the porous layer will not limit its growth rate which points to the possibility of an unlimited film thickness.<xref rid="batt201900017-bib-0020" ref-type="ref">20</xref>, <xref rid="batt201900017-bib-0021" ref-type="ref">21</xref> Evidence from other fields shows that porous layer (typically 10&#x02009;% to 60&#x02009;% porosity) in excess of mm film thickness can be easily deposited. For example, 316&#x02005;&#x003bc;m thick layer using Al<sub>2</sub>O<sub>3</sub> insulator materials and even up to 5&#x02005;mm thick layer using electrically conductive TiB2 materials. Both thick layers were deposited in &#x0003c;60&#x02005;seconds.<xref rid="batt201900017-bib-0022" ref-type="ref">22</xref>, <xref rid="batt201900017-bib-0023" ref-type="ref">23</xref>
+</p><table-wrap id="batt201900017-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Deposited layer thickness vs. selected deposition parameters. For varying deposition duration experiments, 5&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> battery materials and 0.1&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> PDDA were used. For varying battery materials experiments, 5&#x02005;minutes deposition and 0.1&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> PDDA were used. For varying PDDA experiments, 5&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> battery materials and 5&#x02005;minutes deposition were used.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th valign="top" rowspan="1" colspan="1">
+<p>Selected deposition parameters</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>Deposited layer thickness [&#x003bc;m]</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>Deposited layer thickness per unit time [&#x003bc;m&#x02009;min<sup>&#x02212;1</sup>]</p>
+</th></tr></thead><tbody><tr><td valign="top" rowspan="1" colspan="1">
+<p>Deposition duration [minutes] 2 5 10 20</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>24 59 83 98</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>12.0 11.8 8.3 4.9</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>Battery materials [g&#x02009;dm<sup>&#x02212;3</sup>] 0.8 2 8 16</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>12 30 55 65</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>2.4 6.0 11.0 13.0</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>PDDA concentration [g&#x02009;dm<sup>&#x02212;3</sup>] 0.2 0.3 0.4 0.5</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>31 38 34 35</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>6.2 7.6 6.8 7.0</p>
+</td></tr></tbody></table><permissions><copyright-holder>Wiley&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA</copyright-holder></permissions></table-wrap><p>It was observed that the growth rate of film thickness can be increased by having a higher loading concentration of battery materials in the electrolyte recipe, but stirring of the electrolyte was necessary to minimize materials sedimentation. The limiting effect of PDDA concentration on the deposited film thickness was also observed, and its concentration needs to be adjusted to suit the loading concentration of battery materials. It is critical that the colloidal electrolyte recipe is sufficiently stable, offering fast enough deposition while ensuring the deposited film is thick enough to provide useful capacity and has electrochemical activity useful for Lithium&#x02010;ion energy storage.</p></sec><sec id="batt201900017-sec-0004"><label>2.2</label><title>Microstructures</title><p>An example of the deposited electrode is shown in Figure&#x02005;<xref rid="batt201900017-fig-0002" ref-type="fig">2</xref>(a). By physical observation, the surface of current collector appears to be covered by battery materials. No obvious pin&#x02010;holes can be seen. Following drying and cutting sequences, the electrode disc continues to show good mechanical integrity and no obvious deposits flaking&#x02010;off from the edges.</p><p>An extreme bending at 180&#x02005;degree, using a lab twizzle, shows no obvious crack lines along the bended section and no coating layer delamination (i.&#x02009;e., did not peel off) from the Al foil current collector surface. All these physical observations point towards the suitability of EPD approach to produce mechanically robust films for Lithium&#x02010;ion battery electrodes. Figure&#x02005;<xref rid="batt201900017-fig-0002" ref-type="fig">2</xref>(b) shows top surface microstructure, having micron&#x02010;sized agglomerates. The granule NMC, having an average diameter of 10&#x02005;&#x003bc;m, is composed of primary particles with sizes in the range of 500&#x02005;nm.</p><p>Figure&#x02005;<xref rid="batt201900017-fig-0003" ref-type="fig">3</xref>(a) shows a cross&#x02010;sectional view of an electrophoretically deposited electrode. The film thickness was about 60&#x02005;&#x003bc;m and mass loading of battery materials was about 15&#x02005;mg&#x02009;cm<sup>2</sup>; deposition was carried out at a constant voltage 80&#x02005;V for 5&#x02005;min in an NMP&#x02010;based colloidal electrolyte containing 4.75&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> NMC (5 to 25&#x02005;&#x003bc;m particle size), 0.25&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> CB (100 to 300&#x02005;nm particle size) and 0.1&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> PDDA. The electrode shows open pore networks with tortuosity which extends from top to bottom of the film, offering beneficial spacing for Lithium&#x02010;ion to access the entirety of the film thickness. This allows, in return, access to all the available capacity of thick film electrodes.<xref rid="batt201900017-bib-0024" ref-type="ref">24</xref>, <xref rid="batt201900017-bib-0025" ref-type="ref">25</xref>, <xref rid="batt201900017-bib-0026" ref-type="ref">26</xref> Clearly in Figure&#x02005;<xref rid="batt201900017-fig-0003" ref-type="fig">3</xref>(b), elemental analysis for the presence of carbon shows that the smaller particle size of carbon black was infiltrated into the available spacing between the micron&#x02010;sized agglomerates. Around 10&#x02005;wt.&#x02009;% carbon element (detected by Energy&#x02010;dispersive X&#x02010;ray spectroscopy) was recorded in this electrode.
+</p><fig fig-type="Figure" xml:lang="en" id="batt201900017-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>(a) and (b) Cross&#x02010;sectional view of the deposited electrode in Figure&#x02005;2 showing 60&#x02005;&#x003bc;m film thickness, and (c) the placement of electrical conductivity enhancer carbon black (red color represents the presence of carbon element).</p></caption><graphic id="nlm-graphic-7" xlink:href="BATT-2-551-g003"/></fig><p>This strategic placement of carbon black thereby gives the necessary electrical connection at the interfaces of material&#x02010;to&#x02010;material and material&#x02010;to&#x02010;current collector surface, allowing the whole electrode to give useful electrochemical activity for energy storage. High density active materials electrode allows the manufacture of both thin electrode for high rate and thick electrode for high capacity, without sacrificing performance by an undesirable quantity of inactive materials. The porous architecture also facilitates improved electrolyte penetration, diffusion and migration, thereby gives enhanced electrochemical performance useful to all power extraction capabilities.</p><p>All electrophoretically deposited electrodes were not calendared in this work, but gives a controllable mass loading of battery materials at about 3&#x02005;mg&#x02009;cm<sup>&#x02212;2</sup> to 30&#x02005;mg&#x02009;cm<sup>&#x02212;2</sup>. This implies the possibility that EPD approach may simplify electrode manufacture units operation. In all cases, the electrode design and its film thickness must be optimized to give useful combinations of electronic, ionic and interfacial charge transports that maximize the rate at which active materials within the whole electrode can be utilized effectively. Hereafter, the electrochemical performance of electrodes (as in Figure&#x02005;<xref rid="batt201900017-fig-0002" ref-type="fig">2</xref>) is reported unless otherwise stated.</p><p>Figure&#x02005;<xref rid="batt201900017-fig-0004" ref-type="fig">4</xref> shows the recorded XRD patterns namely (a) as&#x02010;received powder of NMC, (b) as&#x02010;deposited electrode containing 90&#x02005;wt.&#x02009;% NMC and 10&#x02005;wt.&#x02009;% CB, and (c) electrode following a successive 50&#x02005;charge/discharge cycles in a Lithium&#x02010;ion coin cell. The XRD pattern for NMC is as expected. This can be indexed to a hexagonal &#x003b1;&#x02010;NaFeO<sub>2</sub> structure with R<sub>3</sub>&#x02010;m space group without any impurity,<xref rid="batt201900017-bib-0027" ref-type="ref">27</xref> manifesting crystallized and layered structure.<xref rid="batt201900017-bib-0028" ref-type="ref">28</xref>, <xref rid="batt201900017-bib-0029" ref-type="ref">29</xref> The splitting doublets (006/012) and (108/110) at around 38&#x000b0; and 65&#x000b0; were identified, and the material has a unique 2D tunnel for Lithium&#x02010;ion diffusion along a (or b) axis for high capacity and rate performance characteristics.<xref rid="batt201900017-bib-0030" ref-type="ref">30</xref>, <xref rid="batt201900017-bib-0031" ref-type="ref">31</xref>, <xref rid="batt201900017-bib-0032" ref-type="ref">32</xref> For Figure&#x02005;<xref rid="batt201900017-fig-0004" ref-type="fig">4</xref>(b) and (c), the fluctuation around the baseline at low 2&#x003b8;&#x02005;angle&#x0003c;20&#x000b0; can be assigned to the existence of amorphous carbon black in the deposited electrode,<xref rid="batt201900017-bib-0033" ref-type="ref">33</xref> but exhibits similar XRD pattern to the as&#x02010;received NMC powder. The (003) and (104) diffraction peaks in Figure&#x02005;<xref rid="batt201900017-fig-0005" ref-type="fig">5</xref>(c) clearly shows a slight shift towards lower 2&#x003b8;&#x02005;angle suggesting a minor expansion in lattice parameter due to the successive cycling operation.
+</p><fig fig-type="Figure" xml:lang="en" id="batt201900017-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>XRD patterns. a) As&#x02010;received NMC powder as received from the commercial supplier. b) Electrophoretically deposited electrode film. c) Electrochemically cycled electrode, collected from a lithium&#x02010;ion coin cell. For (b) and (c), high active materials density electrode is binder&#x02010;less and contains 90&#x02005;wt.&#x02009;% NMC and 10&#x02005;wt.&#x02009;% CB.</p></caption><graphic id="nlm-graphic-9" xlink:href="BATT-2-551-g004"/></fig><fig fig-type="Figure" xml:lang="en" id="batt201900017-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Cyclic voltammogram of an electrophoretically deposited electrode containing 90&#x02005;wt.&#x02009;% NMC and 10&#x02005;wt.&#x02009;% CB. Potential scan rate: 0.1&#x02005;mV&#x02009;s<sup>&#x02212;1</sup>. Deposition parameters: 80&#x02005;V for 5&#x02005;min. Colloidal electrolyte: 4.75&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> NMC, 0.25&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> CB and 0.1&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> PDDA.</p></caption><graphic id="nlm-graphic-11" xlink:href="BATT-2-551-g005"/></fig></sec><sec id="batt201900017-sec-0005"><label>2.3</label><title>Electrochemical Cycling Performance</title><p>Prior to data collection, two formation cycles were performed at C/10 in the potential range of 2.5&#x02005;V and 4.5&#x02005;V vs. Li/Li<sup>+</sup>. The cycles delivered a reversible capacity of 164&#x02005;mAh&#x02009;g<sup>&#x02212;1</sup>, recording 87&#x02009;% coulombic efficiency. Initial irreversible capacity was around 20&#x02005;mAh&#x02009;g<sup>&#x02212;1</sup>, as a result of solid electrolyte interface formation at the anode and probably due to an inefficient cathode&#x02010;electrolyte interface during the early cycles.<xref rid="batt201900017-bib-0034" ref-type="ref">34</xref>, <xref rid="batt201900017-bib-0035" ref-type="ref">35</xref> Figure&#x02005;<xref rid="batt201900017-fig-0005" ref-type="fig">5</xref> shows a typical cyclic voltammogram response of the deposited electrode. Despite the electrode was relatively thick (at around 60&#x02005;&#x003bc;m film thickness), the clear peaks representing electrochemical redox reactions were recorded.<xref rid="batt201900017-bib-0036" ref-type="ref">36</xref>
+</p><p>Comparing with state&#x02010;of&#x02010;the&#x02010;art, slurry casted electrodes tend to bury the surface of active materials, limiting electrolyte access to the available sites for electrochemical reaction and leading to poor rate capabilities. Slurry casted electrodes also contain polymeric binders which can be difficult to de&#x02010;convolute the electrochemical properties of active material from cyclic voltammogram response. In Figure&#x02005;<xref rid="batt201900017-fig-0005" ref-type="fig">5</xref>, the anodic (oxidation) peak at 3.89&#x02005;V vs. Li/Li<sup>+</sup> for lithium extraction and a cathodic (reduction) peak at 3.62&#x02005;V vs. Li/Li<sup>+</sup> for lithium insertion, showing excellent electrochemical activity at thick film and porous architecture.</p><p>Published studies indicate that LiNi<sub>1/3</sub>Co<sub>1/3</sub>Mn<sub>1/3</sub>O<sub>2</sub> as cathode material, where, upon de&#x02010;lithiation, the valences of Ni and Co increase from +2 to+3 and +3 to +4, respectively. The average lithium storage voltage is ca. 3.75&#x02005;V, as determined by the Ni<sup>2+</sup>/Ni<sup>3+</sup> and Co<sup>3+</sup>/Co<sup>4+</sup> redox couples.<xref rid="batt201900017-bib-0037" ref-type="ref">37</xref> The valence state of Mn do not change during charge/discharge processes, but the cations with crystal field stabilization energy at octahedral sites facilitate the overall stability of the material framework and remain electrochemically inactive.<xref rid="batt201900017-bib-0038" ref-type="ref">38</xref>
+</p><p>The extractable capacity of EPD electrodes were investigated under various C&#x02010;rates. Figure&#x02005;<xref rid="batt201900017-fig-0006" ref-type="fig">6</xref>(a) and (b) show the recorded responses of rate capability tests; 2D foil and 3D mesh Al current collectors were used as the deposition substrates respectively. C/10 was used as the charging rate until the electrode potential reached 4.3&#x02005;V vs. Li/Li<sup>+</sup> and held until the current reached 0.1&#x02005;mA before discharging at various C&#x02010;rates to 2.5&#x02005;V vs. Li/Li<sup>+</sup>. A cut&#x02010;off at 4.3&#x02005;V vs Li/Li<sup>+</sup> was chosen based on the supplier's datasheet. Taking an example in Figure&#x02005;<xref rid="batt201900017-fig-0006" ref-type="fig">6</xref>(a), discharging the electrode at C/10 delivers around 165&#x02005;mAh&#x02009;g<sup>&#x02212;1</sup> capacity. It was found that the amount of extractable capacity reduces at higher C&#x02010;rates, consistent to typical observations for Li&#x02010;ion battery materials.<xref rid="batt201900017-bib-0039" ref-type="ref">39</xref>, <xref rid="batt201900017-bib-0040" ref-type="ref">40</xref> Although the discharged capacity at 1&#x02005;C was only 124&#x02005;mAh&#x02009;g<sup>&#x02212;1</sup>, equivalent values were recorded in the reversed C&#x02010;rates tests (from 1&#x02005;C back to C/10). The results clearly showed an efficient capacity performance recovery, suggesting cycling robustness of these EPD electrodes even though they contained a very high active materials density (90&#x02005;wt.&#x02009;%), binder&#x02010;less and thick film (60&#x02005;&#x003bc;m).
+</p><fig fig-type="Figure" xml:lang="en" id="batt201900017-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Successive cycling investigations. Rate capability tests on (a) 2D foil and (b) 3D mesh Al current collector. Charging C&#x02010;rate was set at C/10 and discharging at various C&#x02010;rates. (c) Typical charge/discharge cycles and (d) the extracted parameters from (c).</p></caption><graphic id="nlm-graphic-13" xlink:href="BATT-2-551-g006"/></fig><p>To further advance this finding, battery materials was electrophoretically deposited onto 3D mesh Al current collector (40&#x02009;% open porous area). Figure&#x02005;<xref rid="batt201900017-fig-0006" ref-type="fig">6</xref>(b) shows the rate capability response. The inset shows an example of the deposited electrode, showing good coverage of the deposits on mesh strands and the available porous area was filled&#x02010;up with the deposits. Over 30&#x02005;mg&#x02009;cm<sup>2</sup> mass loading and 150&#x02005;&#x003bc;m thick film were successfully deposited on 3D mesh; twice as thick as and higher loading than 2D foil as Al current collector. To show mesh coverage, some deposits were scrapped off to reveal the underlining microporous architecture. It was found that discharging at lower rates (C/10 and C/5) of this 3D mesh electrode delivered almost the same capacities as those observed in 2D foil Al current collector. It was only when discharging at higher C&#x02010;rates (&#x0003e;C/2), much larger capacities were recorded on 3D mesh than 2D foil. Taking 1&#x02005;C as an example, about 23&#x02009;% more capacity was extracted in 3D mesh (152&#x02005;mAh&#x02009;g<sup>&#x02212;1</sup> capacity) compared to 2D foil (124&#x02005;mAh&#x02009;g<sup>&#x02212;1</sup> capacity). Cycling at higher C&#x02010;rates (2&#x02005;C, 5&#x02005;C and 10&#x02005;C) that are not designed for this battery material was successful, but sacrificing the amount of extractable capacity. As an example, 10&#x02005;C discharge had a capacity over 38&#x02005;mAh&#x02009;g<sup>&#x02212;1</sup>. Remarkably, the electrode was capable of recovering back to 163&#x02005;mAh&#x02009;g<sup>&#x02212;1</sup> when returning to a lower rate at C/10, again showing cycling robustness of EPD electrode. The excellent rate capability on this granule NMC electrode was probably due to efficient Lithium&#x02010;ion diffusion pathway and electrode&#x02010;electrolyte contact area through the porous architecture of electrode design.</p><p>Galvanostatic charge/discharge cycles were performed, demonstrating the impact of successive cycling on the deposited electrode. Specific capacity of the coin cell was calculated according to the weight of the cathode active materials. Figure&#x02005;<xref rid="batt201900017-fig-0006" ref-type="fig">6</xref>(c) shows a typical charge and discharge curves, using 2D foil Al current collector. The current at C/5 (30&#x02005;mA&#x02009;g<sup>&#x02212;1</sup>) was both charge and discharge rates. Figure&#x02005;<xref rid="batt201900017-fig-0006" ref-type="fig">6</xref>(d) shows the recorded capacity and coulombic efficiency vs. successive cycles. Coulombic efficiency increases immediately from 97.6&#x02009;% (first cycle) to about 99.3&#x02009;% (second cycle), which then remains relatively constant over the subsequent cycles. The electrode delivers around 156&#x02005;mAh&#x02009;g<sup>&#x02212;1</sup>, showing 98&#x02009;% capacity retention over 50&#x02005;cycles. The electrode potentials of the charge and discharge curves slightly changes with successive cycles, showing electrode polarization upon cycling.</p></sec><sec id="batt201900017-sec-0006"><label>2.4</label><title>Electrochemical Impedance Spectroscopy Analysis</title><p>Electrochemical impedance spectroscopy response of the electrophoretically electrodes was carried out at Cycle&#x02005;5 and 50, being recorded straight after de&#x02010;lithiation cycle (open circuit voltage=4.2&#x02005;V vs. Li/Li<sup>+</sup>) and lithiation cycle (open circuit voltage=3.65&#x02005;V vs. Li/Li<sup>+</sup>). Exemplary of Nyquist plots are presented in Figure&#x02005;<xref rid="batt201900017-fig-0007" ref-type="fig">7</xref>, showing semicircles and a slope. The x&#x02010;axis intercept of semicircles were used to estimate various resistances, consistent to the approaches in published literature.<xref rid="batt201900017-bib-0041" ref-type="ref">41</xref>, <xref rid="batt201900017-bib-0042" ref-type="ref">42</xref>, <xref rid="batt201900017-bib-0043" ref-type="ref">43</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="batt201900017-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Electrochemical impedance spectroscopy (EIS) response (10&#x02005;kHz to 10&#x02005;mHz) of the electrophoretically deposited electrode. &#x025b5; Cycle&#x02005;5. Cycle&#x02005;50.</p></caption><graphic id="nlm-graphic-15" xlink:href="BATT-2-551-g007"/></fig><p>Figure&#x02005;<xref rid="batt201900017-fig-0007" ref-type="fig">7</xref> inset is scanning electron microscopy image of the electrode investigated. The semicircles in high/medium frequency region indicated the ohmic resistance (R<sub>1</sub>), solid electrolyte interface resistance (R<sub>2</sub>) and charge and charge transport resistance (R<sub>3</sub>) at the interface between electrodes and electrolyte, while the inclined lines in the low frequency domain represented the Warburg impedance reflecting Lithium&#x02010;ion solid&#x02010;state diffusion in the electrode materials.<xref rid="batt201900017-bib-0044" ref-type="ref">44</xref>, <xref rid="batt201900017-bib-0045" ref-type="ref">45</xref> The semicircles became larger upon successive cycling, indicating increase in charge transfer and SEI resistances.</p><p>In the particular case of Lithium&#x02010;ion battery, EIS enables the identification and study ofdifferent processes, including:</p><p>
+<list list-type="bullet" id="batt201900017-list-0001"><list-item><p>movement of charge carriers through the electrolyte, current collectors and wires (ohmic resistance at frequencies typically above 1&#x02005;kHz),</p></list-item><list-item><p>electrochemical double layer and charge transfer reaction at the electrode surfaces (frequencies between 1&#x02005;Hz and 1&#x02005;kHz), and</p></list-item><list-item><p>solid&#x02010;state diffusion of lithium&#x02010;ions within the bulk of the electrode material (frequencies usually below 1&#x02005;Hz).</p></list-item></list>
+</p><p>Table&#x02005;<xref rid="batt201900017-tbl-0002" ref-type="table">2</xref> compares the magnitude of resistances at de&#x02010;lithiated state (battery charged) and lithiated state (battery discharged). It is clear that R<sub>1</sub> ohmic resistance remains unchanged, but state of charge affected the magnitude of R<sub>2</sub> solid electrolyte interface resistance and R<sub>3</sub> charge transfer resistance. Taking an example at Cycle&#x02005;50, charge transfer resistance increases from 23&#x02005;&#x003a9; (de&#x02010;lithiated state) to 137&#x02005;&#x003a9; (lithiated state); whilst solid electrolyte interface resistance increases from 81&#x02005;&#x003a9; (de&#x02010;lithiated state) to 344&#x02005;&#x003a9; (lithiated state). All these findings are consistent to observations reported for Li&#x02010;ion battery materials in the published literature.
+</p><table-wrap id="batt201900017-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Values of resistance were extracted from Figure&#x02005;8. An equivalent circuit model common to Lithium&#x02010;ion battery analysis was used. R1 (ohmic resistance), R2 (charge transfer resistance) and R3 (solid electrolyte interface resistance).</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th valign="top" rowspan="1" colspan="1">
+<p>EIS resistances</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>Resistances recorded after de&#x02010;lithiation [&#x003a9;]</p>
+</th><th valign="top" rowspan="1" colspan="1">
+<p>Resistances recorded after lithiation [&#x003a9;]</p>
+</th></tr></thead><tbody><tr><td valign="top" rowspan="1" colspan="1">
+<p>R1 R2 R3</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>Cycle&#x02005;5 2 14 66</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>Cycle&#x02005;5 2 104 241</p>
+</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<p>R1 R2 R3</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>Cycle&#x02005;50 2 23 81</p>
+</td><td valign="top" rowspan="1" colspan="1">
+<p>Cycle&#x02005;50 2 137 344</p>
+</td></tr></tbody></table><permissions><copyright-holder>Wiley&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA</copyright-holder></permissions></table-wrap><p>Lithium&#x02010;ion diffusion coefficient (D<sub>Li</sub>
+<sup>+</sup>) deposited electrode was calculated from Equation&#x02005;(1), using the extracted Warburg impedance coefficients (&#x003c3;<sub>W</sub>) from Equation&#x02005;<xref rid="batt201900017-disp-0001" ref-type="disp-formula">(1)</xref>:<xref rid="batt201900017-bib-0046" ref-type="ref">46</xref>, <xref rid="batt201900017-bib-0047" ref-type="ref">47</xref>, <xref rid="batt201900017-bib-0048" ref-type="ref">48</xref>
+<disp-formula id="batt201900017-disp-0001"><label>(1)</label><mml:math id="nlm-math-1"><mml:mstyle displaystyle="true"><mml:mrow><mml:msub><mml:mrow><mml:mspace width="4pt"/><mml:mspace width="4pt"/><mml:mspace width="4pt"/><mml:mi>D</mml:mi></mml:mrow><mml:msup><mml:mrow><mml:mi>L</mml:mi><mml:mi>i</mml:mi></mml:mrow><mml:mo>+</mml:mo></mml:msup></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:msup><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow><mml:mrow><mml:mn>2</mml:mn><mml:msup><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:msup><mml:mrow><mml:mi>n</mml:mi></mml:mrow><mml:mn>4</mml:mn></mml:msup><mml:msup><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mn>4</mml:mn></mml:msup><mml:msup><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:msubsup><mml:mi>&#x003c3;</mml:mi><mml:mrow><mml:mi>W</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msubsup></mml:mrow></mml:mfrac></mml:mrow></mml:mstyle></mml:math></disp-formula>
+<disp-formula id="batt201900017-disp-0002"><label>(2)</label><mml:math id="nlm-math-2"><mml:mstyle displaystyle="true"><mml:mrow><mml:mi>R</mml:mi><mml:mi>e</mml:mi><mml:mi>a</mml:mi><mml:mi>l</mml:mi><mml:mspace width="4pt"/><mml:mi>Z</mml:mi><mml:mo>=</mml:mo><mml:mi>R</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mi>&#x003c3;</mml:mi><mml:mi>W</mml:mi></mml:msub><mml:msup><mml:mrow><mml:mi>&#x003c9;</mml:mi></mml:mrow><mml:mrow><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:mstyle></mml:math></disp-formula>
+</p><p>D<sub>Li</sub>
+<sup>+</sup> is Lithium&#x02010;ion diffusion coefficient (cm<sup>2</sup>&#x02009;s<sup>&#x02212;1</sup>), R is gas constant (8.314&#x02005;J&#x02009;mol<sup>&#x02212;1</sup>&#x02009;K<sup>&#x02212;1</sup>), T is absolute temperature (K), A is electrode area (cm<sup>2</sup>), n is number of electrons involved in the redox process (assuming 1), C is the lithium&#x02010;ion concentration (assuming 7.69&#x000d7;10<sup>&#x02212;3</sup>&#x02005;mol&#x02009;cm<sup>&#x02212;3</sup>), F is the Faraday constant (96486&#x02005;C&#x02009;mol<sup>&#x02212;1</sup>) and &#x003c3;<sub>W</sub> is Warburg impedance coefficients.</p><p>Taken from the linear fitting of Real Z vs. &#x003c9;<sup>&#x02212;1/2</sup> (in the low frequency region), Lithium&#x02010;ion diffusion coefficients for lithiated electrodes were estimated to be 1.28&#x000d7;10<sup>&#x02212;14</sup>&#x02005;cm<sup>2</sup>&#x02009;s<sup>&#x02212;1</sup> (Cycle&#x02005;5) and 3.95&#x000d7;10<sup>&#x02212;15</sup>&#x02005;cm<sup>2</sup>&#x02009;s<sup>&#x02212;1</sup> (Cycle&#x02005;50) in Figure&#x02005;<xref rid="batt201900017-fig-0008" ref-type="fig">8</xref>, which is consistent to findings for longer diffusion paths.<xref rid="batt201900017-bib-0049" ref-type="ref">49</xref>, <xref rid="batt201900017-bib-0050" ref-type="ref">50</xref> Based on the data for de&#x02010;lithiated electrodes, Lithium&#x02010;ion diffusion coefficients were estimated to be around 1.07&#x000d7;10<sup>&#x02212;12</sup>&#x02005;cm<sup>2</sup>&#x02009;s<sup>&#x02212;1</sup> (Cycle&#x02005;5) and 1.10&#x000d7;10<sup>&#x02212;12</sup>&#x02005;cm<sup>2</sup>&#x02009;s<sup>&#x02212;1</sup> (Cycle&#x02005;50). This clearly suggests an efficient cyclic insertion and extraction of lithium&#x02010;ion through thick film of the binder&#x02010;less, high density active materials electrode.
+</p><fig fig-type="Figure" xml:lang="en" id="batt201900017-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>The relationship between Real Z and &#x003c9;<sup>&#x02212;1/2</sup> in the low frequency region, extracted data from EIS Nyquist plots.</p></caption><graphic id="nlm-graphic-17" xlink:href="BATT-2-551-g008"/></fig></sec></sec><sec id="batt201900017-sec-0007"><label>3</label><title>Conclusions</title><p>Lithium&#x02010;ion battery electrodes based on commercial active material Ni<sub>1/3</sub>Co<sub>1/3</sub>Mn<sub>1/3</sub>O<sub>2</sub> were successfully manufactured by the electrophoretic deposition (EPD) approach. These electrodes contained a high density active material (90&#x02005;wt.&#x02009;%), and the rest was carbon black as electrical conductivity enhancer material (10&#x02005;wt.&#x02009;%). Non&#x02010;aqueous NMP&#x02010;based colloidal electrolytes were formulated using Poly(diallyldimethylammonium chloride) as a dispersant and charging agent, thus enabled cathodic EPD. Using 2D foil Al current collector as the deposition substrate, a film thickness about 60&#x02005;&#x003bc;m and 15&#x02005;mg&#x02009;cm<sup>&#x02212;2</sup> mass loading were deposited. However, twice as thick and higher mass loading on 3D mesh was achieved than 2D foil. No polymeric binders and post&#x02010;electrode calendaring were needed to render the electrode usable for Lithium&#x02010;ion energy storage, offering potential to simplify electrode manufacture units operation. Electrode architecture had open pore networks spanning from top to bottom of the thick film, where carbon black (100 to 300&#x02005;nm particle size) were infiltrated into the available spacing between the agglomerates matrix of Ni<sub>1/3</sub>Co<sub>1/3</sub>Mn<sub>1/3</sub>O<sub>2</sub> (5 to 25&#x02005;&#x003bc;m particle size). This work shows a critical evaluation of the important development in EPD for battery electrode research, and advances of this approach vs common slurry casting have on energy storage performance could help to identify its benefits and limitations for future manufacturing research.</p><p>The electrode design and its thick film gave useful electronic, ionic and interfacial charge transports. Lithium&#x02010;ion diffusion coefficient (1.10&#x000d7;10<sup>&#x02212;12</sup>&#x02005;cm<sup>2</sup>&#x02009;s<sup>&#x02212;1</sup>), ohmic resistance (2&#x02005;&#x003a9;), charge transfer resistance (23&#x02005;&#x003a9;) and solid electrolyte interface resistance (81&#x02005;&#x003a9;) were recorded; maximizing the rate at which active materials within the electrode was utilized effectively. Electrochemical cycling investigations in coin cell have demonstrated the robustness characteristics of electrophoretically deposited electrodes, including excellent cycling performance useful to a wide range of power extractions (C/10 to 10&#x02005;C) and a stable 98&#x02009;% capacity retention (156&#x02005;mAh&#x02009;g<sup>&#x02212;1</sup> @ C/5) over 50 successive charge/discharge cycles. In short, EPD electrode manufacture can be applied as a platform technology for any battery and supercapacitor materials, producing more energy dense and/or power dense electrodes that are difficult to achieve using conventional slurry casting approach.</p></sec><sec id="batt201900017-sec-0008"><title>Experimental Section</title><sec id="batt201900017-sec-0009"><title>Materials and Chemicals</title><p>Commercially available battery materials were sourced directly from the suppliers, including: active material LiNi<sub>1/3</sub>Co<sub>1/3</sub>Mn<sub>1/3</sub>O<sub>2</sub>, NMC (5 to 25&#x02005;&#x003bc;m particle size, Targray, Canada) and electrical conductivity enhancer carbon black, CB (100 to 300&#x02005;nm particle size, 75&#x02005;m<sup>2</sup>&#x02009;g<sup>&#x02212;1</sup> specific surface area, Alfa Aesar, United Kingdom). An aprotic solvent N&#x02010;Methyl&#x02010;2&#x02010;pyrrolidone, NMP (&#x02265;99.5&#x02009;%, Acros Organics, UK) was selected as the media for EPD experiments, because of its low volatility, high chemical stability, its exceptionally high surface tension (&#x0003e;40&#x02005;mJ&#x02009;m<sup>&#x02212;2</sup>) and highly polar nature that ensure a stable suspension of colloids. A related reason is that NMP is recyclable by distillation, biodegradable and is used as the solvent of choice in slurry casting of Lithium&#x02010;ion battery electrode. Cationic polyelectrolyte Poly(diallyldimethylammonium chloride), PDDA (20&#x02005;wt.&#x02009;% in H<sub>2</sub>O, Sigma Aldrich, UK) was used as a dispersant and charging agent. PDDA was chosen because it contains strong cationic and activated adsorbent group radicals which can destabilize and flocculate suspended solids through electro&#x02010;neutralization and bridging adsorption.<xref rid="batt201900017-bib-0015" ref-type="ref">15</xref>, <xref rid="batt201900017-bib-0016" ref-type="ref">16</xref> All materials and chemicals were used as received without further processing.</p></sec><sec id="batt201900017-sec-0010"><title>Electrophoretic Deposition Details</title><p>All colloidal electrolyte contains a total of 5&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> materials loading, specifically 95&#x02005;wt.&#x02009;% active materials (4.75&#x02005;g&#x02009;dm&#x02010;3 NMC) and 5 wt.&#x02009;% inactive materials (0.25&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> CB). These materials were dispersed in NMP solvent firstly, followed by the addition of 0.1&#x02005;g&#x02009;dm<sup>&#x02212;3</sup> PDDA. The media was ultrasonicated and mechanically stirred for 1&#x02005;hour prior any experiments. A total of 50&#x02005;mL colloidal electrolyte was used in each experiments. In the EPD beaker cell, a piece of working electrode (4.6&#x02005;cm<sup>2</sup> geometric surface area) is placed at a parallel distance (1&#x02005;cm apart) to a piece of Pt/Ti counter electrode (4.6&#x02005;cm<sup>2</sup> geometric surface area). Aluminium 2D foil (15&#x02005;&#x003bc;m thick; 4.2&#x02005;mg&#x02009;cm<sup>&#x02212;2</sup> mass density) and 3D mesh (25&#x02005;&#x003bc;m thick; 4&#x02005;mg&#x02009;cm<sup>&#x02212;2</sup> mass density; 40&#x02009;% porous area) were used as working electrode. Prior to any experiments, Al was ultrasonically cleaned in isopropanol for 30&#x02005;seconds then washed with deionised water and dried. Cathodic EPD experiments were carried out using a constant voltage (80&#x02005;V) at room temperature (25&#x02009;&#x000b0;C), and the colloidal electrolyte was stirred (100&#x02005;rpm) by a magnetic stirrer bar. Only one side of the Al foil was deposited with NMC/CB; the other side was masked by an insulating tape. The resulted electrodes were left to dry in an air&#x02010;filled oven at 80&#x02009;&#x000b0;C for 12&#x02005;hours, then transferred to a vacuum oven and stored overnight at 50&#x02009;&#x000b0;C.</p></sec><sec id="batt201900017-sec-0011"><title>Electrochemical Performance Analysis</title><p>Electrochemical performance was studied in a coin cell setup (CR2032), assembled in an Argon&#x02010;filled glovebox (H<sub>2</sub>O&#x0003c;0.1&#x02005;ppm, O<sub>2</sub>&#x0003c;0.1&#x02005;ppm). Lithium metal was used as counter/reference electrode, Celgard 2325 microporous membrane as battery separator, and non&#x02010;aqueous electrolyte contains 1M LiPF<sub>6</sub> in ethylene carbonate: dimethyl carbonate (7&#x02009;:&#x02009;3 mixture by volume)+1&#x02005;wt.&#x02009;% vinylene carbonate. All electrochemical measurements were performed using a BT&#x02010;Lab system (BioLogic Science). All tests were carried out in a climate chamber at a controlled temperature of 25&#x02009;&#x000b0;C. Cyclic voltammogram was measured at 0.1&#x02005;mV&#x02009;s<sup>&#x02212;1</sup> from 2.5&#x02005;V and 4.3&#x02005;V vs. Li/Li<sup>+</sup>. Charge/discharge cycles were performed at the current density 15&#x02005;mA&#x02009;g<sup>&#x02212;1</sup> to 1500&#x02005;mA&#x02009;g<sup>&#x02212;1</sup> (0.1&#x02005;C to 10&#x02005;C rate, 1&#x02005;C=150&#x02005;mA&#x02009;g<sup>&#x02212;1</sup>). Charging cut&#x02010;off potential was kept until the charging current decreases to less than C/20, then discharged to 2.5&#x02005;V vs. Li/Li<sup>+</sup>. For C&#x02010;rate vs capacity extraction studies, charging rate was C/10 and discharging at various rates. Over 50&#x02005;cycles were recorded to show electrochemical cycling robustness of EPD electrodes, as compare to &#x0003c;10&#x02005;cycles in many published papers which only show the early stages of performance characteristics, but much longer cycling in excess of 1000&#x02005;s&#x02005;cycles would further quantify the aging behaviour which would be an important topic for real&#x02010;world device applications.</p><p>Electrochemical Impedance Spectroscopy tests were performed (100&#x02005;kHz to 10&#x02005;mHz) using 10&#x02005;mV AC voltage amplitude. Theoretical capacity of LiN<sub>1/3</sub>M<sub>1/3</sub>C<sub>1/3</sub>O<sub>2</sub> was assumed to be 278&#x02005;mAh&#x02009;g<sup>&#x02212;1</sup> (molar mass=96.46&#x02005;g&#x02009;mol<sup>&#x02212;1</sup> and electron transfer=1), while the practical capacity delivers 165&#x02005;mAh&#x02009;g<sup>&#x02212;1</sup> when cycled at C/30 in the voltage range of 2.5&#x02005;V and 4.3&#x02005;V vs. Li/Li<sup>+</sup>. The practical capacity is lower than theoretical capacity is that not all Li&#x02010;ion can be remove from the lattice of the host material. The rest of Li&#x02010;ion can be remove above the cut&#x02010;off voltage.</p></sec><sec id="batt201900017-sec-0012"><title>Other Quantitative Characterizations</title><p>Zeta potential of colloidal electrolytes were measured using a Malvern Zetasizer Nano ZS (Malvern Instruments). Surface and cross&#x02010;sectional views of the microstructures were imaged by a scanning electron microscopy (Carl Zeiss Gemini), supported by an Energy Dispersive X&#x02010;ray Spectroscopy (Oxford AZtec). Cross&#x02010;sections were prepared by an ion&#x02010;milling machine (Hitachi IM4000Plus Ion Milling). Crystal structures were determined by X&#x02010;ray diffraction (PANalytical Aeris). Film thickness of the deposited coating layer was measured using a digital thickness gauge from Mitutoyo with a resolution of 1&#x02005;&#x003bc;m. The amount of materials deposited on the Al current collector was measured using a SE2 ultra&#x02010;microbalance from Sartorius with a resolution of 0.1&#x02005;&#x003bc;g. All equipment and measurement setup were used according to guidelines provided by the suppliers.</p><p>Please note: Minor changes have been made to the Acknowledgements section of this manuscript since its publication in <italic>Batteries &#x00026; Supercaps</italic> Volume 2, Issue 6. The Editor.</p></sec></sec><sec sec-type="COI-statement" id="batt201900017-sec-0014"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec></body><back><ack id="batt201900017-sec-0013"><title>Acknowledgements</title><p>This work was supported by EPSRC (Engineering Physical Sciences Research Council) for Dr. Low's First Grant &#x02018;Energy Storage Electrode Manufacturing (ELEMENT), EP/P026818/1, 01/07/2017 to 31/12/2018&#x02019;. The underpinning fund has supported Dr. Low to initiate a research group and establish programmes in cell manufacture scale&#x02010;up in electrochemical engineering, as part of his first academic position (2013) as an Assistant Professor in WMG (University of Warwick, United Kingdom). The world&#x02010;class battery prototypingfacilities support provided by the High Value Manufacturing Catapult at Warwick is fully acknowledged. Dr. Lalau performed all the experiments with care, generated worldclass scientific data and led EPD work at Warwick. His work and support are fully acknowledged; and both authors worked closely during this period in realising the research. The work also recognises the dedicated time, and effort, that he took in performing the experiments. In good memory of Dr. Lalau who has sadly passed away. Always remembered.</p></ack><ref-list><ref id="batt201900017-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="batt201900017-cit-0001">
+<string-name>
+<given-names>A.</given-names>
+<surname>Kwade</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Haselrieder</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Leithoff</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Modlinger</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Dietrich</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Droeder</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2018</year>, <volume>3</volume>, <fpage>290</fpage>&#x02013;<lpage>300</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="batt201900017-cit-0002">
+<string-name>
+<given-names>D.</given-names>
+<surname>Ha</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Ly</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Caron</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>K. E.</given-names>
+<surname>Fritz</surname>
+</string-name>, <string-name>
+<given-names>R. D.</given-names>
+<surname>Robinson</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2015</year>, <volume>7</volume>, <fpage>25053</fpage>&#x02013;<lpage>25060</lpage>.<pub-id pub-id-type="pmid">26535449</pub-id></mixed-citation></ref><ref id="batt201900017-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="batt201900017-cit-0003">
+<string-name>
+<given-names>D.</given-names>
+<surname>Ha</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Islam</surname>
+</string-name>, <string-name>
+<given-names>R. D.</given-names>
+<surname>Robinson</surname>
+</string-name>, <source xml:lang="en">Nano Lett.</source>
+<year>2012</year>, <volume>12</volume>, <fpage>5122</fpage>&#x02013;<lpage>5130</lpage>.<pub-id pub-id-type="pmid">22963404</pub-id></mixed-citation></ref><ref id="batt201900017-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="batt201900017-cit-0004">
+<string-name>
+<given-names>H.</given-names>
+<surname>Mazora</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Golodnitsky</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Burstein</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gladkich</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Peleda</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2012</year>, <volume>198</volume>, <fpage>264</fpage>&#x02013;<lpage>272</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="batt201900017-cit-0005">
+<string-name>
+<given-names>B.</given-names>
+<surname>Gangaja</surname>
+</string-name>, <string-name>
+<given-names>H. P.</given-names>
+<surname>Muralidharan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Nair</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Santhanagopalan</surname>
+</string-name>, <source xml:lang="en">ACS Sustainable Chem. Eng.</source>
+<year>2018</year>, <volume>6</volume>, <fpage>4705</fpage>&#x02013;<lpage>4710</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="batt201900017-cit-0006">
+<string-name>
+<given-names>S. P.</given-names>
+<surname>Ravi</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Praveen</surname>
+</string-name>, <string-name>
+<given-names>K. V.</given-names>
+<surname>Sreelakshmi</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Balakrishnan</surname>
+</string-name>, <string-name>
+<given-names>K. R.</given-names>
+<surname>Subramanian</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Shantikumar</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sivakumar</surname>
+</string-name>, <source xml:lang="en">J. Nanosci. Nanotechnol.</source>
+<year>2015</year>, <volume>15</volume>, <fpage>747</fpage>&#x02013;<lpage>751</lpage>.<pub-id pub-id-type="pmid">26328437</pub-id></mixed-citation></ref><ref id="batt201900017-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="batt201900017-cit-0007">
+<string-name>
+<given-names>K.</given-names>
+<surname>Kanamura</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Goto</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2001</year>, <volume>97&#x02013;98</volume>, <fpage>294</fpage>&#x02013;<lpage>297</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="batt201900017-cit-0008">
+<string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhao</surname>
+</string-name>, <source xml:lang="en">ChemElectroChem</source>
+<year>2017</year>, <volume>4</volume>, <fpage>679</fpage>&#x02013;<lpage>685</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="batt201900017-cit-0009">
+<string-name>
+<given-names>M.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>2018</year>, <volume>281</volume>, <fpage>312</fpage>&#x02013;<lpage>322</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="batt201900017-cit-0010">
+<string-name>
+<given-names>S. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>S. P.</given-names>
+<surname>Woo</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Kakati</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kim</surname>
+</string-name>, <source xml:lang="en">Energies</source>
+<year>2018</year>, <volume>3122</volume>, <fpage>1</fpage>&#x02013;<lpage>74</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="batt201900017-cit-0011">
+<string-name>
+<given-names>N. A.</given-names>
+<surname>Kyeremateng</surname>
+</string-name>, <string-name>
+<given-names>T. M.</given-names>
+<surname>Dinha</surname>
+</string-name>, <source xml:lang="en">RSC Adv.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>61502</fpage>&#x02013;<lpage>61507</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="batt201900017-cit-0012">
+<string-name>
+<given-names>A.</given-names>
+<surname>Caballero</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Hern&#x000e1;n</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Melero</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Morales</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Moreno</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Ferrari</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2006</year>, <volume>158</volume>, <fpage>583</fpage>&#x02013;<lpage>590</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="batt201900017-cit-0013">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhao</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2017</year>, <volume>9</volume>, <fpage>32801</fpage>&#x02013;<lpage>32811</lpage>.<pub-id pub-id-type="pmid">28880068</pub-id></mixed-citation></ref><ref id="batt201900017-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="batt201900017-cit-0014">
+<string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yua</surname>
+</string-name>, <source xml:lang="en">RSC Adv.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>33438</fpage>&#x02013;<lpage>33444</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="batt201900017-cit-0015">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ou</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yang</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem.</source>
+<year>2011</year>, <volume>21</volume>, <fpage>3397</fpage>&#x02013;<lpage>3403</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="batt201900017-cit-0016">
+<string-name>
+<given-names>A. B.</given-names>
+<surname>Artyukhin</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Bakajin</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Stroeve</surname>
+</string-name>, <source xml:lang="en">Langmuir</source>
+<year>2004</year>, <volume>20</volume>, <fpage>1442</fpage>&#x02013;<lpage>1448</lpage>.<pub-id pub-id-type="pmid">15803732</pub-id></mixed-citation></ref><ref id="batt201900017-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="batt201900017-cit-0017">
+<string-name>
+<given-names>B.</given-names>
+<surname>Ferrari</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Moreno</surname>
+</string-name>, <source xml:lang="en">J. Eur. Ceram. Soc.</source>
+<year>2010</year>, <volume>30</volume>
+<fpage>1069</fpage>&#x02013;<lpage>1078</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="batt201900017-cit-0018">
+<string-name>
+<given-names>H. C.</given-names>
+<surname>Hamaker</surname>
+</string-name>, <source xml:lang="en">Trans. Faraday Soc.</source>
+<year>1940</year>, <volume>35</volume>, <fpage>279</fpage>&#x02013;<lpage>287</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="batt201900017-cit-0019">
+<string-name>
+<given-names>O.</given-names>
+<surname>Van der Biest</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Vandeperre</surname>
+</string-name>, <source xml:lang="en">Ann. Rev. Mater. Sci.</source>
+<year>1999</year>, <volume>29</volume>, <fpage>327</fpage>&#x02013;<lpage>352</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="batt201900017-cit-0020">
+<string-name>
+<given-names>O.</given-names>
+<surname>Van Der Biest</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Put</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Anne</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Vleugels</surname>
+</string-name>, <source xml:lang="en">J. Mater. Sci.</source>
+<year>2014</year>, <volume>39</volume>, <fpage>779</fpage>&#x02013;<lpage>785</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="batt201900017-cit-0021">
+<string-name>
+<given-names>L.</given-names>
+<surname>Stappers</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Van der Biest</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Fransaer</surname>
+</string-name>, <source xml:lang="en">Key Eng. Mater.</source>
+<year>2009</year>, <volume>412</volume>, <fpage>9</fpage>&#x02013;<lpage>14</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="batt201900017-cit-0022">
+<string-name>
+<given-names>J.</given-names>
+<surname>Vleugels</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ann&#x000e9;</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Put</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Van der Biest</surname>
+</string-name>, <source xml:lang="en">Mater. Sci. Forum</source>
+<year>2003</year>, <volume>423</volume>, <fpage>171</fpage>&#x02013;<lpage>176</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="batt201900017-cit-0023">
+<string-name>
+<given-names>G.</given-names>
+<surname>Ann&#x000e9;</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Neirinck</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Vanmeensel</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Van der Biest</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Vleugels</surname>
+</string-name>, <source xml:lang="en">Key Eng. Mater.</source>
+<year>2006</year>, <volume>314</volume>, <fpage>181</fpage>&#x02013;<lpage>186</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="batt201900017-cit-0024">
+<string-name>
+<given-names>N.</given-names>
+<surname>Yabuuchi</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Makimura</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Ohzuku</surname>
+</string-name>, <source xml:lang="en">J. Electrochem. Soc.</source>
+<year>2007</year>, <volume>154</volume>, A<fpage>314</fpage>&#x02013;A<lpage>321</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="batt201900017-cit-0025">
+<string-name>
+<given-names>Y. S.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Z. F.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>X. Z.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jiang</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2007</year>, <volume>163</volume>
+<fpage>1053</fpage>&#x02013;<lpage>1058</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="batt201900017-cit-0026">
+<string-name>
+<given-names>R.</given-names>
+<surname>Hausbrand</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cherkashinin</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ehrenberg</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Gr&#x000f6;ting</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Albe</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hess</surname>
+</string-name>, <source xml:lang="en">Materials Science and Engineering B</source>
+<year>2015</year>, <volume>192</volume>, <fpage>3</fpage>&#x02013;<lpage>25</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="batt201900017-cit-0027">
+<string-name>
+<given-names>D. W.</given-names>
+<surname>McOwen</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Seo</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Borodin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Vatamanu</surname>
+</string-name>, <string-name>
+<given-names>P. D.</given-names>
+<surname>Boyle</surname>
+</string-name>, <string-name>
+<given-names>W. A.</given-names>
+<surname>Henderson</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>416</fpage>&#x02013;<lpage>426</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="batt201900017-cit-0028">
+<string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem.</source>
+<year>2011</year>, <volume>21</volume>, <fpage>2544</fpage>&#x02013;<lpage>2549</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="batt201900017-cit-0029">
+<string-name>
+<given-names>I.</given-names>
+<surname>Belharouak</surname>
+</string-name>, <string-name>
+<given-names>Y. K.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Amine</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2003</year>, <volume>123</volume>, <fpage>247</fpage>&#x02013;<lpage>252</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="batt201900017-cit-0030">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K. J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>M. Z.</given-names>
+<surname>Qu</surname>
+</string-name>, <string-name>
+<given-names>Z. L.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>D. S.</given-names>
+<surname>Geng</surname>
+</string-name>, <string-name>
+<given-names>W. G.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Zheng</surname>
+</string-name>, <source xml:lang="en">RSC Adv.</source>
+<year>2017</year>, <volume>7</volume>, <fpage>24359</fpage>&#x02013;<lpage>24367</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="batt201900017-cit-0031">
+<string-name>
+<given-names>H.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lia</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>V. S.</given-names>
+<surname>Battaglia</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>2012</year>, <volume>71</volume>, <fpage>258</fpage>&#x02013;<lpage>265</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="batt201900017-cit-0032">
+<string-name>
+<given-names>N.</given-names>
+<surname>Balke</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Jesse</surname>
+</string-name>, <string-name>
+<given-names>A. N.</given-names>
+<surname>Morozovska</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Eliseev</surname>
+</string-name>, <string-name>
+<given-names>D. W.</given-names>
+<surname>Chung</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Adamczyk</surname>
+</string-name>, <string-name>
+<given-names>R. E.</given-names>
+<surname>Garc&#x000ed;a</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Dudney</surname>
+</string-name>, <string-name>
+<given-names>S. V.</given-names>
+<surname>Kalinin</surname>
+</string-name>, <source xml:lang="en">Nat. Nanotechnol.</source>
+<year>2010</year>, <volume>5</volume>, <fpage>749</fpage>&#x02013;<lpage>754</lpage>.<pub-id pub-id-type="pmid">20802493</pub-id></mixed-citation></ref><ref id="batt201900017-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="batt201900017-cit-0033">
+<string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H. P.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Y. P.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>H. Q.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2006</year>, <volume>159</volume>, <fpage>717</fpage>&#x02013;<lpage>720</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="batt201900017-cit-0034">
+<string-name>
+<given-names>K.</given-names>
+<surname>Edstr&#x000f6;m</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Gustafsson</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>2004</year>, <volume>50</volume>, <fpage>397</fpage>&#x02013;<lpage>403</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="batt201900017-cit-0035">
+<string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z. G.</given-names>
+<surname>Neale</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cao</surname>
+</string-name>, <source xml:lang="en">Mater. Today</source>
+<year>2016</year>, <volume>19</volume>, <fpage>109</fpage>&#x02013;<lpage>123</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="batt201900017-cit-0036">
+<string-name>
+<given-names>L.</given-names>
+<surname>Penga</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhua</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Khakoo</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">Nano Energy</source>
+<year>2015</year>, <volume>17</volume>, <fpage>36</fpage>&#x02013;<lpage>42</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="batt201900017-cit-0037">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>S. Z.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Gagnon</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Gari&#x000e9;py</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Laul</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Veillette</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2018</year>, <volume>378</volume>, <fpage>516</fpage>&#x02013;<lpage>521</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="batt201900017-cit-0038">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y. J.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ehrenberg</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>C. Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">Solid State Ionics</source>
+<year>2008</year>, <volume>178</volume>, <fpage>1969</fpage>&#x02013;<lpage>1974</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="batt201900017-cit-0039">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Geng</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2012</year>, <volume>197</volume>, <fpage>238</fpage>&#x02013;<lpage>245</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="batt201900017-cit-0040">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <source xml:lang="en">Appl. Surf. Sci.</source>
+<year>2007</year>, <volume>253</volume>, <fpage>8592</fpage>&#x02013;<lpage>8596</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="batt201900017-cit-0041">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M. N.</given-names>
+<surname>Banis</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Lushington</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>768</fpage>&#x02013;<lpage>778</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="batt201900017-cit-0042">
+<string-name>
+<given-names>U.</given-names>
+<surname>Westerhoff</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kurbach</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Lienesch</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kurrat</surname>
+</string-name>, <source xml:lang="en">Energy Technol.</source>
+<year>2016</year>, <volume>4</volume>
+<fpage>1620</fpage>&#x02013;<lpage>1630</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="batt201900017-cit-0043">
+<string-name>
+<given-names>J.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hai</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source xml:lang="en">J. Alloys Compd.</source>
+<year>2018</year>, <volume>735</volume>, <fpage>1977</fpage>&#x02013;<lpage>1985</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="batt201900017-cit-0044">
+<string-name>
+<given-names>S. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Y. R.</given-names>
+<surname>Jo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Noh</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2016</year>, <volume>367</volume>, <fpage>1</fpage>&#x02013;<lpage>7</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="batt201900017-cit-0045">
+<string-name>
+<given-names>S. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Noh</surname>
+</string-name>, <string-name>
+<given-names>Y. R.</given-names>
+<surname>Jo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>B. J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>W. B.</given-names>
+<surname>Kim</surname>
+</string-name>, <source xml:lang="en">Energy Technol.</source>
+<year>2018</year>, <volume>6</volume>
+<fpage>1255</fpage>&#x02013;<lpage>1260</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="batt201900017-cit-0046">
+<string-name>
+<given-names>J.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Mu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2013</year>, <volume>230</volume>, <fpage>76</fpage>&#x02013;<lpage>80</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="batt201900017-cit-0047">
+<string-name>
+<given-names>R.</given-names>
+<surname>Saroha</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gupta</surname>
+</string-name>, <string-name>
+<given-names>A. K.</given-names>
+<surname>Panwara</surname>
+</string-name>, <source xml:lang="en">J. Alloys Compd.</source>
+<year>2017</year>, <volume>696</volume>, <fpage>580</fpage>&#x02013;<lpage>589</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="batt201900017-cit-0048">
+<string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ge</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Shu</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem.</source>
+<year>2014</year>, <volume>2</volume>, <fpage>8362</fpage>&#x02013;<lpage>8368</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="batt201900017-cit-0049">
+<string-name>
+<given-names>C.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>2019</year>, <volume>297</volume>, <fpage>258</fpage>&#x02013;<lpage>266</lpage>.</mixed-citation></ref><ref id="batt201900017-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="batt201900017-cit-0050">
+<string-name>
+<given-names>T.</given-names>
+<surname>Danner</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Singh</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hein</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kaiser</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hahn</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Latz</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2016</year>, <volume>334</volume>
+</mixed-citation></ref></ref-list></back></article>

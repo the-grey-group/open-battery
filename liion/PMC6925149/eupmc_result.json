@@ -1,0 +1,424 @@
+{
+  "id": [
+    "31862935"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31862935"
+  ],
+  "pmcid": [
+    "PMC6925149"
+  ],
+  "doi": [
+    "10.1038/s41467-019-13712-2"
+  ],
+  "title": [
+    "Multistaged discharge constructing heterostructure with enhanced solid-solution behavior for long-life lithium-oxygen batteries."
+  ],
+  "authorString": [
+    "Xu SM, Liang X, Wu XY, Zhao SL, Chen J, Wang KX, Chen JS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xu SM"
+          ],
+          "firstName": [
+            "Shu-Mao"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2062-0226",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Electrochemical Energy Devices Research Center, School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai, 200240, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang X"
+          ],
+          "firstName": [
+            "Xiao"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Shanghai Electrochemical Energy Devices Research Center, School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai, 200240, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu XY"
+          ],
+          "firstName": [
+            "Xue-Yan"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "XY"
+          ],
+          "affiliation": [
+            "Shanghai Electrochemical Energy Devices Research Center, School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai, 200240, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao SL"
+          ],
+          "firstName": [
+            "Shen-Long"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4073-1102",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Bioengineering, University of California, Los Angeles, CA, 90095, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3439-0495",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Bioengineering, University of California, Los Angeles, CA, 90095, USA. jun.chen@ucla.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang KX"
+          ],
+          "firstName": [
+            "Kai-Xue"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "KX"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2076-5487",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Electrochemical Energy Devices Research Center, School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai, 200240, China. k.wang@sjtu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen JS"
+          ],
+          "firstName": [
+            "Jie-Sheng"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "affiliation": [
+            "Shanghai Electrochemical Energy Devices Research Center, School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai, 200240, China. chemcj@sjtu.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3439-0495",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2076-5487",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2062-0226",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4073-1102",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2796209"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "5810"
+  ],
+  "abstractText": [
+    "Inferior charge transport in insulating and bulk discharge products is one of the main factors resulting in poor cycling stability of lithium-oxygen batteries with high overpotential and large capacity decay. Here we report a two-step oxygen reduction approach by pre-depositing a potassium carbonate layer on the cathode surface in a potassium-oxygen battery to direct the growth of defective film-like discharge products in the successive cycling of lithium-oxygen batteries. The formation of defective film with improved charge transport and large contact area with a catalyst plays a critical role in the facile decomposition of discharge products and the sustained stability of the battery. Multistaged discharge constructing lithium peroxide-based heterostructure with band discontinuities and a relatively low lithium diffusion barrier may be responsible for the growth of defective film-like discharge products. This strategy offers a promising route for future development of cathode catalysts that can be used to extend the cycling life of lithium-oxygen batteries."
+  ],
+  "affiliation": [
+    "Shanghai Electrochemical Energy Devices Research Center, School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai, 200240, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-13712-2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6925149"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6925149?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-22"
+  ],
+  "firstIndexDate": [
+    "2019-12-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-27"
+  ],
+  "dateOfRevision": [
+    "2020-02-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-20"
+  ],
+  "firstPublicationDate": [
+    "2019-12-20"
+  ]
+}

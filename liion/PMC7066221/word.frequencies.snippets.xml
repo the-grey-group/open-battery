@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC7066221/results/word/frequencies/results.xml">
+  <result title="frequency" word="cathode" count="79"/>
+  <result title="frequency" word="Figure" count="65"/>
+  <result title="frequency" word="δ-MnO" count="63"/>
+  <result title="frequency" word="batteries" count="53"/>
+  <result title="frequency" word="deposition" count="47"/>
+  <result title="frequency" word="capacity" count="45"/>
+  <result title="frequency" word="electrolyte" count="45"/>
+  <result title="frequency" word="aqueous" count="40"/>
+  <result title="frequency" word="cobalt" count="39"/>
+  <result title="frequency" word="battery" count="37"/>
+  <result title="frequency" word="cobalt-modified" count="35"/>
+  <result title="frequency" word="Zn-ion" count="33"/>
+  <result title="frequency" word="Wang" count="32"/>
+  <result title="frequency" word="compound" count="29"/>
+  <result title="frequency" word="active" count="23"/>
+  <result title="frequency" word="high" count="23"/>
+  <result title="frequency" word="Mater." count="22"/>
+ </snippets>
+</snippetsTree>

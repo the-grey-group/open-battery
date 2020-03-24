@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC7035378/results/word/frequencies/results.xml">
+  <result title="frequency" word="silicon" count="97"/>
+  <result title="frequency" word="pre-doped" count="56"/>
+  <result title="frequency" word="lithium" count="44"/>
+  <result title="frequency" word="pressure" count="42"/>
+  <result title="frequency" word="electrochemically" count="31"/>
+  <result title="frequency" word="pre-doping" count="29"/>
+  <result title="frequency" word="anode" count="26"/>
+  <result title="frequency" word="capacity" count="26"/>
+  <result title="frequency" word="SEI" count="25"/>
+ </snippets>
+</snippetsTree>

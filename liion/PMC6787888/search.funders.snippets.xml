@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="liion/PMC6787888/results/search/funders/results.xml">
+  <result pre="italic;} ACS Omega ACS Omega ao acsodf ACS Omega 2470-1343" exact="American Chemical Society" post="pmcid: 6787888 pmid: 31616808 doi: 10.1021/acsomega.9b01541 : Article Ceramic"/>
+  <result pre="‡ Shi Jiayi † Huang Fenglin * † § [†]," exact="Jiangnan University" post="China [‡], University of British Columbia Canada [§], Jiangsu"/>
+  <result pre="Huang Fenglin * † § [†], Jiangnan University China [‡]," exact="University of British Columbia" post="Canada [§], Jiangsu Anreda New Materials Limited Company China"/>
+  <result pre="2019-10-10 4 15 16309 16317 received: 2019-05-27 accepted: 2019-09-19 (C)" exact="American Chemical Society," post="2019 This is an open access article published under"/>
+  <result pre="(e) PE membrane. Insets are low-magnification SEM images. Figure 3" exact="EDS" post="elemental analysis of ME-PVDF, Al 2O 3/SiO 2/PVDF, Al"/>
+  <result pre="grateful to the Jiangsu Key R&amp;amp;D Program (BE2017060, BE2016707), the" exact="China Postdoctoral Science Foundation" post="(169483), and the 111 Project (B17021). References References Tarascon"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,442 @@
+{
+  "id": [
+    "27328707"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27328707"
+  ],
+  "pmcid": [
+    "PMC4916472"
+  ],
+  "doi": [
+    "10.1038/srep28421"
+  ],
+  "title": [
+    "A lithium ion battery using an aqueous electrolyte solution."
+  ],
+  "authorString": [
+    "Chang Z, Li C, Wang Y, Chen B, Fu L, Zhu Y, Zhang L, Wu Y, Huang W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chang Z"
+          ],
+          "firstName": [
+            "Zheng"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "New Energy and Materials Laboratory (NEML), Department of Chemistry &Shanghai Key Laboratory of Molecular Catalysis and Innovative Material, Fudan University, Shanghai 200433, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li C"
+          ],
+          "firstName": [
+            "Chunyang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "College of Energy, Nanjing Tech University, Nanjing 211816, Jiangsu Province, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yanfang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "New Energy and Materials Laboratory (NEML), Department of Chemistry &Shanghai Key Laboratory of Molecular Catalysis and Innovative Material, Fudan University, Shanghai 200433, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen B"
+          ],
+          "firstName": [
+            "Bingwei"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "New Energy and Materials Laboratory (NEML), Department of Chemistry &Shanghai Key Laboratory of Molecular Catalysis and Innovative Material, Fudan University, Shanghai 200433, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu L"
+          ],
+          "firstName": [
+            "Lijun"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9830-3007",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Energy, Nanjing Tech University, Nanjing 211816, Jiangsu Province, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu Y"
+          ],
+          "firstName": [
+            "Yusong"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9264-5054",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Energy, Nanjing Tech University, Nanjing 211816, Jiangsu Province, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Lixin"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "New Energy and Materials Laboratory (NEML), Department of Chemistry &Shanghai Key Laboratory of Molecular Catalysis and Innovative Material, Fudan University, Shanghai 200433, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Yuping"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0833-1205",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "New Energy and Materials Laboratory (NEML), Department of Chemistry &Shanghai Key Laboratory of Molecular Catalysis and Innovative Material, Fudan University, Shanghai 200433, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "College of Energy, Nanjing Tech University, Nanjing 211816, Jiangsu Province, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9264-5054",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9781-9770",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0833-1205",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9830-3007",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0423-0818",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2477696"
+      ],
+      "dateOfPublication": [
+        "2016 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "28421"
+  ],
+  "abstractText": [
+    "Energy and environmental pollution have become the two major problems in today's society. The development of green energy storage devices with good safety, high reliability, high energy density and low cost are urgently demanded. Here we report on a lithium ion battery using an aqueous electrolyte solution. It is built up by using graphite coated with gel polymer membrane and LISICON as the negative electrode, and LiFePO4 in aqueous solution as the positive electrode. Its average discharge voltage is up to 3.1 V and energy density based on the two electrode materials is 258 Wh kg(-1). It will be a promising energy storage system with good safety and efficient cooling effects."
+  ],
+  "affiliation": [
+    "New Energy and Materials Laboratory (NEML), Department of Chemistry &Shanghai Key Laboratory of Molecular Catalysis and Innovative Material, Fudan University, Shanghai 200433, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep28421"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4916472"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4916472?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-04-27"
+  ],
+  "dateOfCreation": [
+    "2016-06-23"
+  ],
+  "firstIndexDate": [
+    "2016-06-23"
+  ],
+  "fullTextReceivedDate": [
+    "2016-06-29"
+  ],
+  "dateOfRevision": [
+    "2018-04-27"
+  ],
+  "electronicPublicationDate": [
+    "2016-06-22"
+  ],
+  "firstPublicationDate": [
+    "2016-06-22"
+  ]
+}

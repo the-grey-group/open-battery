@@ -1,0 +1,423 @@
+{
+  "id": [
+    "30072616"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30072616"
+  ],
+  "pmcid": [
+    "PMC6119968"
+  ],
+  "doi": [
+    "10.3390/ma11081338"
+  ],
+  "title": [
+    "Three-Dimensional Copper Foil-Powder Sintering Current Collector for a Silicon-Based Anode Lithium-Ion Battery."
+  ],
+  "authorString": [
+    "Long J, Liu H, Xie Y, Tang W, Fu T, Tang Y, Lu L, Ding X, Tang X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Long J"
+          ],
+          "firstName": [
+            "Jin"
+          ],
+          "lastName": [
+            "Long"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Pulp and Paper Engineering, South China University of Technology, Guangzhou 510640, China. longjin@scut.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu H"
+          ],
+          "firstName": [
+            "Huilong"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3583-7161",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Key Laboratory of Surface Functional Structure Manufacturing of Guangdong Higher Education Institutes, School of Mechanical & Automotive Engineering, South China University of Technology, Guangzhou 510640, China. huiloongliu@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Xie Y"
+          ],
+          "firstName": [
+            "Yingxi"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Key Laboratory of Surface Functional Structure Manufacturing of Guangdong Higher Education Institutes, School of Mechanical & Automotive Engineering, South China University of Technology, Guangzhou 510640, China. xieyingxi@scut.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang W"
+          ],
+          "firstName": [
+            "Weijin"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Key Laboratory of Surface Functional Structure Manufacturing of Guangdong Higher Education Institutes, School of Mechanical & Automotive Engineering, South China University of Technology, Guangzhou 510640, China. tang0703@foxmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu T"
+          ],
+          "firstName": [
+            "Ting"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Key Laboratory of Metallurgical Equipment and Control Technology, Wuhan University of Science and Technology, Wuhan 430081, China. futing1234gh@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Key Laboratory of Surface Functional Structure Manufacturing of Guangdong Higher Education Institutes, School of Mechanical & Automotive Engineering, South China University of Technology, Guangzhou 510640, China. ytang@scut.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu L"
+          ],
+          "firstName": [
+            "Longsheng"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2909-3004",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Key Laboratory of Surface Functional Structure Manufacturing of Guangdong Higher Education Institutes, School of Mechanical & Automotive Engineering, South China University of Technology, Guangzhou 510640, China. meluls@scut.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Ding X"
+          ],
+          "firstName": [
+            "Xinrui"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Surface Functional Structure Manufacturing of Guangdong Higher Education Institutes, School of Mechanical & Automotive Engineering, South China University of Technology, Guangzhou 510640, China. dingxr@scut.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang X"
+          ],
+          "firstName": [
+            "Xingxian"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Surface Functional Structure Manufacturing of Guangdong Higher Education Institutes, School of Mechanical & Automotive Engineering, South China University of Technology, Guangzhou 510640, China. xingxian.tang@foxmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3583-7161",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2909-3004",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2712384"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "In this work, we propose a facile method for manufacturing a three-dimensional copper foil-powder sintering current collector (CFSCC) for a silicon-based anode lithium-ion battery. We found that the CFSCC is suitable as a silicon-based paste electrode, and the paste-like electrodes are commonly used in industrial production. Compared with flat current collectors, the CFSCC better constrained the silicon volume change during the charging-discharging process. The capacitance of electrodes with CFSCC remained as high as 92.2% of its second cycle after 40 cycles, whereas that of electrodes with a flat current collector only remained at 50%."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Pulp and Paper Engineering, South China University of Technology, Guangzhou 510640, China. longjin@scut.edu.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Silicon",
+        "Lithium-ion battery",
+        "Current Collector",
+        "Cycle Performance",
+        "Foil-powder Sintering"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma11081338"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6119968"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6119968?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-04"
+  ],
+  "firstIndexDate": [
+    "2018-08-03"
+  ],
+  "fullTextReceivedDate": [
+    "2018-09-08"
+  ],
+  "dateOfRevision": [
+    "2018-09-06"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-02"
+  ],
+  "firstPublicationDate": [
+    "2018-08-02"
+  ]
+}

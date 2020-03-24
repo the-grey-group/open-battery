@@ -1,0 +1,1227 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5604389</article-id><article-id pub-id-type="doi">10.1002/advs.201700128</article-id><article-id pub-id-type="publisher-id">ADVS339</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Full Papers</subject></subj-group></article-categories><title-group><article-title>Carbon Nanofibers Heavy Laden with Li<sub>3</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> Particles Featuring Superb Kinetics for High&#x02010;Power Lithium Ion Battery</article-title></title-group><contrib-group><contrib id="advs339-cr-0001" contrib-type="author"><name><surname>Shin</surname><given-names>Jeongyim</given-names></name><xref ref-type="aff" rid="advs339-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs339-cr-0002" contrib-type="author"><name><surname>Yang</surname><given-names>Junghoon</given-names></name><xref ref-type="aff" rid="advs339-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs339-cr-0003" contrib-type="author"><name><surname>Sergey</surname><given-names>Chernov</given-names></name><xref ref-type="aff" rid="advs339-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs339-cr-0004" contrib-type="author"><name><surname>Song</surname><given-names>Min&#x02010;Sang</given-names></name><xref ref-type="aff" rid="advs339-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs339-cr-0005" contrib-type="author" corresp="yes"><name><surname>Kang</surname><given-names>Yong&#x02010;Mook</given-names></name><address><email>dake1234@dongguk.edu</email></address><xref ref-type="aff" rid="advs339-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="advs339-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Energy and Materials Engineering</named-content>
+<institution>Dongguk University</institution>
+<named-content content-type="city">Seoul</named-content>
+<named-content content-type="post-code">100&#x02010;715</named-content>
+<country country="KR">Republic of Korea</country>
+</aff><aff id="advs339-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Energy Material Lab</named-content>
+<named-content content-type="organisation-division">Material Research Center</named-content>
+<institution>Samsung Advanced Institute of Technology Samsung Electronics</institution>
+<named-content content-type="street">130 Samsung&#x02010;ro</named-content>
+<named-content content-type="city">Yeongtong&#x02010;gu, Suwon&#x02010;si</named-content>
+<named-content content-type="country-part">Gyeonggi&#x02010;do</named-content>
+<named-content content-type="post-code">16678</named-content>
+<country country="KR">Republic of Korea</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>dake1234@dongguk.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>5</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2017</year></pub-date><volume>4</volume><issue>9</issue><issue-id pub-id-type="doi">10.1002/advs.v4.9</issue-id><elocation-id>1700128</elocation-id><history><date date-type="received"><day>20</day><month>3</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 WILEY&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Published by WILEY&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ADVS-4-na.pdf"/><abstract><p>Fast lithium ion and electron transport inside electrode materials are essential to realize its superb electrochemical performances for lithium rechargeable batteries. Herein, a distinctive structure of cathode material is proposed, which can simultaneously satisfy these requirements. Nanosized Li<sub>3</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> (LVP) particles can be successfully grown up on the carbon nanofiber via electrospinning method followed by a controlled heat&#x02010;treatment. Herein, LVP particles are anchored onto the surface of carbon nanofiber, and with this growing process, the size of LVP particles as well as the thickness of carbon nanofiber can be regulated together. The morphological features of this composite structure enable not only direct contact between electrolytes and LVP particles that can enhance lithium ion diffusivity, but also fast electron transport through 1D carbon network along nanofibers simultaneously. Finally, it is demonstrated that this unique structure is an ideal one to realize high electron transport and ion diffusivity together, which are essential for enhancing the electrochemical performances of electrode materials.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs339-kwd-0001">carbon nanofibers</kwd><kwd id="advs339-kwd-0002">Li<sub>3</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub></kwd><kwd id="advs339-kwd-0003">lithium&#x02010;ion batteries</kwd><kwd id="advs339-kwd-0004">Ostwald ripening</kwd><kwd id="advs339-kwd-0005">unique structures</kwd></kwd-group><funding-group><award-group><funding-source>National Research Foundation of Korea</funding-source><award-id>NRF&#x02010;2015R1A2A1A15055227</award-id></award-group><award-group><funding-source>Ministry of Knowledge Economy, Korean government</funding-source><award-id>20168510011350</award-id></award-group><award-group><funding-source>Korean Government</funding-source><award-id>NRF&#x02010;2015H1A2A1034244&#x02010;Global</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="1"/><page-count count="9"/><word-count count="6818"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>advs339</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.0 mode:remove_FC converted:19.09.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs339-cit-0059">
+<string-name>
+<given-names>J.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Sergey</surname>
+</string-name>, <string-name>
+<given-names>M.&#x02010;S.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;M.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2017</year>, <volume>4</volume>, <elocation-id>1700128</elocation-id>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/advs.339">https://doi.org/10.1002/advs.339</ext-link>
+</mixed-citation>
+</p></notes></front><body><sec id="advs339-sec-0010"><label>1</label><title>Introduction</title><p>In the current society, rechargeable lithium&#x02010;ion batteries (LIBs) have been considered as one of the most important energy storage systems since they were invented.<xref rid="advs339-bib-0001" ref-type="ref">1</xref>, <xref rid="advs339-bib-0002" ref-type="ref">2</xref> The development of advanced LIBs is still going on in order to satisfy the growing demand of portable devices, electric vehicles (EV), and hybrid electric vehicles (HEV), which commonly require higher energy density and more durable cycle life.<xref rid="advs339-bib-0001" ref-type="ref">1</xref>, <xref rid="advs339-bib-0002" ref-type="ref">2</xref>, <xref rid="advs339-bib-0003" ref-type="ref">3</xref> As the performance of LIBs heavily fluctuates with materials that they are composed of, intensive studies on key materials look essential for future advanced battery system.<xref rid="advs339-bib-0004" ref-type="ref">4</xref>, <xref rid="advs339-bib-0005" ref-type="ref">5</xref>, <xref rid="advs339-bib-0006" ref-type="ref">6</xref> Bearing it in mind, the phosphate (PO<sub>4</sub>)<sup>3&#x02212;</sup> based materials are considered as a highly promising cathode candidate because these materials contain both mobile lithium cations and redox&#x02010;active metal sites shrouded within a rigid phosphate network.<xref rid="advs339-bib-0006" ref-type="ref">6</xref>, <xref rid="advs339-bib-0007" ref-type="ref">7</xref>, <xref rid="advs339-bib-0008" ref-type="ref">8</xref> Especially, compared with lithium transition metal oxides, it displays remarkable electrochemical and thermal stability, as well as comparable energy density.<xref rid="advs339-bib-0006" ref-type="ref">6</xref>, <xref rid="advs339-bib-0007" ref-type="ref">7</xref>
+</p><p>Among many phosphate&#x02010;based materials, monoclinic Li<sub>3</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> (LVP) has attracted much attention due to its excellent cycling stability, relatively high reaction potential (&#x02248;3.8 V vs. Li/Li<sup>+</sup>) and large theoretical capacity (197 mAh g<sup>&#x02212;1</sup> when all three lithium atoms are reversely extracted/inserted) with the abundance of vanadium resources in nature.<xref rid="advs339-bib-0003" ref-type="ref">3</xref>, <xref rid="advs339-bib-0009" ref-type="ref">9</xref>, <xref rid="advs339-bib-0010" ref-type="ref">10</xref> In particular, its 3D structure framework composed of slightly distorted VO<sub>6</sub> octahedra and PO<sub>4</sub> tetrahedra sharing oxygen vertex provides large interstitial space that makes lithium ions capable of moving fast inside the structure.<xref rid="advs339-bib-0011" ref-type="ref">11</xref>, <xref rid="advs339-bib-0012" ref-type="ref">12</xref>, <xref rid="advs339-bib-0013" ref-type="ref">13</xref> However, just like other metal phosphate group, it shows limited electronic conductivity (10<sup>&#x02212;8</sup>&#x02013;10<sup>&#x02212;9</sup> S cm<sup>&#x02212;1</sup>), which is critically against the commercialization of LVP.<xref rid="advs339-bib-0006" ref-type="ref">6</xref>, <xref rid="advs339-bib-0014" ref-type="ref">14</xref>, <xref rid="advs339-bib-0015" ref-type="ref">15</xref> Hence, its low electronic conductivity should be improved without sacrificing its significant advantage in terms of lithium ion diffusivity to utilize LVP as a commercial cathode material in the near&#x02010;future.</p><p>It is well known that the surface coating with electronically or ionically conductive materials can facilitate the movement of electrons or lithium ions inside active materials, finally realizing significantly enhanced electrochemical performances.<xref rid="advs339-bib-0016" ref-type="ref">16</xref>, <xref rid="advs339-bib-0017" ref-type="ref">17</xref>, <xref rid="advs339-bib-0018" ref-type="ref">18</xref> Because of this reason, the strategic selection looks essential to choose the most proper coating materials to improve the electrochemical performances of electrode materials. Among various candidates for coating materials, carbon coating has been the most common method to encapsulate the surface of electrode materials because of its multifunctional properties such as high electronic conductivity, good conformality, and high stability. As a result, it has contributed to enhancing electronic conductivity, preventing transition metal dissolution, and suppressing volume expansion in electrode materials.<xref rid="advs339-bib-0019" ref-type="ref">19</xref>, <xref rid="advs339-bib-0020" ref-type="ref">20</xref>, <xref rid="advs339-bib-0021" ref-type="ref">21</xref>, <xref rid="advs339-bib-0022" ref-type="ref">22</xref> However, even though carbon is one of the most excellent electronic conductors among various reported coating materials, its intrinsic ionic conductivity is not good contrary to expectation.<xref rid="advs339-bib-0023" ref-type="ref">23</xref> In fact, lithium ions can pass through the carbon layer just in case that the crystal defects exist in the corresponding carbon layer.<xref rid="advs339-bib-0024" ref-type="ref">24</xref>, <xref rid="advs339-bib-0025" ref-type="ref">25</xref>, <xref rid="advs339-bib-0026" ref-type="ref">26</xref>, <xref rid="advs339-bib-0027" ref-type="ref">27</xref> It means that from the viewpoint of lithium ion diffusion solely, bare surface looks more advantageous for lithium ion diffusion than the coated surface with carbon layer because it acts as another barrier that lithium ions should penetrate.<xref rid="advs339-bib-0028" ref-type="ref">28</xref>, <xref rid="advs339-bib-0029" ref-type="ref">29</xref> Despite this problem, carbon network is still necessary for active materials because it would help to raise electronic conductivity as well known. Thus, a sagacious design for the composite structure simultaneously enabling high electronic conductivity and ionic diffusivity is really required to reach the full potential performance of electrode materials.</p><p>Considering that lithium ion diffusion is quite restricted in the interface between electrolyte and electrode materials, and the resistance at electrolyte/electrode interface almost dominates the whole electrode resistance, we designed a rational composite structure composed of carbon fiber and active material particles to facilitate electron transport and lithium ion diffusion at the same time.<xref rid="advs339-bib-0030" ref-type="ref">30</xref>, <xref rid="advs339-bib-0031" ref-type="ref">31</xref> To realize the corresponding unique structure, we utilized a simple synthetic method based on electrospinning combined with controlled heat&#x02010;treatment. Finally, the unique composite material which contains nanosized active materials anchored in carbon nanofibers was successfully synthesized. Through the protruded surface of active material, not only lithium ion diffusion distance can be reduced but also direct contact between electrolyte and electrode material can be made, which is definitely favorable for lithium diffusion.<xref rid="advs339-bib-0032" ref-type="ref">32</xref>, <xref rid="advs339-bib-0033" ref-type="ref">33</xref>, <xref rid="advs339-bib-0034" ref-type="ref">34</xref>, <xref rid="advs339-bib-0035" ref-type="ref">35</xref>, <xref rid="advs339-bib-0036" ref-type="ref">36</xref>, <xref rid="advs339-bib-0037" ref-type="ref">37</xref>, <xref rid="advs339-bib-0038" ref-type="ref">38</xref>, <xref rid="advs339-bib-0039" ref-type="ref">39</xref>, <xref rid="advs339-bib-0040" ref-type="ref">40</xref> Simultaneously, by constructing 1D carbon network, efficient electron transport into the active material can also be secured toward superb kinetics. In this study, we explored the method for realizing the unique structure, in which LVP particles are anchored in carbon nanofibers, based on electrospinning and controlled heat&#x02010;treatment. Also, it was observed how the formation and protrusion of LVP particles out of carbon fiber happens to figure out what is the most important parameter to realize this unique structure. Finally, the formation of this structure turned out to depend on typical nucleation&#x02010;growth behavior based on surface diffusion and Ostwald ripening. With different structures of LVP&#x02010;carbon composites, we could successfully demonstrate the importance of above&#x02010;mentioned unique composite structure in terms of electrochemical performances.</p></sec><sec id="advs339-sec-0020"><label>2</label><title>Results and Discussion</title><p>
+<bold>Figure</bold>
+<xref rid="advs339-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref>a shows the schematic diagram for the growth mechanisms of LVP/carbon nanofibers with controlled heat&#x02010;treatments conditions. In here, LVP component and carbon nanofiber component are represented by black and light gray color, respectively. When we annealed LVP precursor fiber at 800 &#x000b0;C for 1 h, smooth&#x02010;surfaced fiber was only observed as indicated in the first part of Figure <xref rid="advs339-fig-0001" ref-type="fig">1</xref>a. However, when the heat&#x02010;treatment time was increased up to 4 h, oval&#x02010;shaped LVP particles appeared on the surface of carbon nanofiber. When the heat&#x02010;treatment time is maintained for 12 h, carbon nanofiber almost disappeared and only LVP particles remained. Each sample maintained for 1, 4, and 12 h at 800 &#x000b0;C was each named as LVP&#x02010;fiber, LVP&#x02010;particle/fiber, and LVP&#x02010;particle, which well represents the structural characteristics of samples. When considering the way how the morphology of samples is changing during the heat&#x02010;treatment, it seems to predominantly affect the grain or particle growth by facilitating movement of atoms or molecules through the several mechanisms such as surface diffusion, evaporation&#x02013;condensation, and lattice diffusion. The increase of heat&#x02010;treatment time at elevated temperature is also accompanied by the reduction of carbon nanofiber not only making its diameter thinner but also reducing V<sup>5+</sup> to V<sup>3+</sup>. This series of process looks very important to regulate the peculiar structure of LVP/carbon nanofiber composite. Figure <xref rid="advs339-fig-0001" ref-type="fig">1</xref>b illustrates lithium ion and electron movement behavior inside this composite structure. As aforementioned, LVP&#x02010;fiber is unfavorable for fast lithium ion diffusion due to the carbon layer that covers LVP parts. Actually, the presence of carbon layer suppresses or delays ion diffusion because it acts as an additional barrier which lithium ions should penetrate through. However, this uniform carbon layer for LVP&#x02010;fiber is beneficial in terms of electron transport. In comparison, LVP&#x02010;particle/fiber with exposed LVP surface can be much easily accessed by lithium ions due to the secured direct contact between LVP particles and electrolyte. Small size of LVP particles in LVP&#x02010;particle/fiber is regarded as another merit of this sample that can significantly shorten the distance for lithium ion diffusion and electron transport. Furthermore, LVP&#x02010;particle/fiber provides the interconnected electron pathways alongside 1D carbon nanofiber network. However, when the particle size of LVP particle is further increased, this carbon nanofiber network can be disconnected and finally disappear together with the growth of LVP particle as shown in LVP&#x02010;particle. The corresponding structure of LVP&#x02010;particle looks completely unfavorable for electron transport even if the contact area between LVP&#x02010;particle and electrolyte can be extended finally facilitating lithium ion diffusion a little more. More detailed relationship between structures and electrochemical properties in these LVP&#x02010;based samples will be discussed as follows.</p><fig fig-type="Figure" xml:lang="en" id="advs339-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>a) Schematic diagram for the morphological change of LVP/carbon nanofiber composites with heat&#x02010;treatment time at 800 &#x000b0;C, which show the protrusive growth of LVP particles out of carbon nanofibers and b) illustration for lithium ion and electron transport behaviors inside various LVP/carbon nanofiber composites including LVP&#x02010;fiber, LVP&#x02010;particle/fiber, and LVP&#x02010;particle.</p></caption><graphic id="nlm-graphic-3" xlink:href="ADVS-4-na-g001"/></fig><p>X&#x02010;ray diffraction (XRD) patterns of LVP samples with different heat&#x02010;treatment time are shown in <bold>Figure</bold>
+<xref rid="advs339-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref>a. All of the diffraction peaks are well matched with the reference peaks which come from the P2<sub>1</sub>/n space group of monoclinic LVP. As shown in Figure <xref rid="advs339-fig-0002" ref-type="fig">2</xref>a, when the heat&#x02010;treatment time was increased, the crystallinity of LVP was gradually improved together with the morphological change from fiber to particle, which is demonstrated by the narrowed full width half maximum of peaks. In particular, LVP&#x02010;fiber showed notable additional shoulder peak around 2&#x003b8; = 15&#x000b0;&#x02013;35&#x000b0; region that are partially overlapped with monoclinic LVP peaks. Compared to LVP particle/fiber and LVP particle, larger amount of amorphous carbon inside LVP&#x02010;fiber demonstrated by this shoulder peak can result from relatively short heat&#x02010;treatment time that is just enough to allow amorphous carbon to be formed from citric acid and polyvinylpyrrolidone (PVP) residues. Naturally, the shoulder peak gets weaker with the extended heat&#x02010;treatment time resultantly indicating the decrease of amorphous carbon. This phenomenon can also be demonstrated from thermodynamic gravimetric analysis (TGA) as shown in Figure S1 (Supporting Information). Typically, the weight loss around 400&#x02013;500 &#x000b0;C in TGA curve corresponds to the decomposition of carbon component implying that total carbon contents inside LVP&#x02010;based composite samples gradually decreased with the increment of heat&#x02010;treatment time. To investigate the nature of carbon inside the composite and compare the crystallinity of LVP phases, Raman spectra were obtained as shown in Figure <xref rid="advs339-fig-0002" ref-type="fig">2</xref>b. All of spectra displayed two apparent peaks ascribed to D&#x02010;band near 1350 cm<sup>&#x02212;1</sup> and G&#x02010;band near 1600 cm<sup>&#x02212;1</sup>, which each represents disordered carbon and crystalline carbon.<xref rid="advs339-bib-0041" ref-type="ref">41</xref>, <xref rid="advs339-bib-0042" ref-type="ref">42</xref>, <xref rid="advs339-bib-0043" ref-type="ref">43</xref> Herein, as the heat&#x02010;treatment time was increased, the intensity ratio of D&#x02010;band to G&#x02010;band (<italic>I</italic>
+<sub>D</sub>/<italic>I</italic>
+<sub>G</sub>) were steadily decreased, which indicates the improved crystallinity of carbon inside this composite. Meanwhile, other peaks located in the range between 977 and 1106 cm<sup>&#x02212;1</sup> indicate the presence of monoclinic LVP crystal phase. Interestingly, the intensity for LVP crystal phase rises up as the heat&#x02010;treatment time increases. LVP&#x02010;fiber just showed weak and broad peak around this region, while much clear signal was detected in LVP&#x02010;particle/fiber and LVP&#x02010;particle.<xref rid="advs339-bib-0044" ref-type="ref">44</xref>, <xref rid="advs339-bib-0045" ref-type="ref">45</xref> Considering the characteristics of Raman analysis, this result seems to be in good agreement with TGA analysis results. Because the area irradiated by Raman laser is mainly restricted to the surface region of sample due to its low energy, Raman spectra tend to give the information around the surface of sample. Thus, the surged intensity ratio of LVP crystal compared to carbon species in LVP&#x02010;particle/fiber and LVP&#x02010;particle suggests that the exposure of LVP particles looks distinctive in not only LVP&#x02010;particle but also LVP&#x02010;particle/fiber because the carbon species are enough decomposed with the prolonged heat&#x02010;treatment time over 4 h. It was revealed that just through the variation of heat&#x02010;treatment time, the synergistic structure of LVP/carbon composite could be realized with the decrease of carbon contents as well as the surge of crystalline LVP contents. In order to figure out the effect of carbon on the electronic conductivity of LVP/carbon composites, four&#x02010;wire resistor measurements were conducted, which obtains the electrical resistance inversely proportional to the electronic conductivity as indicated in Figure S2 (Supporting Information).<xref rid="advs339-bib-0046" ref-type="ref">46</xref> Typically, four&#x02010;wire resistor measures the electrical resistance of sample by detecting the voltage change with the current. The calculated values of electrical resistance are summarized in Table S1 (Supporting Information). It can be noted here that the electrical resistance of LVP/carbon composite was also increased as the heat&#x02010;treatment time was extended. Although the carbon contents in the samples decreased with the increment of heat&#x02010;treatment time, the presence of carbon in LVP samples looks clearly beneficial to improve its electronic conductivity.</p><fig fig-type="Figure" xml:lang="en" id="advs339-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>a) XRD patterns and b) Raman spectra of LVP/carbon nanofiber composites with different heat&#x02010;treatment time.</p></caption><graphic id="nlm-graphic-5" xlink:href="ADVS-4-na-g002"/></fig><p>Morphological changes of LVP/carbon composites with different heat&#x02010;treatment time were investigated with scanning electron microscope (SEM) (<bold>Figure</bold>
+<xref rid="advs339-fig-0003" ref-type="fig">
+<bold>3</bold>
+</xref>a&#x02013;c) and transmission electron microscope (TEM) analyses (Figure <xref rid="advs339-fig-0003" ref-type="fig">3</xref>d&#x02013;f). Significant changes in the particle size of LVP and the morphology of carbon nanofiber were observed as the heat&#x02010;treatment time increased. For LVP&#x02010;fiber sample (Figure <xref rid="advs339-fig-0003" ref-type="fig">3</xref>a,d), it shows smooth&#x02010;surfaced fibrous structure without any distinct characteristics, which is similar to that of as&#x02010;electrospun nanofibers before any heat&#x02010;treatment in Figure S3a (Supporting Information). However, LVP/carbon composite underwent an interesting gradual change as heat&#x02010;treatment time increased. When heat&#x02010;treatment time was over 1 h, LVP particles in the composite began to grow up or agglomerate as shown in Figure S3b (Supporting Information) rendering oval particles to be anchored in carbon nanofibers. Then, the size of LVP particles became bigger while the thickness of carbon nanofibers became thinner. When heat&#x02010;treatment time reached 4 h (LVP&#x02010;particle/fiber), it showed protruded LVP particles and carbon nanofibers as shown in Figure <xref rid="advs339-fig-0003" ref-type="fig">3</xref>b,e. This peculiar morphological change involving the evolution and growth of ceramic particles from the mixture of polymer and ceramic precursors seems to depend on not only the initial sintering process like evaporation&#x02013;condensation or surface diffusion but also typical Ostwald ripening, which accompanies the nucleation of LVP crystal and the following selective growth of larger nuclei or grain with positive curvature. When this sequential crystal growth process was maintained until 8 h (Figure S3c, Supporting Information), LVP particles grew up much bigger and when it was maintained until 12 h, LVP particles with larger particle size and inhomogeneous size distribution were generated as shown in Figure <xref rid="advs339-fig-0003" ref-type="fig">3</xref>c,f. Here, carbon nanofibers almost disappeared probably due to the continuous carbothermal reaction during heat&#x02010;treatment in good agreement with TGA and Raman analyses data. Actually, a gradual weight loss of carbon species was observed with the growth of LVP particles, finally making LVP particles protrude out of carbon nanofibers. After LVP particles became enough large and exposed to be irradiated by Raman laser, its crystallinity looked more exaggerated in Raman spectra (Figure <xref rid="advs339-fig-0002" ref-type="fig">2</xref>a), but we could make sure that LVP&#x02010;fiber after 1 h heat&#x02010;treatment has almost same crystallinity as LVP&#x02010;particle/fiber and LVP&#x02010;particle through XRD analyses (Figure <xref rid="advs339-fig-0002" ref-type="fig">2</xref>b). Based on these comprehensive results, we could suggest the formation mechanism for this peculiar LVP/carbon composite as indicated in Figure <xref rid="advs339-fig-0001" ref-type="fig">1</xref>. Even though the extended heat&#x02010;treatment led to the growth of LVP particle, the particle size of LVP/carbon composites obtained by electrospinning process was a lot smaller than that by conventional process without electrospinning (Figure S3d, Supporting Information). In order to more clearly see the structure of LVP/carbon composite, TEM images in higher resolution were obtained and incorporated as Figures S4 and S5 (Supporting Information). The thickness of carbon layer on the surface of LVP&#x02010;fiber was about 15.09 nm. In LVP&#x02010;particle/fiber and LVP&#x02010;particle sample, protruded LVP particles can be clearly discriminated from carbon parts even from high&#x02010;resolution TEM (HR&#x02010;TEM) images (Figure S5, Supporting Information). Distinct lattice fringes were found in the LVP particle, whose width was 4.21 and 4.29 &#x000c5; corresponding to (0 2 0) planes of LVP phase. As indicated in Figure S6 (Supporting Information), average particle size of LVP&#x02010;particle/fiber and LVP&#x02010;particle is 114.06 and 304.89 nm each, and the particle size distribution of LVP&#x02010;particle/fiber is much more homogeneous compared to that of LVP&#x02010;particle. To confirm the structure of LVP&#x02010;particle/fiber, elemental mapping images are included in Figure S7 (Supporting Information). Considering that carbon is the best electronic conductor but is not good ionic conductor, LVP particles anchored in carbon nanofibers (LVP&#x02010;particle/fiber) can be one of the best composite structures, which are able to get over the clear limitation of typical carbon coating strategy by simultaneously facilitating not only electron transport but also ionic transports.</p><fig fig-type="Figure" xml:lang="en" id="advs339-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>SEM images of LVP/carbon nanofiber composites with different heat&#x02010;treatment time. a) LVP&#x02010;fiber, b) LVP&#x02010;particle/fiber, and c) LVP&#x02010;particle, and TEM images of d) LVP&#x02010;fiber, e) LVP&#x02010;particle/fiber, and (f) LVP&#x02010;particle.</p></caption><graphic id="nlm-graphic-7" xlink:href="ADVS-4-na-g003"/></fig><p>Cyclic voltammetry (CV) curves of LVP/carbon composites obtained between 3.0 and 4.8 V with the variation for scan rate of 0.1&#x02013;0.5 mV s<sup>&#x02212;1</sup> are shown in <bold>Figure</bold>
+<xref rid="advs339-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref>. During lithium extraction/insertion, LVP&#x02010;based materials normally show four oxidation peaks during charge and three reduction peaks during the subsequent discharge in the voltage range of 3.0&#x02013;4.8 V (vs. Li<sup>+</sup>/Li), which are related to a series of phase transitions of crystalline LVP.<xref rid="advs339-bib-0007" ref-type="ref">7</xref>, <xref rid="advs339-bib-0010" ref-type="ref">10</xref>, <xref rid="advs339-bib-0047" ref-type="ref">47</xref>, <xref rid="advs339-bib-0048" ref-type="ref">48</xref> The whole electrochemical reactions are explained as follows
+<disp-formula id="advs339-disp-0001"><label>(1)</label><mml:math id="nlm-math-1"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mi mathvariant="normal">3</mml:mi></mml:msub><mml:msub><mml:mi mathvariant="normal">V</mml:mi><mml:mi mathvariant="normal">2</mml:mi></mml:msub><mml:msub><mml:mrow><mml:mrow><mml:mfenced><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">PO</mml:mi></mml:mrow><mml:mi mathvariant="normal">4</mml:mi></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mrow><mml:mi mathvariant="normal">3</mml:mi></mml:msub><mml:mo>&#x02212;</mml:mo><mml:mi mathvariant="normal">0</mml:mi><mml:mo>.</mml:mo><mml:msup><mml:mrow><mml:mi mathvariant="normal">5Li</mml:mi></mml:mrow><mml:mi mathvariant="normal">+</mml:mi></mml:msup><mml:mo>&#x02212;</mml:mo><mml:mi mathvariant="normal">0</mml:mi><mml:mo>.</mml:mo><mml:msup><mml:mrow><mml:mi mathvariant="normal">5e</mml:mi></mml:mrow><mml:mo>&#x02212;</mml:mo></mml:msup><mml:mo>&#x02194;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">2</mml:mi><mml:mo>.</mml:mo><mml:mi mathvariant="normal">5</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi mathvariant="normal">V</mml:mi><mml:mi mathvariant="normal">2</mml:mi></mml:msub><mml:msub><mml:mrow><mml:mrow><mml:mfenced><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">PO</mml:mi></mml:mrow><mml:mi mathvariant="normal">4</mml:mi></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mrow><mml:mi mathvariant="normal">3</mml:mi></mml:msub></mml:mrow></mml:math></disp-formula>
+<disp-formula id="advs339-disp-0002"><label>(2)</label><mml:math id="nlm-math-2"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">2</mml:mi><mml:mo>.</mml:mo><mml:mi mathvariant="normal">5</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi mathvariant="normal">V</mml:mi><mml:mi mathvariant="normal">2</mml:mi></mml:msub><mml:msub><mml:mrow><mml:mrow><mml:mfenced><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">PO</mml:mi></mml:mrow><mml:mi mathvariant="normal">4</mml:mi></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mrow><mml:mi mathvariant="normal">3</mml:mi></mml:msub><mml:mo>&#x02212;</mml:mo><mml:mi mathvariant="normal">0</mml:mi><mml:mo>.</mml:mo><mml:msup><mml:mrow><mml:mi mathvariant="normal">5Li</mml:mi></mml:mrow><mml:mi mathvariant="normal">+</mml:mi></mml:msup><mml:mo>&#x02212;</mml:mo><mml:mi mathvariant="normal">0</mml:mi><mml:mo>.</mml:mo><mml:msup><mml:mrow><mml:mi mathvariant="normal">5e</mml:mi></mml:mrow><mml:mo>&#x02212;</mml:mo></mml:msup><mml:mo>&#x02194;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mi mathvariant="normal">2</mml:mi></mml:msub><mml:msub><mml:mi mathvariant="normal">V</mml:mi><mml:mi mathvariant="normal">2</mml:mi></mml:msub><mml:msub><mml:mrow><mml:mrow><mml:mfenced><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">PO</mml:mi></mml:mrow><mml:mi mathvariant="normal">4</mml:mi></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mrow><mml:mi mathvariant="normal">3</mml:mi></mml:msub></mml:mrow></mml:math></disp-formula>
+<disp-formula id="advs339-disp-0003"><label>(3)</label><mml:math id="nlm-math-3"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">Li</mml:mi></mml:mrow><mml:mi mathvariant="normal">2</mml:mi></mml:msub><mml:msub><mml:mi mathvariant="normal">V</mml:mi><mml:mi mathvariant="normal">2</mml:mi></mml:msub><mml:msub><mml:mrow><mml:mrow><mml:mfenced><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">PO</mml:mi></mml:mrow><mml:mi mathvariant="normal">4</mml:mi></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mrow><mml:mi mathvariant="normal">3</mml:mi></mml:msub><mml:mo>&#x02212;</mml:mo><mml:mi mathvariant="normal">1</mml:mi><mml:mo>.</mml:mo><mml:msup><mml:mrow><mml:mi mathvariant="normal">0Li</mml:mi></mml:mrow><mml:mi mathvariant="normal">+</mml:mi></mml:msup><mml:mo>&#x02212;</mml:mo><mml:mi mathvariant="normal">1</mml:mi><mml:mo>.</mml:mo><mml:msup><mml:mrow><mml:mi mathvariant="normal">0e</mml:mi></mml:mrow><mml:mo>&#x02212;</mml:mo></mml:msup><mml:mo>&#x02194;</mml:mo><mml:msub><mml:mrow><mml:mi mathvariant="normal">LiV</mml:mi></mml:mrow><mml:mi mathvariant="normal">2</mml:mi></mml:msub><mml:msub><mml:mrow><mml:mrow><mml:mfenced><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">PO</mml:mi></mml:mrow><mml:mi mathvariant="normal">4</mml:mi></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mrow><mml:mi mathvariant="normal">3</mml:mi></mml:msub></mml:mrow></mml:math></disp-formula>
+<disp-formula id="advs339-disp-0004"><label>(4)</label><mml:math id="nlm-math-4"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">LiV</mml:mi></mml:mrow><mml:mi mathvariant="normal">2</mml:mi></mml:msub><mml:msub><mml:mrow><mml:mrow><mml:mfenced><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">PO</mml:mi></mml:mrow><mml:mi mathvariant="normal">4</mml:mi></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mrow><mml:mi mathvariant="normal">3</mml:mi></mml:msub><mml:mo>&#x02212;</mml:mo><mml:mi mathvariant="normal">1</mml:mi><mml:mo>.</mml:mo><mml:msup><mml:mrow><mml:mi mathvariant="normal">0Li</mml:mi></mml:mrow><mml:mi mathvariant="normal">+</mml:mi></mml:msup><mml:mo>&#x02212;</mml:mo><mml:mi mathvariant="normal">1</mml:mi><mml:mo>.</mml:mo><mml:msup><mml:mrow><mml:mi mathvariant="normal">0e</mml:mi></mml:mrow><mml:mo>&#x02212;</mml:mo></mml:msup><mml:mo>&#x02194;</mml:mo><mml:msub><mml:mi mathvariant="normal">V</mml:mi><mml:mi mathvariant="normal">2</mml:mi></mml:msub><mml:msub><mml:mrow><mml:mrow><mml:mfenced><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">PO</mml:mi></mml:mrow><mml:mi mathvariant="normal">4</mml:mi></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mrow><mml:mi mathvariant="normal">3</mml:mi></mml:msub></mml:mrow></mml:math></disp-formula>
+</p><fig fig-type="Figure" xml:lang="en" id="advs339-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Cyclic voltammetry curves of LVP/carbon nanofiber composites. a) LVP&#x02010;fiber, b) LVP&#x02010;particle/fiber, and d) LVP&#x02010;particle obtained at different scan rates ranging from 0.1 to 0.5 mV s<sup>&#x02212;1</sup>.</p></caption><graphic id="nlm-graphic-9" xlink:href="ADVS-4-na-g004"/></fig><p>Two oxidation peaks at 3.62 and 3.71 V during charge can be assigned to the extraction of first lithium ion with the oxidation of vanadium from V<sup>3+</sup> to V<sup>3+</sup>/V<sup>4+</sup>, which corresponds to reactions (1) and (2). Another oxidation peak at 4.16 V results from the extraction of second lithium ion with the complete vanadium oxidation from V<sup>3+</sup>/V<sup>4+</sup> to V<sup>4+</sup> in reaction (3). Finally, the oxidation peak around 4.63 V represents the extraction of last lithium ion with the vanadium oxidation from V<sup>4+</sup> to V<sup>5+</sup> as indicated in reaction (4).<xref rid="advs339-bib-0010" ref-type="ref">10</xref>, <xref rid="advs339-bib-0047" ref-type="ref">47</xref>, <xref rid="advs339-bib-0048" ref-type="ref">48</xref>, <xref rid="advs339-bib-0050" ref-type="ref">50</xref> The following discharge has been regarded as kinetically difficult process due to the limited ionic/electronic conductivity of V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> framework.<xref rid="advs339-bib-0049" ref-type="ref">49</xref>, <xref rid="advs339-bib-0050" ref-type="ref">50</xref> During subsequent discharge, broad reduction peak at 3.95 V would be observed, which originated from the initial reinsertion of lithium ion into V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>, which is a kind of solid solution reaction. Another two reduction peaks appear near 3.64 and 3.57 V, which are attributed to the last lithium ion insertion.<xref rid="advs339-bib-0010" ref-type="ref">10</xref>, <xref rid="advs339-bib-0047" ref-type="ref">47</xref>, <xref rid="advs339-bib-0048" ref-type="ref">48</xref> Compared to LVP&#x02010;particle/fiber and LVP&#x02010;particle, LVP&#x02010;fiber (Figure <xref rid="advs339-fig-0004" ref-type="fig">4</xref>a) shows somewhat smooth peaks with lower intensity. As the scan rate increased gradually, the peak intensity for LVP&#x02010;fiber a little rose up in accordance with typical feature of CV curves, but the difference between oxidation and reduction potentials became larger and the peak during discharge is blurred indicating that its electrochemical reaction is quasi&#x02010;reversible and kinetically slow even though LVP&#x02010;fiber showed the highest electronic conductivity thanks to high contents of carbon species.<xref rid="advs339-bib-0051" ref-type="ref">51</xref>, <xref rid="advs339-bib-0052" ref-type="ref">52</xref> Meanwhile, LVP&#x02010;particle/fiber (Figure <xref rid="advs339-fig-0004" ref-type="fig">4</xref>b) and LVP&#x02010;particle (Figure <xref rid="advs339-fig-0004" ref-type="fig">4</xref>c) showed more distinct oxidation or reduction peaks, which may come from the typical electrochemical reaction of monoclinic LVP phase. Some reduction peaks in LVP&#x02010;particle was overlapped with each other between 3.6 and 3.8 V demonstrating its irreversibility when the scan rate was increased, while LVP&#x02010;particle/fiber almost maintained its distinctive peaks even at high scan rates. Similar phenomenon was also observed during charge (oxidation). Two oxidation peaks around 3.5&#x02013;3.6 V can be clearly discriminated even at high rates in CV curves of LVP&#x02010;particle/fiber, but these peaks are overlapped in the CV curves of LVP&#x02010;fiber and LVP&#x02010;particle. Because the peak overlapping in CV curves generally happens when ions cannot be completely extracted or inserted in electrode material, the apparent peak separation in LVP&#x02010;particle/fiber looks like proving that this composite structure is kinetically favorable enough to allow fast charge/discharge.</p><p>
+<bold>Figure</bold>
+<xref rid="advs339-fig-0005" ref-type="fig">
+<bold>5</bold>
+</xref>a,d shows galvanostatic charge&#x02013;discharge curves of LVP/carbon composites obtained either between 3.0 and 4.3 V or between 3.0 and 4.8 V. By limiting the charge voltage to 4.3 V, which is the median voltage between the theoretical voltage for second lithium ion extraction (4.16 V) and that for third lithium ion extraction (4.63 V), we could adjust the number of lithium ions participating in the corresponding electrochemical reaction below two.<xref rid="advs339-bib-0010" ref-type="ref">10</xref>, <xref rid="advs339-bib-0051" ref-type="ref">51</xref> The charge&#x02013;discharge reactions of LVP/carbon composites are generally based on several consecutive phase transitions as indicated by voltage plateaus. During the initial charge, the first lithium ion was extracted through two oxidation reactions at 3.60 and 3.68 V, whereas the second lithium ion tended to be fully extracted through the single potential plateau at 4.09 V. Subsequent discharge looks quite reversible based on the discharge profiles. The voltage plateaus that correspond to lithium ion extraction and insertion are well matched with the CV results. When the charging voltage was increased up to 4.8 V, the last third lithium ion also came to participate in the oxidation that leads to a plateau at 4.53 V (Figure <xref rid="advs339-fig-0005" ref-type="fig">5</xref>d). During the following discharge, a solid&#x02010;solution behavior featured by S&#x02010;shape curve was found for all LVP samples until two lithium ions were completely inserted into V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> framework.<xref rid="advs339-bib-0007" ref-type="ref">7</xref>, <xref rid="advs339-bib-0053" ref-type="ref">53</xref>, <xref rid="advs339-bib-0054" ref-type="ref">54</xref>, <xref rid="advs339-bib-0055" ref-type="ref">55</xref> The morphological or microstructural effect on different of LVP/carbon composites was demonstrated through their electrochemical tests. LVP&#x02010;fiber, LVP&#x02010;particle/fiber, and LVP&#x02010;particle showed the initial discharge capacities each coming up to 98.37 mAh g<sup>&#x02212;1</sup>, 123.44 mAh g<sup>&#x02212;1</sup>, and 120.87 mAh g<sup>&#x02212;1</sup> between 3.0 and 4.3 V. However, when the charging voltage was extended to 4.8 V, LVP&#x02010;fiber, LVP&#x02010;particle/fiber, and LVP&#x02010;particle delivered the enhanced capacities of 128.11, 172.93, and 166.16 mAh g<sup>&#x02212;1</sup>, respectively. As discussed earlier, the participation of the third lithium ion in electrochemical reaction is not kinetically favored. Thus, the highest capacity of LVP&#x02010;particle/fiber among LVP/carbon composites implies that its morphological or microstructural characteristics are really advantageous. To further compare the structural advantages of LVP/carbon composites, rate capability test was conducted by varying C&#x02010;rates from 0.1 to 20 C (to calculate C&#x02010;rates, the theoretical capacity between 3.0 and 4.3 V was assumed as 131 mAh g<sup>&#x02212;1</sup>, while 197 mAh g<sup>&#x02212;1</sup> was the theoretical capacity for the voltage range between 3.0 and 4.8 V) as shown in Figure <xref rid="advs339-fig-0005" ref-type="fig">5</xref>b,e. The LVP&#x02010;particle/fiber showed not only highest capacity reaching 126 mAh g<sup>&#x02212;1</sup> (3.0&#x02013;4.3 V) and 172 mAh g<sup>&#x02212;1</sup> (3.0&#x02013;4.8 V) at 0.1 C, but also displayed the best capacity retention at 20 C in comparison with LVP&#x02010;fiber and LVP&#x02010;particle. The discharge capacities of LVP&#x02010;particle/fiber at 20 C were 72.09% (3.0&#x02013;4.3 V) and 48.96% (3.0&#x02013;4.8 V) of those at 0.1 C, whereas the discharge capacities of LVP&#x02010;fiber and LVP&#x02010;particle were 6.23% and 42.10% compared to those at 0.1 C with the charging voltage of 4.3 V cut, and 0.28% and 22.27% with the increased charging voltage of 4.8 V. The cyclic stabilities of all samples were obtained at 1 C as shown in Figure <xref rid="advs339-fig-0005" ref-type="fig">5</xref>c,f. Herein, LVP&#x02010;particle/fiber exhibited the best cycling stability for 500 cycles. When the charging voltage was restricted to 4.3 V (Figure <xref rid="advs339-fig-0005" ref-type="fig">5</xref>c), LVP&#x02010;particle/fiber delivered a reversible capacity of 119.55 mAh g<sup>&#x02212;1</sup> after 500 cycles, which maintained 98.73% of its initial discharge capacity, while the discharge capacities of LVP&#x02010;fiber and LVP&#x02010;particle were just 92.41 mAh g<sup>&#x02212;1</sup> and 99.36 mAh g<sup>&#x02212;1</sup>, respectively. When the charging voltage was increased to 4.8 V (Figure <xref rid="advs339-fig-0005" ref-type="fig">5</xref>f), LVP&#x02010;particle/fiber still retained the highest capacity of 107.69 mAh g<sup>&#x02212;1</sup> corresponding to 71.83% of the initial capacity, but LVP&#x02010;fiber and LVP&#x02010;particle each showed 89.85 and 97.26 mAh g<sup>&#x02212;1</sup> after 500 cycles. Charge&#x02013;discharge profiles during rate&#x02010;capability test and cycling test are shown in Figure S8 (Supporting Information). SEM images before or after cycles are included in Figure S9 (Supporting Information). As indicated in the images, even after 500 cycles, the morphology of LVP fibers and particles shows scarce change probably thanks to the good structural stability of LVP. Actually, due to the covalently bonded oxygen atoms inside the LVP material, LVP has been reported to be structurally stable even when lithium ions are extracted from itself.<xref rid="advs339-bib-0007" ref-type="ref">7</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="advs339-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Galvanostatic charge&#x02013;discharge curves of LVP/carbon nanofiber composites in two different voltage ranges a) 3.0&#x02013;4.3 V and d) 3.0&#x02013;4.8 V. Rate capability results of LVP/carbon nanofiber composites with the variation of C&#x02010;rate from 0.1 to 20 C in b) 3.0&#x02013;4.3 V and e) 3.0&#x02013;4.8 V. Cycling stabilities of LVP/carbon nanofiber composites in c) 3.0&#x02013;4.3 V and f) 3.0&#x02013;4.8 V (C&#x02010;rate was 0.1 C for first two cycles, and 1 C was applied for the following 500 cycles).</p></caption><graphic id="nlm-graphic-11" xlink:href="ADVS-4-na-g005"/></fig><p>In order to investigate the kinetic properties of LVP/carbon composites, electrochemical impedance spectroscopy (EIS) measurement was conducted. Before the measurement, electrodes were galvanostatically charged and discharged for two cycles between 3.0 and 4.8 V at low rate of 0.1 C in order to assure the penetration of electrolyte into electrode, structural change, and the formation of stable solid electrolyte interface layer on the surface of active material.<xref rid="advs339-bib-0056" ref-type="ref">56</xref> The Nyquist plot (<bold>Figure</bold>
+<xref rid="advs339-fig-0006" ref-type="fig">
+<bold>6</bold>
+</xref>a) consisted of two parts, a depressed semicircle in high&#x02010;frequency region and an inclined straight line in low&#x02010;frequency region. From the semicircle in high&#x02010;frequency region, charge&#x02010;transfer resistance (<italic>R</italic>
+<sub>ct</sub>) could be deduced, which corresponds to the resistance between electrolyte and LVP electrode. From the inclined line in low&#x02010;frequency region, lithium ion diffusivity could be calculated using a certain formula.<xref rid="advs339-bib-0023" ref-type="ref">23</xref>, <xref rid="advs339-bib-0049" ref-type="ref">49</xref> From the fitting results, <italic>R</italic>
+<sub>ct</sub> of LVP&#x02010;particle/fiber corresponded to 68.72 &#x003a9;, which was much smaller than those of LVP&#x02010;fiber (489.50 &#x003a9;) and LVP&#x02010;particle (88.82 &#x003a9;). This result indicates that lithium ion transfer is much easier not only inside LVP&#x02010;particle/fiber electrode but also between the electrode and electrolyte. (The detailed values of resistance that could be obtained from fitting result are summarized in Table S2, Supporting Information) On the other hand, lithium diffusion coefficients of LVP samples were calculated from the inclined line in low&#x02010;frequency region by the following equation<xref rid="advs339-bib-0057" ref-type="ref">57</xref>, <xref rid="advs339-bib-0058" ref-type="ref">58</xref>
+<disp-formula id="advs339-disp-0005"><label>(5)</label><mml:math id="nlm-math-5"><mml:mrow><mml:msub><mml:mi>D</mml:mi><mml:mrow><mml:mi mathvariant="normal">Li+</mml:mi></mml:mrow></mml:msub><mml:mi mathvariant="normal">=</mml:mi><mml:msup><mml:mi>R</mml:mi><mml:mi mathvariant="normal">2</mml:mi></mml:msup><mml:msup><mml:mi>T</mml:mi><mml:mi mathvariant="normal">2</mml:mi></mml:msup><mml:mi mathvariant="normal">/2</mml:mi><mml:msup><mml:mi>A</mml:mi><mml:mi mathvariant="normal">2</mml:mi></mml:msup><mml:msup><mml:mi>n</mml:mi><mml:mi mathvariant="normal">4</mml:mi></mml:msup><mml:msup><mml:mi>F</mml:mi><mml:mi mathvariant="normal">4</mml:mi></mml:msup><mml:msup><mml:mi>C</mml:mi><mml:mi mathvariant="normal">2</mml:mi></mml:msup><mml:msup><mml:mi>&#x003b4;</mml:mi><mml:mi mathvariant="normal">2</mml:mi></mml:msup></mml:mrow></mml:math></disp-formula>
+</p><fig fig-type="Figure" xml:lang="en" id="advs339-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>a) EIS spectra of LVP/carbon nanofiber composites after 2 cycles (3.0&#x02013;4.8 V). Inset of (a) is equivalent circuit corresponding to the impedance spectra. b) Relationship between the <italic>Z</italic>&#x02032; and &#x003c9;<sup>&#x02212;1/2</sup> in the low frequency region of LVP/Carbon composites.</p></caption><graphic id="nlm-graphic-13" xlink:href="ADVS-4-na-g006"/></fig><p>In this equation, <italic>R</italic> is gas constant (8.3143 J mol<sup>&#x02212;1</sup> K<sup>&#x02212;1</sup>), <italic>T</italic> is absolute temperature (298 K at room temperature), <italic>A</italic> is the surface area of electrode (1.13 cm<sup>2</sup>), <italic>n</italic> is the number of electrons per molecule during oxidation (<italic>n</italic> = 1), <italic>F</italic> is faraday constant (96485.3365 C mol<sup>&#x02212;1</sup>), <italic>C</italic> is the concentration of lithium ions in the corresponding electrode material (3.7 &#x000d7; 10<sup>&#x02212;3</sup> mol cm<sup>&#x02212;3</sup>), and &#x003b4; is Warburg coefficient which can be calculated from the correlation between frequency and impedance, according to the following formula<xref rid="advs339-bib-0057" ref-type="ref">57</xref>, <xref rid="advs339-bib-0058" ref-type="ref">58</xref>
+<disp-formula id="advs339-disp-0006"><label>(6)</label><mml:math id="nlm-math-6"><mml:mrow><mml:msup><mml:mi>Z</mml:mi><mml:mo>&#x02032;</mml:mo></mml:msup><mml:mo>=</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mi mathvariant="normal">e</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mi mathvariant="normal">ct</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:mi>&#x003b4;</mml:mi><mml:msup><mml:mi>&#x003c9;</mml:mi><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></disp-formula>
+</p><p>The &#x003c9; is frequency in the low frequency region and from the obtained &#x003b4; value, lithium ion diffusivity could be calculated. As a result of calculation, Warburg coefficient and lithium ion diffusivity of LVP samples are shown in <bold>Table</bold>
+<xref rid="advs339-tbl-0001" ref-type="table-wrap">
+<bold>1</bold>
+</xref>. From this result, LVP&#x02010;particle/fiber sample demonstrated its highest lithium ion diffusivity followed by LVP&#x02010;particle and LVP&#x02010;fiber in sequence, which well agrees with the electrochemical test results in Figure <xref rid="advs339-fig-0005" ref-type="fig">5</xref>. The superior lithium ion diffusion in LVP&#x02010;particle/fiber can be explained by the protrusion of LVP particles out of carbon nanofiber, which renders lithium ions to directly go into the lattice structure of LVP from electrolyte, and in addition the small particle size of LVP can substantially shorten lithium ion transport distance while electron pathway is apparently secured alongside carbon nanofibers.</p><table-wrap id="advs339-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Warburg coefficient (&#x003b4;) and calculated lithium ion diffusivity (<italic>D</italic>
+<sub>Li+</sub>) from EIS measurement</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Samples</th><th align="center" rowspan="1" colspan="1">&#x003b4; (&#x003a9; cm<sup>2</sup> s<sup>&#x02212;1/2</sup>)</th><th align="center" rowspan="1" colspan="1">
+<italic>D</italic>
+<sub>Li+</sub> (cm<sup>2</sup> s<sup>&#x02212;1</sup>)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">LVP&#x02010;fiber</td><td align="center" rowspan="1" colspan="1">103.590</td><td align="center" rowspan="1" colspan="1">1.888 &#x000d7; 10<sup>&#x02212;13</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">LVP&#x02010;particle/fiber</td><td align="center" rowspan="1" colspan="1">12.468</td><td align="center" rowspan="1" colspan="1">1.316 &#x000d7; 10<sup>&#x02212;11</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">LVP&#x02010;particle</td><td align="center" rowspan="1" colspan="1">13.784</td><td align="center" rowspan="1" colspan="1">1.066 &#x000d7; 10<sup>&#x02212;11</sup>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Based on the discussion above, we can conclude that high lithium ion diffusivity and superb electrochemical performances of LVP&#x02010;particle/fiber is associated with its special microstructural feature. As suggested in Figures <xref rid="advs339-fig-0001" ref-type="fig">1</xref> and <xref rid="advs339-fig-0003" ref-type="fig">3</xref>, LVP&#x02010;particle/fiber has a unique microstructure which consists of carbon nanofibers and small LVP particles protruded out of carbon nanofibers. This structure could ensure not only high lithium ion diffusivity provided by the exposed particle surface region but also fast electron transport secured alongside the connected carbon nanofiber network. Meanwhile, other LVP samples such as LVP&#x02010;fiber and LVP&#x02010;particle had clear disadvantages in either lithium ion diffusivity or electronic conductivity finally delivering inferior electrochemical properties compared to LVP&#x02010;particle/fiber. Even if carbon coating technique has been regarded as the most effective way to improve the kinetics of electrode materials, this results made sure that the carbon layer on surface can interfere with the direct lithium ion transfer from electrolyte to electrode material. More importantly, the distinctive morphology or microstructure of LVP&#x02010;particle/fiber demonstrated how lithium ion diffusivity and electron transfer can be simultaneously maximized.</p></sec><sec id="advs339-sec-0030"><label>3</label><title>Conclusion</title><p>In summary, we successfully designed and realized LVP/carbon nanofiber comprised of LVP particles anchored in carbon nanofibers to simultaneously increase electronic conductivity as well as lithium ion diffusivity. Herein, the morphology or microstructure of LVP/carbon nanofiber composites was well modulated according to the typical sintering mechanisms at initial stage site such as surface diffusion, evaporation&#x02013;condensation, etc. Interestingly, the apparent changes for LVP particle size and carbon nanofiber thickness were observed with heat&#x02010;treatment time finally giving the clue for the way how the unique LVP/carbon nanofiber structure is formed. By adjusting synthetic condition, we could grow up small LVP particles on carbon nanofibers in which some part of particle was protruded out of nanofiber. The unique microstructural features provided the chance to simultaneously secure fast lithium ion diffusion and electron transfer, which are essential for the enhanced electrochemical properties of electrode materials. Thanks to the synergistic effect of regulated LVP particle and carbon nanofiber, LVP/carbon fiber composite shows superb electrochemical performances. Actually, the optimized LVP/carbon fiber composite delivers high discharge capacities of 126 mAh g<sup>&#x02212;1</sup> (3.0&#x02013;4.3 V) and 172 mAh g<sup>&#x02212;1</sup> (3.0&#x02013;4.8 V) at 0.1 C, an impressive cyclic retentions (98.73% of the initial capacity was maintained after 500 cycles between 3.0 and 4.3 V) and a superb rate capability (the capacity at 20 C corresponded to 72.09% of that at 0.1 C between 3.0 and 4.3 V). Therefore, the unique structure reported here looks very promising to improve the kinetic properties of electrode materials. We demonstrated that the size and crystallinity of protruded LVP particles as well as the thickness and crystallinity of carbon nanofiber are very important physical parameters dominating the electrochemical properties of the corresponding composite cathode. This optimized unique structure can provide not only good electron pathways through 1D carbon nanofiber network but also showed good lithium ion diffusivity through the direct contact between electrolyte and LVP particles. Finally, this inventive idea can be considered as one of the most creative ones to not only overcome the limitation of conventional carbon&#x02010;coating strategies in terms of ionic diffusivity but also provide a clear solution for enhancing the kinetic properties of oxide&#x02010;based electrode materials including LVP.</p></sec><sec id="advs339-sec-0040"><label>4</label><title>Experimental Section</title><p>
+<italic>Sample Preparation</italic>: LVP samples were prepared by electrospinning method. First, stoichiometric amount of NH<sub>4</sub>VO<sub>3</sub>, NH<sub>4</sub>H<sub>2</sub>PO<sub>4</sub>, and CH<sub>3</sub>COOLi&#x000b7;2H<sub>2</sub>O were mixed in 5 mL of 14 wt% citric acid solution and magnetically stirred for 4 h in 60 &#x000b0;C oil bath. In here, citric acid was employed as a chelating agent and carbon source. After that, the mixed precursor was dropped slowly into the mixture solution of PVP 1.2 g (<italic>M</italic>
+<sub>w</sub>: 1,300,000) and 4.0 g deionized water and stirred for another 4 h. The mixed solution was loaded into a plastic syringe equipped with a 27&#x02010;gauge plastic needle. The needle was then connected to a high&#x02010;voltage power supply that generates DC voltage of 22.0 kV. The precursor solution was fed in the rate of 0.2 mL h<sup>&#x02212;1</sup> with syringe pump, and the distance between needle point and aluminum collector was 10 cm. The electrospun fibers were annealed at 800 &#x000b0;C maintaining for 1, 4, and 12 h at ramp rate of 2 &#x000b0;C min<sup>&#x02212;1</sup>.</p><p>
+<italic>Physical Characterization</italic>: In order to characterize the crystal structure of LVP samples, X&#x02010;ray diffractometer (Rigaku Ultima IV) with Cu K&#x003b1; radiation was used in the 2&#x003b8; range of 10&#x000b0;&#x02013;60&#x000b0;. The morphological structure and microstructure of the composite were obtained using field&#x02010;emission scanning electron microscopy (JEOL JSM&#x02010;6700F), and detailed nanostructure features were characterized by HR&#x02010;TEM (JEOL JEM&#x02010;3010) installed at the National Center for Inter&#x02010;university Research Facilities at Seoul National University. In order to see the carbon content of samples, TGA (Perkin Elmer, STA6000) was conducted in ambient air at a heating rate of 10 &#x000b0;C min<sup>&#x02212;1</sup> and carbon characteristics were measured with Raman spectroscopy (NRS&#x02010;3100) installed at the Hanyang Center for Research Facilities (Seoul). CV measurements were tested between 3.0 and 4.8 V in the scan rate of 0.1&#x02013;0.5 mV s<sup>&#x02212;1</sup>, and four&#x02010;wire resistor was conducted using (Keithley 4200 SCS) with making LVP samples in round&#x02010;shaped pellet with the thickness of around 0.5 mm. EIS measurement was conducted after first two cycles at frequency range from 1000 kHz to 100 mHz with sinusoidal voltage signal of 5 mV in amplitude as the perturbation at room temperature.</p><p>
+<italic>Electrochemical Measurements</italic>: The electrodes were prepared by mixing active material, acetylene black, and poly&#x02010;vinylidene fluoride in a weight ratio of 80:10:10 in <italic>N</italic>&#x02010;methyl pyrrolidone. The resulting slurry was pasted on aluminum foil current collector and dried at 120 &#x000b0;C for 5 h in a vacuum oven. After that, the electrodes were pressed and punched into circle shape in diameter of 1.3 cm. In here, the loading of the active material is about &#x02248;2 mg cm<sup>&#x02212;2</sup>. Electrochemical tests were performed using 2032 coin&#x02010;type cells with lithium metal as anode material and LiPF<sub>6</sub> in 1:1 EC/DEC as electrolyte. Charge and discharge properties were examined at room temperature using WonAtech battery cycler in the voltage range of 3.0&#x02013;4.8 V and 3.0&#x02013;4.3 V (vs. Li<sup>+</sup>/Li).</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-4-na-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs339-sec-0050"><title>Acknowledgements</title><p>J.S. and J.Y. contributed equally to this work. This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIP) (Grant No. NRF&#x02010;2015R1A2A1A15055227) and the International Energy Joint R&#x00026;D Program (No. 20168510011350) of the Korea Institute of Energy Technology Evaluation and Planning (KETEP) grant funded by the Ministry of Knowledge Economy, Korean government. J.Y. acknowledges the NRF grant funded by the Korean Government (Grant No. NRF&#x02010;2015H1A2A1034244&#x02010;Global Ph.D. Fellowship Program).</p></ack><ref-list id="advs339-bibl-0001"><ref id="advs339-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs339-cit-0001">
+<string-name>
+<given-names>H.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2014</year>, <volume>146</volume>, <fpage>295</fpage>.</mixed-citation></ref><ref id="advs339-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs339-cit-0002">
+<string-name>
+<given-names>J.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;L.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;S.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2013</year>, <volume>1</volume>, <fpage>2508</fpage>.</mixed-citation></ref><ref id="advs339-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs339-cit-0003">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Mai</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>K. M.</given-names>
+<surname>Hercule</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Minhas&#x02010;Khan</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2014</year>, <volume>14</volume>, <fpage>1042</fpage>.<pub-id pub-id-type="pmid">24437341</pub-id></mixed-citation></ref><ref id="advs339-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs339-cit-0004">
+<string-name>
+<given-names>J.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Mathew</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Gim</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>W. B.</given-names>
+<surname>Im</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, <source>Sci. Rep.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>4047</fpage>.<pub-id pub-id-type="pmid">24509825</pub-id></mixed-citation></ref><ref id="advs339-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs339-cit-0005">
+<string-name>
+<given-names>D.&#x02010;W.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;J.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;I.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>Y. C.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;M.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>Chem. Mater.</source>
+<year>2014</year>, <volume>26</volume>, <fpage>3644</fpage>.</mixed-citation></ref><ref id="advs339-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs339-cit-0006">
+<string-name>
+<given-names>K.</given-names>
+<surname>Naoi</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kisu</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Iwama</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sato</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Shinoda</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Okita</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Naoi</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2015</year>, <volume>162</volume>, <fpage>A827</fpage>.</mixed-citation></ref><ref id="advs339-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs339-cit-0007">
+<string-name>
+<given-names>S.&#x02010;C.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Grondey</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Strobel</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Anne</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2003</year>, <volume>125</volume>, <fpage>10402</fpage>.<pub-id pub-id-type="pmid">12926965</pub-id></mixed-citation></ref><ref id="advs339-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs339-cit-0008">
+<string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yang</surname>
+</string-name>, <source>Chem. Commun.</source>
+<year>2011</year>, <volume>47</volume>, <fpage>9110</fpage>.</mixed-citation></ref><ref id="advs339-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs339-cit-0009">
+<string-name>
+<given-names>J.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wu</surname>
+</string-name>, <source>Ionics</source>
+<year>2013</year>, <volume>19</volume>, <fpage>577</fpage>.</mixed-citation></ref><ref id="advs339-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs339-cit-0010">
+<string-name>
+<given-names>X.</given-names>
+<surname>Rui</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Skyllas&#x02010;Kazacos</surname>
+</string-name>, <string-name>
+<given-names>T. M.</given-names>
+<surname>Lim</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2014</year>, <volume>258</volume>, <fpage>19</fpage>.</mixed-citation></ref><ref id="advs339-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs339-cit-0011">
+<string-name>
+<given-names>B.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;H.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;W.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;H.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2014</year>, <volume>265</volume>, <fpage>104</fpage>.</mixed-citation></ref><ref id="advs339-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs339-cit-0012">
+<string-name>
+<given-names>M.</given-names>
+<surname>Secchiaroli</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Nobili</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Tossici</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Giuli</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Marassi</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2015</year>, <volume>275</volume>, <fpage>792</fpage>.</mixed-citation></ref><ref id="advs339-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs339-cit-0013">
+<string-name>
+<given-names>M. Y.</given-names>
+<surname>Sa&#x000ef;di</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Barker</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Swoyer</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Adamson</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2003</year>, <volume>119&#x02013;121</volume>, <fpage>266</fpage>.</mixed-citation></ref><ref id="advs339-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs339-cit-0014">
+<string-name>
+<given-names>W.&#x02010;f.</given-names>
+<surname>Mao</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;b.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ai</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;l.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;h.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Qu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>V. S.</given-names>
+<surname>Battaglia</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;y.</given-names>
+<surname>Tang</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2015</year>, <volume>7</volume>, <fpage>12057</fpage>.<pub-id pub-id-type="pmid">25992951</pub-id></mixed-citation></ref><ref id="advs339-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs339-cit-0015">
+<string-name>
+<given-names>C.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Rajasekhara</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Goodenough</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2011</year>, <volume>3</volume>, <fpage>3772</fpage>.<pub-id pub-id-type="pmid">21877744</pub-id></mixed-citation></ref><ref id="advs339-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs339-cit-0016">
+<string-name>
+<given-names>L.&#x02010;L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zou</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>Croft</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Ignatov</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2012</year>, <volume>116</volume>, <fpage>12401</fpage>.</mixed-citation></ref><ref id="advs339-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs339-cit-0017">
+<string-name>
+<given-names>C.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S. Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>B. L.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>F. L.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2011</year>, <volume>115</volume>, <fpage>15048</fpage>.</mixed-citation></ref><ref id="advs339-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs339-cit-0018">
+<string-name>
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Bie</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wei</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2014</year>, <volume>6</volume>, <fpage>12523</fpage>.<pub-id pub-id-type="pmid">25010184</pub-id></mixed-citation></ref><ref id="advs339-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs339-cit-0019">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2007</year>, <volume>52</volume>, <fpage>5251</fpage>.</mixed-citation></ref><ref id="advs339-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs339-cit-0020">
+<string-name>
+<given-names>M. M.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>X. P.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>W. X.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Wei</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2008</year>, <volume>112</volume>, <fpage>5689</fpage>.</mixed-citation></ref><ref id="advs339-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs339-cit-0021">
+<string-name>
+<given-names>F.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Song</surname>
+</string-name>, <source>J. Solid State Electrochem.</source>
+<year>2010</year>, <volume>14</volume>, <fpage>883</fpage>.</mixed-citation></ref><ref id="advs339-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs339-cit-0022">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Pi</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Mai</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>1400107</fpage>.</mixed-citation></ref><ref id="advs339-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs339-cit-0023">
+<string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Chem. Commun.</source>
+<year>2012</year>, <volume>48</volume>, <fpage>1201</fpage>.</mixed-citation></ref><ref id="advs339-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs339-cit-0024">
+<string-name>
+<given-names>L.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;M.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>P.&#x02010;W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2007</year>, <volume>154</volume>, <fpage>A692</fpage>.</mixed-citation></ref><ref id="advs339-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs339-cit-0025">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Geng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Electrochem. Commun.</source>
+<year>2011</year>, <volume>13</volume>, <fpage>822</fpage>.</mixed-citation></ref><ref id="advs339-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs339-cit-0026">
+<string-name>
+<given-names>M.</given-names>
+<surname>Endo</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Nishimura</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Fujino</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Miyashita</surname>
+</string-name>, <source>Carbon</source>
+<year>2000</year>, <volume>38</volume>, <fpage>183</fpage>.</mixed-citation></ref><ref id="advs339-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs339-cit-0027">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Hosono</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>Angew. Chem., Int. Ed.</source>
+<year>2008</year>, <volume>47</volume>, <fpage>7461</fpage>.</mixed-citation></ref><ref id="advs339-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs339-cit-0028">
+<string-name>
+<given-names>R.</given-names>
+<surname>Dominko</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Bele</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Gaberscek</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Remskar</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Hanzel</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Pejovnik</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jamnik</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2005</year>, <volume>152</volume>, <fpage>A607</fpage>.</mixed-citation></ref><ref id="advs339-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs339-cit-0029">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Dahn</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2002</year>, <volume>149</volume>, <fpage>A1184</fpage>.</mixed-citation></ref><ref id="advs339-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs339-cit-0030">
+<string-name>
+<given-names>K.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2006</year>, <volume>161</volume>, <fpage>628</fpage>.</mixed-citation></ref><ref id="advs339-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs339-cit-0031">
+<string-name>
+<given-names>C.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>2001</year>, <volume>144</volume>, <fpage>249</fpage>.</mixed-citation></ref><ref id="advs339-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs339-cit-0032">
+<string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>D.&#x02010;W.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Jo</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;I.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;L.</given-names>
+<surname>Chou</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;K.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;M.</given-names>
+<surname>Kang</surname>
+</string-name>, <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>1005</fpage>.</mixed-citation></ref><ref id="advs339-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs339-cit-0033">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2013</year>, <volume>234</volume>, <fpage>197</fpage>.</mixed-citation></ref><ref id="advs339-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs339-cit-0034">
+<string-name>
+<given-names>R. V.</given-names>
+<surname>Hagen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Lepcha</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Tyrra</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mathur</surname>
+</string-name>, <source>Nano Energy</source>
+<year>2013</year>, <volume>2</volume>, <fpage>304</fpage>.</mixed-citation></ref><ref id="advs339-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs339-cit-0035">
+<string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yang</surname>
+</string-name>, <source>ACS Appl. Mater. Interfaces</source>
+<year>2015</year>, <volume>7</volume>, <fpage>13934</fpage>.<pub-id pub-id-type="pmid">26053376</pub-id></mixed-citation></ref><ref id="advs339-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs339-cit-0036">
+<string-name>
+<given-names>B.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yang</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2015</year>, <volume>176</volume>, <fpage>1358</fpage>.</mixed-citation></ref><ref id="advs339-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs339-cit-0037">
+<string-name>
+<given-names>P.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tie</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Nanoscale</source>
+<year>2016</year>, <volume>8</volume>, <fpage>7408</fpage>.<pub-id pub-id-type="pmid">26990080</pub-id></mixed-citation></ref><ref id="advs339-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs339-cit-0038">
+<string-name>
+<given-names>M.&#x02010;X.</given-names>
+<surname>Jing</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;C.</given-names>
+<surname>Pi</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;A.</given-names>
+<surname>Zhai</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;S.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Q.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;M.</given-names>
+<surname>Xi</surname>
+</string-name>, <string-name>
+<given-names>K.&#x02010;S.</given-names>
+<surname>Xiao</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2016</year>, <volume>212</volume>, <fpage>898</fpage>.</mixed-citation></ref><ref id="advs339-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs339-cit-0039">
+<string-name>
+<given-names>M.&#x02010;X.</given-names>
+<surname>Jing</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;C.</given-names>
+<surname>Pi</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;A.</given-names>
+<surname>Zhai</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;Q.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;M.</given-names>
+<surname>Xi</surname>
+</string-name>, <string-name>
+<given-names>K.&#x02010;S.</given-names>
+<surname>Xia</surname>
+</string-name>, <source>RSC Adv.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>71574</fpage>.</mixed-citation></ref><ref id="advs339-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs339-cit-0040">
+<string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Nan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cao</surname>
+</string-name>, <source>Energy Storage Mater.</source>
+<year>2016</year>, <volume>5</volume>, <fpage>93</fpage>.</mixed-citation></ref><ref id="advs339-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs339-cit-0041">
+<string-name>
+<given-names>X.</given-names>
+<surname>Rui</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Sim</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wong</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>H. H.</given-names>
+<surname>Hng</surname>
+</string-name>, <string-name>
+<given-names>T. M.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Yan</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2012</year>, <volume>214</volume>, <fpage>171</fpage>.</mixed-citation></ref><ref id="advs339-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs339-cit-0042">
+<string-name>
+<given-names>J.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K.&#x02010;F.</given-names>
+<surname>Aguey&#x02010;Zinsou</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Ceram. Int.</source>
+<year>2013</year>, <volume>39</volume>, <fpage>2165</fpage>.</mixed-citation></ref><ref id="advs339-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs339-cit-0043">
+<string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>J. Solid State Electrochem.</source>
+<year>2014</year>, <volume>18</volume>, <fpage>1751</fpage>.</mixed-citation></ref><ref id="advs339-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs339-cit-0044">
+<string-name>
+<given-names>N.</given-names>
+<surname>Membre&#x000f1;o</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>K.&#x02010;S.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Goodenough</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Henkelman</surname>
+</string-name>, <string-name>
+<given-names>K. J.</given-names>
+<surname>Stevenson</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2013</year>, <volume>117</volume>, <fpage>11994</fpage>.</mixed-citation></ref><ref id="advs339-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="advs339-cit-0045">
+<string-name>
+<given-names>Y. Q.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name>
+<given-names>Y. J.</given-names>
+<surname>Mai</surname>
+</string-name>, <string-name>
+<given-names>C. D.</given-names>
+<surname>Gu</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2011</year>, <volume>196</volume>, <fpage>7715</fpage>.</mixed-citation></ref><ref id="advs339-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="advs339-cit-0046">
+<string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hong</surname>
+</string-name>, <source>Electrochem. Solid&#x02010;State Lett.</source>
+<year>2007</year>, <volume>10</volume>, <fpage>A65</fpage>.</mixed-citation></ref><ref id="advs339-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="advs339-cit-0047">
+<string-name>
+<given-names>M.</given-names>
+<surname>Morcrette</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;B.</given-names>
+<surname>Leriche</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Patoux</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wurm</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Masquelier</surname>
+</string-name>, <source>Electrochem. Solid&#x02010;State Lett.</source>
+<year>2003</year>, <volume>6</volume>, <fpage>A80</fpage>.</mixed-citation></ref><ref id="advs339-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="advs339-cit-0048">
+<string-name>
+<given-names>S.&#x02010;C.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Grondey</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Strobel</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2003</year>, <volume>125</volume>, <fpage>326</fpage>.<pub-id pub-id-type="pmid">12517132</pub-id></mixed-citation></ref><ref id="advs339-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="advs339-cit-0049">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>J. Solid State Electrochem.</source>
+<year>2013</year>, <volume>17</volume>, <fpage>1991</fpage>.</mixed-citation></ref><ref id="advs339-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="advs339-cit-0050">
+<string-name>
+<given-names>K.</given-names>
+<surname>Nathiya</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Bhuvaneswari</surname>
+</string-name>, <string-name>
+<surname>Gangulibabu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Kalaiselvi</surname>
+</string-name>, <source>Mater. Res. Bull.</source>
+<year>2012</year>, <volume>47</volume>, <fpage>4300</fpage>.</mixed-citation></ref><ref id="advs339-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="advs339-cit-0051">
+<string-name>
+<given-names>X. H.</given-names>
+<surname>Rui</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C. H.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2010</year>, <volume>55</volume>, <fpage>2384</fpage>.</mixed-citation></ref><ref id="advs339-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="advs339-cit-0052">
+<string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;L.</given-names>
+<surname>Chou</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Q.&#x02010;F.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;K.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;X.</given-names>
+<surname>Dou</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2014</year>, <volume>246</volume>, <fpage>124</fpage>.</mixed-citation></ref><ref id="advs339-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="advs339-cit-0053">
+<string-name>
+<given-names>P.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Shen</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2006</year>, <volume>162</volume>, <fpage>651</fpage>.</mixed-citation></ref><ref id="advs339-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="advs339-cit-0054">
+<string-name>
+<given-names>A.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Mater. Lett.</source>
+<year>2008</year>, <volume>62</volume>, <fpage>1646</fpage>.</mixed-citation></ref><ref id="advs339-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="advs339-cit-0055">
+<string-name>
+<given-names>S.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>S. S.</given-names>
+<surname>Park</surname>
+</string-name>, <source>J. Phys. Chem. C</source>
+<year>2012</year>, <volume>116</volume>, <fpage>25190</fpage>.</mixed-citation></ref><ref id="advs339-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="advs339-cit-0056">
+<string-name>
+<given-names>X. H.</given-names>
+<surname>Rui</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C. H.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2009</year>, <volume>54</volume>, <fpage>3374</fpage>.</mixed-citation></ref><ref id="advs339-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="advs339-cit-0057">
+<string-name>
+<given-names>Y. Q.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W. L.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Tu</surname>
+</string-name>, <source>Electrochim. Acta</source>
+<year>2011</year>, <volume>56</volume>, <fpage>2269</fpage>.</mixed-citation></ref><ref id="advs339-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="advs339-cit-0058">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <source>J. Solid State Electrochem.</source>
+<year>2014</year>, <volume>18</volume>, <fpage>215</fpage>.</mixed-citation></ref></ref-list></back></article>

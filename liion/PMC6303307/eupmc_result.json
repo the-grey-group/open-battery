@@ -1,0 +1,364 @@
+{
+  "id": [
+    "30575773"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30575773"
+  ],
+  "pmcid": [
+    "PMC6303307"
+  ],
+  "doi": [
+    "10.1038/s41598-018-36378-0"
+  ],
+  "title": [
+    "Freestanding Three-Dimensional CuO/NiO Core-Shell Nanowire Arrays as High-Performance Lithium-Ion Battery Anode."
+  ],
+  "authorString": [
+    "Cheng YW, Chen CH, Yang SW, Li YC, Peng BL, Chang CC, Wang RC, Liu CP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cheng YW"
+          ],
+          "firstName": [
+            "Yin-Wei"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "YW"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, National Cheng Kung University, Tainan, 70001, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen CH"
+          ],
+          "firstName": [
+            "Chun-Hung"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, National Cheng Kung University, Tainan, 70001, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang SW"
+          ],
+          "firstName": [
+            "Shu-Wei"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, National Cheng Kung University, Tainan, 70001, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Li YC"
+          ],
+          "firstName": [
+            "Yi-Chang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "YC"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, National Cheng Kung University, Tainan, 70001, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Peng BL"
+          ],
+          "firstName": [
+            "Bo-Liang"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "BL"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, National Cheng Kung University, Tainan, 70001, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang CC"
+          ],
+          "firstName": [
+            "Chia-Chin"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Department of Greenergy, National University of Tainan, Tainan, 70005, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang RC"
+          ],
+          "firstName": [
+            "Ruey-Chi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "affiliation": [
+            "Department of Chemical and Materials Engineering, National University of Kaohsiung, Kaohsiung, 81148, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu CP"
+          ],
+          "firstName": [
+            "Chuan-Pu"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "CP"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, National Cheng Kung University, Tainan, 70001, Taiwan. cpliu@mail.ncku.edu.tw."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2756346"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "18034"
+  ],
+  "abstractText": [
+    "We demonstrate significant improvement of CuO nanowire arrays as anode materials for lithium ion batteries by coating with thin NiO nanosheets conformally. The NiO nanosheets were designed two kinds of morphologies, which are porous and non-porous. By the NiO nanosheets coating, the major active CuO nanowires were protected from direct contact with the electrolyte to improve the surface chemical stability. Simultaneously, through the observation and comparison of TEM results of crystalline non-porous NiO nanosheets, before and after lithiation process, we clearly prove the effect of expected protection of CuO, and clarify the differences of phase transition, crystallinity change, ionic conduction and the mechanisms of the capacity decay further. Subsequently, the electrochemical performances exhibit lithiation and delithiation differences of the porous and non-porous NiO nanosheets, and confirm that the presence of the non-porous NiO coating can still effectively assist the diffusion of Li+ ions into the CuO nanowires, maintaining the advantage of high surface area, and improves the cycle performance of CuO nanowires, leading to enhanced battery capacity. Optimally, the best structure is validated to be non-porous NiO nanosheets, in contrary to the anticipated porous NiO nanosheets. In addition, considering the low cost and facile fabrication process can be realized further for practical applications."
+  ],
+  "affiliation": [
+    "Department of Materials Science and Engineering, National Cheng Kung University, Tainan, 70001, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-36378-0"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6303307"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6303307?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-22"
+  ],
+  "firstIndexDate": [
+    "2018-12-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-03"
+  ],
+  "dateOfRevision": [
+    "2019-07-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-21"
+  ],
+  "firstPublicationDate": [
+    "2018-12-21"
+  ]
+}

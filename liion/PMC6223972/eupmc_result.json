@@ -1,0 +1,288 @@
+{
+  "id": [
+    "30464942"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30464942"
+  ],
+  "pmcid": [
+    "PMC6223972"
+  ],
+  "doi": [
+    "10.1007/s40820-014-0004-6"
+  ],
+  "title": [
+    "Composites of Graphene and LiFePO4 as Cathode Materials for Lithium-Ion Battery: A Mini-review."
+  ],
+  "authorString": [
+    "Wu H, Liu Q, Guo S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu H"
+          ],
+          "firstName": [
+            "Haixia"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Key Laboratory for Thin Film and Microfabrication of the Ministry of Education, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, 200240 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Q"
+          ],
+          "firstName": [
+            "Qinjiao"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Key Laboratory for Thin Film and Microfabrication of the Ministry of Education, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, 200240 People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo S"
+          ],
+          "firstName": [
+            "Shouwu"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Key Laboratory for Thin Film and Microfabrication of the Ministry of Education, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, 200240 People's Republic of China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2752284"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nano-micro letters"
+          ],
+          "ISOAbbreviation": [
+            "Nanomicro Lett"
+          ],
+          "medlineAbbreviation": [
+            "Nanomicro Lett"
+          ],
+          "NLMid": [
+            "101727940"
+          ],
+          "ISSN": [
+            "2311-6706"
+          ],
+          "ESSN": [
+            "2150-5551"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "316-326"
+  ],
+  "abstractText": [
+    "This mini-review highlights selectively the recent research progress in the composites of LiFePO4 and graphene. In particularly, the different fabrication protocols, and the electrochemical performance of the composites are summarized in detail. The structural and morphology characters of graphene sheets that may affect the property of the composites are discussed briefly. The possible ongoing researches in area are speculated upon."
+  ],
+  "affiliation": [
+    "Key Laboratory for Thin Film and Microfabrication of the Ministry of Education, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, 200240 People's Republic of China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Composite",
+        "Electrochemical property",
+        "Lithium-ion battery",
+        "Graphene",
+        "Lithium Iron Phosphate"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s40820-014-0004-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6223972"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6223972?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-23"
+  ],
+  "firstIndexDate": [
+    "2018-11-23"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-22"
+  ],
+  "dateOfRevision": [
+    "2018-11-25"
+  ],
+  "electronicPublicationDate": [
+    "2014-09-27"
+  ],
+  "firstPublicationDate": [
+    "2014-09-27"
+  ]
+}

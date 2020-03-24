@@ -1,0 +1,356 @@
+{
+  "id": [
+    "30486473"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30486473"
+  ],
+  "pmcid": [
+    "PMC6315574"
+  ],
+  "doi": [
+    "10.3390/nano8120982"
+  ],
+  "title": [
+    "Use of Cellulose Nanofibers as an Electrode Binder for Lithium Ion Battery Screen Printing on a Paper Separator."
+  ],
+  "authorString": [
+    "El Baradai O, Beneventi D, Alloin F, Bultel Y, Chaussy D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "El Baradai O"
+          ],
+          "firstName": [
+            "Oussama"
+          ],
+          "lastName": [
+            "El Baradai"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Univ. Grenoble Alpes, CNRS, Grenoble INP, LGP2, 38000 Grenoble, France. ussielba@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Beneventi D"
+          ],
+          "firstName": [
+            "Davide"
+          ],
+          "lastName": [
+            "Beneventi"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Univ. Grenoble Alpes, CNRS, Grenoble INP, LGP2, 38000 Grenoble, France. davide.beneventi@pagora.grenoble-inp.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Alloin F"
+          ],
+          "firstName": [
+            "Fannie"
+          ],
+          "lastName": [
+            "Alloin"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7882-1587",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Univ. Grenoble Alpes, Univ. Savoie Mont Blanc, CNRS, Grenoble INP, LEPMI, 38000 Grenoble, France. fannie.alloin@lepmi.grenoble-inp.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Bultel Y"
+          ],
+          "firstName": [
+            "Yann"
+          ],
+          "lastName": [
+            "Bultel"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Univ. Grenoble Alpes, Univ. Savoie Mont Blanc, CNRS, Grenoble INP, LEPMI, 38000 Grenoble, France. Yann.bultel@lepmi.grenoble-inp.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Chaussy D"
+          ],
+          "firstName": [
+            "Didier"
+          ],
+          "lastName": [
+            "Chaussy"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Univ. Grenoble Alpes, CNRS, Grenoble INP, LGP2, 38000 Grenoble, France. didier.chaussy@pagora.grenoble-inp.fr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7882-1587",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2752661"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomaterials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "NLMid": [
+            "101610216"
+          ],
+          "ISSN": [
+            "2079-4991"
+          ],
+          "ESSN": [
+            "2079-4991"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Water-based inks were formulated using cellulose nanofibers as a binder in order to directly front/reverse print lithium ion cells on a paper separator. Moreover, the high cohesion of electrodes as provided by cellulose nanofibers allowed for the embedding metallic current collectors in the electrodes during the printing stage, in order to develop a one-step printing and assembling process. Positive and negative inks based on LiFePO₄, or graphite, respectively, and cellulose nanofibers, displayed rheological properties complying with a variety of printing processes, as well as with screen printing. Printed cells exhibited high electrical conductivity and adhesion between current collectors and inks, i.e., up to 64 ± 1 J/m². Electrochemical cycling tests at C/10 showed a reversible capacity during the first cycle of about 80 mAh/g, which slightly decayed upon cycling. Preliminary results and assembling strategies can be considered as promising, and they represent a quick solution for the manufacturing of lithium ion batteries. Work is in progress to improve these processing issues and the cycling performances of Li-ion cells."
+  ],
+  "affiliation": [
+    "Univ. Grenoble Alpes, CNRS, Grenoble INP, LGP2, 38000 Grenoble, France. ussielba@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "ANR-11-CARN-030-01"
+          ],
+          "agency": [
+            "Institut Carnot Energies du Futur"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Li-ion Battery",
+        "Cellulose Nanofibers",
+        "Printing Electrode"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nano8120982"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6315574"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6315574?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-30"
+  ],
+  "firstIndexDate": [
+    "2018-11-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-20"
+  ],
+  "dateOfRevision": [
+    "2019-01-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-27"
+  ],
+  "firstPublicationDate": [
+    "2018-11-27"
+  ]
+}
