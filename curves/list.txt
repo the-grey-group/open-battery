@@ -1,0 +1,55 @@
+MatthewD>
+Here are exemplar examples of both cyclic voltammetry (CV) figures (current vs voltage), and charge-discharge figures (voltage vs capacity, along with the key phrases from the figure caption:
+
+CV curves
+
+PMC3776197 - Figure 3a
+Cyclic voltammograms
+
+PMC4062906 - Figure 5
+Cyclic voltammograms
+
+PMC4709726 - Figure 5d
+CV curves
+
+PMC5082456 - Figure 3a
+Cyclic Voltammetry
+
+PMC5082892 - Figure 4b
+CV curves
+
+PMC5115307 - Figure 3a
+CV curves
+
+PMC5241879 - Figure 5a
+CV curves
+
+PMC5604389 - Figure 4a, b and c
+cyclic voltammetry curves
+
++++++++++++++++++++++
+
+Voltage-Capacity curves
+
+PMC4895809 - Figure 5a
+Voltage profiles
+
+PMC5082456 - Figure 3b
+galvanostatic charge-discharge profiles
+
+PMC5082892 - Figure 4a
+charge-discharge voltage profiles
+
+PMC5115307 - Figure 3b
+Voltage profiles
+
+PMC5394453 - Figure 5a, b and c
+Voltage profiles
+
+PMC5431229 - Figure 5a and b
+Galvanostatic charge-discharge
+
+PMC5604389 - Figure 5a and d
+Galvanostatic charge-discharge curves
+
+…
