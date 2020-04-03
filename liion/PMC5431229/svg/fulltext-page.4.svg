@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="774.244" width="4165.638" xmlns="http://www.w3.org/2000/svg">
+ <g id="page" xmlns:svgx="http://www.xml-cml.org/schema/svgx">
+  <g begin="text">
+   <text y="22.46" x="40.638,48.208,55.778,63.055,66.145,71.865,77.215,81.135,86.765,90.565,95.995,99.085,103.915,109.695,118.435,121.635,126.125,130.955,133.725,139.15,144.87,148.79,151.56,155.19,157.96,162.79,166.59,172.02,177.78,183.56,187.36,191.28,195.77" svgx:width="0.71,0.71,0.71,0.26,0.53,0.49,0.35,0.52,0.34,0.5,0.26,0.44,0.53,0.83,0.28,0.4,0.44,0.23,0.5,0.53,0.35,0.23,0.32,0.23,0.44,0.34,0.5,0.53,0.53,0.34,0.35,0.4,0.28" style="fill:rgb(255,255,255);font-family:Corbel;font-size:10.0px;stroke:none;">www.nature.com/scientificreports/</text>
+  </g>
+  <g begin="text">
+   <text y="764.23" x="549.838" svgx:width="0.48" style="fill:rgb(131,144,151);font-family:Corbel;font-size:10.0px;stroke:none;">5</text>
+  </g>
+  <g begin="text">
+   <text y="764.244" x="40.794,45.642,50.786,53.186,58.026,64.026,68.898,71.298,75.762,78.162" svgx:width="0.55,0.59,0.25,0.55,0.7,0.56,0.25,0.5,0.25,0.59" style="fill:rgb(131,144,151);font-family:Corbel;font-size:8.0px;stroke:none;">Scientific</text>
+   <text y="764.244" x="83.162" svgx:width="0.2" style="fill:rgb(0,0,0);font-family:Corbel;font-size:8.0px;stroke:none;"> </text>
+   <text y="764.244" x="84.762,90.218,95.194,100.434,106.738,112.194,117.186" svgx:width="0.63,0.57,0.6,0.73,0.63,0.57,0.58" style="fill:rgb(131,144,151);font-family:Corbel-Bold;font-size:8.0px;stroke:none;">RepoRts</text>
+   <text y="764.244" x="122.082,123.522,125.338,126.778,130.88" svgx:width="0.2,0.23,0.2,0.51,0.26" style="fill:rgb(0,0,0);font-family:Corbel;font-size:8.0px;stroke:none;"> | 7:</text>
+   <text y="764.244" x="132.994,134.45,138.386,142.322,146.258,150.194" svgx:width="0.18,0.49,0.49,0.49,0.49,0.18" style="fill:rgb(0,0,0);font-family:MyriadPro-It;font-size:8.0px;stroke:none;"> 1440 </text>
+   <text y="764.244" x="151.65,153.091,154.907,156.35,161.718,167.558,169.526,171.638,175.742,179.846,181.958,186.062,190.166,194.27,198.374,200.574,203.806,207.91,212.014,216.118,220.222,224.326,226.99,231.094,235.198,239.302,241.966,246.07,250.174,254.278,258.382,262.486,265.15" svgx:width="0.2,0.23,0.2,0.67,0.73,0.25,0.26,0.51,0.51,0.26,0.51,0.51,0.51,0.51,0.28,0.4,0.51,0.51,0.51,0.51,0.51,0.33,0.51,0.51,0.51,0.33,0.51,0.51,0.51,0.51,0.51,0.33,0.48" style="fill:rgb(0,0,0);font-family:Corbel;font-size:8.0px;stroke:none;"> | DOI:10.1038/s41598-017-01638-y</text>
+  </g>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:1.0;" d="M40.640 752.550 L554.640 752.550 "/>
+  <rect style="stroke:blue;stroke-width:0.3;" x="155.638" y="64.138" height="306.48" width="396.0" title="5"/>
+  <text y="64.138" class="image" id="image.5.1" width="396" height="306" x="155.638">image.5.1.156_552.64_371</text>
+  <path style="fill:none;stroke:rgb(131,144,151);stroke-width:0.3;" d="M159.130 401.520 L552.640 401.520 "/>
+  <path style="fill:none;stroke:rgb(131,144,151);stroke-width:1.0;" d="M156.140 401.520 L156.140 401.520 M554.140 401.520 L554.140 401.520 "/>
+  <g begin="text">
+   <text y="371.523" x="155.638,160.552,163.207,167.662,172.657,176.221,180.154,181.909,186.409" svgx:width="0.55,0.29,0.49,0.56,0.4,0.44,0.22,0.5,0.25" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:9.0px;stroke:none;">Figure 4.</text>
+   <text y="371.523" x="188.695,190.765,193.195" svgx:width="0.23,0.55,0.35" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;"> (</text>
+   <text y="371.523" x="196.309" svgx:width="0.71" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:9.0px;stroke:none;">A</text>
+   <text y="371.523" x="202.663,205.777,207.613,214.048,218.044,220.258,224.425,228.295,233.182,237.772,241.03,243.829,247.609,250.399,252.811,256.618,258.454,262.207,266.986,270.856,274.123,278.263,282.088,285.292,290.044,292.429,295.804,299.557,304.336,308.206,311.473,315.613,319.438,321.274,323.965,327.79,331.048,333.793,337.096,338.932,342.712,345.457,347.293,351.244,353.08,356.949,361.728,365.121,368.343,372.168,376.92,379.665,381.501,386.253,390.078,394.929,398.232,400.536,403.307,407.438,409.274,413.756,416.42,418.256,422.576,424.628,428.948,430.102,436.321,439.3,443.512,445.348,448.462,452.782,454.834,459.154,460.99,466.975,470.089,472.141,473.977" svgx:width="0.35,0.23,0.71,0.44,0.25,0.46,0.44,0.55,0.51,0.37,0.31,0.44,0.31,0.27,0.42,0.23,0.42,0.53,0.44,0.37,0.47,0.43,0.36,0.53,0.27,0.37,0.42,0.53,0.44,0.37,0.47,0.43,0.23,0.31,0.43,0.37,0.31,0.37,0.23,0.44,0.31,0.23,0.44,0.23,0.42,0.53,0.37,0.37,0.43,0.55,0.31,0.23,0.53,0.43,0.55,0.37,0.27,0.31,0.46,0.23,0.51,0.3,0.23,0.48,0.23,0.48,0.23,0.69,0.33,0.47,0.23,0.35,0.48,0.23,0.48,0.23,0.67,0.35,0.23,0.23,0.35" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;">) Galvanostatic charge-discharge tests at a current density of 0.1 A/g (0.5 C); (</text>
+   <text y="371.523" x="477.091" svgx:width="0.64" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:9.0px;stroke:none;">B</text>
+   <text y="371.523" x="482.824,485.938,487.774,493.524,497.304,499.995,503.82,505.656,509.49,513.27,518.031,521.91,526.374,528.83,531.107,533.411,536.183,540.314" svgx:width="0.35,0.23,0.62,0.44,0.31,0.43,0.23,0.42,0.44,0.52,0.44,0.51,0.27,0.25,0.27,0.31,0.46,0.23" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;">) Rate capability </text>
+   <text y="381.522" x="155.638,160.12,162.784,164.62,167.419,172.189,176.014,177.85,182.962,188.947,193.708,195.544,199.333,201.61,205.48,209.349,212.139,215.361,220.032,224.784,228.609,230.445,236.637,238.941,241.74,246.546,248.382,252.333,254.169,256.968,261.774,264.186,267.939,272.439,277.326,281.151,284.409,287.712,289.548,294.03,296.694,298.53,302.85,307.17,309.222,313.542,314.686,322.057,329.428,331.264,335.043,337.788,339.624,344.376,346.788,351.756,355.581,358.803,362.628,367.38,370.125,371.961,375.83,380.609,384.002,387.224,391.049,395.801,398.546,400.382,405.134,408.959,413.81,417.113,419.417,422.207,424.619,428.444,431.747,433.799,435.635" svgx:width="0.51,0.3,0.23,0.31,0.53,0.43,0.23,0.57,0.67,0.53,0.23,0.43,0.25,0.43,0.42,0.31,0.37,0.51,0.53,0.43,0.23,0.69,0.27,0.31,0.53,0.23,0.44,0.23,0.31,0.53,0.27,0.42,0.5,0.55,0.43,0.37,0.37,0.23,0.51,0.3,0.23,0.48,0.48,0.23,0.48,0.23,0.82,0.82,0.23,0.44,0.31,0.23,0.53,0.27,0.56,0.43,0.37,0.43,0.55,0.31,0.23,0.42,0.53,0.37,0.37,0.43,0.55,0.31,0.23,0.53,0.43,0.55,0.37,0.27,0.31,0.27,0.43,0.37,0.23,0.23,0.35" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;">of the ECF electrode with a thickness of 13.7 mm at different current densities; (</text>
+   <text y="381.522" x="438.749" svgx:width="0.68" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:9.0px;stroke:none;">C</text>
+   <text y="381.522" x="444.833,447.947,449.783,453.923,458.666,463.238,466.613,470.482,474.991,479.77,483.595,488.347,491.092,492.928,496.879,500.938,504.691,506.968,509.38,514.23,518.442,520.278,522.969,526.794,530.052,532.797,536.1,537.936,541.716,544.461" svgx:width="0.35,0.23,0.47,0.53,0.51,0.37,0.43,0.51,0.53,0.43,0.55,0.31,0.23,0.42,0.46,0.42,0.25,0.27,0.55,0.47,0.23,0.31,0.43,0.37,0.31,0.37,0.23,0.44,0.31,0.23" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;">) Subsequent cycling tests at </text>
+   <text y="391.521" x="155.638,159.958,162.01,166.33,167.455,173.674,176.653,180.865,182.701,185.815,190.135,192.187,196.507,198.343,204.328,207.442,209.278,212.032,215.254,219.736,227.107,228.943,233.263" svgx:width="0.48,0.23,0.48,0.23,0.69,0.33,0.47,0.23,0.35,0.48,0.23,0.48,0.23,0.67,0.35,0.23,0.3,0.37,0.51,0.82,0.23,0.48,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;">0.1 A/g (0.5 C) from 60</text>
+   <text y="388.463" x="237.592,239.412" svgx:width="0.31,0.53" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:5.85px;stroke:none;">th</text>
+   <text y="391.523" x="242.536,244.372,247.063,251.653,253.489,257.809,262.129" svgx:width="0.23,0.31,0.51,0.23,0.48,0.48,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;"> to 300</text>
+   <text y="388.463" x="266.454,268.273" svgx:width="0.31,0.53" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:5.85px;stroke:none;">th</text>
+   <text y="391.523" x="271.397,273.233,277.184,281.243,284.996,287.272,291.043" svgx:width="0.23,0.42,0.46,0.42,0.25,0.43,0.23" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;"> cycle.</text>
+  </g>
+  <rect style="stroke:blue;stroke-width:0.3;" x="155.638" y="431.648" height="159.0" width="396.0" title="5"/>
+  <text y="431.648" class="image" id="image.5.2" width="396" height="159" x="155.638">image.5.2.156_552.432_591</text>
+  <path style="fill:none;stroke:rgb(131,144,151);stroke-width:1.0;" d="M159.130 611.550 L552.640 611.550 "/>
+  <path style="fill:none;stroke:rgb(131,144,151);stroke-width:1.0;" d="M156.140 611.550 L156.140 611.550 M554.140 611.550 L554.140 611.550 "/>
+  <g begin="text">
+   <text y="591.553" x="155.638,160.552,163.207,167.662,172.657,176.221,180.154,181.909,186.409" svgx:width="0.55,0.29,0.49,0.56,0.4,0.44,0.22,0.5,0.25" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:9.0px;stroke:none;">Figure 5.</text>
+   <text y="591.553" x="188.695,190.765,193.195,199.63,203.626,205.84,210.007,213.877,218.764,223.354,226.612,229.411,233.191,235.981,238.393,242.2,244.036,247.789,252.568,256.438,259.705,263.845,267.67,270.874,275.626,278.011,281.386,285.138,289.918,293.788,297.055,301.194,305.019,306.855,309.546,313.371,316.629,319.374,322.677,324.513,328.995,331.659,333.495,336.294,341.064,344.889,346.725,351.837,357.822,362.583,364.419,370.611,372.915,375.713,380.519,382.355,387.107,389.519,394.487,398.312,401.534,405.359,410.111,412.856,414.692,417.491,422.297,424.709,428.462,432.961,437.848,441.673,444.931,448.306,452.131,455.434,457.27,461.05,463.795,465.631,469.582,471.418,475.288,480.067,483.46,486.682,490.507,495.259,498.004,499.84,504.592,508.417,513.268,516.571,518.875,521.647,525.778,527.614,532.096,534.76,536.596,540.916,542.968,547.288,551.608" svgx:width="0.23,0.55,0.71,0.44,0.25,0.46,0.44,0.55,0.51,0.37,0.31,0.44,0.31,0.27,0.42,0.23,0.42,0.53,0.44,0.37,0.47,0.43,0.36,0.53,0.27,0.37,0.42,0.53,0.44,0.37,0.47,0.43,0.23,0.31,0.43,0.37,0.31,0.37,0.23,0.51,0.3,0.23,0.31,0.53,0.43,0.23,0.57,0.67,0.53,0.23,0.69,0.27,0.31,0.53,0.23,0.53,0.27,0.56,0.43,0.37,0.43,0.55,0.31,0.23,0.31,0.53,0.27,0.42,0.5,0.55,0.43,0.37,0.37,0.43,0.37,0.23,0.44,0.31,0.23,0.44,0.23,0.42,0.53,0.37,0.37,0.43,0.55,0.31,0.23,0.53,0.43,0.55,0.37,0.27,0.31,0.46,0.23,0.51,0.3,0.23,0.48,0.23,0.48,0.48,0.23" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;"> Galvanostatic charge-discharge tests of the ECF with different thicknesses at a current density of 0.04 </text>
+   <text y="601.552" x="155.638,161.857,164.836,169.048,170.884,174.663,177.408,179.244" svgx:width="0.69,0.33,0.47,0.23,0.44,0.31,0.23,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;">A/g at 1</text>
+   <text y="598.493" x="183.57,185.688" svgx:width="0.37,0.31" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:5.85px;stroke:none;">st</text>
+   <text y="601.553" x="187.472,189.308" svgx:width="0.23,0.35" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;"> (</text>
+   <text y="601.553" x="192.422" svgx:width="0.71" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:9.0px;stroke:none;">A</text>
+   <text y="601.553" x="198.776,201.89,203.726,207.597,212.484,217.236,219.072,223.392,227.712" svgx:width="0.35,0.23,0.44,0.55,0.53,0.23,0.48,0.48,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;">) and 100</text>
+   <text y="598.493" x="232.038,233.858" svgx:width="0.31,0.53" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:5.85px;stroke:none;">th</text>
+   <text y="601.553" x="236.982,238.818,242.769,246.827,250.581,252.857,256.682,258.518" svgx:width="0.23,0.42,0.46,0.42,0.25,0.43,0.23,0.35" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;"> cycle (</text>
+   <text y="601.553" x="261.633" svgx:width="0.64" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:9.0px;stroke:none;">B</text>
+   <text y="601.553" x="267.366,270.48" svgx:width="0.35,0.23" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;">).</text>
+  </g>
+  <path style="fill:none;stroke:rgb(131,144,151);stroke-width:1.0;" d="M159.130 729.770 L552.640 729.770 "/>
+  <path style="fill:none;stroke:rgb(131,144,151);stroke-width:1.0;" d="M156.140 729.770 L156.140 729.770 M554.140 729.770 L554.140 729.770 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:1.0;" d="M155.640 624.140 L201.490 624.140 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M155.760 658.140 L155.760 624.270 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M155.640 658.270 L201.490 658.270 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M201.490 624.140 L250.920 624.140 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M201.490 658.140 L201.490 624.270 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M201.490 658.270 L250.920 658.270 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M250.910 624.140 L306.340 624.140 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M250.910 658.140 L250.910 624.270 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M250.910 658.270 L306.340 658.270 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M306.340 624.140 L355.890 624.140 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M306.340 658.140 L306.340 624.270 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M355.760 658.140 L355.760 624.270 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M306.340 658.270 L355.890 658.270 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M155.760 669.770 L155.760 658.390 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M201.490 669.770 L201.490 658.390 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M250.910 669.770 L250.910 658.390 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M306.340 669.770 L306.340 658.390 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M355.760 669.770 L355.760 658.390 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M155.640 669.890 L201.490 669.890 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M155.760 681.390 L155.760 670.020 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M201.490 669.890 L250.920 669.890 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M201.490 681.390 L201.490 670.020 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M250.910 669.890 L306.340 669.890 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M250.910 681.390 L250.910 670.020 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M306.340 669.890 L355.890 669.890 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M306.340 681.390 L306.340 670.020 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M355.760 681.390 L355.760 670.020 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M155.640 681.520 L201.490 681.520 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M155.760 693.020 L155.760 681.640 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M155.640 693.140 L201.490 693.140 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M201.490 681.520 L250.920 681.520 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M201.490 693.020 L201.490 681.640 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M201.490 693.140 L250.920 693.140 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M250.910 681.520 L306.340 681.520 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M250.910 693.020 L250.910 681.640 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M250.910 693.140 L306.340 693.140 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M306.340 681.520 L355.890 681.520 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M306.340 693.020 L306.340 681.640 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M355.760 693.020 L355.760 681.640 "/>
+  <path style="fill:none;stroke:rgb(0,0,0);stroke-width:0.25;" d="M306.340 693.140 L355.890 693.140 "/>
+  <g begin="text">
+   <text y="631.77" x="158.763,162.83,167.562,171.44" svgx:width="0.58,0.68,0.55,0.22" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">ECF </text>
+   <text y="639.267" x="158.763,161.794,163.782,166.932,169.928,172.266,175.038,178.79,182.661,185.72" svgx:width="0.44,0.28,0.44,0.42,0.34,0.4,0.52,0.55,0.44,0.22" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">electrode </text>
+   <text y="646.764" x="158.763,161.136,164.986,167.093,170.047,173.714,177.676,180.735,183.416,186.097" svgx:width="0.34,0.55,0.29,0.42,0.51,0.57,0.44,0.38,0.38,0.22" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">thickness </text>
+   <text y="654.261" x="158.763,161.227,167.128,173.029" svgx:width="0.35,0.84,0.84,0.35" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">(mm)</text>
+   <text y="631.763" x="204.494,209.317,213.167,216.394,219.222,222.666,225.725" svgx:width="0.68,0.55,0.47,0.4,0.49,0.44,0.22" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">Charge </text>
+   <text y="639.26" x="204.494,207.546,210.703,214.595,217.857,220.811,222.841,225.186,228.441" svgx:width="0.42,0.47,0.55,0.47,0.42,0.29,0.34,0.47,0.22" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">capacity </text>
+   <text y="646.757" x="204.494,206.958,212.859,217.801,221.651,223.94,227.384,229.848,231.213" svgx:width="0.35,0.84,0.71,0.55,0.33,0.49,0.35,0.22,0.5" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">(mAh/g) 1</text>
+   <text y="644.39" x="234.715,236.439" svgx:width="0.38,0.34" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:4.55px;stroke:none;">st</text>
+   <text y="646.77" x="237.982,239.347,244.352" svgx:width="0.22,0.71,0.22" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;"> &amp; </text>
+   <text y="654.267" x="204.494,207.994,211.494" svgx:width="0.5,0.5,0.5" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">100</text>
+   <text y="651.89" x="214.994,216.537" svgx:width="0.34,0.55" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:4.55px;stroke:none;">th</text>
+   <text y="631.77" x="253.915,259.242,261.307,264.051,267.005,270.855,274.081,276.909,280.353,283.412" svgx:width="0.76,0.29,0.38,0.42,0.55,0.47,0.4,0.49,0.44,0.22" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">Discharge </text>
+   <text y="639.267" x="253.915,256.967,260.124,264.016,267.278,270.232,272.262,274.607,277.862" svgx:width="0.42,0.47,0.55,0.47,0.42,0.29,0.34,0.47,0.22" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">capacity </text>
+   <text y="646.764" x="253.915,256.379,262.28,267.222,271.072,273.361,276.805,279.269,280.634" svgx:width="0.35,0.84,0.71,0.55,0.33,0.49,0.35,0.22,0.5" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">(mAh/g) 1</text>
+   <text y="644.39" x="284.136,285.86" svgx:width="0.38,0.34" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:4.55px;stroke:none;">st</text>
+   <text y="646.77" x="287.402,288.767,293.772" svgx:width="0.22,0.71,0.22" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;"> &amp; </text>
+   <text y="654.267" x="253.914,257.414,260.914" svgx:width="0.5,0.5,0.5" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">100</text>
+   <text y="651.89" x="264.415,265.957" svgx:width="0.34,0.55" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:4.55px;stroke:none;">th</text>
+   <text y="639.27" x="309.342,314.214,317.833,321.788,323.776,327.381,333.282,335.389,338.343" svgx:width="0.68,0.52,0.56,0.28,0.52,0.84,0.29,0.42,0.22" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">Coulomic </text>
+   <text y="646.767" x="309.342,312.366,318.477,321.431,323.538,326.562,330.524,333.681,336.936,338.301,340.765,346.113,348.577" svgx:width="0.44,0.87,0.42,0.29,0.44,0.57,0.42,0.47,0.22,0.35,0.76,0.35,0.22" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">efficiency (%) </text>
+   <text y="654.264" x="309.342" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;">1</text>
+   <text y="651.89" x="312.842,314.566" svgx:width="0.38,0.34" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:4.55px;stroke:none;">st</text>
+   <text y="654.27" x="316.109,317.474,322.479,323.844,327.344,330.844" svgx:width="0.22,0.71,0.22,0.5,0.5,0.5" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:7.0px;stroke:none;"> &amp; 100</text>
+   <text y="651.89" x="334.348,335.89" svgx:width="0.34,0.55" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:4.55px;stroke:none;">th</text>
+   <text y="665.895" x="158.763,162.123,163.719,167.079,204.494,207.854,211.214,214.574,216.002,220.979,222.407,225.767,229.127,232.48700000000002,253.914,257.274,260.634,263.994,265.422,270.399,271.827,275.187,278.547,281.90700000000004,309.34,312.7,316.06,317.656,321.016,322.444,327.421,328.849,332.209,335.569,337.165" svgx:width="0.48,0.23,0.48,0.55,0.48,0.48,0.48,0.23,0.71,0.23,0.48,0.48,0.48,0.55,0.48,0.48,0.48,0.23,0.71,0.23,0.48,0.48,0.48,0.55,0.48,0.48,0.23,0.48,0.23,0.71,0.23,0.48,0.48,0.23,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:7.0px;stroke:none;">2.8 410 &amp; 454 921 &amp; 455 44.5 &amp; 99.8</text>
+   <text y="677.522" x="158.763,162.123,163.719,167.079,204.494,207.854,211.214,214.574,216.002,220.979,222.407,225.767,229.127,232.48700000000002,253.914,257.274,260.634,263.994,265.422,270.399,271.827,275.187,278.547,281.90700000000004,309.34,312.7,316.06,317.656,321.016,322.444,327.421,328.849,332.209,335.569,338.929,340.525" svgx:width="0.48,0.23,0.48,0.55,0.48,0.48,0.48,0.23,0.71,0.23,0.48,0.48,0.48,0.55,0.48,0.48,0.48,0.23,0.71,0.23,0.48,0.48,0.48,0.55,0.48,0.48,0.23,0.48,0.23,0.71,0.23,0.48,0.48,0.48,0.23,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:7.0px;stroke:none;">4.9 279 &amp; 301 602 &amp; 300 46.3 &amp; 100.3</text>
+   <text y="689.149" x="158.763,162.123,165.483,167.079,170.43900000000002,204.494,207.854,211.214,214.574,216.002,220.979,222.407,225.767,229.127,232.48700000000002,253.914,257.274,260.634,263.994,265.422,270.399,271.827,275.187,278.547,281.90700000000004,309.34,312.7,316.06,317.656,321.016,322.446,327.423,328.851,332.211,335.571,337.167" svgx:width="0.48,0.48,0.23,0.48,0.55,0.48,0.48,0.48,0.23,0.71,0.23,0.48,0.48,0.48,0.55,0.48,0.48,0.48,0.23,0.71,0.23,0.48,0.48,0.48,0.55,0.48,0.48,0.23,0.48,0.23,0.71,0.23,0.48,0.48,0.23,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:7.0px;stroke:none;">13.7 199 &amp; 218 725 &amp; 219 27.4 &amp; 99.5</text>
+   <text y="709.27" x="155.638,160.597,164.728,169.507,172.063,175.996,177.751,182.251" svgx:width="0.64,0.47,0.53,0.28,0.44,0.22,0.5,0.25" style="fill:rgb(0,0,0);font-family:MinionPro-Bold;font-size:9.0px;stroke:none;">Table 1.</text>
+   <text y="709.27" x="184.537,186.607,189.037,195.157,199.639,206.839,211.6,215.47,218.863,221.248,224.622,229.104,234.027,235.863,240.345,243.009,244.845,248.634,250.911,254.781,258.65,261.44,264.662,269.333,274.085,277.856,279.908,281.744,285.497,290.276,294.146,297.413,301.553,305.378,307.214,311.084,315.971,320.723,322.559,327.311,329.696,333.071,336.824,341.603,345.473,348.74,352.88,356.705,358.541,362.374,366.154,370.915,374.866,378.673,380.977,383.767,386.179,390.004,393.307,395.359,397.195,401.065,405.952,410.704,412.54,416.347,420.838,425.662,427.939,432.421,439.792,442.204,446.011,447.847,451.672,458.854,462.661,465.073,468.898,473.785,477.736,481.867,483.703,488.185,490.849,492.685,495.484,500.254,504.079,505.915,511.027,517.012,521.773" svgx:width="0.23,0.55,0.67,0.51,0.82,0.52,0.44,0.37,0.27,0.37,0.51,0.55,0.23,0.51,0.3,0.23,0.43,0.25,0.43,0.42,0.31,0.37,0.51,0.53,0.43,0.23,0.23,0.42,0.53,0.44,0.37,0.47,0.43,0.23,0.44,0.55,0.53,0.23,0.53,0.27,0.37,0.42,0.53,0.44,0.37,0.47,0.43,0.23,0.42,0.44,0.52,0.44,0.42,0.27,0.31,0.27,0.43,0.37,0.23,0.23,0.44,0.55,0.53,0.23,0.42,0.51,0.53,0.25,0.51,0.82,0.27,0.42,0.23,0.43,0.8,0.42,0.27,0.43,0.55,0.42,0.46,0.23,0.51,0.3,0.23,0.31,0.53,0.43,0.23,0.57,0.67,0.53,0.23" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;"> Comparison of electrode, charge and discharge capacities, and coulomic efficiency of the ECF </text>
+   <text y="719.269" x="155.638,159.427,161.704,165.574,169.443,172.233,175.455,180.126,184.878,188.703,190.539,194.319,197.064,198.9,201.699,206.469,210.294,212.13" svgx:width="0.43,0.25,0.43,0.42,0.31,0.37,0.51,0.53,0.43,0.23,0.44,0.31,0.23,0.31,0.53,0.43,0.23,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;">electrode at the 1</text>
+   <text y="716.21" x="216.457,218.575" svgx:width="0.37,0.31" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:5.85px;stroke:none;">st</text>
+   <text y="719.27" x="220.359,222.195,226.065,230.952,235.704,237.54,241.86,246.18" svgx:width="0.23,0.44,0.55,0.53,0.23,0.48,0.48,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;"> and 100</text>
+   <text y="716.21" x="250.505,252.325" svgx:width="0.31,0.53" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:5.85px;stroke:none;">th</text>
+   <text y="719.27" x="255.448,257.284,261.235,265.294,269.047,271.323,275.094" svgx:width="0.23,0.42,0.46,0.42,0.25,0.43,0.23" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:9.0px;stroke:none;"> cycle.</text>
+  </g>
+ </g>
+</svg>

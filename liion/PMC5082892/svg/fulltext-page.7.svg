@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="766.0" width="4046.0" xmlns="http://www.w3.org/2000/svg">
+ <g id="page" xmlns:svgx="http://www.xml-cml.org/schema/svgx">
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M429.280 163.450 L454.510 163.450 Z"/>
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M316.570 176.480 L326.150 176.480 Z"/>
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M331.260 176.480 L340.840 176.480 Z"/>
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M211.970 202.450 L238.000 202.450 Z"/>
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M385.460 267.480 L412.160 267.480 Z"/>
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M470.660 345.490 L480.250 345.490 Z"/>
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M485.350 345.490 L494.990 345.490 Z"/>
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M319.350 384.490 L348.550 384.490 Z"/>
+  <g begin="text">
+   <text y="84.586" x="200.012,208.162,212.473,216.643,221.952,226.262,231.712,234.362,238.012,248.201,252.46,256.771,262.271,264.358,269.529,273.829,275.753,279.983,284.703,289.833,293.414,297.643,301.263,305.004,309.314,314.61400000000003,316.516,320.896,324.565" svgx:width="0.82,0.43,0.42,0.53,0.44,0.55,0.27,0.37,0.82,0.42,0.44,0.55,0.55,0.51,0.43,0.55,0.43,0.47,0.52,0.37,0.43,0.37,0.37,0.43,0.53,0.55,0.44,0.37,0.23" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">mechanismcan be expressed as:</text>
+   <text y="105.505" x="317.875,326.735,332.206,338.925" svgx:width="0.89,0.55,0.67,0.75" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">MnCO</text>
+  </g>
+  <g begin="text">
+   <text y="108.0" x="346.11" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:6.0px;stroke:none;">3</text>
+  </g>
+  <g begin="text">
+   <text y="105.506" x="351.836" svgx:width="0.77" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Symbols;font-size:10.0px;stroke:none;">þ</text>
+   <text y="105.506" x="361.757" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:10.0px;stroke:none;">2</text>
+   <text y="105.506" x="366.757,372.187" svgx:width="0.54,0.27" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">Li</text>
+   <text y="105.506" x="377.517" svgx:width="1.0" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Symbols;font-size:10.0px;stroke:none;">!</text>
+   <text y="105.506" x="390.273,395.703" svgx:width="0.54,0.27" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">Li</text>
+  </g>
+  <g begin="text">
+   <text y="108.0" x="398.211" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:6.0px;stroke:none;">2</text>
+  </g>
+  <g begin="text">
+   <text y="105.506" x="401.726,408.446" svgx:width="0.67,0.75" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">CO</text>
+  </g>
+  <g begin="text">
+   <text y="108.0" x="415.672" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:6.0px;stroke:none;">3</text>
+  </g>
+  <g begin="text">
+   <text y="105.506" x="421.398" svgx:width="0.77" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Symbols;font-size:10.0px;stroke:none;">þ</text>
+   <text y="105.506" x="431.319,440.179" svgx:width="0.89,0.55" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">Mn</text>
+   <text y="105.506" x="563.469" svgx:width="0.38" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Symbols;font-size:10.0px;stroke:none;">ð</text>
+   <text y="105.506" x="567.319" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">7</text>
+   <text y="105.506" x="572.119" svgx:width="0.38" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Symbols;font-size:10.0px;stroke:none;">Þ</text>
+   <text y="137.367" x="264.247,269.677" svgx:width="0.54,0.27" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">Li</text>
+  </g>
+  <g begin="text">
+   <text y="139.862" x="272.183" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:6.0px;stroke:none;">2</text>
+  </g>
+  <g begin="text">
+   <text y="137.367" x="275.698,282.418" svgx:width="0.67,0.75" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">CO</text>
+  </g>
+  <g begin="text">
+   <text y="139.862" x="289.644" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:6.0px;stroke:none;">3</text>
+  </g>
+  <g begin="text">
+   <text y="137.367" x="295.37,305.347" svgx:width="0.77,0.38" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Symbols;font-size:10.0px;stroke:none;">þð</text>
+   <text y="137.367" x="309.197" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:10.0px;stroke:none;">4</text>
+   <text y="137.367" x="316.402" svgx:width="0.77" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Symbols;font-size:10.0px;stroke:none;">þ</text>
+   <text y="137.367" x="326.324" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:10.0px;stroke:none;">0</text>
+   <text y="137.367" x="331.324" svgx:width="0.27" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Italic;font-size:10.0px;stroke:none;">:</text>
+   <text y="137.367" x="334.024" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:10.0px;stroke:none;">5</text>
+   <text y="137.367" x="339.024" svgx:width="0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">x</text>
+   <text y="137.367" x="343.744" svgx:width="0.38" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Symbols;font-size:10.0px;stroke:none;">Þ</text>
+   <text y="137.367" x="347.594,353.024" svgx:width="0.54,0.27" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">Li</text>
+   <text y="137.367" x="358.298" svgx:width="1.0" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Symbols;font-size:10.0px;stroke:none;">$</text>
+   <text y="137.367" x="371.111" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:10.0px;stroke:none;">3</text>
+   <text y="137.367" x="376.111,381.541" svgx:width="0.54,0.27" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">Li</text>
+  </g>
+  <g begin="text">
+   <text y="139.862" x="384.038" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:6.0px;stroke:none;">2</text>
+  </g>
+  <g begin="text">
+   <text y="137.367" x="387.553" svgx:width="0.75" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">O</text>
+   <text y="137.367" x="397.134" svgx:width="0.77" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Symbols;font-size:10.0px;stroke:none;">þ</text>
+   <text y="137.367" x="407.111" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:10.0px;stroke:none;">0</text>
+   <text y="137.367" x="412.111" svgx:width="0.27" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Italic;font-size:10.0px;stroke:none;">:</text>
+   <text y="137.367" x="414.811" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:10.0px;stroke:none;">5</text>
+   <text y="137.367" x="419.811,425.241" svgx:width="0.54,0.27" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">Li</text>
+  </g>
+  <g begin="text">
+   <text y="139.862" x="427.748" svgx:width="0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.0px;stroke:none;">x</text>
+  </g>
+  <g begin="text">
+   <text y="137.367" x="431.036" svgx:width="0.67" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">C</text>
+  </g>
+  <g begin="text">
+   <text y="139.862" x="437.612" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:6.0px;stroke:none;">2</text>
+  </g>
+  <g begin="text">
+   <text y="137.367" x="441.128" svgx:width="0.27" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:10.0px;stroke:none;">;</text>
+   <text y="137.367" x="445.492" svgx:width="0.38" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Symbols;font-size:10.0px;stroke:none;">ð</text>
+   <text y="137.367" x="449.342" svgx:width="0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">x</text>
+   <text y="137.367" x="456.831" svgx:width="0.77" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Symbols;font-size:10.0px;stroke:none;">¼</text>
+   <text y="137.367" x="467.319" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:10.0px;stroke:none;">0</text>
+   <text y="137.367" x="472.319" svgx:width="0.27" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Italic;font-size:10.0px;stroke:none;">;</text>
+   <text y="137.367" x="476.673" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:10.0px;stroke:none;">1</text>
+   <text y="137.367" x="481.673,486.664" svgx:width="0.51,0.37" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">or</text>
+   <text y="137.367" x="490.374" svgx:width="0.5" style="fill:rgb(0,0,0);font-family:TeX_CM_Roman;font-size:10.0px;stroke:none;">2</text>
+   <text y="137.367" x="495.374,499.17400000000004,563.469" svgx:width="0.38,0.55,0.38" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Symbols;font-size:10.0px;stroke:none;">Þ ð</text>
+   <text y="137.367" x="567.32" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">8</text>
+   <text y="137.367" x="572.12" svgx:width="0.38" style="fill:rgb(0,0,0);font-family:TeX_CM_Maths_Symbols;font-size:10.0px;stroke:none;">Þ</text>
+   <text y="162.368" x="211.977,219.387,224.337,231.107,235.447,239.997,244.237,247.307,249.607,252.341,259.261,264.561,268.801,274.301,276.266,283.036,287.336,289.418,297.578,302.008,306.868,311.168,313.172,317.572,319.749,323.99,328.979,336.979,342.27,346.579,350.329,352.979,356.719,361.709,367.209,369.185,374.175,377.175,379.333,382.423,387.723,392.023,394.016,400.666,407.666,409.777,412.767,416.997,420.617,423.71700000000004,425.821" svgx:width="0.77,0.51,0.69,0.43,0.46,0.43,0.37,0.23,0.55,0.69,0.53,0.43,0.55,0.55,0.69,0.43,0.55,0.82,0.44,0.5,0.43,0.55,0.44,0.55,0.42,0.51,0.82,0.52,0.44,0.37,0.27,0.37,0.51,0.55,0.55,0.51,0.3,0.55,0.31,0.53,0.43,0.55,0.67,0.7,0.55,0.31,0.43,0.37,0.31,0.55,0.35" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">However, when we make a comparison of the CV test (</text>
+   <text y="162.368" x="429.281,434.401,437.071,441.771,443.904,448.704" svgx:width="0.53,0.27,0.47,0.55,0.48,0.59" style="fill:rgb(59,90,166);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">Fig 4B</text>
+   <text y="162.368" x="454.584,458.084,460.175,462.845,468.345,470.38,473.47,478.79,481.44,485.14,487.218,493.988,498.978,502.638,507.638,509.724,516.604,519.164,522.254,527.554,529.68,532.771,538.07,543.16,546.9" svgx:width="0.35,0.55,0.27,0.55,0.55,0.31,0.53,0.27,0.37,0.55,0.69,0.51,0.37,0.5,0.55,0.69,0.27,0.31,0.53,0.55,0.31,0.53,0.51,0.37,0.43" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">) in this work with those</text>
+   <text y="175.407" x="200.014,203.594,207.824,211.444,216.804,219.214,222.264,225.964,228.077,233.067,236.067,238.168,247.029,252.499,259.219" svgx:width="0.37,0.43,0.37,0.53,0.25,0.31,0.37,0.55,0.51,0.3,0.55,0.89,0.55,0.67,0.75" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">results of MnCO</text>
+  </g>
+  <g begin="text">
+   <text y="177.052" x="266.457" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">3</text>
+  </g>
+  <g begin="text">
+   <text y="175.408" x="272.239,277.619,281.029,286.929,288.906,293.216,298.646,303.836,309.096,313.346" svgx:width="0.54,0.34,0.59,0.55,0.44,0.55,0.51,0.53,0.43,0.34" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">LIB anode[</text>
+   <text y="175.408" x="316.796,321.596" svgx:width="0.48,0.48" style="fill:rgb(59,90,166);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">36</text>
+   <text y="175.408" x="326.396" svgx:width="0.52" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">–</text>
+   <text y="175.408" x="331.596,336.396" svgx:width="0.48,0.48" style="fill:rgb(59,90,166);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">38</text>
+   <text y="175.408" x="341.196,344.646,346.946,348.66,354.09,359.19,361.303,365.533,370.253,373.353,377.063,381.46299999999997,383.413,388.743,393.043,397.473,402.433,406.133,407.96,412.95,415.95,418.052,426.912,432.382,439.102" svgx:width="0.34,0.23,0.55,0.55,0.51,0.55,0.43,0.47,0.31,0.37,0.44,0.55,0.52,0.43,0.44,0.5,0.37,0.55,0.51,0.3,0.55,0.89,0.55,0.67,0.75" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">], no extra peaks of MnCO</text>
+  </g>
+  <g begin="text">
+   <text y="177.052" x="446.343" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">3</text>
+  </g>
+  <g begin="text">
+   <text y="175.408" x="452.126,458.966,463.346,467.046,469.133,472.013,477.003,482.303,487.733,492.993,497.303,502.523,504.82300000000004,506.664,512.824,518.124,522.364,525.944,530.184,533.064,538.054,541.634,545.824,548.1239999999999,550.26,553.35,558.65" svgx:width="0.69,0.44,0.37,0.55,0.3,0.51,0.53,0.55,0.53,0.43,0.53,0.23,0.55,0.62,0.53,0.43,0.37,0.43,0.3,0.51,0.37,0.43,0.23,0.55,0.31,0.53,0.43" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">was founded. Therefore, the</text>
+   <text y="188.39" x="200.015,208.875,214.345,221.065" svgx:width="0.89,0.55,0.67,0.75" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">MnCO</text>
+  </g>
+  <g begin="text">
+   <text y="190.035" x="228.246" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">3</text>
+  </g>
+  <g begin="text">
+   <text y="188.391" x="234.028,236.698,244.698,249.828,255.128,258.878,261.438,264.508,269.108,271.275,273.925,277.625,279.722,285.152,289.412,294.152,296.662,300.972,305.262,308.372,312.672,317.692,320.202,324.502,326.04,329.03,334.13,336.301,339.391,344.691,348.991,350.984,355.184,357.694,362.004,366.294,369.394,372.974,378.164,383.424,387.614" svgx:width="0.27,0.82,0.52,0.53,0.37,0.27,0.31,0.46,0.55,0.27,0.37,0.55,0.55,0.43,0.47,0.25,0.43,0.42,0.31,0.44,0.51,0.25,0.43,0.55,0.31,0.51,0.55,0.31,0.53,0.43,0.55,0.43,0.25,0.43,0.42,0.31,0.37,0.51,0.53,0.43,0.23" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">impurity is neglectable to the electrode.</text>
+   <text y="201.373" x="211.975,217.095,219.765,224.46499999999997,226.602,231.402" svgx:width="0.53,0.27,0.47,0.55,0.48,0.67" style="fill:rgb(59,90,166);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">Fig 4C</text>
+   <text y="201.373" x="240.15,243.77,249.07,254.02,260.86,264.56,266.796,269.886,275.186,279.486,281.479,285.189,289.399,292.389,296.689,298.884,303.144,307.354,312.644,316.944,321.914,324.644,327.164,329.724,332.794,337.394,339.589,344.579,347.579,349.68,354.06,357.73,361.29,366.42,370.0,374.24,379.53,383.84,387.42,391.73,397.03000000000003,399.116,402.576,409.386,414.186,416.466,425.326,430.796" svgx:width="0.37,0.53,0.51,0.69,0.37,0.55,0.31,0.53,0.43,0.55,0.37,0.44,0.31,0.43,0.55,0.42,0.44,0.52,0.44,0.51,0.27,0.25,0.27,0.31,0.46,0.55,0.51,0.3,0.55,0.44,0.37,0.36,0.52,0.37,0.43,0.52,0.44,0.37,0.43,0.53,0.55,0.35,0.67,0.51,0.23,0.89,0.55,0.35" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">shows the rate capability of as-prepared (Co,Mn)</text>
+  </g>
+  <g begin="text">
+   <text y="203.074" x="434.041" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">3</text>
+  </g>
+  <g begin="text">
+   <text y="201.373" x="437.669" svgx:width="0.75" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">O</text>
+  </g>
+  <g begin="text">
+   <text y="203.074" x="445.039" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">4</text>
+  </g>
+  <g begin="text">
+   <text y="201.373" x="448.668,451.978,455.688,462.838,472.252,476.492,481.482,489.482,494.812,499.902,503.552,506.112,509.102,513.292,515.592,517.606,523.766,529.066,533.366,535.464,539.664,542.174,546.484,550.774,553.874,557.454,562.644,567.904" svgx:width="0.33,0.37,0.71,0.75,0.42,0.51,0.82,0.52,0.51,0.37,0.27,0.31,0.43,0.23,0.55,0.62,0.53,0.43,0.55,0.43,0.25,0.43,0.42,0.31,0.37,0.51,0.53,0.43" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">/rGOcomposite. The electrode</text>
+   <text y="214.412" x="200.015,205.275,209.475,211.995,214.605,219.155,223.395,227.035,230.73499999999999,232.727,237.127,239.303,242.923,248.253,252.563,256.793,259.463,262.533,265.193,269.393,271.051,275.311,279.521,284.811,289.181,293.411,295.971,299.041,303.641,305.747,310.737,313.737,315.895,320.695,325.495,330.295,335.095,337.268,345.458,352.408,357.708,359.831" svgx:width="0.53,0.43,0.25,0.27,0.46,0.43,0.37,0.37,0.55,0.44,0.55,0.37,0.52,0.43,0.42,0.27,0.3,0.27,0.42,0.55,0.42,0.44,0.52,0.44,0.42,0.27,0.31,0.46,0.55,0.51,0.3,0.55,0.48,0.48,0.48,0.48,0.55,0.82,0.69,0.53,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">delivers a specific capacity of 1131 mAh g</text>
+  </g>
+  <g begin="text">
+   <text y="209.934" x="364.422,367.092" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="214.413" x="372.869,377.079,380.17900000000003,382.45,387.25,392.05,396.85,399.06,407.25,414.15,416.238" svgx:width="0.44,0.31,0.55,0.48,0.48,0.48,0.55,0.82,0.69,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">at 100 mA g</text>
+  </g>
+  <g begin="text">
+   <text y="209.934" x="420.831,423.501" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="214.413" x="427.124,429.42400000000004,431.489,436.289,441.089,445.889,448.1,456.29,463.24,468.54,470.607" svgx:width="0.23,0.55,0.48,0.48,0.48,0.55,0.82,0.69,0.53,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">, 951 mAh g</text>
+  </g>
+  <g begin="text">
+   <text y="209.934" x="475.2,477.87" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="214.413" x="483.647,487.857,490.95700000000005,493.228,498.028,502.828,507.628,515.818,522.718,524.862" svgx:width="0.44,0.31,0.55,0.48,0.48,0.48,0.82,0.69,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">at 200mA g</text>
+  </g>
+  <g begin="text">
+   <text y="209.934" x="529.455,532.125" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="214.413" x="535.691,537.991,540.113,544.913,549.713" svgx:width="0.23,0.55,0.48,0.48,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">, 877</text>
+   <text y="227.395" x="200.015,208.205,215.155,220.455,222.522" svgx:width="0.82,0.69,0.53,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">mAh g</text>
+  </g>
+  <g begin="text">
+   <text y="222.917" x="227.112,229.782" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="227.395" x="235.559,239.769,242.869,245.196,249.996,254.796,259.596,261.75,269.94,276.84,278.985" svgx:width="0.44,0.31,0.55,0.48,0.48,0.48,0.55,0.82,0.69,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">at 400 mA g</text>
+  </g>
+  <g begin="text">
+   <text y="222.917" x="283.578,286.248" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="227.395" x="289.814,292.11400000000003,294.236,299.036,303.836,308.636,310.79,318.98,325.93,331.23,333.353" svgx:width="0.23,0.55,0.48,0.48,0.48,0.55,0.82,0.69,0.53,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">, 720 mAh g</text>
+  </g>
+  <g begin="text">
+   <text y="222.917" x="337.946,340.616" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="227.395" x="346.394,350.604,353.704,355.975,360.775,365.575,370.375,378.565,385.465,387.609" svgx:width="0.44,0.31,0.55,0.48,0.48,0.48,0.82,0.69,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">at 600mA g</text>
+  </g>
+  <g begin="text">
+   <text y="222.917" x="392.145,394.815" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="227.395" x="398.438,400.738,402.803,407.603,412.403,417.20300000000003,419.414,427.604,434.554,439.854,441.921" svgx:width="0.23,0.55,0.48,0.48,0.48,0.55,0.82,0.69,0.53,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">, 546 mAh g</text>
+  </g>
+  <g begin="text">
+   <text y="222.917" x="446.513,449.183" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="227.395" x="454.961,459.171,462.271,464.598,469.398,474.198,478.998,483.798,485.971,494.161,501.061,503.206" svgx:width="0.44,0.31,0.55,0.48,0.48,0.48,0.48,0.55,0.82,0.69,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">at 1000 mA g</text>
+  </g>
+  <g begin="text">
+   <text y="222.917" x="507.742,510.412" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="227.395" x="516.246,520.556,525.986,531.286,533.423,538.223,543.023,547.823,550.034,558.224,565.174" svgx:width="0.44,0.55,0.53,0.55,0.48,0.48,0.48,0.55,0.82,0.69,0.53" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">and 212 mAh</text>
+   <text y="240.377" x="200.015" svgx:width="0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">g</text>
+  </g>
+  <g begin="text">
+   <text y="235.956" x="204.605,207.275" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="240.378" x="213.052,217.262,220.362,222.633,227.433,232.233,237.033,241.833,244.006,252.196,259.096,261.183" svgx:width="0.44,0.31,0.55,0.48,0.48,0.48,0.48,0.55,0.82,0.69,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">at 2000 mA g</text>
+  </g>
+  <g begin="text">
+   <text y="235.956" x="265.776,268.446" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="240.378" x="272.069,274.369,276.434,280.014,284.244,287.864,293.194,297.504,301.794,304.894,307.504,312.054,316.254,318.714,322.564,324.86400000000003,327.287,336.857,342.157,346.397,351.897,354.103,357.193,362.493,366.793,368.786,373.076,378.376,382.126,385.706,389.946,395.226,398.326,400.307,405.567,409.807,415.197,418.847,421.407,424.477,429.077,431.148,434.098,439.398,443.148,448.578,452.888,458.188,460.061,465.191,469.561,473.731,478.731,480.697,483.687,488.78700000000003,490.902,495.702,500.502,505.302,507.513,515.703,522.603,524.691" svgx:width="0.23,0.55,0.37,0.43,0.37,0.52,0.43,0.42,0.31,0.27,0.46,0.43,0.25,0.46,0.23,0.55,0.97,0.53,0.43,0.55,0.55,0.31,0.53,0.43,0.55,0.42,0.53,0.37,0.37,0.43,0.55,0.31,0.55,0.53,0.43,0.55,0.37,0.27,0.31,0.46,0.55,0.31,0.53,0.37,0.55,0.43,0.53,0.55,0.51,0.44,0.42,0.5,0.55,0.31,0.51,0.55,0.48,0.48,0.48,0.55,0.82,0.69,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">, respectively. When the current density turned back to 100 mA g</text>
+  </g>
+  <g begin="text">
+   <text y="235.956" x="529.285,531.955" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="240.378" x="535.521,537.8209999999999,539.943,544.343,546.519,550.139,555.469,559.779,564.009,566.679,569.749,572.409" svgx:width="0.23,0.55,0.44,0.55,0.37,0.52,0.43,0.42,0.27,0.3,0.27,0.42" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">, a specific</text>
+   <text y="253.36" x="200.015,204.275,208.485,213.775,218.145,222.375,224.935,228.005,232.605,234.654,239.644,242.644,244.745,249.545,254.345,259.145,263.945,266.062,274.252,281.202,286.502,288.512" svgx:width="0.42,0.44,0.52,0.44,0.42,0.27,0.31,0.46,0.55,0.51,0.3,0.55,0.48,0.48,0.48,0.48,0.55,0.82,0.69,0.53,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">capacity of 1105 mAh g</text>
+  </g>
+  <g begin="text">
+   <text y="248.939" x="293.102,295.772" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="253.361" x="301.493,308.373,310.933,314.023,319.32300000000004,321.335,325.73499999999996,327.855,332.115,336.325,341.615,345.985,350.215,352.775,355.845,360.44500000000005,362.494,366.074,370.314,373.304,377.544,382.824,385.924,388.584,393.574,399.074,401.101,406.091,409.091,411.193,415.993,420.793,423.073,427.873,435.433,437.733,439.596,444.856,449.096,457.246,462.236,467.626,471.246,474.346,478.056,482.266,485.366,488.036,493.426,498.126,500.03,504.26,508.89,513.13,517.33,519.91,522.42,526.66,531.94,535.0400000000001,536.937,540.647,544.857,547.847,552.1469999999999,554.285,558.545,562.755,568.045,572.435" svgx:width="0.69,0.27,0.31,0.53,0.55,0.44,0.55,0.42,0.44,0.52,0.44,0.42,0.27,0.31,0.46,0.55,0.37,0.43,0.31,0.43,0.55,0.31,0.27,0.51,0.55,0.55,0.51,0.3,0.55,0.48,0.48,0.23,0.48,0.76,0.23,0.55,0.53,0.43,0.82,0.51,0.55,0.37,0.31,0.37,0.44,0.31,0.27,0.55,0.47,0.55,0.43,0.47,0.42,0.43,0.25,0.25,0.43,0.55,0.31,0.55,0.37,0.44,0.31,0.43,0.55,0.42,0.44,0.52,0.44,0.36" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">with a capacity retention of 97.8%, demonstrating excellent rate capa-</text>
+   <text y="266.4" x="200.014,204.984,207.714,210.234,212.794,215.894,218.554,222.784,226.48399999999998,228.36,233.35,236.35,238.508,241.598,246.898,251.198,253.191,256.871,261.491,266.771,269.861,275.161,279.391,283.041,285.721,289.941,294.251,299.551,301.38,305.62,310.61,318.61,323.94,329.03,332.68,335.24,338.23,342.53000000000003,344.579,352.739,356.949,359.939,364.179,367.929,370.629,375.059,377.559,381.229" svgx:width="0.51,0.27,0.25,0.27,0.31,0.27,0.43,0.37,0.55,0.51,0.3,0.55,0.31,0.53,0.43,0.55,0.37,0.46,0.55,0.31,0.53,0.43,0.37,0.27,0.42,0.43,0.53,0.55,0.42,0.51,0.82,0.52,0.51,0.37,0.27,0.31,0.43,0.55,0.82,0.44,0.31,0.43,0.37,0.27,0.44,0.25,0.37,0.23" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">bilities of the synthesized composite materials.</text>
+   <text y="266.4" x="385.454,390.574,393.244,397.944,400.081,404.881" svgx:width="0.53,0.27,0.47,0.55,0.48,0.74" style="fill:rgb(59,90,166);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">Fig 4D</text>
+   <text y="266.4" x="414.367,417.987,423.287,428.237,435.077,438.777,440.956,445.366,449.876,454.046,456.566,459.236,464.626,469.32599999999996,471.173,476.503,480.743,484.493,487.373,492.363,496.113,504.273,508.583,514.013,518.253,522.483,526.183,527.923,532.133,535.2330000000001,537.504,540.594,545.894,550.194,552.244,556.534,561.834,565.314" svgx:width="0.37,0.53,0.51,0.69,0.37,0.55,0.42,0.46,0.42,0.25,0.27,0.55,0.47,0.55,0.52,0.43,0.37,0.3,0.51,0.37,0.82,0.44,0.55,0.42,0.43,0.37,0.55,0.44,0.31,0.55,0.31,0.53,0.43,0.55,0.42,0.53,0.37,0.36" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">shows cycling performances at the cur-</text>
+   <text y="279.382" x="200.014,203.594,207.834,213.114,216.214,218.439,223.699,227.939,233.329,236.979,239.539,242.609,247.209,249.336,254.326,257.326,259.484,264.284,269.084,273.884,276.039,284.229,291.12899999999996,293.273" svgx:width="0.37,0.43,0.55,0.31,0.55,0.53,0.43,0.55,0.37,0.27,0.31,0.46,0.55,0.51,0.3,0.55,0.48,0.48,0.48,0.55,0.82,0.69,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">rent density of 200 mA g</text>
+  </g>
+  <g begin="text">
+   <text y="274.961" x="297.865,300.534" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="279.383" x="304.101,306.401,308.523,315.403,318.433,321.423,325.663,329.363,331.37,336.17,340.97,345.77000000000004,347.924,352.334,356.844,361.014,363.524,367.754,371.424,373.724,375.59,379.98999999999995,382.166,385.746,390.086,394.636,398.876,402.516,406.166,408.796,413.816,416.326,420.62600000000003,422.531,426.791,431.001,436.291,440.661,444.891,447.451,450.521,455.12100000000004,457.227,462.027,466.827,471.627,473.838,482.028,488.978,494.278,496.345" svgx:width="0.23,0.55,0.69,0.3,0.31,0.43,0.37,0.55,0.48,0.48,0.48,0.55,0.42,0.46,0.42,0.25,0.43,0.37,0.23,0.55,0.44,0.55,0.37,0.43,0.46,0.43,0.37,0.37,0.27,0.51,0.25,0.43,0.55,0.42,0.44,0.52,0.44,0.42,0.27,0.31,0.46,0.55,0.48,0.48,0.48,0.55,0.82,0.69,0.53,0.55,0.47" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">. After 140 cycles, a reversible capacity 939 mAh g</text>
+  </g>
+  <g begin="text">
+   <text y="274.961" x="500.939,503.608" svgx:width="0.36,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="279.383" x="509.386,513.646,517.956,523.456,525.6,530.77,535.0699999999999,536.938,541.988,546.958,550.068,554.378,557.048,562.478,566.788" svgx:width="0.42,0.44,0.55,0.55,0.51,0.43,0.55,0.51,0.51,0.31,0.44,0.27,0.55,0.43,0.53" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">can be obtained</text>
+   <text y="292.365" x="200.015,206.895,209.455,212.545,217.845,222.835,228.025,231.125,233.18,237.49,242.73,247.32999999999998,249.735,254.785,259.715,264.375,267.035,272.025,277.305,281.005,283.013,288.273,292.533,297.263,300.973,305.343,310.643,314.853,317.953,320.613,325.603,331.073,333.373,335.057,341.937,344.497,347.587,352.887,355.013,358.103,363.403,367.70300000000003,369.696,373.956,378.166,383.456,387.826,392.056,394.616,397.686,402.286,404.449,408.029,412.269,415.259,419.499,424.779,427.879,430.539,435.529,441.029,443.113,448.103,451.103,453.261,458.061,462.861,465.141,469.941,477.501,479.801,481.721,484.961,490.461,492.662,497.032,502.292,507.562,510.122,513.222,515.882,520.872,526.342,528.6419999999999,530.532,533.622,538.922,543.222,545.272,549.512,554.502,559.812" svgx:width="0.69,0.27,0.31,0.53,0.51,0.53,0.31,0.55,0.44,0.55,0.46,0.55,0.51,0.51,0.46,0.27,0.51,0.53,0.37,0.55,0.53,0.43,0.47,0.37,0.44,0.53,0.44,0.31,0.27,0.51,0.55,0.23,0.55,0.69,0.27,0.31,0.53,0.55,0.31,0.53,0.43,0.55,0.42,0.44,0.52,0.44,0.42,0.27,0.31,0.46,0.55,0.37,0.43,0.31,0.43,0.55,0.31,0.27,0.51,0.55,0.55,0.51,0.3,0.55,0.48,0.48,0.23,0.48,0.76,0.23,0.55,0.34,0.55,0.55,0.44,0.53,0.53,0.27,0.31,0.27,0.51,0.55,0.23,0.55,0.31,0.53,0.43,0.55,0.42,0.51,0.53,0.36" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">without any obvious degradation, with the capacity retention of 98.8%. In addition, the cou-</text>
+   <text y="305.404" x="200.015,202.525,207.515,215.605,220.575,223.235,227.435,229.609,233.849,236.919,239.989,242.649,246.879,249.539,253.779,259.209,263.619,269.577,273.157,277.397,280.507,284.817,287.487,292.877,296.577,298.66,303.46,308.26,317.992,322.302,325.332,328.322,332.562,336.262,338.288,343.088,347.888,352.688,354.899,359.309,363.819,367.989,370.499,374.729,378.399,380.699,382.565,388.725,394.025,398.325,400.367,403.987,406.507,409.177,413.917,419.067,422.16700000000003,424.291,428.551,432.761,438.051,442.421,446.651,449.211,452.281,456.88100000000003,458.987,461.657,467.087,471.317,474.897,479.197,483.577,487.317,491.617,493.399,497.709,500.739,503.729,507.969,511.669,513.751,518.551" svgx:width="0.25,0.51,0.82,0.51,0.27,0.42,0.55,0.43,0.3,0.3,0.27,0.42,0.27,0.43,0.55,0.42,0.46,0.37,0.43,0.31,0.44,0.27,0.55,0.37,0.55,0.48,0.48,0.76,0.44,0.3,0.31,0.43,0.37,0.55,0.48,0.48,0.48,0.55,0.42,0.46,0.42,0.25,0.43,0.37,0.23,0.55,0.62,0.53,0.43,0.55,0.37,0.25,0.27,0.47,0.53,0.31,0.55,0.42,0.44,0.52,0.44,0.42,0.27,0.31,0.46,0.55,0.27,0.55,0.42,0.37,0.43,0.44,0.37,0.43,0.55,0.44,0.3,0.31,0.43,0.37,0.55,0.48,0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">lombic efficiencyretains 98%after 140 cycles. The slight capacity increase after 50</text>
+  </g>
+  <g begin="text">
+   <text y="300.926" x="523.332,525.65" svgx:width="0.31,0.53" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">th</text>
+  </g>
+  <g begin="text">
+   <text y="305.405" x="531.779,536.189,540.699,544.87,547.379,551.679,553.605,556.255" svgx:width="0.42,0.46,0.42,0.25,0.43,0.55,0.27,0.37" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">cycle is</text>
+   <text y="318.387" x="200.016,205.175,210.465,214.76500000000001,216.797,219.786,224.886,227.0,230.091,235.391,239.691,241.74,244.41,252.411,257.541,261.121,266.071,270.621,274.861,283.011,287.251,292.531,295.63100000000003,298.036,303.026,306.026,308.185,313.615" svgx:width="0.53,0.53,0.43,0.55,0.31,0.51,0.55,0.31,0.53,0.43,0.55,0.27,0.82,0.52,0.37,0.51,0.46,0.43,0.82,0.43,0.55,0.31,0.55,0.51,0.3,0.55,0.54,0.27" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">due to the improvement of Li</text>
+  </g>
+  <g begin="text">
+   <text y="313.965" x="316.12" svgx:width="0.58" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">+</text>
+  </g>
+  <g begin="text">
+   <text y="318.388" x="322.583,326.953,331.193,335.433,339.663,343.283,346.933,349.563,354.533,357.263,359.783,362.343,365.413,370.01300000000003,371.905,376.215,381.645,386.945,389.14,393.51,397.75,401.99,406.98,415.15,423.3,428.49,433.79,438.0,441.1,443.76,448.75,454.25,455.98,461.15,465.35,470.66,474.87,479.53,482.19,487.18,490.88,492.887,495.557,501.057,503.148,506.238,511.538,515.838,517.832,522.032,524.542,528.852,533.142,536.242,539.822,545.012,550.272,554.462,556.762,558.31,561.4,566.7" svgx:width="0.44,0.42,0.42,0.43,0.37,0.37,0.27,0.51,0.27,0.25,0.27,0.31,0.46,0.55,0.44,0.55,0.53,0.55,0.44,0.42,0.42,0.51,0.82,0.82,0.51,0.53,0.44,0.31,0.27,0.51,0.55,0.55,0.51,0.43,0.53,0.44,0.46,0.27,0.51,0.37,0.55,0.27,0.55,0.55,0.31,0.53,0.43,0.55,0.43,0.25,0.43,0.42,0.31,0.37,0.51,0.53,0.43,0.23,0.55,0.31,0.53,0.43" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">accessibility and accommodation behavior in the electrode, the</text>
+   <text y="331.37" x="200.014,203.114,206.824,211.134,216.524,220.174,223.054,228.044,231.794,239.954,244.164,247.264,249.924,254.914,260.414,262.489,267.479,270.479,272.581,276.811,280.811,285.391,289.011,292.121,296.551,299.131,301.651,304.321,309.751,314.051,315.44,319.06,322.16,325.97,331.26,335.55,338.5,343.8,347.38,351.68,353.423,356.413,361.51300000000003,363.628,367.938,373.438,375.647,379.957,388.107,393.097,396.907,402.087,407.387,412.377,417.657,421.35699999999997,423.382,427.002,430.102,433.912,439.202,443.492,446.442,451.742,455.322,459.622,461.366,466.356,469.356,471.514,474.974,481.784,486.584,488.884,490.903,499.763,505.233" svgx:width="0.31,0.37,0.44,0.55,0.37,0.3,0.51,0.37,0.82,0.44,0.31,0.27,0.51,0.55,0.55,0.51,0.3,0.55,0.42,0.37,0.46,0.37,0.31,0.44,0.25,0.25,0.27,0.55,0.43,0.55,0.37,0.31,0.37,0.53,0.42,0.31,0.53,0.37,0.43,0.55,0.31,0.51,0.55,0.44,0.55,0.55,0.44,0.82,0.51,0.37,0.52,0.53,0.51,0.53,0.37,0.55,0.37,0.31,0.37,0.53,0.42,0.31,0.53,0.37,0.43,0.55,0.51,0.3,0.55,0.35,0.67,0.51,0.23,0.55,0.89,0.55,0.35" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">transformation of crystalline structure to an amorphous structure of (Co, Mn)</text>
+  </g>
+  <g begin="text">
+   <text y="333.071" x="508.649" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">3</text>
+  </g>
+  <g begin="text">
+   <text y="331.37" x="512.22" svgx:width="0.75" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">O</text>
+  </g>
+  <g begin="text">
+   <text y="333.071" x="519.647" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">4</text>
+  </g>
+  <g begin="text">
+   <text y="331.37" x="523.219,525.519,527.641,531.951,537.381,542.6809999999999,544.818,547.908,553.208,557.5079999999999,559.558,562.438,567.428,570.908" svgx:width="0.23,0.55,0.44,0.55,0.53,0.55,0.31,0.53,0.43,0.55,0.3,0.51,0.37,0.36" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">, and the for-</text>
+   <text y="344.409" x="200.015,208.175,212.385,215.485,218.145,223.135,228.635,230.799,235.789,238.789,240.891,245.291,247.467,252.077,256.277,258.807,262.367,264.887,267.617,272.477,276.777,278.648,282.268,287.568,291.318,294.288,298.658,302.898,307.19800000000004,309.035,312.105,314.835,317.355,327.347,332.507,337.807,341.557,344.227,349.617,354.317,356.26,359.35,364.65,368.95,371.0,373.67,379.12,381.68,384.78,387.48,391.91,394.41,396.342,400.712,405.002,408.102,410.712,415.332,419.542,422.642,425.302,430.292,435.792,437.727,442.857,446.437,451.627,455.867,460.097,463.717,467.387" svgx:width="0.82,0.44,0.31,0.27,0.51,0.55,0.55,0.51,0.3,0.55,0.44,0.55,0.47,0.43,0.25,0.36,0.25,0.27,0.5,0.43,0.55,0.37,0.53,0.37,0.3,0.44,0.42,0.43,0.55,0.3,0.27,0.25,0.82,0.53,0.53,0.37,0.27,0.55,0.47,0.55,0.31,0.53,0.43,0.55,0.27,0.55,0.27,0.31,0.27,0.44,0.25,0.55,0.44,0.42,0.31,0.27,0.46,0.44,0.31,0.27,0.51,0.55,0.55,0.52,0.37,0.51,0.42,0.43,0.37,0.37,0.34" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">mation of a gel-like surface filmduring the initial activation process[</text>
+   <text y="344.409" x="470.837,475.637" svgx:width="0.48,0.48" style="fill:rgb(59,90,166);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">39</text>
+   <text y="344.409" x="480.437" svgx:width="0.52" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">–</text>
+   <text y="344.409" x="485.637,490.437" svgx:width="0.48,0.48" style="fill:rgb(59,90,166);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">41</text>
+   <text y="344.409" x="495.237,498.687" svgx:width="0.34,0.23" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">].</text>
+   <text y="357.391" x="211.977,218.787,223.887,227.447,236.307,241.807,243.612,248.552,253.272,255.932,261.192,265.422,269.122,271.164,276.474,280.844,286.144,288.229,293.399,297.709,301.949,307.449,309.205,312.825,315.775,321.065,326.335,328.995,333.305,338.605,340.499,344.729,349.449,352.439,356.679,362.069,365.719,368.329,372.879,377.079,379.539,384.139,386.307,390.687,394.387,396.512,400.822,406.252,411.442,416.702,421.002,422.93,431.09,435.3,438.29,442.53,446.28,448.98,453.41,455.91,459.61,461.595,464.475,469.465,473.16499999999996,475.371,477.891,480.451,483.541,488.861,491.421,496.721,507.005,509.665,514.655,520.155,522.199,527.329,531.539,534.489,537.479,541.719,545.469,548.129,552.359,556.029" svgx:width="0.67,0.51,0.36,0.89,0.55,0.55,0.51,0.47,0.27,0.53,0.43,0.37,0.55,0.53,0.44,0.53,0.55,0.51,0.43,0.43,0.55,0.55,0.37,0.31,0.53,0.53,0.27,0.43,0.53,0.55,0.43,0.47,0.31,0.43,0.55,0.37,0.27,0.46,0.43,0.25,0.46,0.55,0.44,0.37,0.55,0.44,0.55,0.51,0.53,0.43,0.55,0.82,0.44,0.31,0.43,0.37,0.27,0.44,0.25,0.37,0.55,0.3,0.51,0.37,0.55,0.25,0.27,0.31,0.53,0.27,0.53,0.82,0.27,0.51,0.55,0.55,0.51,0.44,0.31,0.31,0.43,0.37,0.27,0.43,0.37,0.23" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">Co-Mn oxides had been studied extensively as anode materials for lithiumion batteries.</text>
+   <text y="370.374" x="200.015,207.425,211.665,215.245,219.54500000000002,221.785,228.555,232.85500000000002,234.938,243.098,247.468,252.728,257.028,259.032,263.43199999999996,265.609,269.849,274.839,282.839,288.129,292.439,296.189,298.839,302.579,307.569,313.069,315.044,320.034,323.034,325.192,328.282,333.582,337.882,339.876,346.686,351.786,355.346,364.206,369.706,371.51,376.45,381.17,383.83,389.09,393.32,397.02,399.006,401.676,407.176,409.267,413.467,415.977,420.287,424.577,427.677,431.257,436.447,440.617,445.917,450.157,458.327,460.987,465.247,469.677,472.177,473.614,478.944,483.184,486.934,489.814,494.804,498.554,506.714,511.024,516.454,520.694,524.9939999999999,526.677,530.987,536.417,541.717,543.911,547.591,552.211,557.491,560.581,565.881,570.131" svgx:width="0.77,0.43,0.37,0.43,0.55,0.69,0.43,0.55,0.82,0.44,0.53,0.43,0.55,0.44,0.55,0.42,0.51,0.82,0.52,0.44,0.37,0.27,0.37,0.51,0.55,0.55,0.51,0.3,0.55,0.31,0.53,0.43,0.55,0.67,0.51,0.36,0.89,0.55,0.55,0.51,0.47,0.27,0.53,0.43,0.37,0.55,0.27,0.55,0.55,0.43,0.25,0.43,0.42,0.31,0.37,0.51,0.42,0.53,0.43,0.82,0.27,0.42,0.44,0.25,0.55,0.52,0.43,0.37,0.3,0.51,0.37,0.82,0.44,0.55,0.42,0.43,0.55,0.44,0.55,0.53,0.55,0.37,0.46,0.55,0.31,0.53,0.43,0.36" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">Here we made a comparison of the Co-Mn oxides in electrochemical performance and synthe-</text>
+   <text y="383.413" x="200.015,203.665,206.315,210.015,212.091,220.241,224.481,227.571,232.871,238.061,243.281,245.58100000000002,247.354,251.734,255.434,257.615,261.235,266.535,274.705,282.865,287.175,290.925,293.605,297.825,302.135,307.435,309.092,311.762" svgx:width="0.37,0.27,0.37,0.55,0.82,0.43,0.31,0.53,0.51,0.53,0.23,0.55,0.44,0.37,0.55,0.37,0.53,0.82,0.82,0.44,0.37,0.27,0.42,0.43,0.53,0.55,0.27,0.55" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">sis method, as summarized in</text>
+   <text y="383.413" x="319.353,324.603,328.903,333.923,336.433,340.733,343.731" svgx:width="0.62,0.44,0.51,0.25,0.43,0.55,0.48" style="fill:rgb(59,90,166);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">Table 1</text>
+   <text y="383.413" x="348.531,350.831,352.915,355.935,359.035,361.476,364.126,367.82599999999996,369.923,374.973,379.903,384.563,387.223,392.213,397.493,401.193,403.201,406.291,411.601,415.811,418.911,421.173,424.263,429.563,433.863,435.856,439.316,446.126,450.926,453.206,462.066,467.536" svgx:width="0.23,0.55,0.34,0.31,0.55,0.27,0.37,0.55,0.51,0.51,0.46,0.27,0.51,0.53,0.37,0.55,0.31,0.53,0.44,0.31,0.55,0.31,0.53,0.43,0.55,0.35,0.67,0.51,0.23,0.89,0.55,0.35" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">. It is obvious that the (Co,Mn)</text>
+  </g>
+  <g begin="text">
+   <text y="385.058" x="470.778" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">3</text>
+  </g>
+  <g begin="text">
+   <text y="383.414" x="474.406" svgx:width="0.75" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">O</text>
+  </g>
+  <g begin="text">
+   <text y="385.058" x="481.776" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">4</text>
+  </g>
+  <g begin="text">
+   <text y="383.414" x="485.405,488.715,492.425,499.575,508.989,513.229,518.219,526.219,531.549,536.639,540.289,542.849,545.839,550.069,553.769,555.817,558.487" svgx:width="0.33,0.37,0.71,0.75,0.42,0.51,0.82,0.52,0.51,0.37,0.27,0.31,0.43,0.37,0.55,0.27,0.55" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">/rGOcomposites in</text>
+   <text y="396.396" x="200.015,203.105,208.425,211.075,214.77499999999998,216.796,223.566,228.556,232.216,237.216,239.303,243.533,248.253,253.573,256.203,261.173,263.733,266.783,270.483,272.582,277.572,282.762,285.812,289.432,292.542,296.852,302.282,307.552,310.222,315.612,320.312,322.358,326.768,331.278,335.448,337.968,340.638,346.028,350.728,352.575,357.905,362.145,365.895,368.775,373.765,377.515,385.675,389.985,395.415,399.655,403.955,405.696,410.006,415.436,420.736,422.874,428.194,430.864,435.604,440.904,445.134,448.754,451.85400000000004,453.771,457.351,461.691,466.241,470.481,474.121,477.771,480.401,485.421,487.931,492.231,494.135,498.395,502.605,507.895,512.265,516.495,519.055,522.125,525.975,528.275,531.042,534.062,537.162,539.603,542.253,545.9530000000001,548.05,552.48,554.98,558.72" svgx:width="0.31,0.53,0.27,0.37,0.55,0.69,0.51,0.37,0.5,0.55,0.43,0.47,0.53,0.27,0.51,0.27,0.31,0.37,0.55,0.51,0.53,0.31,0.37,0.31,0.44,0.55,0.53,0.27,0.55,0.47,0.55,0.42,0.46,0.42,0.25,0.27,0.55,0.47,0.55,0.52,0.43,0.37,0.3,0.51,0.37,0.82,0.44,0.55,0.42,0.43,0.55,0.44,0.55,0.53,0.55,0.53,0.27,0.47,0.53,0.43,0.37,0.31,0.55,0.37,0.43,0.46,0.43,0.37,0.37,0.27,0.51,0.25,0.43,0.55,0.42,0.44,0.52,0.44,0.42,0.27,0.31,0.46,0.23,0.55,0.34,0.31,0.55,0.27,0.37,0.55,0.44,0.25,0.37,0.51" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">this work exhibits outstanding cycling performance and highest reversible capacity. It is also</text>
+   <text y="409.379" x="200.015,205.445,210.435,213.425,217.735,223.03500000000003,225.017,228.107,233.417,237.627,240.727,242.988,246.058,252.828,257.928,259.996,263.616,266.606,270.846,276.076,279.776,281.879,287.009,290.589,295.779,300.019,304.249,307.869,311.569,313.627,316.277,319.977,322.074,325.164,330.464,334.764,336.758,344.908,349.998,353.618,356.718,358.754,364.084,369.074,374.204,379.564,382.114,386.424,390.12399999999997,392.146,398.986,403.196,407.79600000000005,410.118,413.108,418.208,420.322,425.452,429.032,433.272,438.562,442.872,446.452,450.752,452.977,457.207,461.207,465.787,469.407,472.517,476.947,479.527,482.047,484.717,490.147,494.447,495.836,502.646,507.746,511.306,520.166,525.666,527.414,532.354,537.074,539.734,544.994,549.224,552.9240000000001,554.966,557.636" svgx:width="0.55,0.51,0.31,0.43,0.53,0.55,0.31,0.53,0.44,0.31,0.55,0.31,0.69,0.51,0.55,0.37,0.31,0.43,0.52,0.37,0.55,0.52,0.37,0.51,0.42,0.43,0.37,0.37,0.55,0.27,0.37,0.55,0.31,0.53,0.43,0.55,0.82,0.51,0.37,0.31,0.55,0.52,0.51,0.52,0.53,0.25,0.44,0.37,0.55,0.69,0.44,0.46,0.55,0.31,0.51,0.55,0.52,0.37,0.43,0.52,0.44,0.37,0.43,0.55,0.42,0.37,0.46,0.37,0.31,0.44,0.25,0.25,0.27,0.55,0.43,0.55,0.67,0.51,0.36,0.89,0.55,0.55,0.51,0.47,0.27,0.53,0.43,0.37,0.55,0.27,0.55" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">noted that two steps process is the most popular way to prepare crystalline Co-Mn oxides in</text>
+   <text y="422.361" x="200.015,205.145,208.725,213.065,217.725,220.385,225.375,230.655,234.355,236.298,243.068,248.058,251.718,256.678,260.348,262.648,264.645,271.565,276.885,279.545,283.715,289.015,291.063,296.193,299.773,304.013,309.303,313.613,317.193,321.503,326.803,328.934,332.024,337.324,341.624,343.617,348.747,352.327,356.637,360.927,366.227,369.867,373.607,378.597,382.29699999999997,384.209,387.279,389.949,393.589,397.209,400.299,402.759,407.35900000000004,409.324,412.204,417.244,419.824,422.334,427.284,434.054,438.364,443.664,445.607,450.537,455.137,457.399,462.699,466.999,471.209,474.309,476.505,479.605,483.185,487.485,491.695,494.795,502.945,507.185,512.465,515.565,517.719,520.709,525.809,527.924,532.974,537.944,541.054,545.364,548.034,553.534,555.59,558.68,563.98" svgx:width="0.52,0.37,0.43,0.46,0.27,0.51,0.53,0.37,0.55,0.69,0.51,0.37,0.5,0.37,0.23,0.55,0.69,0.53,0.27,0.42,0.53,0.55,0.52,0.37,0.43,0.52,0.44,0.37,0.43,0.53,0.55,0.31,0.53,0.43,0.55,0.52,0.37,0.43,0.42,0.53,0.37,0.37,0.51,0.37,0.55,0.3,0.27,0.37,0.37,0.31,0.25,0.46,0.55,0.3,0.51,0.25,0.25,0.51,0.69,0.43,0.53,0.55,0.51,0.46,0.55,0.53,0.43,0.44,0.31,0.55,0.31,0.37,0.43,0.44,0.31,0.82,0.43,0.55,0.31,0.55,0.31,0.51,0.55,0.51,0.51,0.31,0.44,0.27,0.55,0.55,0.31,0.53,0.43" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">previous works, which prepared the precursor firstly followed by heat treatment to obtain the</text>
+   <text y="435.401" x="200.015,204.955,209.675,212.335,217.595,221.785,224.085,226.094,233.504,238.454,245.224,249.564,254.114,258.354,262.054,264.248,266.918,272.418,274.452,277.542,282.862,285.512,289.212,291.29,298.06,303.05,306.71,311.67,313.97,316.008,322.778,327.07800000000003,329.161,332.741,336.981,342.311,347.301,351.111,354.211,356.033,360.433,362.609,366.259,368.929,376.929,382.109,384.619,388.91900000000004,391.126,395.436,400.866,406.166,408.304,411.274,415.644,419.874,422.604,425.114,429.414,431.264,434.844,439.834,445.024,448.014,452.314,454.508,457.498,462.598,464.769,469.139,473.309,478.629,481.289,485.629,490.179,494.479,496.346,499.806,506.616,511.416,513.696,522.556,528.026" svgx:width="0.51,0.47,0.27,0.53,0.43,0.23,0.55,0.77,0.51,0.69,0.43,0.46,0.43,0.37,0.55,0.27,0.55,0.55,0.31,0.53,0.27,0.37,0.55,0.69,0.51,0.37,0.5,0.23,0.55,0.69,0.43,0.55,0.37,0.43,0.52,0.51,0.37,0.31,0.55,0.44,0.55,0.37,0.27,0.82,0.52,0.25,0.43,0.55,0.44,0.55,0.53,0.55,0.3,0.44,0.42,0.27,0.25,0.43,0.55,0.37,0.51,0.53,0.31,0.43,0.55,0.31,0.51,0.55,0.44,0.42,0.53,0.27,0.43,0.46,0.43,0.55,0.35,0.67,0.51,0.23,0.89,0.55,0.35" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">oxide. However in this work, we report a simple and facile route to achieve (Co,Mn)</text>
+  </g>
+  <g begin="text">
+   <text y="437.046" x="531.269" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">3</text>
+  </g>
+  <g begin="text">
+   <text y="435.402" x="534.898" svgx:width="0.75" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">O</text>
+  </g>
+  <g begin="text">
+   <text y="437.046" x="542.268" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">4</text>
+  </g>
+  <g begin="text">
+   <text y="435.402" x="545.896,549.206,552.916,560.066" svgx:width="0.33,0.37,0.71,0.75" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">/rGO</text>
+   <text y="448.384" x="200.015,205.125,209.845,214.815,218.565,221.225,226.525,228.588,235.468,238.028,241.118,246.418,251.408,256.598,259.69800000000004,261.753,266.063,271.303,275.903,278.364,281.244,286.284,288.864,291.374,296.324,303.204,305.874,311.264,315.964,317.879,323.179,327.479,331.689,334.78900000000004,336.928,340.028,343.608,347.908,352.118,355.218,363.368,367.608,372.888,375.948,378.248,380.354,385.534,390.634,393.677,396.767,402.067,406.367,408.417,413.587,417.817,421.437,424.53700000000003,426.445,431.435,434.435,436.593,441.583,446.883,450.58299999999997,452.637,457.637,463.067,468.017,474.937,477.447,481.757,487.027,491.637,495.827,498.127,499.805,502.895,508.215,510.865,514.565,516.586,519.236,522.936,525.034,528.124,533.424,537.7239999999999,539.774,542.844,545.514,549.154,552.774,555.874,557.801,560.901,563.571,571.721" svgx:width="0.53,0.46,0.51,0.37,0.27,0.53,0.55,0.69,0.27,0.31,0.53,0.51,0.53,0.31,0.55,0.44,0.55,0.46,0.55,0.3,0.51,0.25,0.25,0.51,0.69,0.27,0.55,0.47,0.55,0.53,0.43,0.44,0.31,0.55,0.31,0.37,0.43,0.44,0.31,0.82,0.43,0.55,0.31,0.23,0.55,0.62,0.51,0.55,0.31,0.53,0.43,0.55,0.51,0.43,0.37,0.31,0.55,0.51,0.3,0.55,0.51,0.53,0.37,0.55,0.5,0.55,0.51,0.69,0.25,0.43,0.53,0.47,0.43,0.23,0.55,0.31,0.53,0.27,0.37,0.55,0.27,0.37,0.55,0.31,0.53,0.43,0.55,0.3,0.27,0.37,0.37,0.31,0.55,0.31,0.27,0.82,0.43" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">hybrid without any following heat treatment. To the best of our knowledge, this is the first time</text>
+   <text y="461.367" x="200.015,203.005,208.105,210.22,213.8,218.04,223.37,228.36,232.17,235.26999999999998,237.149,242.139,247.569,251.819,255.379,258.999,261.989,266.229,271.429,273.545,278.655,283.165,288.435,292.015,297.005,300.095,305.395,309.635,313.385,321.545,325.975,328.475,330.692,334.372,338.992,344.272,347.362,352.662,356.892,360.542,363.222,367.442,371.742,373.665,377.125,383.935,388.735,391.015,399.875,405.345" svgx:width="0.31,0.51,0.55,0.37,0.43,0.52,0.51,0.37,0.31,0.55,0.51,0.55,0.43,0.36,0.37,0.31,0.43,0.52,0.55,0.53,0.46,0.53,0.37,0.51,0.31,0.53,0.43,0.37,0.82,0.44,0.25,0.55,0.37,0.46,0.55,0.31,0.53,0.43,0.37,0.27,0.42,0.43,0.55,0.35,0.67,0.51,0.23,0.89,0.55,0.35" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">to report one-step hydrothermal synthesize (Co,Mn)</text>
+  </g>
+  <g begin="text">
+   <text y="463.068" x="408.586" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">3</text>
+  </g>
+  <g begin="text">
+   <text y="461.367" x="412.157" svgx:width="0.75" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">O</text>
+  </g>
+  <g begin="text">
+   <text y="463.068" x="419.584" svgx:width="0.48" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:6.67px;stroke:none;">4</text>
+  </g>
+  <g begin="text">
+   <text y="461.367" x="423.156,426.466,430.176,437.326,446.74,450.98,455.97,463.97,469.3,474.39,478.04,480.6,483.59,487.89,489.939,494.319,498.019,500.144,504.454,509.954,512.163,516.473,521.903,527.093,532.353,536.6529999999999,538.525,541.405,546.395,550.095,552.301,557.681,561.091,566.971" svgx:width="0.33,0.37,0.71,0.75,0.42,0.51,0.82,0.52,0.51,0.37,0.27,0.31,0.43,0.55,0.44,0.37,0.55,0.44,0.55,0.55,0.44,0.55,0.51,0.53,0.43,0.55,0.3,0.51,0.37,0.55,0.54,0.34,0.59,0.37" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">/rGOcomposite as an anode for LIBs</text>
+   <text y="474.406" x="200.015,206.895,209.455,212.545,217.845,219.914,224.904,230.094,233.144,236.764,239.874,244.184,249.614,254.884,257.554,262.944,267.644,269.69,275.02,279.26,283.01,285.89,290.88,294.63,302.79,307.1,312.53,316.77,321.0,324.67,326.97,328.593,334.753,340.053,344.353,346.451,350.681,355.311,359.551,363.751,366.331,368.841,373.081,378.361,381.461,383.472,388.802,393.042,396.792,399.672,404.662,408.412,416.572,420.882,426.312,430.552,434.85200000000003,436.535,439.185,442.885,444.982,449.192,452.142,455.242,458.992,461.622,466.592,471.782,474.772,479.082,484.382,486.481,489.471,494.571,496.742,500.422,505.042,510.322,513.412,518.712,522.952,526.052,528.712,532.912,534.897,539.137,542.207,545.087,549.397,553.687,556.787,558.481,563.471" svgx:width="0.69,0.27,0.31,0.53,0.55,0.51,0.53,0.31,0.37,0.31,0.44,0.55,0.53,0.27,0.55,0.47,0.55,0.52,0.43,0.37,0.3,0.51,0.37,0.82,0.44,0.55,0.42,0.43,0.37,0.23,0.55,0.62,0.53,0.43,0.55,0.43,0.47,0.42,0.43,0.25,0.25,0.43,0.55,0.31,0.55,0.52,0.43,0.37,0.3,0.51,0.37,0.82,0.44,0.55,0.42,0.43,0.55,0.27,0.37,0.55,0.44,0.31,0.31,0.37,0.27,0.51,0.53,0.31,0.43,0.53,0.55,0.31,0.51,0.55,0.37,0.46,0.55,0.31,0.53,0.43,0.31,0.27,0.42,0.55,0.43,0.3,0.3,0.43,0.42,0.31,0.55,0.51,0.3" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">with outstanding performances. The excellent performance is attributed to synthetic effect of</text>
+   <text y="487.388" x="200.015,206.785,210.985,213.565,216.065,218.156,223.426,226.076,229.696,232.796,236.546,239.176,244.146,249.336,252.326,256.636,261.93600000000004,263.737,269.177,273.487,278.917,284.107,288.397,293.657,298.827,303.057,306.757,308.354,312.664,318.094,323.394,325.589,329.209,332.309,335.889,340.879,346.269,350.969,353.141,357.511,362.841,368.141,372.381,375.961,380.201,385.631,389.871,394.171,396.001,400.991,406.491,408.587,412.297,419.447,426.517,428.817,431.149,438.069,443.389,446.049,450.219,455.519,457.511,462.181,467.511,471.821,475.531,479.841,485.121,488.111,492.421,496.651,500.351,502.355,506.065,510.275,515.405,518.065,523.365,525.656,528.176,530.736,533.826,539.146,541.706,547.006,557.233,561.473,566.463,571.933" svgx:width="0.69,0.43,0.25,0.25,0.55,0.53,0.27,0.37,0.31,0.37,0.27,0.51,0.53,0.31,0.43,0.53,0.55,0.55,0.44,0.55,0.51,0.42,0.53,0.51,0.43,0.37,0.55,0.44,0.55,0.53,0.55,0.37,0.31,0.37,0.51,0.55,0.47,0.55,0.44,0.53,0.53,0.43,0.37,0.43,0.55,0.42,0.43,0.55,0.51,0.55,0.55,0.37,0.71,0.75,0.23,0.55,0.69,0.53,0.27,0.42,0.53,0.55,0.47,0.53,0.44,0.37,0.44,0.55,0.31,0.43,0.43,0.37,0.55,0.37,0.44,0.52,0.27,0.53,0.55,0.25,0.27,0.31,0.53,0.27,0.53,0.82,0.42,0.51,0.55,0.36" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">well distributed nanocubes and strong adherence on rGO, which guarantees rapid lithiumcon-</text>
+   <text y="500.371" x="200.015,204.565,208.805,212.445,216.095,218.755,223.745,229.245,231.309,234.889,239.189,243.559,247.849,250.949,253.609,258.599,264.099,265.891,270.201,275.631,280.931,283.126,288.446,291.116,295.856,301.156,303.138,307.338,309.848,314.158,318.448,321.548,325.128,330.118,335.568,338.228,342.428,344.24,348.48,353.47,358.9,364.06,369.35,373.64,376.74,379.35,384.01,386.57,389.64,393.49,395.79,398.268,404.428,409.728,413.968,417.548,421.788,424.668,429.658,433.238,437.428,439.728,441.864,444.954,450.254,454.55400000000003,456.604,461.594,467.024,471.274,474.834,478.454,481.444,485.684,490.884,493.001,498.131,501.711,506.901,511.141,515.371,518.991,522.691,524.692,527.342,531.042,533.139,537.539,539.715,542.685,547.055,551.285,554.015,556.525" svgx:width="0.46,0.43,0.37,0.37,0.27,0.51,0.55,0.55,0.37,0.43,0.44,0.42,0.31,0.27,0.51,0.55,0.55,0.44,0.55,0.53,0.55,0.53,0.27,0.47,0.53,0.55,0.43,0.25,0.43,0.42,0.31,0.37,0.51,0.55,0.27,0.42,0.55,0.42,0.51,0.55,0.53,0.53,0.42,0.31,0.27,0.46,0.27,0.31,0.46,0.23,0.55,0.62,0.53,0.43,0.37,0.43,0.3,0.51,0.37,0.43,0.23,0.55,0.31,0.53,0.43,0.55,0.51,0.55,0.43,0.36,0.37,0.31,0.43,0.52,0.55,0.52,0.37,0.51,0.42,0.43,0.37,0.37,0.55,0.27,0.37,0.55,0.44,0.55,0.3,0.44,0.42,0.27,0.25,0.43" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">version reaction and high electronic conductivity. Therefore, the one-step process is a facile</text>
+   <text y="513.41" x="200.015,204.325,209.755,215.055,217.192,222.322,225.902,230.892,239.062,241.712,245.362,248.032,253.422,258.122,260.279,268.429,272.669,275.759,281.059,286.249,291.54900000000004,293.331,296.321,301.42100000000005,303.592,306.562,310.862,315.832,319.582,322.242,326.502,330.712,333.702,338.002,340.102,348.252,352.492,355.602,360.032,362.532,364.48,369.42,374.14,376.8,382.06,386.31,389.62,393.33,400.48,409.777,414.017,419.007,427.007,432.337,437.427,441.077,443.637,446.627,450.857,454.557,456.604,459.484,464.474,468.174,470.324,475.704,479.114,485.01399999999995,487.048,491.258,496.388,501.568,504.088,506.748,511.008,515.218,518.318,520.978,525.968,531.358,535.028,537.328,539.602,542.622,545.722,548.163,552.423,556.733,562.233,564.32,569.49" svgx:width="0.44,0.55,0.53,0.55,0.52,0.37,0.51,0.82,0.27,0.37,0.27,0.55,0.47,0.55,0.82,0.43,0.31,0.53,0.51,0.53,0.55,0.31,0.51,0.55,0.3,0.44,0.51,0.37,0.27,0.42,0.44,0.31,0.43,0.55,0.82,0.43,0.31,0.44,0.25,0.55,0.51,0.47,0.27,0.53,0.43,0.33,0.37,0.71,0.75,0.42,0.51,0.82,0.52,0.51,0.37,0.27,0.31,0.43,0.37,0.55,0.3,0.51,0.37,0.55,0.54,0.34,0.59,0.55,0.44,0.52,0.52,0.25,0.27,0.42,0.44,0.31,0.27,0.51,0.55,0.37,0.23,0.55,0.34,0.31,0.55,0.42,0.44,0.55,0.55,0.51,0.43" style="fill:rgb(0,0,0);font-family:MinionPro-Regular;font-size:10.0px;stroke:none;">and promising method to fabricate metal oxide/rGOcomposites for LIB applications. It can be</text>
+  </g>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M36.000 541.500 L576.000 541.500 L576.000 542.000 L36.000 542.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M36.000 542.000 L169.550 542.000 L169.550 544.000 L36.000 544.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 544.000 L169.550 566.500 L169.050 566.000 L169.050 544.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 566.500 L36.000 566.500 L36.000 566.000 L169.050 566.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 542.000 L268.480 542.000 L268.480 544.000 L169.550 544.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 544.000 L268.480 566.500 L267.980 566.000 L267.980 544.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 566.500 L169.550 566.500 L169.550 566.000 L267.980 566.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 542.000 L349.490 542.000 L349.490 544.000 L268.480 544.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 544.000 L349.490 566.500 L348.990 566.000 L348.990 544.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 566.500 L268.480 566.500 L268.480 566.000 L348.990 566.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 542.000 L416.000 542.000 L416.000 544.000 L349.490 544.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 544.000 L416.000 566.500 L415.500 566.000 L415.500 544.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 566.500 L349.490 566.500 L349.490 566.000 L415.500 566.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 542.000 L540.820 542.000 L540.820 544.000 L416.000 544.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 544.000 L540.820 566.500 L540.320 566.000 L540.320 544.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 566.500 L416.000 566.500 L416.000 566.000 L540.320 566.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 542.000 L576.000 542.000 L576.000 544.000 L540.820 544.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M576.000 566.500 L540.820 566.500 L540.820 566.000 L576.000 566.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 566.500 L169.550 588.500 L169.050 588.000 L169.050 566.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 588.500 L36.000 588.500 L36.000 588.000 L169.050 588.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 566.500 L268.480 588.500 L267.980 588.000 L267.980 566.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 588.500 L169.550 588.500 L169.550 588.000 L267.980 588.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 566.500 L349.490 588.500 L348.990 588.000 L348.990 566.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 588.500 L268.480 588.500 L268.480 588.000 L348.990 588.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 566.500 L416.000 588.500 L415.500 588.000 L415.500 566.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 588.500 L349.490 588.500 L349.490 588.000 L415.500 588.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 566.500 L540.820 588.500 L540.320 588.000 L540.320 566.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 588.500 L416.000 588.500 L416.000 588.000 L540.320 588.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M576.000 588.500 L540.820 588.500 L540.820 588.000 L576.000 588.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 588.500 L169.550 601.000 L169.050 600.500 L169.050 588.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 601.000 L36.000 601.000 L36.000 600.500 L169.050 600.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 588.500 L268.480 601.000 L267.980 600.500 L267.980 588.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 601.000 L169.550 601.000 L169.550 600.500 L267.980 600.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 588.500 L349.490 601.000 L348.990 600.500 L348.990 588.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 601.000 L268.480 601.000 L268.480 600.500 L348.990 600.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 588.500 L416.000 601.000 L415.500 600.500 L415.500 588.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 601.000 L349.490 601.000 L349.490 600.500 L415.500 600.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 588.500 L540.820 601.000 L540.320 600.500 L540.320 588.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 601.000 L416.000 601.000 L416.000 600.500 L540.320 600.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M576.000 601.000 L540.820 601.000 L540.820 600.500 L576.000 600.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 601.000 L169.550 623.000 L169.050 622.500 L169.050 601.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 623.000 L36.000 623.000 L36.000 622.500 L169.050 622.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 601.000 L268.480 623.000 L267.980 622.500 L267.980 601.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 623.000 L169.550 623.000 L169.550 622.500 L267.980 622.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 601.000 L349.490 623.000 L348.990 622.500 L348.990 601.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 623.000 L268.480 623.000 L268.480 622.500 L348.990 622.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 601.000 L416.000 623.000 L415.500 622.500 L415.500 601.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 623.000 L349.490 623.000 L349.490 622.500 L415.500 622.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 601.000 L540.820 623.000 L540.320 622.500 L540.320 601.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 623.000 L416.000 623.000 L416.000 622.500 L540.320 622.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M576.000 623.000 L540.820 623.000 L540.820 622.500 L576.000 622.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 623.000 L169.550 635.500 L169.050 635.000 L169.050 623.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 635.500 L36.000 635.500 L36.000 635.000 L169.050 635.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 623.000 L268.480 635.500 L267.980 635.000 L267.980 623.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 635.500 L169.550 635.500 L169.550 635.000 L267.980 635.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 623.000 L349.490 635.500 L348.990 635.000 L348.990 623.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 635.500 L268.480 635.500 L268.480 635.000 L348.990 635.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 623.000 L416.000 635.500 L415.500 635.000 L415.500 623.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 635.500 L349.490 635.500 L349.490 635.000 L415.500 635.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 623.000 L540.820 635.500 L540.320 635.000 L540.320 623.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 635.500 L416.000 635.500 L416.000 635.000 L540.320 635.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M576.000 635.500 L540.820 635.500 L540.820 635.000 L576.000 635.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 635.500 L169.550 657.500 L169.050 657.000 L169.050 635.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 657.500 L36.000 657.500 L36.000 657.000 L169.050 657.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 635.500 L268.480 657.500 L267.980 657.000 L267.980 635.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 657.500 L169.550 657.500 L169.550 657.000 L267.980 657.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 635.500 L349.490 657.500 L348.990 657.000 L348.990 635.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 657.500 L268.480 657.500 L268.480 657.000 L348.990 657.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 635.500 L416.000 657.500 L415.500 657.000 L415.500 635.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 657.500 L349.490 657.500 L349.490 657.000 L415.500 657.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 635.500 L540.820 657.500 L540.320 657.000 L540.320 635.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 657.500 L416.000 657.500 L416.000 657.000 L540.320 657.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M576.000 657.500 L540.820 657.500 L540.820 657.000 L576.000 657.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 657.500 L169.550 670.000 L169.050 669.500 L169.050 657.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 670.000 L36.000 670.000 L36.000 669.500 L169.050 669.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 657.500 L268.480 670.000 L267.980 669.500 L267.980 657.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 670.000 L169.550 670.000 L169.550 669.500 L267.980 669.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 657.500 L349.490 670.000 L348.990 669.500 L348.990 657.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 670.000 L268.480 670.000 L268.480 669.500 L348.990 669.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 657.500 L416.000 670.000 L415.500 669.500 L415.500 657.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 670.000 L349.490 670.000 L349.490 669.500 L415.500 669.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 657.500 L540.820 670.000 L540.320 669.500 L540.320 657.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 670.000 L416.000 670.000 L416.000 669.500 L540.320 669.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M576.000 670.000 L540.820 670.000 L540.820 669.500 L576.000 669.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 670.000 L169.550 682.500 L169.050 682.000 L169.050 670.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 682.500 L36.000 682.500 L36.000 682.000 L169.050 682.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 670.000 L268.480 682.500 L267.980 682.000 L267.980 670.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 682.500 L169.550 682.500 L169.550 682.000 L267.980 682.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 670.000 L349.490 682.500 L348.990 682.000 L348.990 670.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 682.500 L268.480 682.500 L268.480 682.000 L348.990 682.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 670.000 L416.000 682.500 L415.500 682.000 L415.500 670.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 682.500 L349.490 682.500 L349.490 682.000 L415.500 682.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 670.000 L540.820 682.500 L540.320 682.000 L540.320 670.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 682.500 L416.000 682.500 L416.000 682.000 L540.320 682.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M576.000 682.500 L540.820 682.500 L540.820 682.000 L576.000 682.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 697.000 L36.000 697.000 L36.000 695.000 L169.550 695.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 682.500 L169.550 695.000 L169.050 694.500 L169.050 682.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M169.550 695.000 L36.000 695.000 L36.000 694.500 L169.050 694.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 697.000 L169.550 697.000 L169.550 695.000 L268.480 695.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 682.500 L268.480 695.000 L267.980 694.500 L267.980 682.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M268.480 695.000 L169.550 695.000 L169.550 694.500 L267.980 694.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 697.000 L268.480 697.000 L268.480 695.000 L349.490 695.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 682.500 L349.490 695.000 L348.990 694.500 L348.990 682.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M349.490 695.000 L268.480 695.000 L268.480 694.500 L348.990 694.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 697.000 L349.490 697.000 L349.490 695.000 L416.000 695.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 682.500 L416.000 695.000 L415.500 694.500 L415.500 682.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M416.000 695.000 L349.490 695.000 L349.490 694.500 L415.500 694.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 697.000 L416.000 697.000 L416.000 695.000 L540.820 695.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 682.500 L540.820 695.000 L540.320 694.500 L540.320 682.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M540.820 695.000 L416.000 695.000 L416.000 694.500 L540.320 694.500 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M576.000 697.000 L540.820 697.000 L540.820 695.000 L576.000 695.000 "/>
+  <path style="fill:rgb(155,154,156);stroke:none;stroke-width:1.0;" d="M576.000 695.000 L540.820 695.000 L540.820 694.500 L576.000 694.500 "/>
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M554.000 599.070 L562.790 599.070 Z"/>
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M554.000 611.600 L562.790 611.600 Z"/>
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M554.000 633.600 L562.790 633.600 Z"/>
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M554.000 646.070 L562.790 646.070 Z"/>
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M554.000 668.070 L562.790 668.070 Z"/>
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M554.000 680.600 L562.790 680.600 Z"/>
+  <path style="fill:rgb(59,90,166);stroke:none;stroke-width:1.0;" d="M554.000 693.070 L562.790 693.070 Z"/>
+  <g begin="text">
+   <text y="536.655" x="36.0,40.912,45.328,50.24,52.488,56.888,58.62,63.036,65.276,68.768,74.512,79.423,86.503,91.415,95.831,98.911,101.159,105.575,110.381,115.261,117.07,121.982,124.622,126.368,129.032,133.944,138.344,140.087,145.831,150.743,153.407,160.071,164.951,166.676,171.588,176.004,178.252,183.164,187.58,191.98000000000002,193.719,198.135,200.383,204.799,209.215,211.879,214.959,219.871,224.286,229.094,233.51,240.59,242.838,247.254,251.67,253.91,255.627,260.539,264.955,268.035,270.699,275.611,278.691,285.674,290.09,295.002,299.417,303.81699999999995,305.573,310.485,314.901,317.565,323.813,328.229,332.645,337.525,339.192,341.856,346.768,349.016,353.416,355.179,361.427,366.339,369.419,373.81899999999996,375.532,379.948,384.86,389.74,391.52,394.184,399.095,403.495,405.239,410.151,413.23,417.646,422.062,424.31,429.222,434.039,438.43899999999996,440.218,443.298,447.714,452.626,457.538,460.618,463.282,467.601" svgx:width="0.61,0.55,0.61,0.28,0.55,0.55,0.55,0.28,0.55,0.72,0.61,0.88,0.61,0.55,0.38,0.28,0.55,0.61,0.61,0.55,0.61,0.33,0.55,0.33,0.61,0.55,0.55,0.72,0.61,0.33,0.83,0.61,0.55,0.61,0.55,0.28,0.61,0.55,0.55,0.55,0.55,0.28,0.55,0.55,0.33,0.38,0.61,0.55,0.61,0.55,0.88,0.28,0.55,0.55,0.28,0.55,0.61,0.55,0.38,0.33,0.61,0.38,0.88,0.55,0.61,0.55,0.55,0.55,0.61,0.55,0.33,0.78,0.55,0.55,0.61,0.55,0.33,0.61,0.28,0.55,0.55,0.78,0.61,0.38,0.55,0.55,0.55,0.61,0.61,0.55,0.33,0.61,0.55,0.55,0.61,0.38,0.55,0.55,0.28,0.61,0.61,0.55,0.55,0.38,0.55,0.61,0.61,0.38,0.33,0.55,0.28" style="fill:rgb(0,0,0);font-family:Helvetica-Bold;font-size:8.0px;stroke:none;">Table 1. Comparison of the Co-Mn oxides electrochemical performance between this work and the previous reports.</text>
+   <text y="553.493" x="72.85,78.594,83.506,90.586,95.498,97.746,102.162,106.56200000000001,108.339,113.251,117.667,119.915,124.827,129.227,181.813,187.557,191.973,196.389,200.805,203.885,208.301,210.549,215.461,217.709,222.109,223.879,228.295,232.711,237.623,242.039,246.455,248.703,251.367" svgx:width="0.72,0.61,0.88,0.61,0.28,0.55,0.55,0.55,0.61,0.55,0.28,0.61,0.55,0.55,0.72,0.55,0.55,0.55,0.38,0.55,0.28,0.61,0.28,0.55,0.55,0.55,0.55,0.61,0.55,0.55,0.28,0.33,0.55" style="fill:rgb(0,0,0);font-family:Helvetica-Bold;font-size:8.0px;stroke:none;">Complex oxide Reversible capacity</text>
+   <text y="563.017" x="201.259,203.923,211.003,216.747,221.627,223.426" svgx:width="0.33,0.88,0.72,0.61,0.55,0.61" style="fill:rgb(0,0,0);font-family:Helvetica-Bold;font-size:8.0px;stroke:none;">(mAh g</text>
+  </g>
+  <g begin="text">
+   <text y="559.446" x="228.302,230.3" svgx:width="0.33,0.55" style="fill:rgb(0,0,0);font-family:Helvetica-Bold;font-size:5.33px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="563.017" x="233.631" svgx:width="0.33" style="fill:rgb(0,0,0);font-family:Helvetica-Bold;font-size:8.0px;stroke:none;">)</text>
+   <text y="553.494" x="270.481,276.225,281.137,284.217,287.297,291.713,296.625,299.265,301.039,305.951,310.366,315.278,319.694,321.942,324.606,329.006,330.802,333.466,340.546" svgx:width="0.72,0.61,0.38,0.38,0.55,0.61,0.33,0.55,0.61,0.55,0.61,0.55,0.28,0.33,0.55,0.55,0.33,0.88,0.72" style="fill:rgb(0,0,0);font-family:Helvetica-Bold;font-size:8.0px;stroke:none;">Current density (mA</text>
+   <text y="563.017" x="270.481" svgx:width="0.61" style="fill:rgb(0,0,0);font-family:Helvetica-Bold;font-size:8.0px;stroke:none;">g</text>
+  </g>
+  <g begin="text">
+   <text y="559.446" x="275.357,277.355" svgx:width="0.33,0.55" style="fill:rgb(0,0,0);font-family:Helvetica-Bold;font-size:5.33px;stroke:none;">-1</text>
+  </g>
+  <g begin="text">
+   <text y="563.017" x="280.687" svgx:width="0.33" style="fill:rgb(0,0,0);font-family:Helvetica-Bold;font-size:8.0px;stroke:none;">)</text>
+   <text y="553.494" x="365.895,371.639,376.055,380.967,385.383,389.799,392.047,394.711" svgx:width="0.72,0.55,0.61,0.55,0.55,0.28,0.33,0.55" style="fill:rgb(0,0,0);font-family:Helvetica-Bold;font-size:8.0px;stroke:none;">Capacity</text>
+   <text y="563.017" x="365.442,368.522,372.937,375.601,380.017,384.929,387.593,389.841,394.639" svgx:width="0.38,0.55,0.33,0.55,0.61,0.33,0.28,0.61,0.61" style="fill:rgb(0,0,0);font-family:Helvetica-Bold;font-size:8.0px;stroke:none;">retention</text>
+   <text y="553.494" x="450.651,455.979,460.395,465.307,467.971,472.883,477.299,481.715,483.962,488.36199999999997,490.109,493.189,498.101,503.013,505.65299999999996,550.883,556.627,561.043,563.707" svgx:width="0.67,0.55,0.61,0.33,0.61,0.55,0.55,0.28,0.55,0.55,0.38,0.61,0.61,0.33,0.55,0.72,0.55,0.33,0.28" style="fill:rgb(0,0,0);font-family:Helvetica-Bold;font-size:8.0px;stroke:none;">Synthesis rout Ref.</text>
+   <text y="576.0" x="52.499,55.163,60.907,65.323,67.571,74.235,78.651" svgx:width="0.33,0.72,0.55,0.28,0.83,0.55,0.33" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">(Co,Mn)</text>
+  </g>
+  <g begin="text">
+   <text y="577.304" x="81.241" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">3</text>
+  </g>
+  <g begin="text">
+   <text y="576.0" x="84.586" svgx:width="0.78" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">O</text>
+  </g>
+  <g begin="text">
+   <text y="577.304" x="90.822" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">4</text>
+  </g>
+  <g begin="text">
+   <text y="576.0" x="94.11,96.358,99.022,105.27,113.328,117.328,121.744,128.408,132.824,137.24,141.24,142.866,145.114,149.514,188.616,193.032,197.448,201.864,204.112,208.528,210.776,215.192,219.608" svgx:width="0.28,0.33,0.78,0.78,0.5,0.55,0.83,0.55,0.55,0.5,0.22,0.28,0.55,0.55,0.55,0.55,0.55,0.28,0.55,0.28,0.55,0.55,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">/rGOcomposite 939.1/140</text>
+  </g>
+  <g begin="text">
+   <text y="572.428" x="223.937,225.623" svgx:width="0.28,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">th</text>
+  </g>
+  <g begin="text">
+   <text y="576.0" x="230.797,234.797,238.797,242.797,244.541,248.941,302.116,306.532,310.948,315.34799999999996,371.224,375.64,380.056,382.304,386.72,393.76000000000005,438.121,444.369,448.785,453.185,454.959,458.959,461.207,465.623,470.02299999999997,471.854,476.27,480.27,484.686,487.35,491.766,494.013,498.429,502.845,505.509,512.049,516.464,518.224,550.883,555.795,560.211,561.955" svgx:width="0.5,0.5,0.5,0.22,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.28,0.55,0.88,0.55,0.78,0.55,0.55,0.55,0.5,0.28,0.55,0.55,0.55,0.55,0.5,0.55,0.33,0.55,0.28,0.55,0.55,0.33,0.83,0.55,0.22,0.55,0.61,0.55,0.22,0.5" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">cycle 200 98.8% One step hydrothermal This</text>
+   <text y="585.524" x="550.033,555.777,560.193,562.857" svgx:width="0.72,0.55,0.33,0.5" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">work</text>
+   <text y="597.997" x="36.342,43.006,47.422,53.165" svgx:width="0.83,0.55,0.72,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">MnCo</text>
+  </g>
+  <g begin="text">
+   <text y="599.357" x="57.487" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">2</text>
+  </g>
+  <g begin="text">
+   <text y="597.997" x="60.831" svgx:width="0.78" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">O</text>
+  </g>
+  <g begin="text">
+   <text y="599.357" x="67.011" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">4</text>
+  </g>
+  <g begin="text">
+   <text y="597.997" x="72.17,76.586,81.002,85.418,89.418,91.162,93.826,98.242,102.658,104.402,106.146,110.562,118.034,124.698,126.442,130.442,133.106,137.522,141.522,145.938,150.354,154.77,157.322,161.738,165.738,191.961,196.377,200.793,205.209,207.457,211.873,216.289" svgx:width="0.55,0.55,0.55,0.5,0.22,0.33,0.55,0.55,0.22,0.22,0.55,0.72,0.83,0.22,0.5,0.33,0.55,0.5,0.55,0.55,0.55,0.33,0.55,0.5,0.55,0.55,0.55,0.55,0.28,0.55,0.55,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">quasi-hollowmicrospheres 610/100</text>
+  </g>
+  <g begin="text">
+   <text y="594.425" x="220.649,222.335" svgx:width="0.28,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">th</text>
+  </g>
+  <g begin="text">
+   <text y="597.997" x="227.452,231.452,235.452,239.452,241.196,245.596,302.116,306.532,310.948,315.34799999999996,371.224,375.64,380.056,382.304,386.72,393.76000000000005,429.391,434.719,439.135,440.879,444.879,449.295,451.543,455.959,460.375,463.039,469.586,474.002,475.762,477.579,481.995,486.411,490.811,492.603,497.019,501.435,505.851,510.267,514.683,516.427,518.171,522.587,526.987,551.79" svgx:width="0.5,0.5,0.5,0.22,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.28,0.55,0.88,0.55,0.67,0.55,0.22,0.5,0.55,0.28,0.55,0.55,0.33,0.83,0.55,0.22,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.22,0.22,0.55,0.55,0.55,0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">cycle 400 89.7% Solvothermal and annealing [</text>
+   <text y="597.997" x="554.038,558.454" svgx:width="0.55,0.55" style="fill:rgb(59,90,166);font-family:Helvetica;font-size:8.0px;stroke:none;">33</text>
+   <text y="597.997" x="562.87" svgx:width="0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">]</text>
+   <text y="610.526" x="44.562,50.306,54.722,59.138,63.554,65.198,69.614,72.278,76.278,80.694,85.11,86.854,88.598,93.014,97.414,99.214,104.957,109.373,116.037" svgx:width="0.72,0.55,0.55,0.55,0.22,0.55,0.33,0.5,0.55,0.55,0.22,0.22,0.55,0.55,0.55,0.72,0.55,0.83,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">Double-shelled CoMn</text>
+  </g>
+  <g begin="text">
+   <text y="611.83" x="120.416" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">2</text>
+  </g>
+  <g begin="text">
+   <text y="610.526" x="123.704" svgx:width="0.78" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">O</text>
+  </g>
+  <g begin="text">
+   <text y="611.83" x="129.94" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">4</text>
+  </g>
+  <g begin="text">
+   <text y="610.526" x="135.099,139.515,143.931,145.675,147.419,151.835" svgx:width="0.55,0.55,0.22,0.22,0.55,0.72" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">hollow</text>
+   <text y="619.993" x="80.731,87.395,89.139,93.139,95.803,100.219,104.219,108.635,112.933,117.349" svgx:width="0.83,0.22,0.5,0.33,0.55,0.5,0.55,0.55,0.55,0.5" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">microcubes</text>
+   <text y="610.526" x="194.173,198.589,203.005,207.421,209.669,214.085" svgx:width="0.55,0.55,0.55,0.28,0.55,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">624/50</text>
+  </g>
+  <g begin="text">
+   <text y="606.954" x="218.438,220.124" svgx:width="0.28,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">th</text>
+  </g>
+  <g begin="text">
+   <text y="610.526" x="225.241,229.241,233.241,237.241,238.985,243.38500000000002,302.116,306.532,310.948,315.34799999999996,371.224,375.64,380.056,382.304,386.72,393.76000000000005,424.798,430.542,434.958,437.622,442.038,444.702,449.006,453.006,454.75,459.166,460.91,463.158,467.574,469.822,471.566,475.982,480.382,482.171,486.587,491.003,495.40299999999996,497.252,501.668,506.084,510.5,514.916,519.332,521.076,522.819,527.129,531.529,551.79" svgx:width="0.5,0.5,0.5,0.22,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.28,0.55,0.88,0.55,0.72,0.55,0.33,0.55,0.33,0.55,0.5,0.22,0.55,0.22,0.28,0.55,0.28,0.22,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.22,0.22,0.55,0.55,0.55,0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">cycle 200 75.5% Co-precipitation and annealing [</text>
+   <text y="610.526" x="554.038,558.454" svgx:width="0.55,0.55" style="fill:rgb(59,90,166);font-family:Helvetica;font-size:8.0px;stroke:none;">12</text>
+   <text y="610.526" x="562.87" svgx:width="0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">]</text>
+   <text y="632.523" x="70.3,76.044,80.46,87.124" svgx:width="0.72,0.55,0.83,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">CoMn</text>
+  </g>
+  <g begin="text">
+   <text y="633.827" x="91.502" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">2</text>
+  </g>
+  <g begin="text">
+   <text y="632.523" x="94.79" svgx:width="0.78" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">O</text>
+  </g>
+  <g begin="text">
+   <text y="633.827" x="101.027" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">4</text>
+  </g>
+  <g begin="text">
+   <text y="632.523" x="106.186,110.602,115.018,120.762,125.178,127.842,131.84199999999998,194.173,198.589,203.005,207.421,209.669,214.084" svgx:width="0.55,0.55,0.72,0.55,0.33,0.5,0.55,0.55,0.55,0.55,0.28,0.55,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">powers 330/50</text>
+  </g>
+  <g begin="text">
+   <text y="628.951" x="218.438,220.124" svgx:width="0.28,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">th</text>
+  </g>
+  <g begin="text">
+   <text y="632.523" x="225.241,229.241,233.241,237.241,238.985,243.38500000000002,304.327,308.743,313.143,371.224,375.64,380.056,382.304,386.72,393.76000000000005,424.798,430.542,434.958,437.622,442.038,444.702,449.006,453.006,454.75,459.166,460.91,463.158,467.574,469.822,471.566,475.982,480.382,482.171,486.587,491.003,495.40299999999996,497.252,501.668,506.084,510.5,514.916,519.332,521.076,522.819,527.129,531.529,551.79" svgx:width="0.5,0.5,0.5,0.22,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.28,0.55,0.88,0.55,0.72,0.55,0.33,0.55,0.33,0.55,0.5,0.22,0.55,0.22,0.28,0.55,0.28,0.22,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.22,0.22,0.55,0.55,0.55,0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">cycle 80 70.2% Co-precipitation and annealing [</text>
+   <text y="632.523" x="554.038,558.454" svgx:width="0.55,0.55" style="fill:rgb(59,90,166);font-family:Helvetica;font-size:8.0px;stroke:none;">38</text>
+   <text y="632.523" x="562.87" svgx:width="0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">]</text>
+   <text y="644.995" x="61.229,66.973,71.389,78.053" svgx:width="0.72,0.55,0.83,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">CoMn</text>
+  </g>
+  <g begin="text">
+   <text y="646.356" x="82.431" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">2</text>
+  </g>
+  <g begin="text">
+   <text y="644.995" x="85.72" svgx:width="0.78" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">O</text>
+  </g>
+  <g begin="text">
+   <text y="646.356" x="91.956" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">4</text>
+  </g>
+  <g begin="text">
+   <text y="644.995" x="97.115,103.779,105.523,109.523,112.187,116.603,120.603,125.019,129.434,133.738,136.402,140.802,194.172,198.588,203.004,207.42,209.668,214.084" svgx:width="0.83,0.22,0.5,0.33,0.55,0.5,0.55,0.55,0.55,0.33,0.55,0.55,0.55,0.55,0.55,0.28,0.55,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">microsphere 894/65</text>
+  </g>
+  <g begin="text">
+   <text y="641.424" x="218.438,220.124" svgx:width="0.28,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">th</text>
+  </g>
+  <g begin="text">
+   <text y="644.995" x="225.241,229.241,233.241,237.241,238.985,243.38500000000002,302.116,306.532,310.948,315.34799999999996,371.224,375.64,380.056,382.304,386.72,393.76000000000005,433.302,438.63,443.046,444.79,448.79,453.206,455.454,459.87,464.286,466.95,473.498,477.914,479.674,481.491,485.907,490.323,494.72299999999996,496.515,498.763,503.179,507.595,510.259,516.923,521.339" svgx:width="0.5,0.5,0.5,0.22,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.28,0.55,0.88,0.55,0.67,0.55,0.22,0.5,0.55,0.28,0.55,0.55,0.33,0.83,0.55,0.22,0.55,0.55,0.55,0.55,0.55,0.28,0.55,0.55,0.33,0.83,0.55,0.22" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">cycle 100 94.9% Solvothermal and thermal</text>
+   <text y="654.519" x="452.578,456.994,461.41,465.41,469.826,476.49,480.906,485.322,489.202,490.946,493.194,494.937,499.353" svgx:width="0.55,0.55,0.5,0.55,0.83,0.55,0.55,0.5,0.22,0.28,0.22,0.55,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">decomposition</text>
+   <text y="644.995" x="551.79" svgx:width="0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">[</text>
+   <text y="644.995" x="554.038,558.454" svgx:width="0.55,0.55" style="fill:rgb(59,90,166);font-family:Helvetica;font-size:8.0px;stroke:none;">13</text>
+   <text y="644.995" x="562.87" svgx:width="0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">]</text>
+   <text y="666.992" x="67.012,73.676,78.092,83.836" svgx:width="0.83,0.55,0.72,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">MnCo</text>
+  </g>
+  <g begin="text">
+   <text y="668.353" x="88.214" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">2</text>
+  </g>
+  <g begin="text">
+   <text y="666.992" x="91.502" svgx:width="0.78" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">O</text>
+  </g>
+  <g begin="text">
+   <text y="668.353" x="97.739" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">4</text>
+  </g>
+  <g begin="text">
+   <text y="666.992" x="102.898,107.314,111.729,116.145,120.561,126.305,128.049,130.713,135.113,190.828,195.244,199.66,204.076,206.324,210.739,212.987,217.403" svgx:width="0.55,0.55,0.55,0.55,0.72,0.22,0.33,0.55,0.55,0.55,0.55,0.55,0.28,0.55,0.28,0.55,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">nanowire 895.8/50</text>
+  </g>
+  <g begin="text">
+   <text y="663.421" x="221.726,223.412" svgx:width="0.28,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">th</text>
+  </g>
+  <g begin="text">
+   <text y="666.992" x="228.586,232.586,236.586,240.586,242.33,246.73000000000002,302.116,306.532,310.948,315.34799999999996,371.224,375.64,380.056,382.304,386.72,393.76000000000005,429.39,433.806,437.806,442.222,444.886,449.302,451.55,455.966,460.382,463.046,469.586,474.002,475.762,477.579,481.995,486.411,490.811,492.603,497.019,501.435,505.851,510.267,514.683,516.427,518.171,522.587,526.987,551.791" svgx:width="0.5,0.5,0.5,0.22,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.28,0.55,0.88,0.55,0.55,0.5,0.55,0.33,0.55,0.28,0.55,0.55,0.33,0.83,0.55,0.22,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.22,0.22,0.55,0.55,0.55,0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">cycle 100 92.7% hydrothermal and annealing [</text>
+   <text y="666.992" x="554.039,558.454" svgx:width="0.55,0.55" style="fill:rgb(59,90,166);font-family:Helvetica;font-size:8.0px;stroke:none;">42</text>
+   <text y="666.992" x="562.87" svgx:width="0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">]</text>
+   <text y="679.521" x="67.012,73.676,78.092,83.836" svgx:width="0.83,0.55,0.72,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">MnCo</text>
+  </g>
+  <g begin="text">
+   <text y="680.825" x="88.214" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">2</text>
+  </g>
+  <g begin="text">
+   <text y="679.521" x="91.502" svgx:width="0.78" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">O</text>
+  </g>
+  <g begin="text">
+   <text y="680.825" x="97.739" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">4</text>
+  </g>
+  <g begin="text">
+   <text y="679.521" x="102.898,107.314,111.729,116.145,120.561,126.305,128.049,130.713,135.113,194.172,198.588,203.004,207.42,209.668,214.084" svgx:width="0.55,0.55,0.55,0.55,0.72,0.22,0.33,0.55,0.55,0.55,0.55,0.55,0.28,0.55,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">nanowire 450/30</text>
+  </g>
+  <g begin="text">
+   <text y="675.95" x="218.438,220.124" svgx:width="0.28,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">th</text>
+  </g>
+  <g begin="text">
+   <text y="679.521" x="225.241,229.241,233.241,237.241,238.985,243.38500000000002,302.116,306.532,310.948,315.34799999999996,371.224,375.64,380.056,382.304,386.72,393.76000000000005,429.39,434.718,439.134,440.878,444.878,449.294,451.542,455.958,460.374,463.038,469.586,474.002,475.762,477.579,481.995,486.411,490.811,492.603,497.019,501.435,505.851,510.267,514.683,516.427,518.171,522.587,526.987,551.79" svgx:width="0.5,0.5,0.5,0.22,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.28,0.55,0.88,0.55,0.67,0.55,0.22,0.5,0.55,0.28,0.55,0.55,0.33,0.83,0.55,0.22,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.22,0.22,0.55,0.55,0.55,0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">cycle 800 75.4% Solvothermal and annealing [</text>
+   <text y="679.521" x="554.038,558.454" svgx:width="0.55,0.55" style="fill:rgb(59,90,166);font-family:Helvetica;font-size:8.0px;stroke:none;">43</text>
+   <text y="679.521" x="562.87" svgx:width="0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">]</text>
+   <text y="691.993" x="52.612,58.356,64.1,69.012,77.092,82.835,87.138,93.802" svgx:width="0.72,0.72,0.61,1.01,0.72,0.55,0.83,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">CNF@CoMn</text>
+  </g>
+  <g begin="text">
+   <text y="693.354" x="98.192" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">2</text>
+  </g>
+  <g begin="text">
+   <text y="691.994" x="101.537" svgx:width="0.78" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">O</text>
+  </g>
+  <g begin="text">
+   <text y="693.354" x="107.773" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">4</text>
+  </g>
+  <g begin="text">
+   <text y="691.994" x="112.876,117.291,121.707,126.123,130.539,134.539,138.955,143.371,145.115,149.51500000000001,191.962,196.378,200.794,205.21,207.458,211.873,216.289" svgx:width="0.55,0.55,0.55,0.55,0.5,0.55,0.55,0.22,0.55,0.55,0.55,0.55,0.55,0.28,0.55,0.55,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">nanocable 870/150</text>
+  </g>
+  <g begin="text">
+   <text y="688.422" x="220.649,222.335" svgx:width="0.28,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">th</text>
+  </g>
+  <g begin="text">
+   <text y="691.994" x="227.452,231.452,235.452,239.452,241.196,245.596,302.116,306.532,310.948,315.34799999999996,374.569,378.985,383.401,390.44100000000003,436.024,441.768,446.184,450.184,454.599,458.599,460.343,464.759,469.159,470.946,475.362,479.778,484.178,485.97,490.386,494.802,499.218,503.634,508.05,509.794,511.538,515.954,520.3539999999999,551.79" svgx:width="0.5,0.5,0.5,0.22,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.88,0.55,0.72,0.55,0.5,0.55,0.5,0.22,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.22,0.22,0.55,0.55,0.55,0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">cycle 200 98% Reﬂuxing and annealing [</text>
+   <text y="691.994" x="554.038,558.454" svgx:width="0.55,0.55" style="fill:rgb(59,90,166);font-family:Helvetica;font-size:8.0px;stroke:none;">44</text>
+   <text y="691.994" x="562.87" svgx:width="0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">]</text>
+   <text y="709.002" x="36.001,40.001,44.001,45.745,47.745,51.545,55.345,57.145,60.945,64.631,68.431,72.231,74.279,75.823,79.623,83.423,85.886,89.686,93.062,94.606,96.406,100.206,104.006,107.806,111.062,112.862,116.662,120.462,124.262,128.062,131.862,135.662,139.462,141.262,143.31,147.11,150.91" svgx:width="0.5,0.5,0.22,0.25,0.5,0.5,0.25,0.5,0.5,0.5,0.5,0.28,0.22,0.5,0.5,0.33,0.5,0.45,0.22,0.25,0.5,0.5,0.5,0.45,0.25,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.25,0.28,0.5,0.5,0.5" style="fill:rgb(0,0,0);font-family:Helvetica-Condensed;font-size:8.0px;stroke:none;">doi:10.1371/journal.pone.0164657.t001</text>
+  </g>
+  <path style="fill:rgb(0,0,0);stroke:none;stroke-width:1.0;" d="M576.000 54.900 L36.000 54.900 L36.000 54.400 L576.000 54.400 "/>
+  <rect style="stroke:blue;stroke-width:0.3;" x="36.0" y="35.043" height="23.64" width="107.093" title="8"/>
+  <text y="35.043" class="image" id="image.8.1" width="107" height="23" x="36.0">image.8.1.36_143.35_59</text>
+  <g begin="text">
+   <text y="46.205" x="429.619,434.531,438.947,443.363,446.027,447.771,451.771,456.186,458.434,460.178,464.485,468.885,470.664,475.08,477.32,479.054,481.718,487.462,491.878,494.126,500.79,505.206" svgx:width="0.61,0.55,0.55,0.33,0.22,0.5,0.55,0.28,0.22,0.55,0.55,0.55,0.55,0.28,0.55,0.33,0.72,0.55,0.28,0.83,0.55,0.33" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">Fabrication of (Co,Mn)</text>
+  </g>
+  <g begin="text">
+   <text y="47.509" x="507.798" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">3</text>
+  </g>
+  <g begin="text">
+   <text y="46.205" x="511.143" svgx:width="0.78" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">O</text>
+  </g>
+  <g begin="text">
+   <text y="47.509" x="517.323" svgx:width="0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:5.33px;stroke:none;">4</text>
+  </g>
+  <g begin="text">
+   <text y="46.205" x="520.668,522.916,525.58,531.828,539.773,543.773,548.189,554.853,559.269,563.685,567.685,569.429,571.677" svgx:width="0.28,0.33,0.78,0.78,0.5,0.55,0.83,0.55,0.55,0.5,0.22,0.28,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">/rGOcomposite</text>
+  </g>
+  <path style="fill:rgb(0,0,0);stroke:none;stroke-width:1.0;" d="M36.000 744.000 L576.000 744.000 L576.000 744.500 L36.000 744.500 "/>
+  <g begin="text">
+   <text y="756.0" x="36.0,41.328,45.744,51.992,57.352,59.017,65.264,71.008,76.368,78.066,80.146,81.921,87.665,93.913,96.161,98.409,102.825,107.241,109.489,113.782,118.198,122.614,127.03,129.278,131.022,135.438,139.854,142.518,146.834,151.25,152.994,155.242,159.658,164.074,168.49,172.906,175.153,179.569,183.985,188.401,192.698,197.114,201.53,205.93,213.901,220.149,224.149,226.397,230.813,235.229,239.645,242.285,244.005,248.421,252.837,255.077,256.817,261.233,265.649,270.065,274.465,557.005,561.405,563.185" svgx:width="0.67,0.55,0.78,0.67,0.55,0.78,0.72,0.67,0.55,0.26,0.55,0.72,0.78,0.28,0.28,0.55,0.55,0.28,0.55,0.55,0.55,0.55,0.28,0.22,0.55,0.55,0.33,0.55,0.55,0.22,0.28,0.55,0.55,0.55,0.55,0.28,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.78,0.5,0.28,0.55,0.55,0.55,0.33,0.55,0.55,0.55,0.28,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.28" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">PLOS ONE | DOI:10.1371/journal.pone.0164657 October 27, 2016 8 /</text>
+  </g>
+  <g begin="text">
+   <text y="756.0" x="567.209,571.625" svgx:width="0.55,0.55" style="fill:rgb(0,0,0);font-family:Helvetica;font-size:8.0px;stroke:none;">11</text>
+  </g>
+ </g>
+</svg>
