@@ -12,9 +12,13 @@ https://github.com/petermr/openVirus/blob/master/INSTALLING.md
 This gives an executable in <your dir>/ami3/target/appassembler and you should set your PATH to include <your dir>/ami3/target/appassembler/bin
 ```
 
-3. Test ami is working, and git pull and rebuild with maven if necessary for latest version.
+3. Test ami is working, and git pull and rebuild with maven if necessary for latest version (from inside the main ami3 directory).
 ```
 ami --help
+
+git pull
+
+mvn install -Dmaven.test.skip=true
 ```
 
 4. Create subdirectory with downloaded PDF files, for example, called batterypapers, and the make a new project.
