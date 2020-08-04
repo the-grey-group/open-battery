@@ -59,3 +59,8 @@ Manually pointing to where tesseract is installed, in this case:
 ```
 ami -p <targetDir> --inputname raw -v pdfbox filter -sdm image --posterize 4 ocr --html true --tesseract=/opt/local/bin/tesserlefactor 2.0
 ```
+
+11. Using ami section to extract table and figure information:
+```
+ami -p liion -v --forcemake section --extract tab fig --summary fig tab
+```
