@@ -18,7 +18,7 @@ ami --help
 
 git pull
 
-mvn install -Dmaven.test.skip=true
+mvn clean install -Dmaven.test.skip=true 
 ```
 
 4. Create subdirectory with downloaded PDF files, for example, called batterypapers, and the make a new project.
