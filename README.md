@@ -64,3 +64,8 @@ ami -p <targetDir> --inputname raw -v pdfbox filter -sdm image --posterize 4 ocr
 ```
 ami -p liion -v --forcemake section --extract tab fig --summary fig tab
 ```
+
+12. Make summary files of various parts of paper in xml"
+```
+ami -vvv -p . --output sections/body/methods summary  --glob **/PMC*/sections/*_body/*_methods/**/*_p.xml --flatten
+```
